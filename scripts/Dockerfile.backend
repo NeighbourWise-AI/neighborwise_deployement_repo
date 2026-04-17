@@ -1,0 +1,34 @@
+﻿FROM python:3.11-slim
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc g++ curl \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY requirements.backend.txt ./requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY neighbourwise_fastapi.py      ./
+COPY overview_endpoints.py         ./
+COPY router_agent.py               ./
+COPY web_search_agent.py           ./
+COPY Graph_agent.py                ./
+COPY graphic_agent.py              ./
+COPY report_agent.py               ./
+COPY neighbourwise_rag.py          ./
+COPY neighbourwise_guardrails.py   ./
+COPY LLM_cost_tracker.py           ./
+COPY universal_validator.py        ./
+COPY shared/                       ./shared/
+
+RUN mkdir -p /app/reports
+
+EXPOSE 8001
+
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+  CMD curl -f http://localhost:8001/health || exit 1
+
+CMD ["uvicorn", "neighbourwise_fastapi:app", \
+     "--host", "0.0.0.0", "--port", "8001", \
+     "--workers", "2", "--log-level", "info"]
