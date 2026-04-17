@@ -9,7 +9,8 @@ WORKDIR /app
 COPY requirements.backend.txt ./requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY neighbourwise_fastapi.py      ./
+# ── Exact filenames from scripts/ ─────────────────────────────────────────────
+COPY neighborwise_fastapi.py       ./
 COPY overview_endpoints.py         ./
 COPY router_agent.py               ./
 COPY web_search_agent.py           ./
@@ -20,8 +21,12 @@ COPY neighbourwise_rag.py          ./
 COPY neighbourwise_guardrails.py   ./
 COPY LLM_cost_tracker.py           ./
 COPY universal_validator.py        ./
+COPY cortex_agent.py               ./
+
+# shared/ sub-package (Snowflake helpers)
 COPY shared/                       ./shared/
 
+# Reports output directory
 RUN mkdir -p /app/reports
 
 EXPOSE 8001
@@ -29,6 +34,6 @@ EXPOSE 8001
 HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
   CMD curl -f http://localhost:8001/health || exit 1
 
-CMD ["uvicorn", "neighbourwise_fastapi:app", \
+CMD ["uvicorn", "neighborwise_fastapi:app", \
      "--host", "0.0.0.0", "--port", "8001", \
      "--workers", "2", "--log-level", "info"]
