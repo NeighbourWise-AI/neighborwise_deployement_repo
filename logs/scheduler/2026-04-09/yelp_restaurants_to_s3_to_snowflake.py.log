@@ -1,0 +1,1092 @@
+[2026-04-09T22:40:19.419+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:40:19.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:40:19.421+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:40:19.421+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:40:19.678+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:40:19.691+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:40:19.690+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:40:19.698+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:40:19.698+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:40:19.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.286 seconds
+[2026-04-09T22:40:42.677+0000] {processor.py:161} INFO - Started process (PID=80) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:40:42.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:40:42.684+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:40:42.683+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:40:43.108+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:40:43.170+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:40:43.170+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:40:43.188+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:40:43.188+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:40:43.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.533 seconds
+[2026-04-09T22:41:13.507+0000] {processor.py:161} INFO - Started process (PID=186) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:41:13.509+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:41:13.513+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:41:13.512+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:41:13.979+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:41:13.994+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:41:13.994+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:41:14.009+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:41:14.008+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:41:14.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.521 seconds
+[2026-04-09T22:41:44.136+0000] {processor.py:161} INFO - Started process (PID=266) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:41:44.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:41:44.138+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:41:44.138+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:41:44.410+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:41:44.421+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:41:44.420+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:41:44.434+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:41:44.434+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:41:44.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.314 seconds
+[2026-04-09T22:42:15.000+0000] {processor.py:161} INFO - Started process (PID=345) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:42:15.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:42:15.004+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:42:15.004+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:42:15.179+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:42:15.188+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:42:15.188+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:42:15.198+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:42:15.198+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:42:15.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.210 seconds
+[2026-04-09T22:42:45.510+0000] {processor.py:161} INFO - Started process (PID=426) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:42:45.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:42:45.511+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:42:45.511+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:42:45.670+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:42:45.677+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:42:45.677+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:42:45.684+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:42:45.684+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:42:45.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.181 seconds
+[2026-04-09T22:43:16.850+0000] {processor.py:161} INFO - Started process (PID=506) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:43:16.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:43:16.851+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:43:16.851+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:43:17.026+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:43:17.040+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:43:17.040+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:43:17.049+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:43:17.049+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:43:17.057+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.209 seconds
+[2026-04-09T22:43:47.381+0000] {processor.py:161} INFO - Started process (PID=586) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:43:47.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:43:47.382+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:43:47.382+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:43:47.558+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:43:47.566+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:43:47.566+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:43:47.574+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:43:47.574+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:43:47.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.202 seconds
+[2026-04-09T22:44:18.103+0000] {processor.py:161} INFO - Started process (PID=665) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:44:18.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:44:18.104+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:44:18.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:44:18.268+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:44:18.276+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:44:18.275+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:44:18.283+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:44:18.283+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:44:18.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.188 seconds
+[2026-04-09T22:44:49.400+0000] {processor.py:161} INFO - Started process (PID=745) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:44:49.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:44:49.402+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:44:49.401+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:44:49.582+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:44:49.592+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:44:49.592+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:44:49.702+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:44:49.702+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:44:49.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.309 seconds
+[2026-04-09T22:45:20.119+0000] {processor.py:161} INFO - Started process (PID=825) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:45:20.120+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:45:20.121+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:45:20.121+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:45:20.388+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:45:20.396+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:45:20.395+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:45:20.408+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:45:20.408+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:45:20.416+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.299 seconds
+[2026-04-09T22:45:50.958+0000] {processor.py:161} INFO - Started process (PID=905) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:45:50.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:45:50.960+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:45:50.959+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:45:51.216+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:45:51.226+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:45:51.226+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:45:51.235+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:45:51.235+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:45:51.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.288 seconds
+[2026-04-09T22:46:21.274+0000] {processor.py:161} INFO - Started process (PID=984) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:46:21.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:46:21.276+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:46:21.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:46:21.525+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:46:21.531+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:46:21.531+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:46:21.539+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:46:21.539+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:46:21.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.279 seconds
+[2026-04-09T22:46:51.798+0000] {processor.py:161} INFO - Started process (PID=1064) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:46:51.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:46:51.800+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:46:51.800+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:46:52.034+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:46:52.041+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:46:52.041+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:46:52.049+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:46:52.048+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:46:52.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.258 seconds
+[2026-04-09T22:47:22.366+0000] {processor.py:161} INFO - Started process (PID=1144) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:47:22.367+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:47:22.369+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:47:22.369+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:47:22.606+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:47:22.612+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:47:22.612+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:47:22.619+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:47:22.619+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:47:22.625+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.260 seconds
+[2026-04-09T22:47:52.922+0000] {processor.py:161} INFO - Started process (PID=1223) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:47:52.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:47:52.923+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:47:52.923+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:47:53.140+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:47:53.147+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:47:53.146+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:47:53.154+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:47:53.154+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:47:53.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.239 seconds
+[2026-04-09T22:48:24.033+0000] {processor.py:161} INFO - Started process (PID=1305) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:48:24.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:48:24.034+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:48:24.034+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:48:24.213+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:48:24.224+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:48:24.224+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:48:24.237+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:48:24.237+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:48:24.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.217 seconds
+[2026-04-09T22:48:54.874+0000] {processor.py:161} INFO - Started process (PID=1384) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:48:54.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:48:54.876+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:48:54.875+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:48:55.044+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:48:55.051+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:48:55.051+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:48:55.059+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:48:55.059+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:48:55.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.193 seconds
+[2026-04-09T22:49:26.066+0000] {processor.py:161} INFO - Started process (PID=1465) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:49:26.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:49:26.067+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:49:26.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:49:26.244+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:49:26.256+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:49:26.256+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:49:26.272+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:49:26.272+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:49:26.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.217 seconds
+[2026-04-09T22:49:56.766+0000] {processor.py:161} INFO - Started process (PID=1544) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:49:56.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:49:56.769+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:49:56.769+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:49:56.933+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:49:56.940+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:49:56.940+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:49:56.948+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:49:56.948+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:49:56.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.194 seconds
+[2026-04-09T22:50:27.779+0000] {processor.py:161} INFO - Started process (PID=1625) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:50:27.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:50:27.780+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:50:27.780+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:50:27.952+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:50:27.961+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:50:27.959+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:50:27.971+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:50:27.971+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:50:27.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.204 seconds
+[2026-04-09T22:50:58.517+0000] {processor.py:161} INFO - Started process (PID=1704) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:50:58.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:50:58.521+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:50:58.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:50:58.702+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:50:58.714+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:50:58.714+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:50:58.854+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:50:58.853+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:50:58.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.360 seconds
+[2026-04-09T22:51:29.197+0000] {processor.py:161} INFO - Started process (PID=1784) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:51:29.199+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:51:29.201+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:51:29.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:51:29.446+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:51:29.453+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:51:29.453+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:51:29.461+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:51:29.461+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:51:29.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.273 seconds
+[2026-04-09T22:51:59.889+0000] {processor.py:161} INFO - Started process (PID=1863) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:51:59.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:51:59.895+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:51:59.895+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:52:00.161+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:52:00.168+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:52:00.168+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:52:00.175+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:52:00.175+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:52:00.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.295 seconds
+[2026-04-09T22:52:30.317+0000] {processor.py:161} INFO - Started process (PID=1943) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:52:30.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:52:30.320+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:52:30.320+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:52:30.871+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:52:30.883+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:52:30.883+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:52:30.895+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:52:30.895+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:52:30.905+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.594 seconds
+[2026-04-09T22:53:01.454+0000] {processor.py:161} INFO - Started process (PID=2023) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:53:01.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:53:01.458+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:53:01.458+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:53:01.699+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:53:01.711+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:53:01.711+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:53:01.723+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:53:01.722+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:53:01.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.283 seconds
+[2026-04-09T22:53:31.837+0000] {processor.py:161} INFO - Started process (PID=2103) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:53:31.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:53:31.841+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:53:31.840+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:53:32.080+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:53:32.086+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:53:32.086+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:53:32.094+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:53:32.094+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:53:32.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.264 seconds
+[2026-04-09T22:54:02.709+0000] {processor.py:161} INFO - Started process (PID=2183) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:54:02.709+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:54:02.710+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:54:02.710+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:54:02.962+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:54:02.969+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:54:02.969+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:54:02.977+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:54:02.977+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:54:02.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-09T22:54:33.315+0000] {processor.py:161} INFO - Started process (PID=2263) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:54:33.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:54:33.318+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:54:33.318+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:54:33.545+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:54:33.552+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:54:33.551+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:54:33.559+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:54:33.559+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:54:33.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.251 seconds
+[2026-04-09T22:55:03.790+0000] {processor.py:161} INFO - Started process (PID=2343) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:55:03.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:55:03.791+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:55:03.791+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:55:04.022+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:55:04.029+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:55:04.028+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:55:04.035+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:55:04.035+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:55:04.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.253 seconds
+[2026-04-09T22:55:34.894+0000] {processor.py:161} INFO - Started process (PID=2423) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:55:34.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:55:34.896+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:55:34.896+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:55:35.156+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:55:35.164+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:55:35.164+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:55:35.172+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:55:35.172+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:55:35.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.286 seconds
+[2026-04-09T22:56:05.787+0000] {processor.py:161} INFO - Started process (PID=2503) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:56:05.788+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:56:05.791+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:56:05.791+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:56:05.967+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:56:05.975+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:56:05.974+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:56:05.983+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:56:05.983+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:56:05.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.203 seconds
+[2026-04-09T22:56:36.366+0000] {processor.py:161} INFO - Started process (PID=2584) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:56:36.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:56:36.369+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:56:36.368+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:56:36.578+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:56:36.589+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:56:36.589+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:56:36.600+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:56:36.600+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:56:36.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.246 seconds
+[2026-04-09T22:57:07.403+0000] {processor.py:161} INFO - Started process (PID=2664) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:57:07.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:57:07.404+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:57:07.404+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:57:07.572+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:57:07.583+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:57:07.583+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:57:07.591+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:57:07.591+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:57:07.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.196 seconds
+[2026-04-09T22:57:38.406+0000] {processor.py:161} INFO - Started process (PID=2744) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:57:38.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:57:38.407+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:57:38.407+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:57:38.586+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:57:38.597+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:57:38.597+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:57:38.606+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:57:38.606+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:57:38.611+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.207 seconds
+[2026-04-09T22:58:09.419+0000] {processor.py:161} INFO - Started process (PID=2824) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:58:09.419+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:58:09.420+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:58:09.420+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:58:09.611+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:58:09.625+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:58:09.625+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:58:09.633+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:58:09.633+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:58:09.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.222 seconds
+[2026-04-09T22:58:40.879+0000] {processor.py:161} INFO - Started process (PID=2904) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:58:40.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:58:40.880+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:58:40.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:58:41.055+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:58:41.065+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:58:41.065+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:58:41.074+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:58:41.074+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:58:41.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.207 seconds
+[2026-04-09T22:59:11.854+0000] {processor.py:161} INFO - Started process (PID=2984) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:59:11.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:59:11.856+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:59:11.855+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:59:12.112+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:59:12.120+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:59:12.120+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:59:12.127+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:59:12.127+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:59:12.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.280 seconds
+[2026-04-09T22:59:43.165+0000] {processor.py:161} INFO - Started process (PID=3068) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:59:43.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T22:59:43.167+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:59:43.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:59:43.408+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T22:59:43.414+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:59:43.414+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T22:59:43.421+0000] {logging_mixin.py:188} INFO - [2026-04-09T22:59:43.421+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T22:59:43.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.270 seconds
+[2026-04-09T23:00:13.845+0000] {processor.py:161} INFO - Started process (PID=3148) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:00:13.846+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:00:13.849+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:00:13.849+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:00:14.099+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:00:14.107+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:00:14.106+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:00:14.114+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:00:14.114+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:00:14.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.277 seconds
+[2026-04-09T23:00:44.485+0000] {processor.py:161} INFO - Started process (PID=3228) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:00:44.486+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:00:44.487+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:00:44.487+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:00:44.731+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:00:44.741+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:00:44.740+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:00:44.748+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:00:44.748+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:00:44.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.270 seconds
+[2026-04-09T23:01:15.006+0000] {processor.py:161} INFO - Started process (PID=3308) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:01:15.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:01:15.009+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:01:15.009+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:01:15.249+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:01:15.259+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:01:15.259+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:01:15.271+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:01:15.271+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:01:15.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.279 seconds
+[2026-04-09T23:01:46.085+0000] {processor.py:161} INFO - Started process (PID=3388) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:01:46.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:01:46.087+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:01:46.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:01:46.328+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:01:46.338+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:01:46.337+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:01:46.345+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:01:46.344+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:01:46.350+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.267 seconds
+[2026-04-09T23:02:16.878+0000] {processor.py:161} INFO - Started process (PID=3468) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:02:16.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:02:16.880+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:02:16.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:02:17.126+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:02:17.132+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:02:17.132+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:02:17.139+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:02:17.139+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:02:17.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.268 seconds
+[2026-04-09T23:02:47.396+0000] {processor.py:161} INFO - Started process (PID=3548) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:02:47.397+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:02:47.399+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:02:47.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:02:47.639+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:02:47.645+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:02:47.645+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:02:47.652+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:02:47.652+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:02:47.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.263 seconds
+[2026-04-09T23:03:17.829+0000] {processor.py:161} INFO - Started process (PID=3628) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:03:17.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:03:17.832+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:03:17.832+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:03:18.069+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:03:18.082+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:03:18.082+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:03:18.089+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:03:18.089+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:03:18.095+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.268 seconds
+[2026-04-09T23:03:48.460+0000] {processor.py:161} INFO - Started process (PID=3709) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:03:48.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:03:48.462+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:03:48.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:03:48.649+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:03:48.661+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:03:48.661+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:03:48.669+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:03:48.669+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:03:48.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.216 seconds
+[2026-04-09T23:04:19.492+0000] {processor.py:161} INFO - Started process (PID=3789) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:04:19.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:04:19.493+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:04:19.493+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:04:19.691+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:04:19.704+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:04:19.704+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:04:19.714+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:04:19.714+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:04:19.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.232 seconds
+[2026-04-09T23:04:50.917+0000] {processor.py:161} INFO - Started process (PID=3869) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:04:50.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:04:50.919+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:04:50.918+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:04:51.093+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:04:51.104+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:04:51.104+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:04:51.113+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:04:51.113+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:04:51.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.207 seconds
+[2026-04-09T23:05:21.695+0000] {processor.py:161} INFO - Started process (PID=3948) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:05:21.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:05:21.697+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:05:21.697+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:05:21.858+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:05:21.866+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:05:21.866+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:05:21.873+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:05:21.873+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:05:21.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.187 seconds
+[2026-04-09T23:05:52.422+0000] {processor.py:161} INFO - Started process (PID=4028) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:05:52.424+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:05:52.424+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:05:52.424+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:05:52.594+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:05:52.602+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:05:52.602+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:05:52.610+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:05:52.610+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:05:52.709+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.289 seconds
+[2026-04-09T23:06:23.446+0000] {processor.py:161} INFO - Started process (PID=4109) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:06:23.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:06:23.447+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:06:23.447+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:06:23.628+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:06:23.639+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:06:23.639+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:06:23.647+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:06:23.647+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:06:23.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.209 seconds
+[2026-04-09T23:06:54.525+0000] {processor.py:161} INFO - Started process (PID=4189) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:06:54.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:06:54.526+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:06:54.526+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:06:54.775+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:06:54.785+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:06:54.785+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:06:54.793+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:06:54.793+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:06:54.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-09T23:07:25.260+0000] {processor.py:161} INFO - Started process (PID=4269) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:07:25.262+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:07:25.263+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:07:25.263+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:07:25.515+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:07:25.526+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:07:25.526+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:07:25.538+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:07:25.538+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:07:25.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.290 seconds
+[2026-04-09T23:07:56.013+0000] {processor.py:161} INFO - Started process (PID=4349) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:07:56.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:07:56.014+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:07:56.014+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:07:56.282+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:07:56.295+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:07:56.295+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:07:56.303+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:07:56.303+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:07:56.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.298 seconds
+[2026-04-09T23:08:26.620+0000] {processor.py:161} INFO - Started process (PID=4429) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:08:26.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:08:26.622+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:08:26.622+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:08:26.903+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:08:26.912+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:08:26.912+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:08:26.921+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:08:26.921+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:08:26.929+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.310 seconds
+[2026-04-09T23:08:57.280+0000] {processor.py:161} INFO - Started process (PID=4509) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:08:57.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:08:57.282+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:08:57.282+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:08:57.524+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:08:57.532+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:08:57.532+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:08:57.542+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:08:57.542+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:08:57.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.273 seconds
+[2026-04-09T23:09:27.641+0000] {processor.py:161} INFO - Started process (PID=4588) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:09:27.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:09:27.643+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:09:27.643+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:09:27.891+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:09:27.902+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:09:27.901+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:09:27.909+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:09:27.909+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:09:27.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-09T23:09:58.029+0000] {processor.py:161} INFO - Started process (PID=4668) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:09:58.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:09:58.030+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:09:58.030+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:09:58.271+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:09:58.277+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:09:58.277+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:09:58.285+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:09:58.285+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:09:58.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.263 seconds
+[2026-04-09T23:10:28.684+0000] {processor.py:161} INFO - Started process (PID=4749) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:10:28.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:10:28.685+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:10:28.685+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:10:28.867+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:10:28.879+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:10:28.879+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:10:28.888+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:10:28.888+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:10:28.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.213 seconds
+[2026-04-09T23:10:59.705+0000] {processor.py:161} INFO - Started process (PID=4828) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:10:59.706+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:10:59.708+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:10:59.708+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:10:59.913+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:10:59.923+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:10:59.922+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:10:59.931+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:10:59.931+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:10:59.942+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.239 seconds
+[2026-04-09T23:11:30.908+0000] {processor.py:161} INFO - Started process (PID=4908) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:11:30.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:11:30.911+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:11:30.911+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:11:31.102+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:11:31.113+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:11:31.113+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:11:31.122+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:11:31.122+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:11:31.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.228 seconds
+[2026-04-09T23:12:02.003+0000] {processor.py:161} INFO - Started process (PID=4989) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:12:02.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:12:02.005+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:12:02.005+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:12:02.204+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:12:02.213+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:12:02.213+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:12:02.222+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:12:02.222+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:12:02.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.227 seconds
+[2026-04-09T23:12:32.952+0000] {processor.py:161} INFO - Started process (PID=5069) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:12:32.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:12:32.955+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:12:32.954+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:12:33.125+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:12:33.133+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:12:33.132+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:12:33.140+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:12:33.140+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:12:33.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.196 seconds
+[2026-04-09T23:13:04.045+0000] {processor.py:161} INFO - Started process (PID=5149) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:13:04.045+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:13:04.046+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:13:04.046+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:13:04.223+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:13:04.230+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:13:04.230+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:13:04.326+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:13:04.326+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:13:04.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.289 seconds
+[2026-04-09T23:13:35.676+0000] {processor.py:161} INFO - Started process (PID=5229) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:13:35.676+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:13:35.677+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:13:35.677+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:13:35.937+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:13:35.948+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:13:35.948+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:13:35.958+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:13:35.958+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:13:35.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.298 seconds
+[2026-04-09T23:14:06.059+0000] {processor.py:161} INFO - Started process (PID=5309) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:14:06.059+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:14:06.060+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:14:06.060+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:14:06.316+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:14:06.330+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:14:06.330+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:14:06.337+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:14:06.337+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:14:06.343+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.286 seconds
+[2026-04-09T23:14:36.542+0000] {processor.py:161} INFO - Started process (PID=5389) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:14:36.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:14:36.544+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:14:36.543+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:14:36.790+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:14:36.800+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:14:36.800+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:14:36.808+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:14:36.808+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:14:36.814+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.273 seconds
+[2026-04-09T23:15:07.134+0000] {processor.py:161} INFO - Started process (PID=5469) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:15:07.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:15:07.135+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:15:07.135+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:15:07.373+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:15:07.381+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:15:07.381+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:15:07.391+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:15:07.391+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:15:07.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.269 seconds
+[2026-04-09T23:15:37.514+0000] {processor.py:161} INFO - Started process (PID=5549) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:15:37.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:15:37.515+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:15:37.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:15:37.772+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:15:37.783+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:15:37.783+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:15:37.790+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:15:37.790+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:15:37.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.283 seconds
+[2026-04-09T23:16:08.231+0000] {processor.py:161} INFO - Started process (PID=5629) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:16:08.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:16:08.233+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:16:08.232+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:16:08.491+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:16:08.501+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:16:08.501+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:16:08.513+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:16:08.513+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:16:08.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.291 seconds
+[2026-04-09T23:16:38.731+0000] {processor.py:161} INFO - Started process (PID=5708) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:16:38.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:16:38.734+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:16:38.734+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:16:38.960+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:16:38.966+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:16:38.966+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:16:38.973+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:16:38.973+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:16:38.978+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.249 seconds
+[2026-04-09T23:17:09.579+0000] {processor.py:161} INFO - Started process (PID=5789) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:17:09.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:17:09.580+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:17:09.580+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:17:09.772+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:17:09.789+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:17:09.789+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:17:09.801+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:17:09.801+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:17:09.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.231 seconds
+[2026-04-09T23:17:40.532+0000] {processor.py:161} INFO - Started process (PID=5869) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:17:40.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:17:40.533+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:17:40.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:17:40.705+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:17:40.715+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:17:40.715+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:17:40.724+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:17:40.724+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:17:40.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.200 seconds
+[2026-04-09T23:18:11.328+0000] {processor.py:161} INFO - Started process (PID=5948) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:18:11.329+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:18:11.331+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:18:11.331+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:18:11.502+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:18:11.510+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:18:11.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:18:11.519+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:18:11.518+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:18:11.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.199 seconds
+[2026-04-09T23:18:42.224+0000] {processor.py:161} INFO - Started process (PID=6028) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:18:42.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:18:42.226+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:18:42.226+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:18:42.395+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:18:42.403+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:18:42.403+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:18:42.411+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:18:42.411+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:18:42.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.194 seconds
+[2026-04-09T23:19:13.145+0000] {processor.py:161} INFO - Started process (PID=6108) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:19:13.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:19:13.151+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:19:13.151+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:19:13.314+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:19:13.322+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:19:13.322+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:19:13.331+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:19:13.331+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:19:13.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.193 seconds
+[2026-04-09T23:19:44.024+0000] {processor.py:161} INFO - Started process (PID=6188) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:19:44.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:19:44.027+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:19:44.027+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:19:44.200+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:19:44.208+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:19:44.208+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:19:44.217+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:19:44.217+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:19:44.225+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.202 seconds
+[2026-04-09T23:20:15.317+0000] {processor.py:161} INFO - Started process (PID=6268) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:20:15.318+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:20:15.321+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:20:15.321+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:20:15.504+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:20:15.591+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:20:15.591+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:20:15.598+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:20:15.598+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:20:15.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.291 seconds
+[2026-04-09T23:20:45.961+0000] {processor.py:161} INFO - Started process (PID=6355) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:20:45.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:20:45.962+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:20:45.961+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:20:46.177+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:20:46.183+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:20:46.183+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:20:46.189+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:20:46.189+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:20:46.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.235 seconds
+[2026-04-09T23:21:16.261+0000] {processor.py:161} INFO - Started process (PID=6435) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:21:16.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:21:16.262+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:21:16.262+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:21:16.490+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:21:16.495+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:21:16.495+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:21:16.502+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:21:16.502+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:21:16.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.248 seconds
+[2026-04-09T23:21:46.782+0000] {processor.py:161} INFO - Started process (PID=6514) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:21:46.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:21:46.785+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:21:46.785+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:21:47.043+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:21:47.054+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:21:47.054+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:21:47.064+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:21:47.064+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:21:47.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.293 seconds
+[2026-04-09T23:22:17.212+0000] {processor.py:161} INFO - Started process (PID=6594) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:22:17.213+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:22:17.214+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:22:17.214+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:22:17.448+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:22:17.454+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:22:17.454+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:22:17.461+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:22:17.461+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:22:17.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.256 seconds
+[2026-04-09T23:22:47.663+0000] {processor.py:161} INFO - Started process (PID=6674) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:22:47.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:22:47.665+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:22:47.665+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:22:47.899+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:22:47.906+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:22:47.905+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:22:47.912+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:22:47.912+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:22:47.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.257 seconds
+[2026-04-09T23:23:18.190+0000] {processor.py:161} INFO - Started process (PID=6753) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:23:18.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:23:18.191+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:23:18.191+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:23:18.411+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:23:18.418+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:23:18.418+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:23:18.425+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:23:18.425+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:23:18.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.241 seconds
+[2026-04-09T23:23:48.986+0000] {processor.py:161} INFO - Started process (PID=6834) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:23:48.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:23:48.988+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:23:48.987+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:23:49.160+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:23:49.172+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:23:49.171+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:23:49.181+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:23:49.181+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:23:49.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.206 seconds
+[2026-04-09T23:24:20.022+0000] {processor.py:161} INFO - Started process (PID=6915) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:24:20.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:24:20.023+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:24:20.023+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:24:20.214+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:24:20.225+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:24:20.225+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:24:20.234+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:24:20.234+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:24:20.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.220 seconds
+[2026-04-09T23:24:51.314+0000] {processor.py:161} INFO - Started process (PID=6995) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:24:51.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:24:51.316+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:24:51.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:24:51.504+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:24:51.514+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:24:51.514+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:24:51.524+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:24:51.523+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:24:51.533+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.220 seconds
+[2026-04-09T23:25:22.139+0000] {processor.py:161} INFO - Started process (PID=7074) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:25:22.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:25:22.141+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:25:22.141+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:25:22.326+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:25:22.336+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:25:22.336+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:25:22.344+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:25:22.344+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:25:22.351+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.216 seconds
+[2026-04-09T23:25:53.026+0000] {processor.py:161} INFO - Started process (PID=7154) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:25:53.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:25:53.032+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:25:53.031+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:25:53.213+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:25:53.226+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:25:53.225+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:25:53.235+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:25:53.235+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:25:53.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.222 seconds
+[2026-04-09T23:26:24.093+0000] {processor.py:161} INFO - Started process (PID=7233) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:26:24.095+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:26:24.100+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:26:24.100+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:26:24.314+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:26:24.324+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:26:24.324+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:26:24.333+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:26:24.333+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:26:24.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.251 seconds
+[2026-04-09T23:26:55.315+0000] {processor.py:161} INFO - Started process (PID=7313) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:26:55.317+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:26:55.319+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:26:55.319+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:26:55.500+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:26:55.507+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:26:55.507+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:26:55.588+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:26:55.588+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:26:55.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.282 seconds
+[2026-04-09T23:27:26.135+0000] {processor.py:161} INFO - Started process (PID=7394) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:27:26.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:27:26.136+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:27:26.136+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:27:26.384+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:27:26.390+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:27:26.389+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:27:26.397+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:27:26.397+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:27:26.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.270 seconds
+[2026-04-09T23:27:57.533+0000] {processor.py:161} INFO - Started process (PID=7474) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:27:57.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:27:57.535+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:27:57.535+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:27:57.829+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:27:57.839+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:27:57.839+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:27:57.850+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:27:57.850+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:27:57.860+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.329 seconds
+[2026-04-09T23:28:28.669+0000] {processor.py:161} INFO - Started process (PID=7554) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:28:28.669+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:28:28.670+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:28:28.670+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:28:28.951+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:28:28.962+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:28:28.961+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:28:28.971+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:28:28.971+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:28:28.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.314 seconds
+[2026-04-09T23:28:59.614+0000] {processor.py:161} INFO - Started process (PID=7633) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:28:59.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:28:59.616+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:28:59.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:28:59.857+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:28:59.863+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:28:59.863+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:28:59.871+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:28:59.870+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:28:59.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.268 seconds
+[2026-04-09T23:29:30.625+0000] {processor.py:161} INFO - Started process (PID=7714) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:29:30.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:29:30.627+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:29:30.627+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:29:30.899+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:29:30.910+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:29:30.909+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:29:30.918+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:29:30.918+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:29:30.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.300 seconds
+[2026-04-09T23:30:01.836+0000] {processor.py:161} INFO - Started process (PID=7793) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:30:01.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:30:01.838+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:30:01.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:30:02.088+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:30:02.097+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:30:02.097+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:30:02.106+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:30:02.105+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:30:02.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.278 seconds
+[2026-04-09T23:30:32.432+0000] {processor.py:161} INFO - Started process (PID=7873) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:30:32.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:30:32.436+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:30:32.436+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:30:32.669+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:30:32.675+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:30:32.675+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:30:32.682+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:30:32.682+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:30:32.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.257 seconds
+[2026-04-09T23:31:03.674+0000] {processor.py:161} INFO - Started process (PID=7954) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:31:03.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:31:03.675+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:31:03.675+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:31:03.886+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:31:03.901+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:31:03.900+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:31:03.912+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:31:03.911+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:31:03.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.250 seconds
+[2026-04-09T23:31:34.604+0000] {processor.py:161} INFO - Started process (PID=8034) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:31:34.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:31:34.606+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:31:34.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:31:34.786+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:31:34.800+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:31:34.800+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:31:34.816+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:31:34.816+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:31:34.828+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.225 seconds
+[2026-04-09T23:32:04.991+0000] {processor.py:161} INFO - Started process (PID=8114) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:32:04.991+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:32:04.992+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:32:04.992+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:32:05.160+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:32:05.168+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:32:05.168+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:32:05.179+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:32:05.179+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:32:05.189+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.199 seconds
+[2026-04-09T23:32:35.803+0000] {processor.py:161} INFO - Started process (PID=8193) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:32:35.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:32:35.805+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:32:35.805+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:32:35.974+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:32:35.982+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:32:35.981+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:32:35.989+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:32:35.989+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:32:35.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.194 seconds
+[2026-04-09T23:33:06.775+0000] {processor.py:161} INFO - Started process (PID=8273) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:33:06.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:33:06.779+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:33:06.777+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:33:06.948+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:33:06.962+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:33:06.962+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:33:06.974+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:33:06.974+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:33:06.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.207 seconds
+[2026-04-09T23:33:38.279+0000] {processor.py:161} INFO - Started process (PID=8354) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:33:38.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:33:38.282+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:33:38.282+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:33:38.584+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:33:38.641+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:33:38.640+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:33:38.660+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:33:38.660+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:33:38.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.415 seconds
+[2026-04-09T23:34:09.809+0000] {processor.py:161} INFO - Started process (PID=8434) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:34:09.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:34:09.818+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:34:09.818+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:34:10.133+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:34:10.177+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:34:10.177+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:34:10.207+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:34:10.207+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:34:10.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.468 seconds
+[2026-04-09T23:34:40.777+0000] {processor.py:161} INFO - Started process (PID=8513) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:34:40.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:34:40.787+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:34:40.786+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:34:41.346+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:34:41.434+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:34:41.434+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:34:41.480+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:34:41.480+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:34:41.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.737 seconds
+[2026-04-09T23:35:12.135+0000] {processor.py:161} INFO - Started process (PID=8594) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:35:12.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:35:12.141+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:35:12.141+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:35:12.524+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:35:12.566+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:35:12.566+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:35:12.583+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:35:12.582+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:35:12.623+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.490 seconds
+[2026-04-09T23:35:42.684+0000] {processor.py:161} INFO - Started process (PID=8674) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:35:42.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:35:42.686+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:35:42.685+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:35:42.920+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:35:42.927+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:35:42.926+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:35:42.934+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:35:42.934+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:35:42.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.257 seconds
+[2026-04-09T23:36:13.766+0000] {processor.py:161} INFO - Started process (PID=8753) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:36:13.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:36:13.767+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:36:13.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:36:14.009+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:36:14.015+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:36:14.014+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:36:14.021+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:36:14.021+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:36:14.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.262 seconds
+[2026-04-09T23:36:44.200+0000] {processor.py:161} INFO - Started process (PID=8832) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:36:44.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:36:44.202+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:36:44.202+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:36:44.575+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:36:44.584+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:36:44.584+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:36:44.600+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:36:44.600+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:36:44.609+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.410 seconds
+[2026-04-09T23:37:15.307+0000] {processor.py:161} INFO - Started process (PID=8913) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:37:15.309+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:37:15.309+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:37:15.309+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:37:15.566+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:37:15.577+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:37:15.577+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:37:15.587+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:37:15.587+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:37:15.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.288 seconds
+[2026-04-09T23:37:45.613+0000] {processor.py:161} INFO - Started process (PID=8993) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:37:45.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:37:45.614+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:37:45.614+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:37:45.847+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:37:45.857+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:37:45.857+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:37:45.866+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:37:45.866+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:37:45.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.262 seconds
+[2026-04-09T23:38:16.431+0000] {processor.py:161} INFO - Started process (PID=9074) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:38:16.432+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:38:16.433+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:38:16.433+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:38:16.681+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:38:16.693+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:38:16.692+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:38:16.700+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:38:16.700+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:38:16.706+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-09T23:38:46.850+0000] {processor.py:161} INFO - Started process (PID=9154) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:38:46.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:38:46.852+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:38:46.852+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:38:47.019+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:38:47.030+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:38:47.030+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:38:47.038+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:38:47.038+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:38:47.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.198 seconds
+[2026-04-09T23:39:17.868+0000] {processor.py:161} INFO - Started process (PID=9233) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:39:17.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:39:17.870+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:39:17.869+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:39:18.035+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:39:18.044+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:39:18.044+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:39:18.055+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:39:18.055+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:39:18.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.198 seconds
+[2026-04-09T23:39:48.837+0000] {processor.py:161} INFO - Started process (PID=9319) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:39:48.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:39:48.839+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:39:48.839+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:39:49.012+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:39:49.022+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:39:49.022+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:39:49.033+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:39:49.033+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:39:49.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.207 seconds
+[2026-04-09T23:40:19.241+0000] {processor.py:161} INFO - Started process (PID=9399) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:40:19.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:40:19.242+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:40:19.242+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:40:19.419+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:40:19.432+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:40:19.432+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:40:19.441+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:40:19.441+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:40:19.450+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.211 seconds
+[2026-04-09T23:40:49.714+0000] {processor.py:161} INFO - Started process (PID=9479) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:40:49.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:40:49.716+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:40:49.716+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:40:49.885+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:40:49.896+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:40:49.896+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:40:49.908+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:40:49.908+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:40:49.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.203 seconds
+[2026-04-09T23:41:20.108+0000] {processor.py:161} INFO - Started process (PID=9559) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:41:20.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:41:20.109+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:41:20.109+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:41:20.286+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:41:20.381+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:41:20.381+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:41:20.388+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:41:20.388+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:41:20.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.286 seconds
+[2026-04-09T23:41:50.477+0000] {processor.py:161} INFO - Started process (PID=9639) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:41:50.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:41:50.479+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:41:50.479+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:41:50.728+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:41:50.735+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:41:50.735+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:41:50.744+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:41:50.744+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:41:50.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.278 seconds
+[2026-04-09T23:42:20.876+0000] {processor.py:161} INFO - Started process (PID=9719) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:42:20.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:42:20.877+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:42:20.877+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:42:21.118+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:42:21.127+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:42:21.127+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:42:21.135+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:42:21.135+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:42:21.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.272 seconds
+[2026-04-09T23:42:51.475+0000] {processor.py:161} INFO - Started process (PID=9799) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:42:51.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:42:51.476+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:42:51.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:42:51.722+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:42:51.730+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:42:51.730+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:42:51.739+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:42:51.739+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:42:51.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.274 seconds
+[2026-04-09T23:43:21.805+0000] {processor.py:161} INFO - Started process (PID=9878) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:43:21.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:43:21.807+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:43:21.807+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:43:22.069+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:43:22.076+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:43:22.076+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:43:22.083+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:43:22.083+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:43:22.092+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.289 seconds
+[2026-04-09T23:43:52.569+0000] {processor.py:161} INFO - Started process (PID=9959) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:43:52.569+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:43:52.570+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:43:52.570+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:43:52.791+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:43:52.797+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:43:52.797+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:43:52.803+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:43:52.803+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:43:52.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.241 seconds
+[2026-04-09T23:44:22.911+0000] {processor.py:161} INFO - Started process (PID=10039) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:44:22.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:44:22.913+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:44:22.913+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:44:23.139+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:44:23.144+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:44:23.144+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:44:23.150+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:44:23.150+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:44:23.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.246 seconds
+[2026-04-09T23:44:53.438+0000] {processor.py:161} INFO - Started process (PID=10120) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:44:53.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:44:53.440+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:44:53.440+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:44:53.693+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:44:53.701+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:44:53.701+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:44:53.710+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:44:53.710+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:44:53.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.286 seconds
+[2026-04-09T23:45:23.964+0000] {processor.py:161} INFO - Started process (PID=10200) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:45:23.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:45:23.966+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:45:23.966+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:45:24.217+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:45:24.226+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:45:24.225+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:45:24.235+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:45:24.235+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:45:24.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.281 seconds
+[2026-04-09T23:45:54.439+0000] {processor.py:161} INFO - Started process (PID=10280) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:45:54.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:45:54.441+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:45:54.441+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:45:54.674+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:45:54.683+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:45:54.683+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:45:54.689+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:45:54.689+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:45:54.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.261 seconds
+[2026-04-09T23:46:25.055+0000] {processor.py:161} INFO - Started process (PID=10360) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:46:25.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:46:25.059+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:46:25.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:46:25.274+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:46:25.292+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:46:25.292+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:46:25.308+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:46:25.308+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:46:25.327+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-09T23:46:55.393+0000] {processor.py:161} INFO - Started process (PID=10440) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:46:55.393+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:46:55.394+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:46:55.394+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:46:55.565+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:46:55.580+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:46:55.580+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:46:55.592+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:46:55.592+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:46:55.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.211 seconds
+[2026-04-09T23:47:26.398+0000] {processor.py:161} INFO - Started process (PID=10519) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:47:26.400+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:47:26.401+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:47:26.401+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:47:26.595+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:47:26.610+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:47:26.610+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:47:26.621+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:47:26.621+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:47:26.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.237 seconds
+[2026-04-09T23:47:56.939+0000] {processor.py:161} INFO - Started process (PID=10599) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:47:56.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:47:56.942+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:47:56.942+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:47:57.208+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:47:57.220+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:47:57.220+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:47:57.231+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:47:57.231+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:47:57.237+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.301 seconds
+[2026-04-09T23:48:27.960+0000] {processor.py:161} INFO - Started process (PID=10679) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:48:27.962+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:48:27.964+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:48:27.964+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:48:28.149+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:48:28.163+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:48:28.163+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:48:28.174+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:48:28.174+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:48:28.182+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.226 seconds
+[2026-04-09T23:48:58.317+0000] {processor.py:161} INFO - Started process (PID=10759) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:48:58.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:48:58.320+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:48:58.320+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:48:58.497+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:48:58.509+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:48:58.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:48:58.522+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:48:58.522+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:48:58.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.218 seconds
+[2026-04-09T23:49:28.604+0000] {processor.py:161} INFO - Started process (PID=10839) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:49:28.604+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:49:28.605+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:49:28.605+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:49:28.773+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:49:28.784+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:49:28.783+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:49:28.879+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:49:28.879+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:49:28.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.293 seconds
+[2026-04-09T23:49:59.304+0000] {processor.py:161} INFO - Started process (PID=10919) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:49:59.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:49:59.306+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:49:59.306+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:49:59.553+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:49:59.562+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:49:59.562+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:49:59.571+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:49:59.570+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:49:59.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.277 seconds
+[2026-04-09T23:50:29.905+0000] {processor.py:161} INFO - Started process (PID=10998) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:50:29.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:50:29.908+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:50:29.908+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:50:30.178+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:50:30.188+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:50:30.187+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:50:30.196+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:50:30.196+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:50:30.202+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.299 seconds
+[2026-04-09T23:51:00.644+0000] {processor.py:161} INFO - Started process (PID=11078) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:51:00.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:51:00.645+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:51:00.645+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:51:00.905+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:51:00.919+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:51:00.918+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:51:00.927+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:51:00.927+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:51:00.935+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.292 seconds
+[2026-04-09T23:51:31.274+0000] {processor.py:161} INFO - Started process (PID=11158) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:51:31.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:51:31.276+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:51:31.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:51:31.548+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:51:31.559+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:51:31.558+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:51:31.567+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:51:31.566+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:51:31.574+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.302 seconds
+[2026-04-09T23:52:02.109+0000] {processor.py:161} INFO - Started process (PID=11239) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:52:02.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:52:02.110+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:52:02.110+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:52:02.323+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:52:02.329+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:52:02.329+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:52:02.336+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:52:02.336+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:52:02.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.234 seconds
+[2026-04-09T23:52:32.452+0000] {processor.py:161} INFO - Started process (PID=11318) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:52:32.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:52:32.454+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:52:32.454+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:52:32.687+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:52:32.696+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:52:32.696+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:52:32.703+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:52:32.703+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:52:32.709+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.258 seconds
+[2026-04-09T23:53:02.856+0000] {processor.py:161} INFO - Started process (PID=11398) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:53:02.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:53:02.860+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:53:02.860+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:53:03.110+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:53:03.116+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:53:03.116+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:53:03.124+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:53:03.124+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:53:03.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.275 seconds
+[2026-04-09T23:53:33.331+0000] {processor.py:161} INFO - Started process (PID=11478) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:53:33.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:53:33.333+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:53:33.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:53:33.578+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:53:33.589+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:53:33.589+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:53:33.596+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:53:33.596+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:53:33.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.272 seconds
+[2026-04-09T23:54:03.865+0000] {processor.py:161} INFO - Started process (PID=11558) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:54:03.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:54:03.867+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:54:03.867+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:54:04.108+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:54:04.114+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:54:04.114+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:54:04.121+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:54:04.121+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:54:04.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.266 seconds
+[2026-04-09T23:54:34.816+0000] {processor.py:161} INFO - Started process (PID=11638) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:54:34.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:54:34.818+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:54:34.818+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:54:34.987+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:54:34.998+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:54:34.998+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:54:35.007+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:54:35.007+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:54:35.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.200 seconds
+[2026-04-09T23:55:05.552+0000] {processor.py:161} INFO - Started process (PID=11718) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:55:05.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:55:05.555+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:55:05.554+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:55:05.721+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:55:05.729+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:55:05.729+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:55:05.737+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:55:05.737+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:55:05.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.197 seconds
+[2026-04-09T23:55:36.296+0000] {processor.py:161} INFO - Started process (PID=11797) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:55:36.298+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:55:36.299+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:55:36.298+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:55:36.473+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:55:36.481+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:55:36.481+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:55:36.489+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:55:36.489+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:55:36.495+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.200 seconds
+[2026-04-09T23:56:07.103+0000] {processor.py:161} INFO - Started process (PID=11877) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:56:07.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:56:07.105+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:56:07.105+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:56:07.273+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:56:07.281+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:56:07.280+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:56:07.289+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:56:07.289+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:56:07.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.195 seconds
+[2026-04-09T23:56:37.874+0000] {processor.py:161} INFO - Started process (PID=11957) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:56:37.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:56:37.876+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:56:37.876+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:56:38.046+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:56:38.054+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:56:38.054+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:56:38.062+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:56:38.062+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:56:38.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.196 seconds
+[2026-04-09T23:57:08.908+0000] {processor.py:161} INFO - Started process (PID=12038) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:57:08.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:57:08.911+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:57:08.911+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:57:09.101+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:57:09.108+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:57:09.108+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:57:09.115+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:57:09.115+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:57:09.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.215 seconds
+[2026-04-09T23:57:39.356+0000] {processor.py:161} INFO - Started process (PID=12118) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:57:39.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:57:39.357+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:57:39.357+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:57:39.527+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:57:39.538+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:57:39.538+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:57:39.628+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:57:39.627+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:57:39.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.287 seconds
+[2026-04-09T23:58:09.777+0000] {processor.py:161} INFO - Started process (PID=12198) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:58:09.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:58:09.780+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:58:09.780+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:58:10.019+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:58:10.030+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:58:10.030+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:58:10.039+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:58:10.039+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:58:10.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-09T23:58:40.194+0000] {processor.py:161} INFO - Started process (PID=12278) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:58:40.196+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:58:40.197+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:58:40.197+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:58:40.447+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:58:40.458+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:58:40.458+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:58:40.465+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:58:40.465+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:58:40.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.279 seconds
+[2026-04-09T23:59:10.761+0000] {processor.py:161} INFO - Started process (PID=12358) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:59:10.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:59:10.763+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:59:10.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:59:10.999+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:59:11.007+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:59:11.007+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:59:11.016+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:59:11.016+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:59:11.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.266 seconds
+[2026-04-09T23:59:41.254+0000] {processor.py:161} INFO - Started process (PID=12438) to work on /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:59:41.255+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py for tasks to queue
+[2026-04-09T23:59:41.256+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:59:41.256+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:59:41.496+0000] {processor.py:840} INFO - DAG(s) 'yelp_restaurants_to_s3_to_snowflake' retrieved from /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py
+[2026-04-09T23:59:41.505+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:59:41.503+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-09T23:59:41.511+0000] {logging_mixin.py:188} INFO - [2026-04-09T23:59:41.511+0000] {dag.py:3823} INFO - Setting next_dagrun for yelp_restaurants_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-04-09T23:59:41.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/yelp_restaurants_to_s3_to_snowflake.py took 0.267 seconds

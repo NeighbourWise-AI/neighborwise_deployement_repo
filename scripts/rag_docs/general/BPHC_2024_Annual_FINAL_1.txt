@@ -1,0 +1,1095 @@
+--- Page 1 ---
+202 4
+ANNUAL REPORT
+Boston Public Health Commission
+January 1, 2024 - December 31, 2024
+
+--- Page 2 ---
+COMMISSIONER
+Dr. Bisola Ojikutu
+Commissioner of Public Health for the City of Boston and Executive Director of the
+Boston Public Health Commission
+BOARD OF HEALTH
+Dr. Sandro Galea
+Chair of the Boston Board of Health; Dean and Robert A. Knox Professor, Boston
+University School of Public Health
+Dr. Alastair Bell
+President and CEO, BMC Health System
+Dr. Elsie Taveras
+Chief Community Health and Health Equity Officer, Mass General Brigham; Executive
+Director, Kraft Center for Community Health at MGH
+Rebecca Gutman
+Vice President, Homecare 1199SEIU United Healthcare Workers East
+Phillomin Laptiste
+Chief People Officer, Community Care Cooperative
+Guale Valdez
+President and CEO, Mattapan Community Health Center
+Gregory Wilmot
+President and CEO, NeighborHealth
+MISSION STATEMENT
+To work in partnership with communities
+to protect and promote the health
+and well-being of all Boston residents,
+especially those impacted by racism and
+systemic inequities.
+
+--- Page 3 ---
+CONTENTS
+1 Letter from the Commissioner
+2 Introduction: Advancing Health Equity and Community
+Well-being in 2024
+5 BUREAUS, PUBLIC HEALTH OFFICES, AND CENTERS
+6 Recovery Services Bureau (RSB)
+8 Child Adolescent and Family Health Bureau (CAFHB)
+10 Infectious Disease Bureau (IDB)
+12 Community Initiatives Bureau (CIB)
+14 Homeless Services Bureau (HSB)
+16 Boston Emergency Medical Services (Boston EMS)
+19 Office of Violence Prevention (OVP)
+20 Office of Public Health Preparedness (OPHP)
+21 Office of Racial Equity and Community Engagement (ORECE)
+22 Center for Behavioral Health and Wellness (CBHW)
+24 Center for Public Health Science and Innovation (PHSI)
+26 Spotlight: Community Health Needs Assessment
+& Improvement Planning
+
+--- Page 4 ---
+LETTER FROM THE COMMISSIONER
+Dear Colleagues and Partners,
+I want to take a moment to reflect on 2024, a year marked by both extraordinary challenges and
+remarkable progress. Working with city departments, community organizations, and institutional
+partners, we advanced our mission to protect and promote the health of all Bostonians—especially
+those most affected by racism and systemic inequities. Guided by the foundational functions of public
+health, we worked to strengthen systems, center equity, and advance community well-being.
+We continued to monitor health trends and investigate pressing issues affecting our neighborhoods,
+using timely, actionable data to guide decisions. We informed and educated residents about the factors
+that shape health and mobilized cross-sector partnerships to create community-driven solutions.
+Recognizing that health is shaped by more than biology, we addressed the social determinants of
+health—like housing, economic stability, and access to care—through collaborative policy and planning.
+We linked individuals to essential services, expanded behavioral health supports, and reinforced
+emergency and recovery systems across the city.
+Our approach in 2024 centered on prevention, inclusion, and empowerment, with a continued focus
+on reducing disparities and supporting those most impacted by systemic inequities. This work is
+made possible by Boston’s dedicated public health workforce—the backbone of a healthy city. Their
+efforts span community engagement, workforce development, disease prevention, health education,
+emergency response, and more. Often working behind the scenes, they bring compassion, expertise,
+and equity to everything they do, ensuring that every resident—regardless of background or
+circumstance—has the opportunity to live a long, healthy, and fulfilling life.
+In 2025, we will have renewed energy and deep appreciation for the work you do every day to make
+Boston a healthier, more equitable city for all. Thank you for your dedication, partnership, and service.
+With appreciation,
+Bisola Ojikutu MD MPH FIDSA
+Commissioner of Public Health, City of Boston
+Executive Director, Boston Public Health Commission
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 1
+
+--- Page 5 ---
+Introduction: Advancing Health Equity and
+Community Well-being in 2024
+highly dependent upon the conditions in the
+communities where we live, work and play. Social
+determinants of health, like economic mobility,
+housing, and transportation, significantly impact
+our overall life expectancy. To address these
+health drivers, our solutions must be community-
+driven; our data must be timely and actionable;
+and our partnerships across public and private
+sectors, communities, hospitals, health centers,
+investors, and advocates must be strengthened.
+Building on our commitment to comprehensive
+well-being, the Commission also recognized
+This past year, the Commission continued our
+the urgent need to support the emotional
+unwavering commitment to the health and
+health of our youngest residents. We prioritized
+well-being of all Boston residents, marked by
+youth mental health, significantly expanding
+significant milestones and impactful initiatives.
+training programs for a diverse mental health
+Our efforts were strategically focused on
+workforce. We also enhanced critical support
+addressing long-standing health disparities,
+systems for Boston Public Schools staff and
+strengthening public health infrastructure, and
+proudly launched “Heads Up Boston,” a citywide
+fostering resilient communities.
+campaign designed to destigmatize mental health
+challenges among youth. This campaign is for all
+A cornerstone of our work in 2024 was the
+Boston youth, but especially youth of color, those
+introduction of Live Long and Well, Boston’s
+who are marginalized, and those that identify as
+first population health equity agenda. This
+initiative aims to ensure every resident has
+the opportunity to live a healthier life. This
+endeavor was bolstered by a catalytic investment
+from the Atrius Health Equity Foundation, in
+collaboration with the Boston Community Health
+Collaborative, which is fueling crucial efforts to
+increase economic mobility in neighborhoods
+that have historically faced low life expectancy.
+By convening partners across sectors we will
+address the three primary causes of premature
+mortality in Boston: drug overdoses, preventable
+cancers and cardiometabolic disease. This
+agenda recognizes that health outcomes are
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 2
+
+--- Page 6 ---
+female or LGBTQ+. BPHC’s Health of Boston
+Mental Health Report shows that more than
+40% of Boston Public School students report
+feeling persistent sadness and hopelessness, but
+the data are even more severe for these groups.
+The campaign has a tag line of “Because our
+mental health matters.” It features videos of
+Boston students talking about their day and the
+importance of giving each other a “heads up.”
+The campaign can be found on social media,
+streaming video and audio platforms, radio
+ads, and bus shelters in Boston. Others are
+encouraged to join the movement to destigmatize
+youth mental health by posting content of their
+own and using #HeadsUpBoston.
+Simultaneously, in our ongoing efforts to address
+Boston’s commitment to its most vulnerable
+the opioid crisis, our team continued to deploy
+residents was further evident as our shelters
+vital harm reduction resources, including
+provided record levels of care and support.
+naloxone and public health vending machines,
+Concurrently, to strengthen emergency services,
+strategically placed throughout the city. Beyond
+Boston EMS bolstered its workforce through
+immediate intervention, we awarded crucial
+impactful initiatives. These included introducing
+funding to community organizations, enabling
+scholarships to diversify its ranks, opening new
+them to connect individuals with much-needed
+ambulance stations and a state-of-the-art training
+treatment, and sustained a full continuum of
+facility, and proudly graduating the first Cadet
+care through dedicated outreach, comprehensive
+Program cohort in more than two decades.
+harm reduction strategies, and robust recovery
+Beyond these critical emergency and support
+programs.
+services, maternal and child health remained
+a critical focus for the Commission. The Boston
+Community Perinatal Health Initiative (COPHI)
+officially launched, successfully connecting
+families with essential doula services during both
+pregnancy and postpartum periods. Additional
+investments were directed towards expanding
+home visiting programs and advancing infant
+mortality research, all with the explicit goal of
+closing persistent disparities in birth outcomes,
+particularly among Black and Latina women.
+A powerful demonstration of community
+empowerment and health equity advancement
+occurred in March with the inaugural
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 3
+
+--- Page 7 ---
+EmpowerHer Black Women’s Health Health Centers and state officials, to maintain
+Conference. More than 200 participants joined service access and promote health equity in the
+this pivotal event, which issued a powerful call to affected community.
+action to eliminate longstanding health inequities
+Looking ahead and laying the groundwork for
+and support holistic wellness among Black
+future health initiatives, 2024 also saw the launch
+women in Boston.
+of the Community Health Needs Assessment
+Reflecting a deeper, city-wide commitment (CHNA) through the Boston Community Health
+to addressing community violence, the newly Collaborative. Insights gathered from this
+established Office of Violence Prevention now comprehensive process will be instrumental
+reports directly to the Executive Office. This in informing the city’s next Community Health
+strategic realignment not only underscores a Improvement Plan (CHIP) in 2025.
+public health approach to violence prevention but
+This report highlights these major
+also allows for expanded strategic capacity in this
+accomplishments, along with the Commission’s
+vital area.
+vital, ongoing work to limit the spread of
+And in response to the challenging Carney respiratory illnesses, prevent sexually transmitted
+Hospital closure in Dorchester, the Commission infections, reduce environmental hazards,
+swiftly activated the Mayor’s Health Line to help create career pathways in STEM and behavioral
+residents find alternative care. Demonstrating health for youth, prevent chronic disease, and
+proactive community engagement, we also formed much more, all contributing to a healthier, more
+a Dorchester-area working group, collaborating equitable Boston.
+with the Massachusetts League of Community
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 4
+
+--- Page 8 ---
+BUREAUS, PUBLIC HEALTH OFFICES,
+AND CENTERS
+The Boston Public Health Commission’s 2024 Annual Report highlights
+major accomplishments across our bureaus, public health offices, and
+centers. From expanding behavioral health workforce programs and
+harm reduction efforts, to leading data innovation and equity-centered
+community engagement, our work reflects our commitment to protecting
+and promoting the health and well-being of all Boston residents. This report
+provides a snapshot of key programs, strategic initiatives and partnerships
+implemented in 2024.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 5
+
+--- Page 9 ---
+Recovery Services Bureau (RSB)
+RSB is committed to eliminating barriers to treatment and ensuring people
+have access to the treatment and resources they need to begin their
+recovery journey. Through outreach, engagement, advocacy, referrals, harm
+reduction, and recovery services, the Recovery Services Bureau helps people
+access the support they need.
+The Commission is at the forefront of the City’s
+response to the substance use crisis, and the
+Recovery Services Bureau operates a continuum
+of care, spanning outreach, harm reduction,
+treatment, youth prevention, and community-
+based programs.
+RSB placed 2,389 individuals into substance
+use treatment programs in 2024 and managed
+a range of harm reduction programs, including
+our syringe exchange efforts. These efforts
+are crucial in reducing needle-sharing and the Staff from the Access, Harm Reduction, Overdose
+spread of infectious diseases, including HIV and Prevention and Education (AHOPE) and Street
+Hepatitis C, and they highlight our commitment Outreach programs focused on meeting people
+to protecting public health. where they are, ensuring individuals have the
+resources they need to stay safe and offering
+Low-threshold shelter and permanent housing
+harm reduction supplies. Our outreach work is
+have been vital to providing safe, stabilizing
+a fundamental part of how we connect with the
+spaces for people who have been chronically
+community and build trust with those we serve.
+unsheltered with substance use disorder. Our
+And to raise awareness about opioid overdoses
+Mattapan Recovery Campus served over 890
+in our community, RSB conducted overdose
+people through our two programs: Entre Familia,
+prevention trainings, teaching participants how to
+reaching pregnant and postpartum women and
+use naloxone and respond to overdoses.
+children, and Transitions residential treatment
+program with 65 beds. In 2024 we strengthened In 2024 RSB worked with the Center for Public
+our partnerships to provide support to low- Health Science and Innovation to publish
+threshold shelters, ensuring that people have the Boston Opioid Settlements Community
+access to the care and support they need on Engagement Report, grounding investments
+their recovery journey. These partners include in the voices of those impacted by the opioid
+Boston Medical Center, Boston Health Care for epidemic. BPHC selected five community
+the Homeless Program, Eliot Community Human organizations to receive grant funding to
+Services, Victory Programs, Pine Street Inn, and distribute naloxone and also an administrator for
+HomeStart. the Family Overdose Support Fund. In July BPHC
+began funding the Newmarket BID Back2Work
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 6
+
+--- Page 10 ---
+program, providing workforce development for
+people in early recovery, and also a medical
+clinic operated by the Boston Health Care for the BY THE NUMBERS
+Homeless Program.
+2,389
+We continued to focus on using data to drive
+decisions and improve our services in 2024. This
+individuals placed into substance use
+includes initiatives like Boston Overdose Data
+treatment programs
+to Action (OD2A), a CDC-funded program that
+expanded RSB’s surveillance capacity through
+a publicly available data dashboard, placed 890
+substance use navigators at three community
+people served by our Mattapan
+health centers, supported clinician training on
+Recovery Campus
+best practices for addiction treatment and pain
+management, and provided overdose response
+training and naloxone distribution. This also 23,441
+includes RSB’s efforts to place naloxone
+naloxone kits distributed at community
+kiosks and public health vending machines in
+events and to community members
+communities that have been hit hardest by the
+overdose epidemic according to city data. By
+collecting and analyzing data, we’ve been able to
+25,715
+pinpoint areas of improvement in our programs,
+make smarter decisions about resource individuals engaged by AHOPE and
+allocation, and better meet the needs of those we Street Outreach staff
+serve.
+PROGRAMS
+210
+• Youth Prevention
+overdose prevention trainings provided,
+• Providing Access to Addictions Treatment,
+reaching more than 3,100 people
+Hope and Support (PAATHS)
+• Street Outreach
+• Safe & Sound Recovery Center
+• Access, Harm Reduction, Overdose Prevention
+and Education (AHOPE)
+• Engagement Center
+• Mattapan Recovery Campus: Entre Familia and
+Transitions
+• Outpatient Treatment Partnership
+• Strategic Partnerships (including Opioid
+Settlement Funds, Community Engagement,
+and Overdose Data to Action)
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 7
+
+--- Page 11 ---
+Child Adolescent and Family Health Bureau
+(CAFHB)
+With 90 staff and 12 programs,
+CAFHB focuses on perinatal, BY THE NUMBERS
+early childhood, and adolescent
+health equity. Through our Child 551
+Adolescent Health Division and
+individuals enrolled into Boston Healthy
+Healthy Start Systems Division,
+Start Initiative case management and care
+we support children, youth,
+coordination services, including 149 pregnant
+and families—especially those
+women, 168 women between pregnancies, and
+impacted by racism—with services,
+234 infants/children
+partnerships, and advocacy. This
+includes clinical and client services,
+case management, health education 110
+and promotion, and organizational
+students, of which 60% of were multilingual
+capacity-building in homes, health
+and 100% were students of color, enrolled in the
+centers, and school-based clinics.
+Boston Area Healthy Education Center
+In 2024 CAFHB launched the Fetal Infant
+Mortality Review (FIMR) program, making 102
+progress in staffing, creating protocols, and
+youth successfully completed the 7-week the
+networking nationally. Highlights include
+Summer Enrichment Program, with an 86%
+hiring a Senior Program Manager, conducting
+a landscape analysis with the Office of Public completion rate
+Health Innovation, and mentoring with
+Kalamazoo, Michigan.
+1,083
+The Boston Healthy Start Initiative collaborated
+families served by Healthy Baby Healthy Child,
+with the Little Cocoa Bean Company and
+of those families 309 had live births and 268
+Fettle and Feast to pilot an 8-week postpartum
+birthing families decided to breastfeed
+meal delivery service for 15 families. The
+program aimed to provide nutritional and
+emotional support to new mothers and families, 171
+addressing a critical gap in postpartum
+doulas trained in culturally responsive care,
+care. The Community-Based Perinatal Health
+in partnership with 11 community organizations
+Initiative received a $3.5 million, 3-year grant to
+through the Community-Based
+enhance doula support and training. In 2024, the
+fully staffed team integrated services with Healthy
+Perinatal Health Initiative
+Start and handled 132 family referrals.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 8
+
+--- Page 12 ---
+DIVISIONS & PROGRAMS
+Child Adolescent Health Division
+• Boston Area Health Education Center (BAHEC)
+• Health Resource Center (HRC)
+• Peer Leadership Institute (PLI)
+• School Based Health Centers (SBHC)
+• Start Strong
+• Youth Development Network (YDN)
+Healthy Start Systems Division
+• Boston Healthy Start Initiative
+• Community-Based Perinatal Health Initiative
+(COPHI)
+• Early Childhood Mental Health (ECMH)
+• Healthy Baby Healthy Child (HBHC)
+• Healthy Start in Housing (HSiH)
+• Father Friendly
+• Fetal Infant Mortality Review (FIMR)
+To support youth, the Boston Area Health
+Education Center (BAHEC) developed a • Welcome Family
+behavioral health career pipeline. In 2024
+they hosted seasonal afterschool programs
+and redesigned their summer enrichment
+program to focus on mental health. The Start
+Strong program, which seeks to give youth the
+tools to create a healthy social environment,
+experienced major growth in its social media
+campaign, reaching millions of young people
+and significantly increasing engagement across
+platforms. Instagram impressions hit 12.3
+million, while TikTok saw over 2 million views
+and 313,000 likes through youth-focused content.
+In Summer 2024, CAFHB’s enrichment program
+provided 100 Boston youth with paid jobs via
+Successlink and hosted activities at UMass
+Boston. Youth participated in individualized and
+collaborative programming, including creative
+electives and field trips. The program also
+awarded scholarships to alumni, supporting their
+post-high school ambitions.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 9
+
+--- Page 13 ---
+Infectious Disease Bureau (IDB)
+From sexually transmitted infections to tuberculosis to new emerging
+diseases, IDB addresses a range of issues related to preventing and treating
+infectious diseases to reduce their impact, prevent morbidity and create
+healthier lives for Boston residents.
+In 2024, IDB prioritized approaches and
+initiatives that aimed to combat stigma and
+discrimination, provide trustworthy and BY THE NUMBERS
+accurate education, and increase access to care
+and supportive services for Boston residents,
+11
+particularly those disproportionately impacted
+by infectious diseases due to racism, xenophobia, trainings across diverse communities on
+transphobia, homophobia, and other systems of various infectious diseases
+oppression.
+5,218
+Education and Outreach staff launched an award-
+winning media campaign, Safe is Sexy, and total clients engaged through the
+the team provided outreach at 40 community
+Ryan White Part A HIV/AIDS program
+events across Boston and ran 11 trainings on
+various infectious disease topics across diverse
+3,600+
+audiences. The team also marched in the City’s
+Pride Parade and led BPHC colleagues in giving Boston residents provided group and
+out 800 bags of educational and sexual wellness
+individual level interventions, 18% were
+materials. IDB had two successful tuberculosis
+unhoused and 70% were from communities
+(TB) screening events and several TB trainings
+of color
+across high-risk settings.
+The Ryan White Planning Council successfully
+538
+completed its first year of Ending the HIV
+Epidemic funding for the Someone You Know new clients enrolled into
+and Love Campaign, including the management the Ryan White Dental program and paid for
+of a successful Massachusetts Bay Transit over 4,135 dental claims
+Authority advertising campaign with over seven
+million impressions across digital liveboards,
+6,100
+subway interior posters, and a mobile network
+of advertisements. The campaign also included visits by registered nurses and doctors
+a film screening and panel discussion at
+to provide care to patients in
+Suffolk University for National Black HIV/AIDS
+tuberculosis clinics
+Awareness Day with over 100 attendees.
+BBOOSSTTOONN P PUUBBLLICIC H HEEAALLTTHH C COOMMMMISISSSIOONN || 22002244 AANNNNUUAALL RREEPPOORRTT || 1100
+
+--- Page 14 ---
+The Ryan White Prevention and Early
+Intervention Services program provided $1.4
+million in funding to 11 agencies within Boston
+for community-based prevention of HIV, Hepatitis
+C and Sexually Transmitted Infections.
+The Ryan White Dental Program experienced
+higher client engagement than in previous years,
+thanks to strengthened partnerships with case
+managers. the program enrolled 16% more clients
+and paid 10% more dental claims than in 2023.
+Finally, IDB’s Communicable Disease Control
+Division supported 61 individuals with TB
+disease in accessing appropriate medical care
+and social supports, conducted case and contact
+investigations associated with hepatitis A,
+pertussis, varicella, and other communicable
+diseases.
+PROGRAMS
+• HIV/STI Prevention
+• Early Intervention Services
+• Communicable Disease Control (CDC)
+• Tuberculosis (TB) Case Management and
+Clinical Support
+• Ending the HIV Epidemic
+• Education and Community Engagement
+• HIV/STI Services, including Ryan White Part A
+Services
+• Ryan White Part A Case Management Training
+Program
+• Ryan White Part A Planning Council Support
+• Ryan White Dental
+BBOOSSTTOONN P PUUBBLLICIC H HEEAALLTTHH C COOMMMMISISSSIOONN || 22002244 AANNNNUUAALL RREEPPOORRTT || 1111
+
+--- Page 15 ---
+Community Initiatives Bureau (CIB)
+The Community Initiatives Bureau implements policies and services that
+prevent illness and promote health, with a focus on the social determinants
+of health. CIB staff work with community members and organizations,
+other city agencies, landlords, academic and health care institutions, small
+businesses, families, and preschool- to college-aged students to make a
+healthier Boston.
+In 2024, the Mayor’s Health Line (MHL)
+advanced its mission to promote health equity
+BY THE NUMBERS
+by strengthening partnerships and expanding
+culturally and linguistically appropriate outreach.
+In response to the Carney Hospital closure, MHL
+1,434
+staff worked closely with stakeholders to help
+applicants enrolled
+affected patients and staff transition to new health
+into Health Connector or MassHealth
+insurance coverage and find new providers.
+coverage, including 630 head of households
+Through the CDC’s Building Our Largest
+who speak a language other than English
+Dementia (BOLD) Infrastructure Public Health
+Program grant, 92 Boston residents living with
+7,018
+dementia and their caregivers were connected
+to free care planning services, and 130 medical free fitness classes hosted
+providers were trained in dementia screening, in partnership with Boston Parks and
+diagnosing, and making treatment referrals for
+Recreation, taking place in Boston parks
+Alzheimer’s and other dementias.
+and online
+The Boston Healthy Child Care Initiative
+developed two new Learning Collaboratives:
+375
+Farm to Early Care and Education (ECE) and
+home visits for inspections
+Nutrition in the First 5 Years. We worked
+and asthma education completed by the
+closely with family childcare educators, parents,
+Asthma Prevention and Control and
+community partners, farmers, universities,
+Breathe Easy at Home Program
+the City’s Office of Early Childhood, and state
+partners on development. The Five-Session Farm
+to ECE collaborative was piloted in June with
+487
+eight educators serving 66 children.
+cases responded to by the Environmental
+The Environmental and Occupational Health and Occupational Health Division about
+Division continues to play an active role in
+potential health hazards in homes,
+supporting environmental public health policy
+businesses, and public spaces
+efforts, particularly in representing public
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 12
+
+--- Page 16 ---
+health in wider city climate change mitigation
+and adaptation/preparation activities. The most
+recent of these is participation in the city’s
+Climate Council and work on the updated Boston
+Climate Action Plan as well as being part of the
+steering committee of Boston’s Cross-Agency
+Climate Resilience Workgroup. The Division
+also made significant progress in 2024 on
+records management and data modernization
+to improve services to the public and boost staff
+performance, converting 30 file cabinets of lead
+case management records into digital files.
+DIVISIONS & PROGRAMS
+• Chronic Disease Division
+• Healthy Homes and Community Support
+Division
+• Environmental and Occupational Health
+Division
+• Mayor’s Health Line
+• South End Fitness Center
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 13
+
+--- Page 17 ---
+Homeless Services Bureau (HSB)
+The Homeless Services Bureau provides emergency shelter services and
+related ancillary support to homeless individuals in Boston. Emergency
+shelter services are at the core of HSB, providing low-barrier shelter access to
+any homeless individual with no restrictions related to substance addiction
+or mental health acuity. The goal of our work is to make homelessness rare,
+brief, and non-recurring.
+Operating two 24/7 emergency shelters, we
+provide dignity, care, and a path forward with
+clean accommodations, hot meals, and essential BY THE NUMBERS
+services. Demand for shelter has increased steadily
+since the COVID-19 pandemic, with 2024 seeing
+nightly shelter census operating at 16% over bed 4,267
+capacity. The urgent demand for these resources
+individuals served
+underscores the importance of our team’s
+across all programs
+innovative approaches to homelessness in Boston.
+To support our guests HSB provides an array
+4,028
+of services including: workforce development
+to help guests learn employment skills and find individuals provided
+employment within the community; food and shelter placement
+nutrition services which provide three meals per
+day and teach basic kitchen skills; triage supports
+159
+to individuals to avoid becoming homeless by
+reconnecting with family/community networks individuals diverted
+and explore alternatives to shelter; and housing from shelter
+services to find permanent housing and provide
+follow-up services to ensure that individuals do
+336
+not return to homelessness.
+individuals placed
+In 2024 HSB successfully concluded its low-
+into permanent housing
+threshold shelter collaboration with the Recovery
+Services Bureau providing temporary, low-
+threshold shelter to 28 individuals previously 299
+residing in the encampment at “Mass and Cass.”
+placements
+At the time of program closure, approximately
+via family reunification
+69% of these guests were successfully placed
+on pathways out of shelter, including 31% to
+permanent housing destinations.
+BBOOSSTTOONN P PUUBBLLICIC H HEEAALLTTHH C COOMMMMISISSSIOONN || 22002244 AANNNNUUAALL RREEPPOORRTT || 1144
+
+--- Page 18 ---
+HSB’s efforts to provide shelter triage and
+diversion services continue to be a fixture since
+successful family and community reunification
+is the most successful housing outcome and
+pathway out of shelter. Additionally, these services
+prevented the homelessness of 159 individuals
+who were successfully diverted from entering
+shelter at all.
+PROGRAMS
+• Emergency Shelter Operations
+• Housing
+• Front Door Triage
+• Behavioral Health
+• Workforce Development/Serving Ourselves
+• Food and Nutrition Services/Quincy Street
+Kitchen
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 15
+
+--- Page 19 ---
+Boston Emergency Medical Services
+(Boston EMS)
+Boston Emergency Medical Services (Boston EMS), the primary emergency
+medical services provider for the city, is a nationally recognized leader in
+the field of pre-hospital emergency medicine. Boston EMS leverages the
+latest advances in both medicine and technology to bring high-quality,
+compassionate care to the people of Boston. Boston EMS plays a key role in the
+City’s emergency preparedness efforts and provides community programming
+designed to educate the public about important health and safety topics.
+Boston EMS is the city’s primary pre-hospital
+emergency care provider, covering 48 square BY THE NUMBERS
+miles and supporting a daytime population of
+1.2 million. Peak operations included 21 Basic
+140,701
+Life Support and five Advanced Life Support
+ambulances deployed from 17 stations. As
+clinical incidents responded to
+the City’s municipal ambulance service, we
+respond to 9-1-1 clinical incidents across all
+166,422
+neighborhoods, 365 days a year.
+ambulance responses
+In 2024 we expanded our ability to serve
+(multiple ambulances responding
+individuals experiencing a behavioral health
+to single incidents)
+emergency by doubling the number of staffed
+squad units from two to four. Each unit is
+comprised of an Emergency Medical Technician 93,774
+(EMT) and a Behavioral Health Clinician. The
+patient transports
+program has also expanded from 4 days a week to
+7 days a week from 8 in the morning to midnight.
+Boston EMS was the first ambulance service in 1,158
+Massachusetts to secure approval from the State
+Alternative Response Model
+Office of EMS to implement Mobile Integrated
+Patient Encounters
+Health (MIH) Emergency Department Avoidance
+programs.
+98
+Our Community Assistance Team, comprised
+of two EMTs in a squad unit providing on scene new uniformed members hired, including
+treatment and referral, are now able to administer Cadets and EMT-Recruits, a 36% increase
+Suboxone and transport individuals directly to compared to 2023
+substance use disorder urgent care programs.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 16
+
+--- Page 20 ---
+Boston EMS deployed an additional 24-hour In March of 2024, the city officially opened
+ambulance to the Dorchester neighborhood the newly renovated Boston EMS Training
+to mitigate the impact of the Carney Hospital Center, which includes the addition of a two-
+closure. This ensured residents received bay ambulance station at 201 Rivermoor Street
+uncompromised access to pre-hospital care. The in West Roxbury. This new, state-of-the-art
+added ambulance allowed us to ensure response educational complex allows Boston EMS to
+times for Dorchester were not impacted. continue to recruit and develop highly trained
+EMTs and Paramedics. The new station also
+enhances emergency medical coverage for
+residents. Boston EMS graduated its first Cadet
+program in nearly two decades, creating a
+pipeline to employment as EMTs.
+PROGRAMS
+• Special Operations and Emergency
+Preparedness
+• Professional Development and Community
+Initiatives
+• Support Services
+• Operations
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 17
+
+--- Page 21 ---
+Public Health Offices and Centers
+Delivering effective public health planning, dependable daily operations,
+and timely responses to emerging challenges requires a dedicated and
+skilled workforce. Boston Public Health Commission staff—across bureaus,
+frontline services, and essential administrative functions such as human
+resources, legal counsel, information technology, operations, finance, and
+public safety—work tirelessly to advance our mission. Throughout the year,
+we undertake special projects and system enhancements to strengthen
+our workforce and enhance our capacity to serve Boston’s residents. From
+advocacy by our policy and intergovernmental relations teams, to increased
+media attention and public health campaigns by our communications team,
+to new funding awards secured by our grants development office, our teams
+were hard at work.
+To foster a diverse, inclusive, and high-performing workforce the Human
+Resources Office led the design and rollout of the Commission’s first-ever
+performance management pilot. This effort established a foundation for
+how we define, discuss, and support performance across the Commission.
+Additionally, the Consortium for Professional Development developed
+the inaugural People Leaders Training Series. Examples of infrastructure
+enhancements include the launching of six real-time dashboards, led by
+Information Technology Services in collaboration with programmatic
+teams. And through our Data Modernization Initiative and the development
+of a cloud-based Data Lake, we have enhanced our ability to manage and
+analyze public health data.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 18
+
+--- Page 22 ---
+Office of Violence Prevention (OVP)
+The Office of Violence Prevention, launched in November 2024, was created
+to strengthen collaboration with the Mayor’s Office to provide a healing
+response when gun violence occurs, work with the most impacted, engage
+residents in prevention, train workers on violence prevention, and address
+gender-based violence.
+For many years, BPHC has directly worked
+with residents aged 17- to 24-years old who are
+most impacted by and involved in community BY THE NUMBERS
+gun violence. New state and city investments
+have allowed us to serve residents of all ages,
+261
+resulting in the creation of our Life Course Health
+Unit. In 2024, we developed a new program, the residents most impacted
+Domestic, Sexual, and Gender-Based Violence
+by or most involved in gun violence served
+Prevention Initiative. This was created based on
+by the Life Course Health Unit
+Boston’s ongoing violence prevention planning
+and community engagement efforts, including
+16 listening sessions and over 300 adult and 284
+youth survey respondents, and planning work
+service providers
+with Family Justice Center Leadership Council.
+trained in trauma-informed
+The new initiative focuses on providing a holistic,
+and equitable approaches
+equity-centered prevention of and response to
+domestic, sexual, and gender-based violence.
+97
+The Violence Intervention and Prevention (VIP)
+Initiative engaged 3,000 residents through youth and young adults
+relationships with 10 partnerships: Mattapan and 166 parents/caregivers trained in
+Teen Center, Project RIGHT, Madison Park
+substance use prevention
+Development Corporation, Teen Empowerment,
+Boston Ministries, Speak Up & Speak Out, We
+Better Together, Transformational Prison Project, 156
+the Suffolk County District Attorney’s Office,
+incidents of community gun violence where
+and BPD Districts C11, B2, B3, and C6. And
+the Community Healing Response Network
+the Capacity Building and Training Initiative,
+in partnership with the Center for Behavioral provided trauma and healing support
+Health and Wellness, launched the City Learning
+Collaborative for seven youth- and family-serving
+programs to deliver trauma-informed and equitable
+services and strengthen workforce well-being.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 19
+
+--- Page 23 ---
+PROGRAMS
+• Domestic, Sexual, and Gender-based Violence
+Prevention Initiative
+• Violence Intervention and Prevention Initiative
+• Community Healing Response Network
+• Life Course Health Unit
+• Capacity Building and Training Initiative
+Office of Public Health Preparedness
+(OPHP)
+The Office of Public Health
+BY THE NUMBERS
+Preparedness works to enhance
+community, public health, and
+healthcare system resilience to 2,842
+prepare for, respond to, and recover
+encounters at medical tents, 131 patient
+from emergencies that impact health
+encounters at 10 hospitals, and 16 admitted
+and access to healthcare.
+patients for the Boston Marathon
+OPHP activated the Medical Intelligence Center
+2,300
+(MIC) in the City of Boston for the 2024 Boston
+Marathon. OPHP provided ongoing situational small space heaters and warming blankets
+awareness in support of public health and
+distributed to 60 community partners in
+healthcare operations and provided technical
+Roxbury, Mattapan, East Boston,
+assistance for Emergency Tracking System (ETS)
+and Dorchester
+operations at hospitals, ensuring mental health,
+behavioral health, and human services resources
+are monitored and deployed appropriately. 345,567
+OPHP led a virtual tabletop exercise with the pieces of personal protective equipment
+Boston Healthcare Preparedness Coalition (HPC) distributed across the city
+to strengthen regional mass casualty incident
+response. Participants reviewed multidisciplinary
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 20
+
+--- Page 24 ---
+response strategies, defined essential information
+for a shared operating picture, assessed mass
+notification systems, pinpointed gaps, and set
+training priorities. The exercise tested Boston’s
+public health and healthcare response capabilities
+while building stronger collaboration among
+HPC members. Fifty-eight professionals from
+community health centers, EMS, hospitals,
+long-term care, state and local public health,
+emergency management, home health, and
+healthcare coalitions actively engaged in the
+session.
+Office of Racial Equity and Community
+Engagement (ORECE)
+The Office of Racial Equity and
+BY THE NUMBERS
+Community Engagement’s purpose
+is to establish and sustain racial and
+health equity as core principles in 10
+the BPHC policies, operations, and
+cultural events were planned and hosted
+decision-making. We do this through
+by the Office of Racial Equity and
+strategic planning, visioning, and
+Community Engagement
+relationship building.
+21
+ORECE launched several key initiatives internally
+and externally over the past year in alignment
+technical assistance training requests
+with our mission to establish and sustain racial
+were received by ORECE from external
+and health equity as core principles in the BPHC
+organizations and Boston City Hall
+policies, operations, and decision-making.
+In partnership with two nonprofit organizations,
+25
+ORECE launched the Generational Health
+Scholarship Program which supports BPHC managers and directors per session
+approximately 70 Black, Indigenous, (and) People received training on understanding their role
+of Color Boston students pursuing careers in in supporting an anti-racist culture
+STEM, public health, behavioral health and the
+at the Commission
+health sciences--helping to advance educational
+equity and cultivate a more inclusive workforce
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 21
+
+--- Page 25 ---
+pipeline. We also started training sessions with
+91 City of Boston staff, focused on educating City
+leaders with tools to address social determinants
+of health through a racial equity lens.
+At BPHC, ORECE hosted its inaugural Women’s
+History Month Breakfast in March, bringing
+together approximately 60 employees to celebrate
+and honor the contributions of women across
+our workforce. Additionally, in collaboration
+with BPHC’s Consortium for Professional
+Development, ORECE contributed to the
+inaugural People Leaders Training Series.
+Center for Behavioral Health and
+Wellness (CBHW)
+The Center for Behavioral Health and Wellness builds a more equitable,
+trauma-informed system in Boston by strengthening the workforce,
+reducing stigma, and supporting communities—ensuring all residents,
+especially youth, have access to culturally responsive behavioral health care.
+CBHW’s priorities are to: recruit, expand, and program launched in the spring, enrolling
+train a diverse, culturally competent, trauma- students to support behavioral health workforce
+informed behavioral health workforce that diversification. Two Boston Public Schools
+reflects Boston’s communities; deliver public were added to the Children’s Wellness Initiative
+communications that promote wellness, address through the expanded Behavioral Health
+stigma, build skills to respond to behavioral Workforce Project in partnership with Franciscan
+health and substance use issues; and confront Children’s Hospital, now reaching eight schools
+historic and ongoing barriers to care—initially and 115 students.
+focusing on youth behavioral health— and
+Youth programming expanded through BPHC-
+strengthen capacity and deliver training
+BPS partnerships. We worked with Flourish
+programs in behavioral health citywide through
+Agenda to pilot Trauma-Informed School System
+collaboration with community partners.
+Transformation at 10 schools using Healing-
+In 2024, CBHW advanced workforce development Centered Engagement to improve school climate.
+to strengthen Boston’s behavioral health capacity. Eight Boston Public Schools actively participated
+The UMass Boston Access to Mental Health in Flourish Agenda’s Trauma-Informed School
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 22
+
+--- Page 26 ---
+BY THE NUMBERS
+11.5 million
+impressions on the “Heads Up” campaign
+across digital and public platforms citywide
+60+
+youth and caregivers reached
+by the Family Van’s youth focused arts and
+wellness communication
+and outreach initiative
+27
+Therapeutic Mentor and
+27 Mental Health Counselor students
+accepted at the University of Massachusetts
+Boston’s Access to Mental Health program
+System Transformation Healing-Centered
+Engagement (HCE) training. The Family Van
+engaged 60+ youth and caregivers in arts and
+wellness culturally resonant workshops, ending
+with public exhibits and panels.
+CBHW launched the “Heads Up Boston”
+campaign with diverse youth to reduce stigma
+and promote peer support, and the CopeCode
+Club, run by the Recovery Services Bureau and
+supported by CBHW, fostered youth leadership
+and early substance use intervention to build a
+more inclusive behavioral health environment
+citywide.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 23
+
+--- Page 27 ---
+Center for Public Health Science and
+Innovation (PHSI)
+The Center for Public Health Science and Innovation uses state-of-the-art
+methodologies in research, surveillance, evaluation, and reporting to inform
+evidence-based decision making across BPHC and to support community
+data needs with an antiracist health equity lens.
+PHSI produced high impact reports and particularly youth of color, helping to catalyze
+publications, including four Health of Boston a $21 million investment in behavioral health
+reports focused on mental health, substance use, services for youth and families across the city. We
+access to care, and community assets. These produced more than 240 analytic reports to
+reports highlighted critical trends across specific support surveillance and operational needs. PHSI
+Boston populations. For example, the inaugural staff also elevated critical health equity themes
+Mental Health Report revealed a sharp rise in land presented at 14 public health conferences
+sadness, hopelessness, and anxiety among youth, and publishing three peer-reviewed publications.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 24
+
+--- Page 28 ---
+Finally, the Center advanced public health science
+through innovative methods and strong cross
+sector data partnerships. For example, it revealed
+BY THE NUMBERS
+disparities in overdose, cancer, and COVID-19
+mortality often hidden within broader racial
+categories by linking census and vital records
+100
+data to produce disaggregated, age adjusted
+mortality rates. These data were foundational biweekly wastewater surveillance
+in informing Live Long and Well, Boston’s first briefs completed
+population health equity agenda. PHSI also
+collaborated with Boston teaching hospitals to
+guide new, community-informed data collection 79
+for the 2025 Boston Community Health Needs
+weekly, monthly, and quarterly reports
+Assessment, uncovering previously unmeasured
+for BPHC bureaus
+concerns about resident health barriers.
+20+
+new data innovation collaborations
+with academic institutions, hospitals, nonprofit
+organizations, and community partners
+1
+new Overdose Data to Action Dashboard developed
+with RSB
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 25
+
+--- Page 29 ---
+Spotlight: Community Health Needs
+Assessment & Improvement Planning
+The Community Health Needs Assessment is conducted by the Boston
+Community Health Collaborative, a partnership of health institutions,
+community organizations, and the Boston Public Health Commission
+to improve the health and well-being of Boston residents by aligning
+community health assessment requirements and improvement planning
+efforts.
+In 2024, in collaboration with the Boston
+Community Health Collaborative (BCHC), our
+office successfully planned and implemented
+BY THE NUMBERS
+a citywide community health survey to better
+understand the top health needs, challenges,
+strengths, and priorities of Boston residents.
+1,900+
+The survey was translated into nine languages.
+Through in-person outreach at over 40 responses were collected
+community events we gathered valuable input
+for the Boston Community
+from residents across the city. These insights
+Health Assessment survey,
+directly informed the 2025 Boston Community
+offered in English and
+Health Needs Assessment Report and will guide
+eight additional languages
+future health planning efforts.
+We also convened cross-sector partners
+through the BCHC Steering Committee and 60+
+three issue-focused work groups. These groups
+health measures
+worked together to strengthen connections,
+were selected to analyze trends
+align strategies, and use data more effectively
+in their efforts to improve community health. in health outcomes, disparities,
+This collaborative structure has helped partners and social determinants
+identify shared priorities, advocate more of Boston residents’ health
+effectively, and advance health equity in Boston.
+Lastly, we leveraged public health data to
+inform the Community Health Assessment and
+improvement planning process. Project staff led determinants of health. These data-driven insights
+the development of a comprehensive indicator are foundational to our efforts to understand
+set—over 60 health measures—used to analyze community needs and develop targeted, impactful
+trends in health outcomes, disparities, and social strategies for improving health in Boston.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 26
+
+--- Page 30 ---
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 27
+
+--- Page 31 ---
+The 2024 Annual Report of the Boston Public
+Health Commission was produced by the Boston
+Public Health Commission’s Executive Office and
+Communications Office.
+All materials in this document are in the public
+domain and may be reproduced and copied
+without permission.
+Recommended citation: The 2024 Annual
+Report of the Boston Public Health Commission
+Boston Public Health Commission
+For inquiries, please contact:
+Boston Public Health Commission
+1010 Massachusetts Avenue
+Boston, MA 02118
+Phone: 617-534-5395
+Email: info@bphc.org
+boston.gov/bphc
+Please consider the environment before printing
+this report.
+BOSTON PUBLIC HEALTH COMMISSION | 2024 ANNUAL REPORT | 28

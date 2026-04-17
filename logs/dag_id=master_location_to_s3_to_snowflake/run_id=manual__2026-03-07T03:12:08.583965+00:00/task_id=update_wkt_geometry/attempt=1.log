@@ -1,0 +1,106 @@
+[2026-03-07T03:12:27.822+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: master_location_to_s3_to_snowflake.update_wkt_geometry manual__2026-03-07T03:12:08.583965+00:00 [queued]>
+[2026-03-07T03:12:27.824+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: master_location_to_s3_to_snowflake.update_wkt_geometry manual__2026-03-07T03:12:08.583965+00:00 [queued]>
+[2026-03-07T03:12:27.824+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-03-07T03:12:27.828+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): update_wkt_geometry> on 2026-03-07 03:12:08.583965+00:00
+[2026-03-07T03:12:27.831+0000] {standard_task_runner.py:60} INFO - Started process 1104 to run task
+[2026-03-07T03:12:27.832+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'master_location_to_s3_to_snowflake', 'update_wkt_geometry', 'manual__2026-03-07T03:12:08.583965+00:00', '--job-id', '318', '--raw', '--subdir', 'DAGS_FOLDER/master_location_to_s3_to_snowflake.py', '--cfg-path', '/tmp/tmpv_92r0t3']
+[2026-03-07T03:12:27.833+0000] {standard_task_runner.py:88} INFO - Job 318: Subtask update_wkt_geometry
+[2026-03-07T03:12:27.849+0000] {task_command.py:423} INFO - Running <TaskInstance: master_location_to_s3_to_snowflake.update_wkt_geometry manual__2026-03-07T03:12:08.583965+00:00 [running]> on host f173573a5167
+[2026-03-07T03:12:27.874+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='master_location_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='update_wkt_geometry' AIRFLOW_CTX_EXECUTION_DATE='2026-03-07T03:12:08.583965+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-07T03:12:08.583965+00:00'
+[2026-03-07T03:12:27.886+0000] {logging_mixin.py:188} INFO - Updating GEOMETRY_WKT for 39 records directly via Snowflake connector
+[2026-03-07T03:12:27.886+0000] {connection.py:370} INFO - Snowflake Connector for Python Version: 3.6.0, Python Version: 3.8.18, Platform: Linux-6.12.67-linuxkit-aarch64-with-glibc2.34
+[2026-03-07T03:12:27.886+0000] {connection.py:1171} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2026-03-07T03:12:27.886+0000] {connection.py:1181} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-03-07T03:12:28.118+0000] {ssl_wrap_socket.py:100} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-03-07T03:12:28.553+0000] {cursor.py:1028} INFO - query: [USE SCHEMA NEIGHBOURWISE_DOMAINS.STAGE]
+[2026-03-07T03:12:29.115+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:29.116+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-03-07T03:12:29.116+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'MULTI...]
+[2026-03-07T03:12:30.167+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:30.169+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:31.097+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:31.099+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:32.231+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:32.233+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:33.443+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:33.444+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:35.228+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:35.230+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:35.909+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:35.910+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:36.482+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:36.483+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:37.367+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:37.367+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:38.183+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:38.183+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:38.733+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:38.734+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:39.359+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:39.361+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:40.110+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:40.119+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'MULTI...]
+[2026-03-07T03:12:40.764+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:40.765+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'MULTI...]
+[2026-03-07T03:12:41.538+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:41.539+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:42.222+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:42.224+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:42.850+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:42.852+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:43.487+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:43.489+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:44.141+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:44.144+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:44.909+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:44.910+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:45.611+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:45.612+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:46.200+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:46.204+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'MULTI...]
+[2026-03-07T03:12:47.042+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:47.045+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:47.891+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:47.894+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:48.582+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:48.583+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:49.405+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:49.408+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'MULTI...]
+[2026-03-07T03:12:50.144+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:50.147+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:50.801+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:50.803+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:51.473+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:51.475+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:52.927+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:52.929+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:53.629+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:53.630+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:54.770+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:54.772+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:55.802+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:55.803+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:56.366+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:56.368+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:56.982+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:56.983+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:58.183+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:58.184+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:58.918+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:58.920+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:12:59.487+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:12:59.489+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:13:00.152+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:13:00.155+0000] {cursor.py:1028} INFO - query: [UPDATE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION SET GEOMETRY_WKT = 'POLYG...]
+[2026-03-07T03:13:00.860+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:13:00.861+0000] {logging_mixin.py:188} INFO - Successfully updated GEOMETRY_WKT for 39 records
+[2026-03-07T03:13:00.861+0000] {cursor.py:1028} INFO - query: [SELECT COUNT(*) FROM NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION WHERE GEOME...]
+[2026-03-07T03:13:01.130+0000] {cursor.py:1041} INFO - query execution done
+[2026-03-07T03:13:01.131+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-03-07T03:13:01.134+0000] {logging_mixin.py:188} INFO - Records with GEOMETRY_WKT populated: 39
+[2026-03-07T03:13:01.134+0000] {connection.py:718} INFO - closed
+[2026-03-07T03:13:01.243+0000] {connection.py:724} INFO - No async queries seem to be running, deleting session
+[2026-03-07T03:13:01.409+0000] {python.py:201} INFO - Done. Returned value was: {'status': 'success', 'wkt_updated': 39}
+[2026-03-07T03:13:01.438+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=master_location_to_s3_to_snowflake, task_id=update_wkt_geometry, execution_date=20260307T031208, start_date=20260307T031227, end_date=20260307T031301
+[2026-03-07T03:13:01.498+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-03-07T03:13:01.511+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

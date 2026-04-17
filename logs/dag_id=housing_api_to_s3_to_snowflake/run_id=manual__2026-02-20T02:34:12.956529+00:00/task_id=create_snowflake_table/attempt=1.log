@@ -1,0 +1,28 @@
+[2026-02-20T02:34:49.655+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: housing_api_to_s3_to_snowflake.create_snowflake_table manual__2026-02-20T02:34:12.956529+00:00 [queued]>
+[2026-02-20T02:34:49.658+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: housing_api_to_s3_to_snowflake.create_snowflake_table manual__2026-02-20T02:34:12.956529+00:00 [queued]>
+[2026-02-20T02:34:49.658+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-20T02:34:49.662+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): create_snowflake_table> on 2026-02-20 02:34:12.956529+00:00
+[2026-02-20T02:34:49.664+0000] {standard_task_runner.py:60} INFO - Started process 3428 to run task
+[2026-02-20T02:34:49.665+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'housing_api_to_s3_to_snowflake', 'create_snowflake_table', 'manual__2026-02-20T02:34:12.956529+00:00', '--job-id', '148', '--raw', '--subdir', 'DAGS_FOLDER/housing_api_ro_s3_to_snowflake.py', '--cfg-path', '/tmp/tmp50wldn4a']
+[2026-02-20T02:34:49.666+0000] {standard_task_runner.py:88} INFO - Job 148: Subtask create_snowflake_table
+[2026-02-20T02:34:49.684+0000] {task_command.py:423} INFO - Running <TaskInstance: housing_api_to_s3_to_snowflake.create_snowflake_table manual__2026-02-20T02:34:12.956529+00:00 [running]> on host 6f9247237071
+[2026-02-20T02:34:49.708+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='housing_api_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='create_snowflake_table' AIRFLOW_CTX_EXECUTION_DATE='2026-02-20T02:34:12.956529+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-20T02:34:12.956529+00:00'
+[2026-02-20T02:34:49.708+0000] {connection.py:370} INFO - Snowflake Connector for Python Version: 3.6.0, Python Version: 3.8.18, Platform: Linux-6.12.67-linuxkit-aarch64-with-glibc2.34
+[2026-02-20T02:34:49.709+0000] {connection.py:1171} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2026-02-20T02:34:49.709+0000] {connection.py:1181} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-20T02:34:50.051+0000] {ssl_wrap_socket.py:100} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-20T02:34:50.397+0000] {logging_mixin.py:188} INFO - Dropping old STG_BOSTON_HOUSING table if exists...
+[2026-02-20T02:34:50.398+0000] {cursor.py:1028} INFO - query: [DROP TABLE IF EXISTS NEIGHBOURWISE_DOMAINS.STAGE.STG_BOSTON_HOUSING;]
+[2026-02-20T02:34:50.776+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T02:34:50.777+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T02:34:50.778+0000] {logging_mixin.py:188} INFO - Creating STG_BOSTON_HOUSING table in STAGE schema...
+[2026-02-20T02:34:50.778+0000] {cursor.py:1028} INFO - query: [CREATE TABLE NEIGHBOURWISE_DOMAINS.STAGE.STG_BOSTON_HOUSING ( _ID NUMBER, PID VA...]
+[2026-02-20T02:34:51.236+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T02:34:51.237+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T02:34:51.237+0000] {logging_mixin.py:188} INFO - Housing table created successfully
+[2026-02-20T02:34:51.237+0000] {connection.py:718} INFO - closed
+[2026-02-20T02:34:51.358+0000] {connection.py:724} INFO - No async queries seem to be running, deleting session
+[2026-02-20T02:34:51.501+0000] {python.py:201} INFO - Done. Returned value was: Table ready
+[2026-02-20T02:34:51.529+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=housing_api_to_s3_to_snowflake, task_id=create_snowflake_table, execution_date=20260220T023412, start_date=20260220T023449, end_date=20260220T023451
+[2026-02-20T02:34:51.568+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-20T02:34:51.586+0000] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

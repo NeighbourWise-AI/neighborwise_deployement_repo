@@ -1,0 +1,51 @@
+[2026-02-20T03:11:59.710+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: housing_api_to_s3_to_snowflake.load_to_snowflake manual__2026-02-20T03:11:24.745908+00:00 [queued]>
+[2026-02-20T03:11:59.713+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: housing_api_to_s3_to_snowflake.load_to_snowflake manual__2026-02-20T03:11:24.745908+00:00 [queued]>
+[2026-02-20T03:11:59.713+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-20T03:11:59.716+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): load_to_snowflake> on 2026-02-20 03:11:24.745908+00:00
+[2026-02-20T03:11:59.719+0000] {standard_task_runner.py:60} INFO - Started process 4291 to run task
+[2026-02-20T03:11:59.720+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'housing_api_to_s3_to_snowflake', 'load_to_snowflake', 'manual__2026-02-20T03:11:24.745908+00:00', '--job-id', '204', '--raw', '--subdir', 'DAGS_FOLDER/housing_api_ro_s3_to_snowflake.py', '--cfg-path', '/tmp/tmph2yo407s']
+[2026-02-20T03:11:59.721+0000] {standard_task_runner.py:88} INFO - Job 204: Subtask load_to_snowflake
+[2026-02-20T03:11:59.736+0000] {task_command.py:423} INFO - Running <TaskInstance: housing_api_to_s3_to_snowflake.load_to_snowflake manual__2026-02-20T03:11:24.745908+00:00 [running]> on host 6f9247237071
+[2026-02-20T03:11:59.759+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='housing_api_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='load_to_snowflake' AIRFLOW_CTX_EXECUTION_DATE='2026-02-20T03:11:24.745908+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-20T03:11:24.745908+00:00'
+[2026-02-20T03:11:59.766+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2026-02-20T03:11:59.766+0000] {connection.py:370} INFO - Snowflake Connector for Python Version: 3.6.0, Python Version: 3.8.18, Platform: Linux-6.12.67-linuxkit-aarch64-with-glibc2.34
+[2026-02-20T03:11:59.766+0000] {connection.py:1171} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2026-02-20T03:11:59.767+0000] {connection.py:1181} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-20T03:12:00.005+0000] {ssl_wrap_socket.py:100} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-20T03:12:00.259+0000] {logging_mixin.py:188} INFO - Setting schema to STAGE...
+[2026-02-20T03:12:00.260+0000] {cursor.py:1028} INFO - query: [USE SCHEMA NEIGHBOURWISE_DOMAINS.STAGE]
+[2026-02-20T03:12:00.425+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:00.426+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T03:12:00.426+0000] {logging_mixin.py:188} INFO - Creating temporary staging table...
+[2026-02-20T03:12:00.426+0000] {cursor.py:1028} INFO - query: [CREATE OR REPLACE TEMPORARY TABLE HOUSING_TEMP LIKE NEIGHBOURWISE_DOMAINS.STAGE....]
+[2026-02-20T03:12:00.818+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:00.819+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T03:12:00.820+0000] {logging_mixin.py:188} INFO - Loading data from s3://neighborwise-ai-s3-bucket/housing/housing_20260220T031124.csv into temp table
+[2026-02-20T03:12:00.820+0000] {cursor.py:1028} INFO - query: [COPY INTO HOUSING_TEMP FROM 's3://neighborwise-ai-s3-bucket/housing/housing_2026...]
+[2026-02-20T03:12:16.040+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:16.043+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T03:12:16.044+0000] {cursor.py:1028} INFO - query: [SELECT COUNT(*) FROM HOUSING_TEMP]
+[2026-02-20T03:12:16.326+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:16.326+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T03:12:16.327+0000] {logging_mixin.py:188} INFO - Records loaded into HOUSING_TEMP: 184552
+[2026-02-20T03:12:16.327+0000] {cursor.py:1028} INFO - query: [SELECT * FROM HOUSING_TEMP LIMIT 5]
+[2026-02-20T03:12:16.652+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:16.653+0000] {cursor.py:1205} INFO - Number of results in first chunk: 5
+[2026-02-20T03:12:16.654+0000] {logging_mixin.py:188} INFO - Sample from HOUSING_TEMP: [('40493', '0401646080', '0401646000', '0401646000', '90', None, 'Gainsborough ST', '203E', 'BOSTON', '02115', '1', '1', '102', 'CD', 'RESIDENTIAL CONDO', 'RM - Row Middle', 'N', 'GANESAN RADHA', None, '90 GAINSBOROUGH ST #203E', 'BOSTON', 'MA', '02115', '1', '2', None, None, None, '558', '558', '558', '0', '488,200', '0', '488,200', ' $6,053.68 ', '1899', '1985', None, 'F - Flat', 'R - Rubber Roof', 'N - Normal', 'B - Brick/Stone', 'A - Average', 'G - Good', 'A - Average', '1', '1', '0', '1', '3', 'A - Average', 'S - Semi-Modern', None, None, 'F - Full Eat In', 'S - Semi-Modern', None, None, 'W - Ht Water/Steam', 'I - Indiv. Cntrl', 'N - None', '0', 'F - Front/Street', '0', 'A - Average', 'N - No'), ('40500', '0401646094', '0401646000', '0401646000', '90', None, 'Gainsborough ST', '304E', 'BOSTON', '02115', '1', '1', '102', 'CD', 'RESIDENTIAL CONDO', 'RM - Row Middle', 'N', 'MOFFAT STEVEN', None, '90 Gainsborough ST, Unit 304E', 'BOSTON', 'MA', '02115', '1', '3', None, None, None, '1,008', '1008', '1008', '0', '808,400', '0', '808,400', ' $10,024.16 ', '1899', '1985', None, 'F - Flat', 'R - Rubber Roof', 'N - Normal', 'B - Brick/Stone', 'A - Average', 'G - Good', 'A - Average', '2', '1', '0', '1', '4', 'A - Average', 'S - Semi-Modern', None, None, 'F - Full Eat In', 'S - Semi-Modern', None, None, 'P - Heat Pump', 'I - Indiv. Cntrl', 'C - Central AC', '0', 'A - Rear Above', '0', 'A - Average', 'N - No'), ('40507', '0401646108', '0401646000', '0401646000', '90', None, 'Gainsborough ST', '405E', 'BOSTON', '02115', '1', '1', '102', 'CD', 'RESIDENTIAL CONDO', 'RM - Row Middle', 'N', 'SPORBORG NATASHA M', 'C/O NATASHA SPORBORG, TTEE, WHITE BIRCH REALTY TRUST', '142 MAYFAIR RD', 'SOUTH DENNIS', 'MA', '02660', '1', '4', None, None, None, '1,065', '1065', '1065', '0', '766,000', '0', '766,000', ' $9,498.40 ', '1899', '1985', None, 'F - Flat', 'R - Rubber Roof', 'N - Normal', 'B - Brick/Stone', 'G - Good', 'G - Good', 'A - Average', '2', '1', '1', '1', '4', 'A - Average', 'M - Modern', 'S - Semi-Modern', None, 'O - One Person', 'S - Semi-Modern', None, None, 'W - Ht Water/Steam', 'I - Indiv. Cntrl', 'N - None', '0', 'A - Rear Above', '0', 'A - Average', 'N - No'), ('40514', '0401647010', '0401647000', '0401647000', '84', None, 'Gainsborough ST', '102W', 'BOSTON', '02115', '1', '1', '102', 'CD', 'RESIDENTIAL CONDO', 'RE - Row End', 'N', 'HARK MARGARET', None, '7 WINTERSET LANE', 'SIMSBURY', 'CT', '06070', '2', '0', None, None, None, '1,035', '1035', '1035', '0', '648,900', '0', '648,900', ' $8,046.36 ', '1899', '1985', None, 'F - Flat', 'C - Composition', 'N - Normal', 'B - Brick/Stone', 'A - Average', 'G - Good', 'A - Average', '1', '1', '1', '1', '4', 'A - Average', 'S - Semi-Modern', 'S - Semi-Modern', None, 'O - One Person', 'S - Semi-Modern', None, None, 'P - Heat Pump', 'I - Indiv. Cntrl', 'C - Central AC', '1', 'F - Front/Street', '0', 'F - Fair', 'N - No'), ('40521', '0401647024', '0401647000', '0401647000', '84', None, 'Gainsborough ST', '202W', 'BOSTON', '02115', '1', '1', '102', 'CD', 'RESIDENTIAL CONDO', 'RE - Row End', 'N', 'ARYANPOUR SHADI', 'C/O SHADI ARYANPOUR', '125 YARMOUTH RD', 'CHESTNUT HILL', 'MA', '02467', '1', '2', None, None, None, '666', '666', '666', '0', '560,900', '0', '560,900', ' $6,955.16 ', '1899', '1985', None, 'F - Flat', 'C - Composition', 'N - Normal', 'B - Brick/Stone', 'A - Average', 'G - Good', 'A - Average', '1', '1', '0', '1', '3', 'A - Average', 'S - Semi-Modern', None, None, 'F - Full Eat In', 'S - Semi-Modern', None, None, 'W - Ht Water/Steam', 'I - Indiv. Cntrl', 'N - None', '0', 'F - Front/Street', '0', 'A - Average', 'N - No')]
+[2026-02-20T03:12:16.654+0000] {logging_mixin.py:188} INFO - Truncating main table for full reload...
+[2026-02-20T03:12:16.655+0000] {cursor.py:1028} INFO - query: [TRUNCATE TABLE STG_BOSTON_HOUSING]
+[2026-02-20T03:12:17.159+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:17.159+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T03:12:17.159+0000] {logging_mixin.py:188} INFO - Inserting housing records into main table...
+[2026-02-20T03:12:17.159+0000] {cursor.py:1028} INFO - query: [INSERT INTO STG_BOSTON_HOUSING SELECT * FROM HOUSING_TEMP;]
+[2026-02-20T03:12:18.878+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:18.879+0000] {cursor.py:1028} INFO - query: [SELECT COUNT(*) FROM NEIGHBOURWISE_DOMAINS.STAGE.STG_BOSTON_HOUSING]
+[2026-02-20T03:12:19.112+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T03:12:19.113+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T03:12:19.113+0000] {logging_mixin.py:188} INFO - Total housing records in table: 184552
+[2026-02-20T03:12:19.113+0000] {connection.py:718} INFO - closed
+[2026-02-20T03:12:19.249+0000] {connection.py:724} INFO - No async queries seem to be running, deleting session
+[2026-02-20T03:12:19.377+0000] {python.py:201} INFO - Done. Returned value was: {'status': 'success', 'total_records': 184552}
+[2026-02-20T03:12:19.417+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=housing_api_to_s3_to_snowflake, task_id=load_to_snowflake, execution_date=20260220T031124, start_date=20260220T031159, end_date=20260220T031219
+[2026-02-20T03:12:19.461+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-20T03:12:19.478+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

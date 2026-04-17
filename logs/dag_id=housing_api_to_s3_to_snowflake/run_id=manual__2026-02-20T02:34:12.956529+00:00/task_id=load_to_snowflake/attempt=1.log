@@ -1,0 +1,54 @@
+[2026-02-20T02:34:52.437+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: housing_api_to_s3_to_snowflake.load_to_snowflake manual__2026-02-20T02:34:12.956529+00:00 [queued]>
+[2026-02-20T02:34:52.440+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: housing_api_to_s3_to_snowflake.load_to_snowflake manual__2026-02-20T02:34:12.956529+00:00 [queued]>
+[2026-02-20T02:34:52.440+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-20T02:34:52.444+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): load_to_snowflake> on 2026-02-20 02:34:12.956529+00:00
+[2026-02-20T02:34:52.446+0000] {standard_task_runner.py:60} INFO - Started process 3431 to run task
+[2026-02-20T02:34:52.448+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'housing_api_to_s3_to_snowflake', 'load_to_snowflake', 'manual__2026-02-20T02:34:12.956529+00:00', '--job-id', '149', '--raw', '--subdir', 'DAGS_FOLDER/housing_api_ro_s3_to_snowflake.py', '--cfg-path', '/tmp/tmptsdpthd9']
+[2026-02-20T02:34:52.448+0000] {standard_task_runner.py:88} INFO - Job 149: Subtask load_to_snowflake
+[2026-02-20T02:34:52.466+0000] {task_command.py:423} INFO - Running <TaskInstance: housing_api_to_s3_to_snowflake.load_to_snowflake manual__2026-02-20T02:34:12.956529+00:00 [running]> on host 6f9247237071
+[2026-02-20T02:34:52.490+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='housing_api_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='load_to_snowflake' AIRFLOW_CTX_EXECUTION_DATE='2026-02-20T02:34:12.956529+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-20T02:34:12.956529+00:00'
+[2026-02-20T02:34:52.498+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2026-02-20T02:34:52.498+0000] {connection.py:370} INFO - Snowflake Connector for Python Version: 3.6.0, Python Version: 3.8.18, Platform: Linux-6.12.67-linuxkit-aarch64-with-glibc2.34
+[2026-02-20T02:34:52.498+0000] {connection.py:1171} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2026-02-20T02:34:52.498+0000] {connection.py:1181} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-20T02:34:52.740+0000] {ssl_wrap_socket.py:100} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-20T02:34:52.964+0000] {logging_mixin.py:188} INFO - Setting schema to STAGE...
+[2026-02-20T02:34:52.965+0000] {cursor.py:1028} INFO - query: [USE SCHEMA NEIGHBOURWISE_DOMAINS.STAGE]
+[2026-02-20T02:34:53.193+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T02:34:53.194+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T02:34:53.194+0000] {logging_mixin.py:188} INFO - Creating temporary staging table...
+[2026-02-20T02:34:53.194+0000] {cursor.py:1028} INFO - query: [CREATE OR REPLACE TEMPORARY TABLE HOUSING_TEMP LIKE NEIGHBOURWISE_DOMAINS.STAGE....]
+[2026-02-20T02:34:53.772+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T02:34:53.774+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-20T02:34:53.774+0000] {logging_mixin.py:188} INFO - Loading data from s3://neighborwise-ai-s3-bucket/housing/housing_20260220T023412.csv into temp table
+[2026-02-20T02:34:53.774+0000] {cursor.py:1028} INFO - query: [COPY INTO HOUSING_TEMP FROM 's3://neighborwise-ai-s3-bucket/housing/housing_2026...]
+[2026-02-20T02:34:53.964+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-20T02:34:53.979+0000] {logging_mixin.py:188} INFO - Error loading data: 001006 (22023): 01c2879a-0307-d28f-001a-e44300266416: SQL compilation error:
+invalid parameter 'MATCH_BY_COLUMN_NAME'
+[2026-02-20T02:34:53.979+0000] {connection.py:718} INFO - closed
+[2026-02-20T02:34:54.122+0000] {connection.py:724} INFO - No async queries seem to be running, deleting session
+[2026-02-20T02:34:54.254+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/housing_api_ro_s3_to_snowflake.py", line 284, in load_s3_to_snowflake
+    cursor.execute(copy_sql)
+  File "/home/airflow/.local/lib/python3.8/site-packages/snowflake/connector/cursor.py", line 1132, in execute
+    Error.errorhandler_wrapper(self.connection, self, error_class, errvalue)
+  File "/home/airflow/.local/lib/python3.8/site-packages/snowflake/connector/errors.py", line 290, in errorhandler_wrapper
+    handed_over = Error.hand_to_other_handler(
+  File "/home/airflow/.local/lib/python3.8/site-packages/snowflake/connector/errors.py", line 345, in hand_to_other_handler
+    cursor.errorhandler(connection, cursor, error_class, error_value)
+  File "/home/airflow/.local/lib/python3.8/site-packages/snowflake/connector/errors.py", line 221, in default_errorhandler
+    raise error_class(
+snowflake.connector.errors.ProgrammingError: 001006 (22023): 01c2879a-0307-d28f-001a-e44300266416: SQL compilation error:
+invalid parameter 'MATCH_BY_COLUMN_NAME'
+[2026-02-20T02:34:54.261+0000] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=housing_api_to_s3_to_snowflake, task_id=load_to_snowflake, execution_date=20260220T023412, start_date=20260220T023452, end_date=20260220T023454
+[2026-02-20T02:34:54.270+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 149 for task load_to_snowflake (001006 (22023): 01c2879a-0307-d28f-001a-e44300266416: SQL compilation error:
+invalid parameter 'MATCH_BY_COLUMN_NAME'; 3431)
+[2026-02-20T02:34:54.301+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2026-02-20T02:34:54.314+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

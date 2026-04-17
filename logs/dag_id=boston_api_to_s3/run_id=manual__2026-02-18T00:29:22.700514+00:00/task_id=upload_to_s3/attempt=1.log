@@ -1,0 +1,17 @@
+[2026-02-18T00:29:25.967+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: boston_api_to_s3.upload_to_s3 manual__2026-02-18T00:29:22.700514+00:00 [queued]>
+[2026-02-18T00:29:25.970+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: boston_api_to_s3.upload_to_s3 manual__2026-02-18T00:29:22.700514+00:00 [queued]>
+[2026-02-18T00:29:25.970+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-18T00:29:25.974+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): upload_to_s3> on 2026-02-18 00:29:22.700514+00:00
+[2026-02-18T00:29:25.977+0000] {standard_task_runner.py:60} INFO - Started process 1023 to run task
+[2026-02-18T00:29:25.978+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'boston_api_to_s3', 'upload_to_s3', 'manual__2026-02-18T00:29:22.700514+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/boston_api_to_s3.py', '--cfg-path', '/tmp/tmp_9l_qti7']
+[2026-02-18T00:29:25.980+0000] {standard_task_runner.py:88} INFO - Job 10: Subtask upload_to_s3
+[2026-02-18T00:29:25.996+0000] {task_command.py:423} INFO - Running <TaskInstance: boston_api_to_s3.upload_to_s3 manual__2026-02-18T00:29:22.700514+00:00 [running]> on host 5e8616ec98d9
+[2026-02-18T00:29:26.021+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='boston_api_to_s3' AIRFLOW_CTX_TASK_ID='upload_to_s3' AIRFLOW_CTX_EXECUTION_DATE='2026-02-18T00:29:22.700514+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-18T00:29:22.700514+00:00'
+[2026-02-18T00:29:26.033+0000] {logging_mixin.py:188} INFO - Uploading /opt/***/boston_crime_20260218T002922.csv to s3://neighborwise-ai-s3-bucket/crime-safety/boston_crime_20260218T002922.csv
+[2026-02-18T00:29:26.036+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2026-02-18T00:29:26.036+0000] {connection_wrapper.py:378} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2026-02-18T00:29:31.529+0000] {logging_mixin.py:188} INFO - Successfully uploaded to S3: s3://neighborwise-ai-s3-bucket/crime-safety/boston_crime_20260218T002922.csv
+[2026-02-18T00:29:31.533+0000] {python.py:201} INFO - Done. Returned value was: crime-safety/boston_crime_20260218T002922.csv
+[2026-02-18T00:29:31.556+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=boston_api_to_s3, task_id=upload_to_s3, execution_date=20260218T002922, start_date=20260218T002925, end_date=20260218T002931
+[2026-02-18T00:29:31.581+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-18T00:29:31.591+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

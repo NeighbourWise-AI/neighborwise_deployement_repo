@@ -1,0 +1,1134 @@
+[2026-03-05T00:13:36.221+0000] {processor.py:161} INFO - Started process (PID=28934) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:13:36.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:13:36.223+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:13:36.223+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:13:36.389+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:13:36.399+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:13:36.399+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:13:36.410+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:13:36.410+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:13:36.418+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.199 seconds
+[2026-03-05T00:29:36.333+0000] {processor.py:161} INFO - Started process (PID=29008) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:29:36.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:29:36.336+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:29:36.336+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:29:36.497+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:29:36.509+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:29:36.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:29:36.521+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:29:36.521+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:29:36.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.198 seconds
+[2026-03-05T00:41:52.163+0000] {processor.py:161} INFO - Started process (PID=29083) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:41:52.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:41:52.164+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:41:52.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:41:52.365+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:41:52.377+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:41:52.377+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:41:52.386+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:41:52.386+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:41:52.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.231 seconds
+[2026-03-05T00:43:59.613+0000] {processor.py:161} INFO - Started process (PID=29157) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:43:59.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:43:59.616+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:43:59.616+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:43:59.802+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:43:59.813+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:43:59.813+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:43:59.887+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:43:59.887+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:43:59.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.291 seconds
+[2026-03-05T00:44:30.564+0000] {processor.py:161} INFO - Started process (PID=29230) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:44:30.565+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:44:30.565+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:44:30.565+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:44:30.810+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:44:30.818+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:44:30.818+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:44:30.827+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:44:30.827+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:44:30.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.273 seconds
+[2026-03-05T00:47:32.393+0000] {processor.py:161} INFO - Started process (PID=29305) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:47:32.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:47:32.394+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:47:32.394+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:47:32.639+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:47:32.646+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:47:32.645+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:47:32.656+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:47:32.655+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:47:32.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.274 seconds
+[2026-03-05T00:49:57.720+0000] {processor.py:161} INFO - Started process (PID=29378) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:49:57.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:49:57.721+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:49:57.721+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:49:58.293+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:49:58.313+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:49:58.313+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:49:58.337+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:49:58.337+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:49:58.370+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.652 seconds
+[2026-03-05T00:50:28.807+0000] {processor.py:161} INFO - Started process (PID=29452) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:50:28.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T00:50:28.810+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:50:28.810+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:50:29.174+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T00:50:29.183+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:50:29.182+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T00:50:29.190+0000] {logging_mixin.py:188} INFO - [2026-03-05T00:50:29.190+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T00:50:29.197+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.393 seconds
+[2026-03-05T01:03:46.732+0000] {processor.py:161} INFO - Started process (PID=29526) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:03:46.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:03:46.735+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:03:46.734+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:03:47.011+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:03:47.021+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:03:47.021+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:03:47.031+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:03:47.031+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:03:47.039+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.308 seconds
+[2026-03-05T01:06:19.775+0000] {processor.py:161} INFO - Started process (PID=29600) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:06:19.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:06:19.778+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:06:19.778+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:06:20.064+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:06:20.075+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:06:20.075+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:06:20.089+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:06:20.089+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:06:20.099+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.325 seconds
+[2026-03-05T01:06:50.125+0000] {processor.py:161} INFO - Started process (PID=29674) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:06:50.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:06:50.126+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:06:50.126+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:06:50.360+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:06:50.367+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:06:50.366+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:06:50.378+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:06:50.378+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:06:50.388+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-03-05T01:10:06.380+0000] {processor.py:161} INFO - Started process (PID=29749) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:10:06.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:10:06.381+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:10:06.381+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:10:06.621+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:10:06.629+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:10:06.629+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:10:06.636+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:10:06.636+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:10:06.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-05T01:10:39.245+0000] {processor.py:161} INFO - Started process (PID=29822) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:10:39.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:10:39.247+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:10:39.247+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:10:39.538+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:10:39.562+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:10:39.562+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:10:39.574+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:10:39.573+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:10:39.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.340 seconds
+[2026-03-05T01:12:59.738+0000] {processor.py:161} INFO - Started process (PID=29896) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:12:59.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:12:59.741+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:12:59.741+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:12:59.980+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:12:59.988+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:12:59.988+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:12:59.995+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:12:59.995+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:13:00.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.269 seconds
+[2026-03-05T01:13:30.864+0000] {processor.py:161} INFO - Started process (PID=29970) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:13:30.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:13:30.868+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:13:30.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:13:31.129+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:13:31.139+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:13:31.139+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:13:31.150+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:13:31.150+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:13:31.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.296 seconds
+[2026-03-05T01:14:02.344+0000] {processor.py:161} INFO - Started process (PID=30044) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:14:02.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:14:02.345+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:14:02.345+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:14:02.602+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:14:02.611+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:14:02.611+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:14:02.619+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:14:02.618+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:14:02.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.288 seconds
+[2026-03-05T01:14:33.450+0000] {processor.py:161} INFO - Started process (PID=30118) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:14:33.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:14:33.452+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:14:33.452+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:14:33.642+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:14:33.654+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:14:33.654+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:14:33.665+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:14:33.665+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:14:33.672+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.224 seconds
+[2026-03-05T01:15:04.372+0000] {processor.py:161} INFO - Started process (PID=30192) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:15:04.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:15:04.373+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:15:04.373+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:15:04.549+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:15:04.562+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:15:04.562+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:15:04.571+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:15:04.571+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:15:04.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-03-05T01:15:35.206+0000] {processor.py:161} INFO - Started process (PID=30266) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:15:35.208+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:15:35.209+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:15:35.209+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:15:35.393+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:15:35.401+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:15:35.401+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:15:35.411+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:15:35.411+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:15:35.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.216 seconds
+[2026-03-05T01:16:05.748+0000] {processor.py:161} INFO - Started process (PID=30340) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:16:05.749+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:16:05.749+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:16:05.749+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:16:05.925+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:16:05.933+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:16:05.933+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:16:05.941+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:16:05.941+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:16:05.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-03-05T01:16:36.393+0000] {processor.py:161} INFO - Started process (PID=30414) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:16:36.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:16:36.395+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:16:36.395+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:16:36.561+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:16:36.574+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:16:36.574+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:16:36.585+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:16:36.585+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:16:36.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.202 seconds
+[2026-03-05T01:17:07.199+0000] {processor.py:161} INFO - Started process (PID=30488) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:17:07.199+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:17:07.202+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:17:07.202+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:17:07.382+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:17:07.394+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:17:07.394+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:17:07.404+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:17:07.404+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:17:07.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.216 seconds
+[2026-03-05T01:17:38.158+0000] {processor.py:161} INFO - Started process (PID=30562) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:17:38.160+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:17:38.161+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:17:38.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:17:38.331+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:17:38.342+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:17:38.340+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:17:38.353+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:17:38.353+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:17:38.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-03-05T01:18:09.103+0000] {processor.py:161} INFO - Started process (PID=30637) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:18:09.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:18:09.104+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:18:09.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:18:09.264+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:18:09.271+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:18:09.271+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:18:09.279+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:18:09.279+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:18:09.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.183 seconds
+[2026-03-05T01:18:39.940+0000] {processor.py:161} INFO - Started process (PID=30710) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:18:39.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:18:39.942+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:18:39.942+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:18:40.113+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:18:40.124+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:18:40.124+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:18:40.135+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:18:40.135+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:18:40.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-03-05T01:19:10.796+0000] {processor.py:161} INFO - Started process (PID=30785) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:19:10.797+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:19:10.798+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:19:10.797+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:19:10.977+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:19:10.988+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:19:10.988+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:19:10.996+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:19:10.996+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:19:11.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-05T01:19:41.506+0000] {processor.py:161} INFO - Started process (PID=30859) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:19:41.506+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:19:41.507+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:19:41.507+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:19:41.693+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:19:41.703+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:19:41.703+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:19:41.789+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:19:41.789+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:19:41.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.294 seconds
+[2026-03-05T01:20:12.334+0000] {processor.py:161} INFO - Started process (PID=30932) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:20:12.334+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:20:12.334+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:20:12.334+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:20:12.577+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:20:12.585+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:20:12.585+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:20:12.593+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:20:12.593+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:20:12.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-05T01:20:43.370+0000] {processor.py:161} INFO - Started process (PID=31012) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:20:43.371+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:20:43.372+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:20:43.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:20:43.632+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:20:43.639+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:20:43.639+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:20:43.648+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:20:43.647+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:20:43.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.285 seconds
+[2026-03-05T01:21:14.164+0000] {processor.py:161} INFO - Started process (PID=31086) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:21:14.165+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:21:14.167+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:21:14.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:21:14.420+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:21:14.427+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:21:14.427+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:21:14.435+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:21:14.435+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:21:14.443+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.280 seconds
+[2026-03-05T01:21:45.041+0000] {processor.py:161} INFO - Started process (PID=31160) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:21:45.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:21:45.043+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:21:45.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:21:45.290+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:21:45.298+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:21:45.298+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:21:45.306+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:21:45.306+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:21:45.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-03-05T01:22:16.353+0000] {processor.py:161} INFO - Started process (PID=31235) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:22:16.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:22:16.355+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:22:16.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:22:16.606+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:22:16.618+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:22:16.616+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:22:16.626+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:22:16.626+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:22:16.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.281 seconds
+[2026-03-05T01:22:47.012+0000] {processor.py:161} INFO - Started process (PID=31308) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:22:47.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:22:47.013+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:22:47.013+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:22:47.258+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:22:47.264+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:22:47.264+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:22:47.275+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:22:47.275+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:22:47.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.273 seconds
+[2026-03-05T01:23:17.807+0000] {processor.py:161} INFO - Started process (PID=31382) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:23:17.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:23:17.810+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:23:17.810+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:23:18.050+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:23:18.058+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:23:18.058+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:23:18.074+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:23:18.074+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:23:18.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.275 seconds
+[2026-03-05T01:23:49.032+0000] {processor.py:161} INFO - Started process (PID=31457) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:23:49.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:23:49.033+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:23:49.033+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:23:49.283+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:23:49.291+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:23:49.290+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:23:49.299+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:23:49.299+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:23:49.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.281 seconds
+[2026-03-05T01:24:20.041+0000] {processor.py:161} INFO - Started process (PID=31531) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:24:20.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:24:20.043+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:24:20.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:24:20.295+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:24:20.305+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:24:20.302+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:24:20.312+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:24:20.312+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:24:20.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.282 seconds
+[2026-03-05T01:24:50.673+0000] {processor.py:161} INFO - Started process (PID=31606) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:24:50.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:24:50.675+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:24:50.674+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:24:50.930+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:24:50.940+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:24:50.940+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:24:50.949+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:24:50.948+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:24:50.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.284 seconds
+[2026-03-05T01:25:21.105+0000] {processor.py:161} INFO - Started process (PID=31681) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:25:21.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:25:21.106+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:25:21.105+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:25:21.293+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:25:21.303+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:25:21.303+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:25:21.313+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:25:21.313+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:25:21.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.219 seconds
+[2026-03-05T01:25:51.806+0000] {processor.py:161} INFO - Started process (PID=31752) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:25:51.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:25:51.808+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:25:51.808+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:25:51.988+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:25:51.997+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:25:51.997+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:25:52.006+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:25:52.006+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:25:52.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-05T01:26:22.705+0000] {processor.py:161} INFO - Started process (PID=31827) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:26:22.706+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:26:22.707+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:26:22.706+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:26:22.888+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:26:22.897+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:26:22.896+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:26:22.905+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:26:22.905+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:26:22.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-05T01:26:53.419+0000] {processor.py:161} INFO - Started process (PID=31901) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:26:53.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:26:53.421+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:26:53.421+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:26:53.614+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:26:53.624+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:26:53.623+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:26:53.632+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:26:53.632+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:26:53.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.220 seconds
+[2026-03-05T01:27:24.259+0000] {processor.py:161} INFO - Started process (PID=31975) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:27:24.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:27:24.261+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:27:24.261+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:27:24.442+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:27:24.450+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:27:24.450+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:27:24.459+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:27:24.459+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:27:24.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.213 seconds
+[2026-03-05T01:27:55.034+0000] {processor.py:161} INFO - Started process (PID=32049) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:27:55.036+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:27:55.036+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:27:55.036+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:27:55.214+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:27:55.222+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:27:55.222+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:27:55.230+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:27:55.230+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:27:55.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.203 seconds
+[2026-03-05T01:28:25.383+0000] {processor.py:161} INFO - Started process (PID=32123) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:28:25.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:28:25.384+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:28:25.384+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:28:25.560+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:28:25.570+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:28:25.569+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:28:25.579+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:28:25.579+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:28:25.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.211 seconds
+[2026-03-05T01:28:56.012+0000] {processor.py:161} INFO - Started process (PID=32197) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:28:56.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:28:56.014+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:28:56.014+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:28:56.202+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:28:56.285+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:28:56.285+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:28:56.293+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:28:56.293+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:28:56.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.295 seconds
+[2026-03-05T01:29:26.809+0000] {processor.py:161} INFO - Started process (PID=32275) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:29:26.810+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:29:26.810+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:29:26.810+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:29:27.051+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:29:27.062+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:29:27.061+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:29:27.070+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:29:27.070+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:29:27.075+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-03-05T01:29:57.456+0000] {processor.py:161} INFO - Started process (PID=32349) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:29:57.456+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:29:57.457+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:29:57.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:29:57.693+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:29:57.705+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:29:57.705+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:29:57.713+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:29:57.713+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:29:57.719+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-03-05T01:30:28.204+0000] {processor.py:161} INFO - Started process (PID=32423) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:30:28.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:30:28.205+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:30:28.205+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:30:28.445+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:30:28.456+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:30:28.455+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:30:28.465+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:30:28.465+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:30:28.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-05T01:30:59.246+0000] {processor.py:161} INFO - Started process (PID=32492) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:30:59.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:30:59.247+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:30:59.247+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:30:59.488+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:30:59.497+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:30:59.496+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:30:59.505+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:30:59.505+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:30:59.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-05T01:31:30.266+0000] {processor.py:161} INFO - Started process (PID=32566) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:31:30.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:31:30.267+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:31:30.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:31:30.506+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:31:30.515+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:31:30.515+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:31:30.524+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:31:30.524+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:31:30.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-05T01:32:01.103+0000] {processor.py:161} INFO - Started process (PID=32639) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:32:01.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:32:01.106+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:32:01.106+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:32:01.340+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:32:01.350+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:32:01.349+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:32:01.358+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:32:01.358+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:32:01.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.265 seconds
+[2026-03-05T01:32:32.052+0000] {processor.py:161} INFO - Started process (PID=32713) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:32:32.053+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:32:32.054+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:32:32.054+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:32:32.289+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:32:32.295+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:32:32.295+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:32:32.303+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:32:32.303+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:32:32.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.260 seconds
+[2026-03-05T01:33:03.189+0000] {processor.py:161} INFO - Started process (PID=32788) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:33:03.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:33:03.190+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:33:03.190+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:33:03.427+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:33:03.434+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:33:03.433+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:33:03.443+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:33:03.443+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:33:03.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.263 seconds
+[2026-03-05T01:33:33.885+0000] {processor.py:161} INFO - Started process (PID=32861) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:33:33.886+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:33:33.886+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:33:33.886+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:33:34.123+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:33:34.134+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:33:34.134+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:33:34.142+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:33:34.141+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:33:34.149+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.265 seconds
+[2026-03-05T01:34:04.724+0000] {processor.py:161} INFO - Started process (PID=32935) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:34:04.724+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:34:04.725+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:34:04.725+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:34:04.975+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:34:04.985+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:34:04.984+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:34:04.992+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:34:04.992+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:34:05.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-03-05T01:34:35.530+0000] {processor.py:161} INFO - Started process (PID=33009) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:34:35.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:34:35.531+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:34:35.531+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:34:35.763+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:34:35.774+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:34:35.774+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:34:35.782+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:34:35.782+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:34:35.788+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.259 seconds
+[2026-03-05T01:35:06.332+0000] {processor.py:161} INFO - Started process (PID=33084) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:35:06.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:35:06.333+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:35:06.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:35:06.552+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:35:06.557+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:35:06.557+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:35:06.564+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:35:06.564+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:35:06.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.239 seconds
+[2026-03-05T01:35:37.331+0000] {processor.py:161} INFO - Started process (PID=33158) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:35:37.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:35:37.333+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:35:37.332+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:35:37.511+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:35:37.520+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:35:37.520+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:35:37.534+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:35:37.534+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:35:37.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.213 seconds
+[2026-03-05T01:36:07.908+0000] {processor.py:161} INFO - Started process (PID=33232) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:36:07.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:36:07.909+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:36:07.909+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:36:08.082+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:36:08.092+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:36:08.091+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:36:08.101+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:36:08.101+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:36:08.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-03-05T01:36:38.516+0000] {processor.py:161} INFO - Started process (PID=33306) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:36:38.517+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:36:38.517+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:36:38.517+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:36:38.691+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:36:38.702+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:36:38.702+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:36:38.714+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:36:38.714+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:36:38.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.208 seconds
+[2026-03-05T01:37:09.064+0000] {processor.py:161} INFO - Started process (PID=33380) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:37:09.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:37:09.065+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:37:09.065+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:37:09.241+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:37:09.253+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:37:09.253+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:37:09.262+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:37:09.262+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:37:09.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.208 seconds
+[2026-03-05T01:37:39.443+0000] {processor.py:161} INFO - Started process (PID=33453) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:37:39.445+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:37:39.446+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:37:39.446+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:37:39.620+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:37:39.630+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:37:39.630+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:37:39.640+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:37:39.640+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:37:39.649+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.208 seconds
+[2026-03-05T01:38:10.284+0000] {processor.py:161} INFO - Started process (PID=33528) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:38:10.284+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:38:10.285+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:38:10.285+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:38:10.450+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:38:10.457+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:38:10.457+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:38:10.464+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:38:10.464+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:38:10.469+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.187 seconds
+[2026-03-05T01:38:40.649+0000] {processor.py:161} INFO - Started process (PID=33601) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:38:40.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:38:40.650+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:38:40.650+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:38:40.822+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:38:40.834+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:38:40.834+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:38:40.843+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:38:40.843+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:38:40.851+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.203 seconds
+[2026-03-05T01:39:11.307+0000] {processor.py:161} INFO - Started process (PID=33676) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:39:11.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:39:11.308+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:39:11.308+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:39:11.490+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:39:11.501+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:39:11.500+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:39:11.511+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:39:11.511+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:39:11.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.215 seconds
+[2026-03-05T01:39:41.686+0000] {processor.py:161} INFO - Started process (PID=33750) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:39:41.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:39:41.687+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:39:41.687+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:39:41.891+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:39:41.901+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:39:41.901+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:39:41.983+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:39:41.982+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:39:41.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.313 seconds
+[2026-03-05T01:40:12.753+0000] {processor.py:161} INFO - Started process (PID=33824) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:40:12.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:40:12.754+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:40:12.754+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:40:13.026+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:40:13.037+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:40:13.037+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:40:13.047+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:40:13.047+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:40:13.062+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.311 seconds
+[2026-03-05T01:40:44.016+0000] {processor.py:161} INFO - Started process (PID=33898) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:40:44.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:40:44.017+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:40:44.017+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:40:44.327+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:40:44.342+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:40:44.342+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:40:44.351+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:40:44.351+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:40:44.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.343 seconds
+[2026-03-05T01:41:15.085+0000] {processor.py:161} INFO - Started process (PID=33978) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:41:15.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:41:15.087+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:41:15.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:41:15.346+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:41:15.357+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:41:15.356+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:41:15.368+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:41:15.368+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:41:15.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.290 seconds
+[2026-03-05T01:41:46.082+0000] {processor.py:161} INFO - Started process (PID=34059) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:41:46.083+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:41:46.083+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:41:46.083+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:41:46.328+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:41:46.338+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:41:46.338+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:41:46.345+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:41:46.345+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:41:46.351+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.270 seconds
+[2026-03-05T01:42:16.868+0000] {processor.py:161} INFO - Started process (PID=34133) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:42:16.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:42:16.869+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:42:16.869+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:42:17.113+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:42:17.126+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:42:17.125+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:42:17.138+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:42:17.138+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:42:17.150+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-03-05T01:42:47.759+0000] {processor.py:161} INFO - Started process (PID=34207) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:42:47.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:42:47.761+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:42:47.761+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:42:48.003+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:42:48.013+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:42:48.013+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:42:48.021+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:42:48.021+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:42:48.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.269 seconds
+[2026-03-05T01:43:18.636+0000] {processor.py:161} INFO - Started process (PID=34281) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:43:18.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:43:18.637+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:43:18.637+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:43:18.890+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:43:18.900+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:43:18.900+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:43:18.911+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:43:18.911+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:43:18.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.290 seconds
+[2026-03-05T01:43:49.505+0000] {processor.py:161} INFO - Started process (PID=34355) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:43:49.506+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:43:49.506+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:43:49.506+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:43:49.743+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:43:49.752+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:43:49.751+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:43:49.759+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:43:49.759+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:43:49.768+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.265 seconds
+[2026-03-05T01:44:20.380+0000] {processor.py:161} INFO - Started process (PID=34429) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:44:20.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:44:20.381+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:44:20.381+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:44:20.621+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:44:20.627+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:44:20.627+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:44:20.636+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:44:20.636+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:44:20.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.266 seconds
+[2026-03-05T01:44:51.252+0000] {processor.py:161} INFO - Started process (PID=34503) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:44:51.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:44:51.254+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:44:51.254+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:44:51.509+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:44:51.518+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:44:51.518+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:44:51.525+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:44:51.525+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:44:51.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.282 seconds
+[2026-03-05T01:45:22.469+0000] {processor.py:161} INFO - Started process (PID=34570) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:45:22.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:45:22.471+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:45:22.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:45:22.764+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:45:22.775+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:45:22.774+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:45:22.804+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:45:22.804+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:45:22.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.354 seconds
+[2026-03-05T01:45:53.163+0000] {processor.py:161} INFO - Started process (PID=34644) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:45:53.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:45:53.164+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:45:53.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:45:53.337+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:45:53.351+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:45:53.351+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:45:53.360+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:45:53.360+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:45:53.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-05T01:46:23.756+0000] {processor.py:161} INFO - Started process (PID=34718) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:46:23.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:46:23.757+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:46:23.757+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:46:23.931+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:46:23.940+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:46:23.940+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:46:23.951+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:46:23.951+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:46:23.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.210 seconds
+[2026-03-05T01:46:54.280+0000] {processor.py:161} INFO - Started process (PID=34792) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:46:54.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:46:54.281+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:46:54.280+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:46:54.458+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:46:54.466+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:46:54.466+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:46:54.477+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:46:54.477+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:46:54.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-03-05T01:47:24.736+0000] {processor.py:161} INFO - Started process (PID=34866) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:47:24.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:47:24.737+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:47:24.737+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:47:24.908+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:47:24.917+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:47:24.917+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:47:24.929+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:47:24.929+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:47:24.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.203 seconds
+[2026-03-05T01:47:55.178+0000] {processor.py:161} INFO - Started process (PID=34940) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:47:55.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:47:55.179+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:47:55.179+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:47:55.350+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:47:55.359+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:47:55.359+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:47:55.369+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:47:55.369+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:47:55.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.201 seconds
+[2026-03-05T01:48:25.669+0000] {processor.py:161} INFO - Started process (PID=35014) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:48:25.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:48:25.670+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:48:25.670+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:48:25.840+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:48:25.850+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:48:25.850+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:48:25.858+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:48:25.858+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:48:25.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.200 seconds
+[2026-03-05T01:48:56.228+0000] {processor.py:161} INFO - Started process (PID=35088) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:48:56.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:48:56.229+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:48:56.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:48:56.404+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:48:56.413+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:48:56.412+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:48:56.423+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:48:56.423+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:48:56.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-05T01:49:26.893+0000] {processor.py:161} INFO - Started process (PID=35162) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:49:26.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:49:26.894+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:49:26.894+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:49:27.066+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:49:27.077+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:49:27.077+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:49:27.088+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:49:27.088+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:49:27.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-03-05T01:49:57.387+0000] {processor.py:161} INFO - Started process (PID=35236) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:49:57.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:49:57.388+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:49:57.388+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:49:57.562+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:49:57.575+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:49:57.575+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:49:57.583+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:49:57.583+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:49:57.589+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.203 seconds
+[2026-03-05T01:50:28.215+0000] {processor.py:161} INFO - Started process (PID=35310) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:50:28.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:50:28.216+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:50:28.216+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:50:28.414+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:50:28.523+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:50:28.522+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:50:28.534+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:50:28.534+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:50:28.547+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.333 seconds
+[2026-03-05T01:50:59.137+0000] {processor.py:161} INFO - Started process (PID=35383) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:50:59.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:50:59.139+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:50:59.138+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:50:59.391+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:50:59.400+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:50:59.399+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:50:59.411+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:50:59.411+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:50:59.419+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.284 seconds
+[2026-03-05T01:51:30.382+0000] {processor.py:161} INFO - Started process (PID=35458) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:51:30.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:51:30.384+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:51:30.384+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:51:30.636+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:51:30.645+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:51:30.645+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:51:30.652+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:51:30.652+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:51:30.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.277 seconds
+[2026-03-05T01:52:01.349+0000] {processor.py:161} INFO - Started process (PID=35537) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:52:01.349+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:52:01.350+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:52:01.350+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:52:01.589+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:52:01.598+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:52:01.598+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:52:01.606+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:52:01.606+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:52:01.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-03-05T01:52:32.084+0000] {processor.py:161} INFO - Started process (PID=35611) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:52:32.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:52:32.085+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:52:32.085+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:52:32.351+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:52:32.361+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:52:32.361+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:52:32.369+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:52:32.369+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:52:32.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.292 seconds
+[2026-03-05T01:53:02.477+0000] {processor.py:161} INFO - Started process (PID=35686) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:53:02.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:53:02.478+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:53:02.478+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:53:02.751+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:53:02.763+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:53:02.763+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:53:02.771+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:53:02.771+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:53:02.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.304 seconds
+[2026-03-05T01:53:33.052+0000] {processor.py:161} INFO - Started process (PID=35760) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:53:33.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:53:33.053+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:53:33.053+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:53:33.324+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:53:33.335+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:53:33.335+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:53:33.345+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:53:33.344+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:53:33.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.304 seconds
+[2026-03-05T01:54:03.839+0000] {processor.py:161} INFO - Started process (PID=35835) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:54:03.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:54:03.840+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:54:03.839+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:54:04.102+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:54:04.112+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:54:04.112+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:54:04.123+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:54:04.123+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:54:04.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.297 seconds
+[2026-03-05T01:54:34.994+0000] {processor.py:161} INFO - Started process (PID=35909) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:54:34.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:54:34.996+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:54:34.995+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:54:35.358+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:54:35.368+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:54:35.368+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:54:35.378+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:54:35.378+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:54:35.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.404 seconds
+[2026-03-05T01:55:05.975+0000] {processor.py:161} INFO - Started process (PID=35983) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:55:05.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:55:05.978+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:55:05.978+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:55:06.237+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:55:06.251+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:55:06.251+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:55:06.259+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:55:06.259+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:55:06.265+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.294 seconds
+[2026-03-05T01:55:36.350+0000] {processor.py:161} INFO - Started process (PID=36057) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:55:36.350+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:55:36.351+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:55:36.351+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:55:36.604+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:55:36.614+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:55:36.613+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:55:36.628+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:55:36.627+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:55:36.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.290 seconds
+[2026-03-05T01:56:07.252+0000] {processor.py:161} INFO - Started process (PID=36127) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:56:07.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:56:07.254+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:56:07.253+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:56:07.426+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:56:07.435+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:56:07.435+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:56:07.446+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:56:07.446+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:56:07.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-03-05T01:56:38.059+0000] {processor.py:161} INFO - Started process (PID=36199) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:56:38.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:56:38.061+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:56:38.061+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:56:38.241+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:56:38.250+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:56:38.250+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:56:38.261+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:56:38.261+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:56:38.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.213 seconds
+[2026-03-05T01:57:08.874+0000] {processor.py:161} INFO - Started process (PID=36273) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:57:08.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:57:08.876+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:57:08.876+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:57:09.049+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:57:09.059+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:57:09.058+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:57:09.070+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:57:09.070+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:57:09.079+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-05T01:57:39.521+0000] {processor.py:161} INFO - Started process (PID=36347) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:57:39.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:57:39.522+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:57:39.522+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:57:39.712+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:57:39.720+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:57:39.720+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:57:39.733+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:57:39.733+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:57:39.746+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.226 seconds
+[2026-03-05T01:58:10.275+0000] {processor.py:161} INFO - Started process (PID=36421) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:58:10.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:58:10.276+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:58:10.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:58:10.464+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:58:10.474+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:58:10.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:58:10.489+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:58:10.489+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:58:10.496+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.223 seconds
+[2026-03-05T01:58:41.043+0000] {processor.py:161} INFO - Started process (PID=36495) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:58:41.045+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:58:41.045+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:58:41.045+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:58:41.218+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:58:41.229+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:58:41.229+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:58:41.240+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:58:41.240+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:58:41.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-03-05T01:59:11.598+0000] {processor.py:161} INFO - Started process (PID=36569) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:59:11.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:59:11.599+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:59:11.599+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:59:11.768+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:59:11.775+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:59:11.775+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:59:11.784+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:59:11.784+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:59:11.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.198 seconds
+[2026-03-05T01:59:42.265+0000] {processor.py:161} INFO - Started process (PID=36643) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:59:42.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T01:59:42.267+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:59:42.267+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:59:42.442+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T01:59:42.452+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:59:42.452+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T01:59:42.462+0000] {logging_mixin.py:188} INFO - [2026-03-05T01:59:42.462+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T01:59:42.474+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.211 seconds
+[2026-03-05T02:00:13.318+0000] {processor.py:161} INFO - Started process (PID=36718) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:00:13.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:00:13.319+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:00:13.319+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:00:13.490+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:00:13.499+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:00:13.499+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:00:13.510+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:00:13.510+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:00:13.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.291 seconds
+[2026-03-05T02:00:44.038+0000] {processor.py:161} INFO - Started process (PID=36791) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:00:44.039+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:00:44.041+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:00:44.041+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:00:44.213+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:00:44.223+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:00:44.223+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:00:44.233+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:00:44.233+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:00:44.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-03-05T02:01:14.901+0000] {processor.py:161} INFO - Started process (PID=36866) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:01:14.901+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:01:14.902+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:01:14.902+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:01:15.078+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:01:15.169+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:01:15.169+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:01:15.179+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:01:15.179+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:01:15.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.291 seconds
+[2026-03-05T02:01:46.131+0000] {processor.py:161} INFO - Started process (PID=36940) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:01:46.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:01:46.133+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:01:46.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:01:46.384+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:01:46.392+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:01:46.391+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:01:46.401+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:01:46.400+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:01:46.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.280 seconds
+[2026-03-05T02:02:17.227+0000] {processor.py:161} INFO - Started process (PID=37014) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:02:17.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:02:17.228+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:02:17.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:02:17.473+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:02:17.480+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:02:17.480+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:02:17.490+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:02:17.490+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:02:17.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.273 seconds
+[2026-03-05T02:02:47.898+0000] {processor.py:161} INFO - Started process (PID=37093) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:02:47.899+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:02:47.900+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:02:47.899+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:02:48.141+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:02:48.150+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:02:48.150+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:02:48.159+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:02:48.159+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:02:48.164+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-03-05T02:03:18.563+0000] {processor.py:161} INFO - Started process (PID=37167) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:03:18.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:03:18.565+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:03:18.565+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:03:18.796+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:03:18.805+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:03:18.805+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:03:18.815+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:03:18.814+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:03:18.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.262 seconds
+[2026-03-05T02:03:49.687+0000] {processor.py:161} INFO - Started process (PID=37242) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:03:49.688+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:03:49.689+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:03:49.689+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:03:49.934+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:03:49.942+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:03:49.942+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:03:49.950+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:03:49.950+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:03:49.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.272 seconds
+[2026-03-05T02:04:20.687+0000] {processor.py:161} INFO - Started process (PID=37316) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:04:20.688+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:04:20.689+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:04:20.689+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:04:20.930+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:04:20.939+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:04:20.939+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:04:20.947+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:04:20.947+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:04:20.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-05T02:04:51.742+0000] {processor.py:161} INFO - Started process (PID=37389) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:04:51.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:04:51.745+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:04:51.745+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:04:52.001+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:04:52.010+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:04:52.009+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:04:52.020+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:04:52.020+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:04:52.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.292 seconds
+[2026-03-05T02:05:23.027+0000] {processor.py:161} INFO - Started process (PID=37463) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:05:23.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:05:23.030+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:05:23.030+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:05:23.263+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:05:23.273+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:05:23.273+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:05:23.283+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:05:23.283+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:05:23.292+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-03-05T02:05:54.361+0000] {processor.py:161} INFO - Started process (PID=37537) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:05:54.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:05:54.362+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:05:54.362+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:05:54.620+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:05:54.634+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:05:54.634+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:05:54.646+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:05:54.645+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:05:54.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.294 seconds
+[2026-03-05T02:06:25.558+0000] {processor.py:161} INFO - Started process (PID=37611) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:06:25.559+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:06:25.561+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:06:25.561+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:06:25.800+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:06:25.810+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:06:25.810+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:06:25.820+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:06:25.820+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:06:25.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.271 seconds
+[2026-03-05T02:06:55.960+0000] {processor.py:161} INFO - Started process (PID=37685) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:06:55.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:06:55.962+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:06:55.961+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:06:56.143+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:06:56.155+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:06:56.154+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:06:56.165+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:06:56.165+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:06:56.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.213 seconds
+[2026-03-05T02:07:26.778+0000] {processor.py:161} INFO - Started process (PID=37759) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:07:26.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:07:26.779+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:07:26.779+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:07:26.948+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:07:26.956+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:07:26.955+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:07:26.966+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:07:26.966+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:07:26.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.200 seconds
+[2026-03-05T02:07:57.509+0000] {processor.py:161} INFO - Started process (PID=37833) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:07:57.511+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:07:57.512+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:07:57.512+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:07:57.681+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:07:57.689+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:07:57.689+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:07:57.700+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:07:57.700+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:07:57.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.200 seconds
+[2026-03-05T02:08:28.277+0000] {processor.py:161} INFO - Started process (PID=37907) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:08:28.278+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:08:28.279+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:08:28.278+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:08:28.449+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:08:28.461+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:08:28.460+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:08:28.470+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:08:28.470+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:08:28.478+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.202 seconds
+[2026-03-05T02:08:58.997+0000] {processor.py:161} INFO - Started process (PID=37981) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:08:58.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:08:58.998+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:08:58.998+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:08:59.173+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:08:59.183+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:08:59.183+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:08:59.191+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:08:59.191+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:08:59.200+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.205 seconds
+[2026-03-05T02:09:29.730+0000] {processor.py:161} INFO - Started process (PID=38055) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:09:29.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:09:29.733+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:09:29.733+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:09:29.902+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:09:29.915+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:09:29.915+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:09:29.928+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:09:29.928+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:09:29.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.208 seconds
+[2026-03-05T02:10:00.489+0000] {processor.py:161} INFO - Started process (PID=38129) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:10:00.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:10:00.490+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:10:00.490+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:10:00.661+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:10:00.672+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:10:00.672+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:10:00.680+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:10:00.680+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:10:00.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-03-05T02:10:31.730+0000] {processor.py:161} INFO - Started process (PID=38203) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:10:31.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:10:31.731+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:10:31.731+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:10:31.912+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:10:31.920+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:10:31.920+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:10:31.931+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:10:31.931+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:10:31.941+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.212 seconds
+[2026-03-05T02:11:02.598+0000] {processor.py:161} INFO - Started process (PID=38277) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:11:02.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:11:02.600+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:11:02.600+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:11:02.772+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:11:02.783+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:11:02.781+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:11:02.792+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:11:02.792+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:11:02.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-03-05T02:11:33.413+0000] {processor.py:161} INFO - Started process (PID=38351) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:11:33.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:11:33.417+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:11:33.416+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:11:33.602+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:11:33.614+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:11:33.614+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:11:33.697+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:11:33.697+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:11:33.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.299 seconds
+[2026-03-05T02:12:04.188+0000] {processor.py:161} INFO - Started process (PID=38424) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:12:04.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:12:04.189+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:12:04.189+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:12:04.434+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:12:04.442+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:12:04.441+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:12:04.451+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:12:04.450+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:12:04.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.269 seconds
+[2026-03-05T02:12:35.434+0000] {processor.py:161} INFO - Started process (PID=38498) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:12:35.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:12:35.435+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:12:35.435+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:12:35.679+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:12:35.689+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:12:35.689+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:12:35.698+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:12:35.698+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:12:35.707+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.275 seconds
+[2026-03-05T02:13:06.567+0000] {processor.py:161} INFO - Started process (PID=38571) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:13:06.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:13:06.569+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:13:06.569+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:13:06.838+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:13:06.850+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:13:06.849+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:13:06.859+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:13:06.859+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:13:06.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.299 seconds
+[2026-03-05T02:13:38.122+0000] {processor.py:161} INFO - Started process (PID=38646) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:13:38.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:13:38.123+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:13:38.123+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:13:38.381+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:13:38.391+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:13:38.390+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:13:38.401+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:13:38.400+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:13:38.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.288 seconds
+[2026-03-05T02:14:09.062+0000] {processor.py:161} INFO - Started process (PID=38719) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:14:09.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:14:09.064+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:14:09.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:14:09.319+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:14:09.327+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:14:09.327+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:14:09.338+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:14:09.338+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:14:09.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.286 seconds
+[2026-03-05T02:14:54.311+0000] {processor.py:161} INFO - Started process (PID=83) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:14:54.312+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:14:54.313+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:14:54.313+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:14:54.613+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:14:54.677+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:14:54.676+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:14:54.686+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:14:54.686+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:14:54.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.394 seconds
+[2026-03-05T02:15:25.174+0000] {processor.py:161} INFO - Started process (PID=159) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:15:25.175+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:15:25.176+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:15:25.176+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:15:25.582+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:15:25.591+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:15:25.591+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:15:25.599+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:15:25.599+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:15:25.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.435 seconds
+[2026-03-05T02:15:56.008+0000] {processor.py:161} INFO - Started process (PID=235) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:15:56.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:15:56.009+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:15:56.009+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:15:56.335+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:15:56.346+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:15:56.346+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:15:56.355+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:15:56.355+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:15:56.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.357 seconds
+[2026-03-05T02:16:26.712+0000] {processor.py:161} INFO - Started process (PID=311) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:16:26.713+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:16:26.714+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:16:26.714+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:16:26.987+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:16:26.994+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:16:26.994+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:16:27.007+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:16:27.007+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:16:27.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.306 seconds
+[2026-03-05T02:16:57.542+0000] {processor.py:161} INFO - Started process (PID=387) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:16:57.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:16:57.545+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:16:57.545+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:16:57.785+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:16:57.794+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:16:57.793+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:16:57.803+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:16:57.803+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:16:57.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.273 seconds
+[2026-03-05T02:17:28.436+0000] {processor.py:161} INFO - Started process (PID=462) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:17:28.437+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:17:28.438+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:17:28.438+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:17:28.605+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:17:28.615+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:17:28.615+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:17:28.625+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:17:28.625+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:17:28.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.199 seconds
+[2026-03-05T02:17:59.363+0000] {processor.py:161} INFO - Started process (PID=538) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:17:59.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:17:59.365+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:17:59.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:17:59.534+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:17:59.544+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:17:59.543+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:17:59.556+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:17:59.556+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:17:59.564+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.203 seconds
+[2026-03-05T02:18:30.365+0000] {processor.py:161} INFO - Started process (PID=615) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:18:30.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:18:30.367+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:18:30.367+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:18:30.551+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:18:30.559+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:18:30.559+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:18:30.568+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:18:30.568+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:18:30.575+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.211 seconds
+[2026-03-05T02:19:00.671+0000] {processor.py:161} INFO - Started process (PID=691) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:19:00.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:19:00.672+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:19:00.672+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:19:00.870+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:19:00.878+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:19:00.878+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:19:00.887+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:19:00.887+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:19:00.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.229 seconds
+[2026-03-05T02:19:31.515+0000] {processor.py:161} INFO - Started process (PID=772) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:19:31.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:19:31.518+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:19:31.518+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:19:31.704+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:19:31.717+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:19:31.717+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:19:31.728+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:19:31.728+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:19:31.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.220 seconds
+[2026-03-05T02:20:02.153+0000] {processor.py:161} INFO - Started process (PID=850) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:20:02.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:20:02.154+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:20:02.154+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:20:02.343+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:20:02.351+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:20:02.351+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:20:02.421+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:20:02.421+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:20:02.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.276 seconds
+[2026-03-05T02:20:32.669+0000] {processor.py:161} INFO - Started process (PID=929) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:20:32.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:20:32.671+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:20:32.671+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:20:32.855+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:20:32.862+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:20:32.862+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:20:32.931+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:20:32.931+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:20:32.937+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.270 seconds
+[2026-03-05T02:21:03.006+0000] {processor.py:161} INFO - Started process (PID=1003) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:21:03.007+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:21:03.008+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:21:03.008+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:21:03.248+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:21:03.255+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:21:03.255+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:21:03.263+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:21:03.263+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:21:03.268+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-03-05T02:21:33.437+0000] {processor.py:161} INFO - Started process (PID=1080) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:21:33.438+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:21:33.438+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:21:33.438+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:21:33.684+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:21:33.693+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:21:33.693+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:21:33.701+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:21:33.701+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:21:33.713+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-03-05T02:22:04.114+0000] {processor.py:161} INFO - Started process (PID=1148) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:22:04.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:22:04.115+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:22:04.115+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:22:04.367+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:22:04.374+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:22:04.374+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:22:04.383+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:22:04.382+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:22:04.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-03-05T02:22:35.030+0000] {processor.py:161} INFO - Started process (PID=1223) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:22:35.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:22:35.033+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:22:35.033+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:22:35.267+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:22:35.277+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:22:35.275+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:22:35.285+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:22:35.285+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:22:35.295+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-03-05T02:23:06.214+0000] {processor.py:161} INFO - Started process (PID=1300) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:23:06.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:23:06.215+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:23:06.215+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:23:06.434+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:23:06.440+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:23:06.440+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:23:06.447+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:23:06.447+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:23:06.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.239 seconds
+[2026-03-05T02:23:37.645+0000] {processor.py:161} INFO - Started process (PID=1376) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:23:37.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:23:37.646+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:23:37.646+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:23:37.869+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:23:37.876+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:23:37.876+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:23:37.882+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:23:37.882+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:23:37.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.244 seconds
+[2026-03-05T02:24:08.445+0000] {processor.py:161} INFO - Started process (PID=1452) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:24:08.445+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:24:08.446+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:24:08.446+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:24:08.760+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:24:08.768+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:24:08.767+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:24:08.781+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:24:08.781+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:24:08.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.343 seconds
+[2026-03-05T02:24:39.358+0000] {processor.py:161} INFO - Started process (PID=1527) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:24:39.358+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:24:39.359+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:24:39.359+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:24:39.618+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:24:39.627+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:24:39.627+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:24:39.639+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:24:39.639+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:24:39.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.289 seconds
+[2026-03-05T02:25:09.944+0000] {processor.py:161} INFO - Started process (PID=1602) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:25:09.946+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:25:09.948+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:25:09.948+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:25:10.194+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:25:10.204+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:25:10.204+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:25:10.214+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:25:10.214+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:25:10.223+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-03-05T02:25:40.647+0000] {processor.py:161} INFO - Started process (PID=1678) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:25:40.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:25:40.650+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:25:40.650+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:25:40.877+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:25:40.886+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:25:40.886+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:25:40.897+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:25:40.897+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:25:40.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.260 seconds
+[2026-03-05T02:26:11.777+0000] {processor.py:161} INFO - Started process (PID=1755) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:26:11.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:26:11.779+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:26:11.779+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:26:11.953+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:26:11.962+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:26:11.962+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:26:11.975+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:26:11.974+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:26:11.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.208 seconds
+[2026-03-05T02:26:42.592+0000] {processor.py:161} INFO - Started process (PID=1831) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:26:42.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:26:42.594+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:26:42.594+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:26:42.767+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:26:42.778+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:26:42.778+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:26:42.790+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:26:42.790+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:26:42.800+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-03-05T02:27:12.842+0000] {processor.py:161} INFO - Started process (PID=1907) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:27:12.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:27:12.843+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:27:12.843+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:27:13.041+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:27:13.052+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:27:13.052+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:27:13.062+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:27:13.062+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:27:13.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.231 seconds
+[2026-03-05T02:27:44.250+0000] {processor.py:161} INFO - Started process (PID=1983) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:27:44.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:27:44.271+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:27:44.270+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:27:44.535+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:27:44.551+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:27:44.550+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:27:44.617+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:27:44.617+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:27:44.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.403 seconds
+[2026-03-05T02:28:14.756+0000] {processor.py:161} INFO - Started process (PID=2059) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:28:14.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:28:14.757+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:28:14.757+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:28:14.939+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:28:14.949+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:28:14.949+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:28:14.958+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:28:14.958+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:28:14.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.210 seconds
+[2026-03-05T02:28:45.486+0000] {processor.py:161} INFO - Started process (PID=2135) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:28:45.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:28:45.488+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:28:45.488+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:28:45.673+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:28:45.684+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:28:45.684+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:28:45.692+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:28:45.692+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:28:45.698+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.214 seconds
+[2026-03-05T02:29:16.221+0000] {processor.py:161} INFO - Started process (PID=2211) to work on /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:29:16.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-05T02:29:16.223+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:29:16.223+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:29:16.408+0000] {processor.py:840} INFO - DAG(s) 'bluebikes_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py
+[2026-03-05T02:29:16.419+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:29:16.419+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-05T02:29:16.428+0000] {logging_mixin.py:188} INFO - [2026-03-05T02:29:16.428+0000] {dag.py:3823} INFO - Setting next_dagrun for bluebikes_api_to_s3_to_snowflake to 2026-04-01 00:00:00+00:00, run_after=2026-07-01 00:00:00+00:00
+[2026-03-05T02:29:16.435+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/bluebikes_api_to_s3_to_snowflake.py took 0.215 seconds

@@ -1,0 +1,43 @@
+[2026-02-26T19:54:49.845+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: neighborhoods_to_s3_to_snowflake.fetch_and_convert manual__2026-02-26T19:54:47.985274+00:00 [queued]>
+[2026-02-26T19:54:49.848+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: neighborhoods_to_s3_to_snowflake.fetch_and_convert manual__2026-02-26T19:54:47.985274+00:00 [queued]>
+[2026-02-26T19:54:49.848+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-26T19:54:49.853+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): fetch_and_convert> on 2026-02-26 19:54:47.985274+00:00
+[2026-02-26T19:54:49.857+0000] {standard_task_runner.py:60} INFO - Started process 92 to run task
+[2026-02-26T19:54:49.861+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'neighborhoods_to_s3_to_snowflake', 'fetch_and_convert', 'manual__2026-02-26T19:54:47.985274+00:00', '--job-id', '240', '--raw', '--subdir', 'DAGS_FOLDER/neighborhoods_to_s3_to_snowflake.py', '--cfg-path', '/tmp/tmp0nd9s_t2']
+[2026-02-26T19:54:49.863+0000] {standard_task_runner.py:88} INFO - Job 240: Subtask fetch_and_convert
+[2026-02-26T19:54:49.884+0000] {task_command.py:423} INFO - Running <TaskInstance: neighborhoods_to_s3_to_snowflake.fetch_and_convert manual__2026-02-26T19:54:47.985274+00:00 [running]> on host d398a380d6c2
+[2026-02-26T19:54:49.917+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='neighborhoods_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='fetch_and_convert' AIRFLOW_CTX_EXECUTION_DATE='2026-02-26T19:54:47.985274+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-26T19:54:47.985274+00:00'
+[2026-02-26T19:54:49.937+0000] {logging_mixin.py:188} INFO - Fetching neighborhood GeoJSON from https://data.boston.gov/dataset/bf1a7b50-4c72-4637-b0fa-11d632e3aff1/resource/e5849875-a6f6-4c9c-9d8a-5048b0fbd03e/download/boston_neighborhood_boundaries.geojson
+[2026-02-26T19:54:53.673+0000] {logging_mixin.py:188} INFO - Found 26 neighborhood features
+[2026-02-26T19:54:53.674+0000] {logging_mixin.py:188} INFO -   ROSLINDALE: centroid (42.282515, -71.126662)
+[2026-02-26T19:54:53.675+0000] {logging_mixin.py:188} INFO -   JAMAICA PLAIN: centroid (42.307761, -71.115096)
+[2026-02-26T19:54:53.675+0000] {logging_mixin.py:188} INFO -   MISSION HILL: centroid (42.331733, -71.102606)
+[2026-02-26T19:54:53.675+0000] {logging_mixin.py:188} INFO -   LONGWOOD: centroid (42.3386, -71.105102)
+[2026-02-26T19:54:53.676+0000] {logging_mixin.py:188} INFO -   BAY VILLAGE: centroid (42.349095, -71.069031)
+[2026-02-26T19:54:53.676+0000] {logging_mixin.py:188} INFO -   LEATHER DISTRICT: centroid (42.350974, -71.057828)
+[2026-02-26T19:54:53.676+0000] {logging_mixin.py:188} INFO -   CHINATOWN: centroid (42.349019, -71.061661)
+[2026-02-26T19:54:53.676+0000] {logging_mixin.py:188} INFO -   NORTH END: centroid (42.365456, -71.053857)
+[2026-02-26T19:54:53.677+0000] {logging_mixin.py:188} INFO -   ROXBURY: centroid (42.31851, -71.086643)
+[2026-02-26T19:54:53.677+0000] {logging_mixin.py:188} INFO -   SOUTH END: centroid (42.341342, -71.071369)
+[2026-02-26T19:54:53.677+0000] {logging_mixin.py:188} INFO -   BACK BAY: centroid (42.349852, -71.080535)
+[2026-02-26T19:54:53.680+0000] {logging_mixin.py:188} INFO -   EAST BOSTON: centroid (42.37267, -71.015695)
+[2026-02-26T19:54:53.680+0000] {logging_mixin.py:188} INFO -   CHARLESTOWN: centroid (42.379301, -71.063766)
+[2026-02-26T19:54:53.681+0000] {logging_mixin.py:188} INFO -   WEST END: centroid (42.36466, -71.06559)
+[2026-02-26T19:54:53.681+0000] {logging_mixin.py:188} INFO -   BEACON HILL: centroid (42.357041, -71.068262)
+[2026-02-26T19:54:53.681+0000] {logging_mixin.py:188} INFO -   DOWNTOWN: centroid (42.355585, -71.05765)
+[2026-02-26T19:54:53.682+0000] {logging_mixin.py:188} INFO -   FENWAY: centroid (42.344758, -71.096114)
+[2026-02-26T19:54:53.682+0000] {logging_mixin.py:188} INFO -   BRIGHTON: centroid (42.348348, -71.154935)
+[2026-02-26T19:54:53.683+0000] {logging_mixin.py:188} INFO -   WEST ROXBURY: centroid (42.280634, -71.160026)
+[2026-02-26T19:54:53.683+0000] {logging_mixin.py:188} INFO -   HYDE PARK: centroid (42.255026, -71.126298)
+[2026-02-26T19:54:53.684+0000] {logging_mixin.py:188} INFO -   MATTAPAN: centroid (42.276996, -71.091446)
+[2026-02-26T19:54:53.685+0000] {logging_mixin.py:188} INFO -   DORCHESTER: centroid (42.298454, -71.063456)
+[2026-02-26T19:54:53.686+0000] {logging_mixin.py:188} INFO -   SOUTH BOSTON WATERFRONT: centroid (42.346408, -71.041726)
+[2026-02-26T19:54:53.687+0000] {logging_mixin.py:188} INFO -   SOUTH BOSTON: centroid (42.3349, -71.044643)
+[2026-02-26T19:54:53.687+0000] {logging_mixin.py:188} INFO -   ALLSTON: centroid (42.358397, -71.128562)
+[2026-02-26T19:54:53.688+0000] {logging_mixin.py:188} INFO -   HARBOR ISLANDS: centroid (42.327932, -70.968775)
+[2026-02-26T19:54:53.688+0000] {logging_mixin.py:188} INFO - Successfully parsed 26 neighborhoods with centroids
+[2026-02-26T19:54:53.689+0000] {logging_mixin.py:188} INFO - CSV saved to /opt/***/boston_neighborhoods_20260226T195447.csv
+[2026-02-26T19:54:53.702+0000] {python.py:201} INFO - Done. Returned value was: {'csv_path': '/opt/***/boston_neighborhoods_20260226T195447.csv', 'record_count': 26}
+[2026-02-26T19:54:53.710+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=neighborhoods_to_s3_to_snowflake, task_id=fetch_and_convert, execution_date=20260226T195447, start_date=20260226T195449, end_date=20260226T195453
+[2026-02-26T19:54:53.750+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-26T19:54:53.763+0000] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,764 @@
+--- Page 1 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+HEALTH OF BOSTON
+2023
+COMMUNITY ASSETS REPORT
+BISOLA OJIKUTU MD, MPH, FIDSA
+COMMISSIONER OF PUBLIC HEALTH, CITY OF BOSTON
+EXECUTIVE DIRECTOR, BOSTON PUBLIC HEALTH COMMISSION
+
+--- Page 2 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+ACKNOWLEDGEMENTS
+This report was prepared by Helen Ayanian, Neelesh Batra, MS, Eleni Digenis-Bury, MPH,
+Aanchal Gupta, MS, Kathryn Hall, PhD, Johnna Murphy, MPH, Roy Wada, PhD, and Pei-Chin Wu,
+PhD candidate.
+We would like to acknowledge the Boston Age Strong Commission for providing guidance on
+age-friendly maps.
+COPYRIGHT INFORMATION
+All material contained in this report is in the public domain and may be used and reprinted
+without special permission; however, a citation as to the source is appropriate.
+SUGGESTED CITATION
+Boston Public Health Commission, Health of Boston 2023: The Community Assets Report
+(Boston, Massachusetts 2023)
+Boston Public Health Commission
+
+--- Page 3 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+FOREWORD
+Welcome to the Boston Public Health Commission’s (BPHC) Health of Boston 2023: The
+Community Assets Report. This is one of a series of reports on the latest health status of the
+city of Boston residents.
+Community assets are aspects of the local environment that positively impact quality of life and
+well-being. These can include resources in the physical environment, such as recreational parks
+and bikeways, as well as elements of community cohesion and engagement, such as having
+active community groups. These resources are often measured by their proximity and
+accessibility to a neighborhood immediately around where people reside. Community assets
+are important social determinants of health1.
+This report documents community assets by Boston neighborhood to help guide public health
+officials, community leaders, and Boston residents on their availability. Understanding
+neighborhood differences in assets is important for improving and maintaining public health
+across Boston.
+Boston Public Health Commission
+
+--- Page 4 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+SUMMARY
+This chapter describes the distribution of community assets related to civic engagement and
+the built environment among Boston residents, many of which vary at the neighborhood level.
+Boston neighborhoods are described in Table 1.
+Civic Engagement
+City-wide voter turnout for the presidential election in 2020 (68%) was similar to that of 2016
+(67%). Rates for the two most recent elections were 33% in November 2021 for the mayoral
+and city council elections, and 40% in November 2022 for statewide offices. Precincts with
+lower voter turnout for the general election were concentrated in the neighborhoods of
+Dorchester (zip codes 02121, 02125), Fenway, and Roxbury.
+Boston residents initiated over 276,721 non-emergency service requests to Boston’s 311
+service in 2022. The highest rates of these service requests were in the neighborhoods of
+Dorchester (02122, 02124), Roxbury and Back Bay/Beacon Hill/Downtown/North End/
+West End.
+Built Environment
+Boston’s protected and recreational open space provides residents with access to parks and
+greenery for leisure and exercise. Approximately 80% of Boston’s open space is publicly
+accessible, with the largest open space locations in the central and southwestern areas. Hyde
+Park and Jamaica Plain have the most open space of all the neighborhoods in Boston, while
+South End and Roxbury have the least. Along with this, Boston has over 55 miles of bicycle trails
+available for public use.
+In 2010, 25% of Boston residents were over the age of 50 and 13% were over the age of 60.
+Projections show that by 2030, Boston’s 60+ population will grow faster than the population as
+a whole and reach over 130,000 people2. Boston has a large amount of “Age-friendly” outdoor
+spaces that are accessible, well-lit and well-marked public spaces.
+While Boston offers a diverse network of food resources for its local communities, including
+community gardens, farmer’s markets, local grocery stores, and other licensed food venues, the
+majority of these resources are located in the Fenway and Downtown areas. Nutritional
+assistance programs are available around Boston for communities that may struggle to meet
+Boston Public Health Commission
+
+--- Page 5 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+their nutritional needs including low-income households, seniors, women and children.
+Roxbury, South End and Dorchester (02121, 02125) have the highest number of food pantries in
+Boston.
+The median assessed value of residential properties in Boston increased 26.7% in the last 5
+years, with the largest increases in East Boston (02128), Dorchester (02121), Roxbury (02120)
+and South Boston (02210).
+Although Boston is known to be a hub for higher education, the universities are concentrated in
+the neighborhoods of Fenway, Back Bay, Beacon Hill, Downtown, North End, and West End.
+Boston Public Health Commission
+
+--- Page 6 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+TABLE OF CONTENTS
+INTRODUCTION ............................................................................................................. Page 1
+SECTION 1. BUILT ENVIRONMENT .................................................................................. Page 3
+Land Use and Resources .......................................................................................... Page 5
+Figure 1. Land Use and Zoning, 2023 ........................................................................ Page 5
+Figure 2. General Open Space and Bicycle Trails by Neighborhood, 2023 .................. Page 7
+Figure 3. General Open Space by Type and Neighborhood, 2023 .............................. Page 9
+Figure 4. General Open Space by Public Access and Neighborhood, 2023 ................ Page 10
+Figure 5. Percentage of General Open Space by Neighborhood, 2023 ..................... Page 11
+Figure 6. Landmarks, Historic Districts, and Main Street Districts by
+Neighborhood, 2023 ............................................................................... Page 12
+Figure 7. Walk Score® by Zip Code, 2023 ................................................................ Page 13
+Figure 8. Public Restrooms by Neighborhood, 2023 ................................................ Page 15
+Figure 9. Age Friendly Resources by Neighborhood, 2023 ....................................... Page 16
+Community and Nutritional Resources................................................................... Page 18
+Figure 10. Activity Centers by Neighborhood, 2023 ................................................ Page 18
+Figure 11. Food Resources by Neighborhood, 2023 ................................................ Page 20
+Figure 12. Nutritional Assistance Programs by Neighborhood, 2023 ....................... Page 21
+Residential Property Values................................................................................... Page 23
+Figure 13. Median Residential Property Value by Zip Code, 2023 ............................ Page 23
+Figure 14. Inflation-Adjusted Annual Growth Rate in Median Residential Property
+Value by Zip Code, 2018 to 2023 ............................................................ Page 23
+Educational Resources .......................................................................................... Page 25
+Figure 15. Public, Charter, and Parochial Schools by Neighborhood, 2023 ............... Page 25
+Boston Public Health Commission
+
+--- Page 7 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 16. Colleges and Universities by Neighborhood, 2023 .................................. Page 27
+SECTION 1. CIVIC ENGAGEMENT .................................................................................. Page 28
+Figure 17 Voter Turnout by Election Type and Voting Precinct, 2020,2021, 2022. ... Page 29
+Figure 18. Constituent-Initiated Boston 311 Service Requests
+by Neighborhood, 2022 ......................................................................... Page 31
+Table 1. Leading Types of Boston 311 Service Requests, 2022 ................................. Page 32
+REFERENCES ................................................................................................................ Page 33
+Boston Public Health Commission
+
+--- Page 8 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+INTRODUCTION
+Broadly speaking, community assets are critical social, cultural, and physical resources that
+make it easier for people to make healthy choices3. Boston's neighborhoods offer a rich
+landscape of assets that contribute to the well-being of its residents. This report examines the
+distribution of these community-level determinants within neighborhoods across Boston. It is
+essential to acknowledge that while some neighborhoods may thrive with abundant resources,
+others do not. Through this lens, we seek to offer a comprehensive view of Boston's strengths,
+areas for improvement, and a blueprint to ensure that every resident has the opportunity to
+lead a healthy life.
+What are community assets?
+Community assets are the resources that improve the quality of community life and provide a
+healthier environment for residents4 creating opportunities to engage in activities that improve
+health and well-being5. Community assets include access to healthy food, active living
+environments, having a voice in the political process, and good municipal services6-11.
+Although all communities have assets that contribute to health, their distribution varies
+considerably. Research demonstrates that communities of color and low-income populations
+are less likely to have resources that promote health such as grocery stores, parks, and
+recreational programs8,9,12. Examples of community assets in Boston include:
+• Community programs such as community gardens and farmer’s markets
+• Local businesses such as grocery stores and restaurants
+• Natural resources such as rivers, trees, and public green spaces
+• Built environment such as parks, playgrounds, and shared use paths
+• Neighborhood groups such as community advisory and crime watch groups
+• Municipal services such as police, fire, and recreation services
+• Public institutions such as schools, libraries, and places of worship
+• Resources promoting civic engagement, such as the Boston 311 service for reporting
+non-emergency issues
+Since community assets play a significant role in the health and well-being of residents,
+recognizing and building upon existing community assets is an essential factor in promoting
+health equity.
+Boston Public Health Commission
+1
+
+--- Page 9 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Neighborhoods in Boston and Associated Zip Codes
+Neighborhood Abbreviation Zip codes Population Median Income
+Allston/Brighton A/B 02134, 02135, 02163 70,677 Allston: $52,040
+Brighton: $65,655
+Back Bay/Beacon BB/BH/DT/NE/WE 02108, 02109, 02110, 58,476 Back Bay: $97,763
+Hill/ 02113, 02114, 02116, Beacon Hill: $102,168
+Downtown/North 02199, 02222 Downtown: $168,638
+North End: $98,524
+End/West End
+West End: $83,811
+Charlestown CH 02129 19,407 $94,580
+Dorchester (02121, DOR (02121, 02121, 02125 64,134 $57,912
+02125) 02125)
+Dorchester (02122, DOR (02122, 02122, 02124 75,770 $62,156
+02124) 02124)
+East Boston EB 02128 43,327 $54,855
+Fenway/Kenmore FW 02115, 02215 58,908 Fenway: $37,863
+Kenmore: $38,467
+Hyde Park HP 02136 35,345 $64,903
+Jamaica Plain JP 02130 38,573 $84,036
+Mattapan MT 02126 22,922 $43,484
+Roslindale RS 02131 30,620 $77,945
+Roxbury RX 02119, 02120 47,376 $32,296
+South Boston SB 02127, 02210 44,734 $89,070
+South End SE 02111, 02118 39,294 $69,855
+(includes
+Chinatown)
+West Roxbury WR 02132 27,265 $90,484
+Boston Public Health Commission
+2
+
+--- Page 10 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+SECTION 1. BUILT ENVIRONMENT
+The built environment includes the physical makeup of where a person lives, works, and plays.
+It refers to land use, transportation systems, buildings, parks, traffic systems, trails, housing,
+and more13,14. From a public health perspective, the built environment refers to the interaction
+of the physical environment with inhabitants’ opportunities for health and wellness. Public
+health research has suggested that the way neighborhoods are created can affect both the
+physical and mental health of the residents living in a community15.
+Built environments that are designed to enhance physical activity may lead to higher rates of
+physical activity, which in turn, positively affects health of the population in that community16.
+Lack of these community assets can contribute to a rise in sedentary habits, which may further
+lead to poorer health outcomes such as chronic disease17,18. The addition of parks, recreation
+centers, and bike lanes support increased physical activity by providing places for residents to
+engage in exercise. There are various resources around Boston to encourage outdoor activity,
+including those designed specifically for older residents such as age-friendly walkways that
+feature age-friendly benches and public restrooms. Community programs and the presence of
+local businesses such as grocery stores, community gardens, farmer’s markets, and food banks
+can support healthy eating by providing easy access to fresh and affordable food. When such
+assets are missing from a community, the residents are less likely to eat nutritious foods, be
+physically active, and engage in community activities, leading to an overall decline in
+community health19-22.
+Housing prices can also affect residents’ physical and mental health. The greatest adverse
+effects of increasing housing prices were found amongst those who did not own property,
+including increased prevalence of depression23. In contrast, a sharp decline in housing was
+associated with an increase in psychological distress for those who own property24. Housing is
+related closely to a sense of belonging, security, and schooling. Historically, marginalized
+communities were denied control over housing when redlining, exclusionary zoning, and
+involuntary displacement policies were enforced25. The Federal Housing Administration (FHA)
+was originally established to provide affordable, long-term loans to eligible buyers to purchase
+property during the Great Depression. However, their initial zoning policies reflected prevailing
+attitudes of racial discrimination at the time; redlining was used to guarantee that any
+residential areas housing non-White individuals would be designated low property value and
+unstable community investments26. Home ownership is an important form of wealth
+accumulation; this practice therefore created a barrier to accumulation of wealth for people of
+color. In turn, these racist policies affected the socioeconomic status of multiple generations of
+Black Americans. Housing is therefore an important element to account for when viewing the
+impact of housing on health equity to gain a holistic understanding of how the built
+Boston Public Health Commission
+3
+
+--- Page 11 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+environment impacts public health and assists the communities that have been historically
+discriminated against.
+In this section of the report, we summarize indicators of the built environment including land
+use and zoning; residential property values; protected and recreational open space and bicycle
+trails; walkability; activity centers; landmarks, historic districts, and main street districts; food
+resources; and schools, colleges, and universities.
+Boston Public Health Commission
+4
+
+--- Page 12 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Land Resources
+Figure 1. Land Use and Zoning, 2023
+NOTE: “SE” includes the South End and Chinatown. Mixed-use zones (which may contain residential units) were
+excluded from residential area calculations, and the Harbor Islands were excluded from all calculations.
+DATA SOURCE: City of Boston, Boston Zoning Subdistricts, Analyze Boston
+Boston Public Health Commission
+5
+
+--- Page 13 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Land use in Boston is regulated through zoning. Approximately 49% of Boston’s 47.7 square
+miles (excluding Harbor Islands) are zoned for residential use, while approximately 24% are
+zoned for business, institutional, industrial, or mixed-use. The remaining 27% consists mostly of
+open space and miscellaneous uses.
+While residential areas span the city, most business and mixed-use zones lie in the northern
+regions, including Charlestown, Dorchester, and Back Bay, as well as South Boston. The largest
+open spaces are in central and southwestern Boston neighborhoods including Dorchester
+(Franklin Park and Neponset River Reservation), Jamaica Plain (The Arboretum and Jamaica
+Pond), and Hyde Park (Stony Brook Reservation). Logan International Airport, categorized as
+miscellaneous, occupies about half of East Boston.
+Boston Public Health Commission
+6
+
+--- Page 14 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 2. General Open Space and Bicycle Trails by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. This map includes Thompson and Spectacle Islands.
+DATA SOURCE: Bicycle Trails, Office of Geographic Information (MassGIS); Boston Zoning Subdistricts, Analyze
+Boston
+Boston’s protected and recreational open space provides residents with access to parks and
+greenery for leisure and exercise. There are approximately 8.4 square miles of open space and
+about 55.5 miles of bicycle trails in Boston. The Bicycle/Pedestrian Priority Roadway spans
+approximately 0.2 miles and bike lanes cover about 27.9 miles. Boston also boasts separated
+bike lanes measuring around 4.6 miles and shared-use paths extending for about 22.8 miles.
+Boston Public Health Commission
+7
+
+--- Page 15 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Separated bike lanes refer to areas where there is a vertical separation between bikes and cars,
+while bike lanes have no physical separation between the two. Examples of physical separation
+between bikes and cars include flex posts, parking-protected lanes and permanent curbs that
+create barriers between the bikes and cars.
+Separated bike lane with flex posts
+Location: Boylston Street, Fenway
+Boston Public Health Commission
+8
+
+--- Page 16 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 3. General Open Space by Type and Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. This map includes Thompson and Spectacle Islands.
+DATA SOURCE: Open Space, Analyze Boston
+Approximately 8.4 square miles of Boston’s 47.7 square miles is open space. Boston’s open
+space consists of cemeteries and burying grounds (3.2%); community gardens (less than 1%);
+malls, squares, and plazas (less than 1%); parks, playgrounds, and athletic fields (6.9%);
+parkway, reservations, and beaches (7%); and urban wilds (less than 1%).
+Boston Public Health Commission
+9
+
+--- Page 17 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 4. General Open Space by Public Access and Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. This map includes Thompson and Spectacle Islands.
+DATA SOURCE: Open Space, Analyze Boston
+Approximately 80.8% (6.8 square miles) of Boston’s open space is publicly accessible. Public
+access to some of the open space may be limited, depending on location and ownership. There
+are 58 locations within the open space with limited access, with the majority being cemeteries,
+private parks, farms, or harbor walks. Open space areas with public access include public
+parks, plazas, or facilities, like UMass' Harbor Walk, comprising a total of 474 accessible open
+space locations.
+Boston Public Health Commission
+10
+
+--- Page 18 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 5. Percentage of General Open Space by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. Logan International Airport was included as part of East Boston
+when determining the percentage of the neighborhood that is open space.
+DATA SOURCE: Open Space, Analyze Boston
+Approximately 17.7% percent of Boston neighborhoods, excluding the Harbor Islands, are open
+space. Hyde Park (32.2%) and Jamaica Plain (32%) have the highest percentages of land
+consisting of open space, while the South End (3.2%), and Roxbury (6.7%) have the lowest.
+Boston Public Health Commission
+11
+
+--- Page 19 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 6. Landmarks, Historic Districts, and Main Street Districts by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. Landmarks and historic districts are designated by the
+Boston Landmarks Commission (BLC). Main Streets are commercial districts sustained by a network of Main
+Streets Organizations.
+DATA SOURCE: Boston Landmarks Commission (BLC) Historic Districts, Analyze Boston
+Several city and community organizations have been established to preserve Boston’s rich
+cultural heritage by protecting historic buildings, places, and neighborhoods. Boston Main
+Streets, comprised of 20 Main Streets organizations, works to sustain healthy commercial
+districts through creative revitalization. The Boston Landmarks Commission (BLC) aims to
+preserve Boston’s historical neighborhoods through official designation of landmarks and
+historical districts and architectural design review. Nine local Historic District Commissions
+review property proposals within each Historic District.
+Boston Public Health Commission
+12
+
+--- Page 20 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 7. Walk Score® by Zip Code, 2023
+NOTE: “SE” includes the South End and Chinatown. Walk Score®(walkscore.com) ranking is an index of pedestrian
+friendliness that measures walkability on a scale from 0 to 100. Data for the portion of Chestnut Hill (ZIP code
+02467) that is in Boston were unavailable and therefore not mapped.
+DATA SOURCE: Redfin Real Estate in Boston, https://www.redfin.com/city/1826/MA/Boston
+Boston is the third most walkable large city in the United States and Canada, with a Walk
+Score® (www.walkscore.com) ranking of 83. The Walk Score walkability index, published by
+www.walkscore.com, ranges from 0 to 100 and is based on walking routes to local destinations
+such as grocery stores, parks, schools, and store outlets. Walk Score index also measures
+pedestrian friendliness by analyzing population density and road metrics such as block length
+and intersection density.
+Boston Public Health Commission
+13
+
+--- Page 21 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+The data in the map are grouped using categories established by the creators of the Walk
+Score index. Most areas in Boston are categorized as either a “Walker’s Paradise” (daily
+errands do not require a car) or “Very Walkable” (most errands can be accomplished on foot).
+Walk Score rankings are highest downtown (99) and in the North End (99) and decrease
+farther away from those areas. The lowest Walk Score rankings are in Mattapan (69), West
+Roxbury (63), and Hyde Park (58).
+Boston Public Health Commission
+14
+
+--- Page 22 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 8. Public Restrooms by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown.
+DATA SOURCE: Age Strong Commission, City of Boston
+There are 121 restrooms available for the public within Boston. The majority of the restrooms
+(117) include wheelchair accessible stalls and do not require stairs for access.
+The downtown areas have the highest number of public restrooms (29), followed by South
+Boston (19), while South End (3), Mattapan (2), and Fenway (1) have the lowest.
+Boston Public Health Commission
+15
+
+--- Page 23 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 9. Age-Friendly Resources by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. This map does not reflect all benches in Boston, only benches
+that are age-friendly. DATA SOURCE: Age Strong Commission, City of Boston; Boston Centers for Youth and
+Families (BCYF)
+In 2010, 25% of Boston residents were over the age of 50 and 13% were over the age of 60.
+Projections show that by 2030, Boston’s 60+ population will grow faster than the population as
+a whole and reach over 130,000 people2. The Age-Friendly Boston project within the Boston
+Age Strong Commission works with Boston's public agencies, businesses, cultural, educational,
+and religious institutions, and community groups with the intention of enhancing the quality of
+Boston Public Health Commission
+16
+
+--- Page 24 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+life for residents. The project’s aim is to address the needs of older adults by creating an
+environment that is more conducive to an aging population27.
+In 2018, West Roxbury had the highest percentage of older residents (aged 60+), making up
+25.6% of the neighborhood population. This was followed closely by Hyde Park at 20.5% of the
+neighborhood population. Neighborhoods with high percentages of young adults had the
+lowest shares of older residents, including Longwood (0.7%), Allston (4.5%), and Fenway
+(6.2%)28.
+Age-friendly outdoor spaces are accessible, well-lit and well-marked public spaces29. Outdoor
+walks are considered age-friendly if the paths are smooth, free of stairs, and there is parking
+nearby, and the City of Boston plows them in the winter. Age-friendly benches have raised
+armrests on the end and center of the bench, raised seats and backs for easy support, and are
+temperature-resistant.
+Boston Public Health Commission
+17
+
+--- Page 25 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Community and Nutritional Resources
+Figure 10. Activity Centers by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown. In addition to the DCR swimming pools indicated on this map,
+many BCYF, YMCA, and Boys and Girls Club locations also maintain swimming pools.
+DATA SOURCE: Boston Centers for Youth & Families (BCYF); YMCA of Greater Boston; Boys & Girls Clubs of
+America; Boston Public Library; Department of Conservation and Recreation (DCR), Commonwealth of
+Massachusetts
+Boston Public Health Commission
+18
+
+--- Page 26 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+There are a variety of activity centers offering affordable individual and group-based
+extracurricular activities for youth and adults in Boston. The city maintains 35 Boston Centers
+for Youth and Families (BCYF) locations. There were 482,014 visits to BCYF locations between
+September 1, 2022, and August 31, 2023. There are 26 Boston Public Library branches in
+Boston. The YMCA has 14 facilities, and Boys and Girls Clubs of America has 13 locations in
+Boston. The Massachusetts Department of Conservation and Recreation (DCR) also maintains 9
+spray decks, 3 swimming pools, 2 wading pools, and 9 ice skating rinks in Boston. (In addition to
+these DCR swimming pools, many BCYF, YMCA, and Boys and Girls Club locations also maintain
+swimming pools.)
+Boston Public Health Commission
+19
+
+--- Page 27 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 11. Food Resources by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown.
+DATA SOURCE: Community Garden and Urban Farm Directory, City of Boston; Boston Farmers Market , City of
+Boston; InfoUSA Business Database, Boston Planning & Development Agency Research Division Analysis; Active
+Food Establishment Licenses, Analyze Boston
+Boston offers a diverse network of food resources for its local communities, including
+community gardens, farmer’s markets, local grocery stores, and other licensed food venues. As
+of 2023, Boston residents have access to 133 community gardens, 22 farmer’s markets, 240
+grocery stores and 3,115 licensed food spots within city boundaries. Neighborhoods including
+the Back Bay, Beacon Hill, Downtown, the North End, the West End and Fenway exhibit a dense
+distribution of licensed food spots.
+Boston Public Health Commission
+20
+
+--- Page 28 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 12. Nutritional Assistance Programs by Neighborhood, 2023
+NOTE: “SE” includes the South End and Chinatown.
+DATA SOURCE: SNAP Department of Transitional Assistance Locations, Mass.gov; SNAP Outreach Partners,
+Mass.gov; WIC Information for Participants Locations, Mass.gov; The Greater Boston Food Bank; Nutrition
+Services, City of Boston.
+There are a variety of nutrition assistance programs and resources in Boston, from local food
+pantries and meal programs to federally-funded programs such as the Special Supplemental
+Nutrition Program for Women, Infants, and Children (WIC) and the Supplemental Nutrition
+Assistance Program (SNAP).
+Boston Public Health Commission
+21
+
+--- Page 29 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+WIC is designed to support low-income women during pregnancy, post-partum and
+breastfeeding, and infants and children up to age 5 years who are at nutritional risk. Mobile
+Markets are free farmers markets serving low-income populations including seniors, veterans,
+community health center patients, and students in underserved communities. The Senior
+Nutrition Program serves people aged 60 years or older and their spouses. This includes
+programs like Meals on Wheels to help elders maintain independence so they can continue to
+live in their homes. SNAP is a nutrition program that allows participants to purchase food using
+the program’s electronic system at authorized retailers. Program participants are typically
+older adults, persons with severe disabilities, and families struggling with temporary
+unemployment or under employment.
+Boston Public Health Commission
+22
+
+--- Page 30 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Residential Property Values
+Figure 13. Median Residential Property Value by Zip Code, 2023
+NOTE: “SE” includes the South End and Chinatown. Restricted to residential or mixed-use properties with assessed
+values and living space; Data for the portion of zip code 02467 in Boston are not presented.
+DATA SOURCE: Property Assessment, Analyze Boston
+The median assessed value of residential properties in Boston nominally increased 50.7% from
+$201 per square feet in 2018 to $303 per square feet in 2023. When adjusted for inflation, the
+increase in value was much less, at 26.7% with an overall inflation rate of 19% during the same
+period (according to the Consumer Price Index). The highest median assessed value was found
+in Back Bay, 02199 ($1,342 per square foot) and Beacon Hill, 02108 ($898 per square foot). In
+contrast, the most modest median assessed values were found in Hyde Park, 02136 ($89 per
+square foot) and Mattapan, 02126 ($105 per square foot).
+Boston Public Health Commission
+23
+
+--- Page 31 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 14. Inflation-Adjusted Annual Growth Rate in Median Residential Property Value by Zip
+Code, 2018 to 2023
+NOTE: “SE” includes the South End and Chinatown. Restricted to residential or mixed-use properties with assessed
+values and living space.
+Data was adjusted for inflation using the Consumer Price Index. Data for the portion of zip code 02467 in Boston
+are not presented.
+DATA SOURCE: Property Assessment, Analyze Boston
+The median per square foot assessed value of residential properties in Boston increased 26.7%
+in five years between 2018 and 2023, or 5.3% per year, after adjusting for inflation. The largest
+increases in the median per square foot assessed value within a zip code were observed in the
+zip codes associated with East Boston (8.4% per year in 02128), Dorchester 02121 (6% per year)
+and Roxbury (5.8% per year in 02119). These neighborhoods historically have the lowest income,
+and the vast increases seen in the last 5 years suggests a gentrification of these neighborhoods.
+Boston Public Health Commission
+24
+
+--- Page 32 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Educational Resources
+Figure 15. Public, Charter, and Parochial Schools by Neighborhood, 2023
+NOTE: If a school has more than one site (e.g., a lower school and upper school), each site has its own point on the
+map; Two different schools share the same site at three different sites; "Boston Public Schools: Non-Traditional"
+includes the following types of schools (number of sites and types are not mutually exclusive): Alternative (3), Dual
+Language (8), Early Education Center (4), Exam (3), Horace Mann Charter (7), Inclusion (2), Innovation (9),
+International Baccalaureate (2), Pilot (20), Receivership (1), Special Education (1 school spread across 4 sites), and
+Specialized (1). “SE” includes the South End and Chinatown.
+DATA SOURCE: Boston Public Schools, School List; Massachusetts Charter Public School Association, "Find a Charter
+Public School" online tool; Archdiocese of Boston, Boston Catholic Directory; and U.S. Census Bureau, 2020
+Decennial Census. School data was retrieved in August 2023.
+Boston Public Health Commission
+25
+
+--- Page 33 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Boston Public Schools (BPS) and a network of independent schools provide Boston residents
+with access to education for grades K-12. Of the 170 public, charter, or parochial school sites,
+62 were traditional public schools (operated by BPS), 62 were non-traditional public schools
+(also operated by BPS), 27 were charter schools, and 19 were parochial schools.
+The 62 non-traditional public schools operated by BPS include the following types of schools
+(number of sites and types are not mutually exclusive): Alternative (3), Dual Language (8), Early
+Education Center (4), Exam (3), Horace Mann Charter (7), Inclusion (2), Innovation (9),
+International Baccalaureate (2), Pilot (20), Receivership (1), Special Education (1 school spread
+across 4 sites), and Specialized (1).
+Boston Public Health Commission
+26
+
+--- Page 34 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Figure 16. Colleges and Universities by Neighborhood, 2023
+NOTE: "SE" includes the South End and Chinatown; Boston College located in Chestnut Hill is not represented on
+this map.
+DATA SOURCE: College Navigator, National Center for Educational Statistics
+Boston residents have access to a variety of local centers of higher education. In addition to
+four public colleges and universities within the city boundary, there are 20 private non-profit
+colleges and universities. Although Boston is known to be a hub for higher education, the
+colleges and universities are concentrated in the neighborhoods of Fenway, Back Bay, Beacon
+Hill, Downtown, North End, and West End. There are no colleges or universities in the
+neighborhoods of West Roxbury, Hyde Park, Mattapan, Roslindale, and Jamaica Plain.
+Boston Public Health Commission
+27
+
+--- Page 35 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+SECTION 2. CIVIC ENGAGEMENT
+Civic engagement creates healthier communities through community activities including
+volunteering and voting30-36. These actions enhance involvement and responsibility by residents
+in their communities and demonstrate that residents care about outcomes and desire to
+cultivate positive change37. Active engagement in one’s community has been associated with
+various positive health outcomes including improved physical and mental health, increased
+psychosocial well-being, and reduced mortality rates34-36. As an example, voting and voluntary
+participation in community-based associations has been correlated with better self-reported
+health31-33.
+Organizations like Main Street Districts and Community Development Corporations provide
+opportunities for residents to help shape and design neighborhoods. Municipal governments
+can stimulate community involvement by listening to residents and responding swiftly to
+community concerns. Boston 311 is a city service provided to residents for reporting of non-
+emergency issues (e.g., reporting potholes, graffiti, or if a streetlamp is out) and requesting
+information. Residents can access 311 services via phone, an online self-service form, X
+(Twitter), or a mobile application. Electronic reporting systems such as Boston 311 increase civic
+engagement by providing an accessible way for residents to hold government accountable for
+delivering non-emergency services like street cleaning, snow plowing, and pothole repair30.
+In this section of the report, we summarize indicators of civic engagement including Boston 311
+service requests and voter turnout rates.
+Boston Public Health Commission
+28
+
+--- Page 36 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Voter Participation
+Figure 17. Voter Turnout by Election Type and Voting Precinct, 2020, 2021, 2022
+NOTE: “SE” includes the South End and Chinatown. Percentages are determined by dividing the total number of ballots cast by the total number of
+registered voters in each precinct.
+DATA SOURCE: City of Boston, Election Department
+In the 2020 presidential general election, 68.4% of registered voters in Boston cast a ballot.
+Boston Public Health Commission
+29
+
+--- Page 37 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Voter turnout is the percentage of registered voters who cast a ballot in an election. The voter
+turnout rates in Boston for the three most recent general elections were 68% in November
+2020 for the presidential election, 33% in November 2021 for the mayoral and city council
+elections, and 40% in November 2022 for statewide offices.
+The turnout rate differed across precincts. Precincts in West Roxbury, Roslindale, Jamaica Plain,
+and eastern Dorchester consistently had the highest voter turnout rates, while precincts in
+western Dorchester, Roxbury, and Fenway had the lowest voter turnout rates.
+Boston Public Health Commission
+30
+
+--- Page 38 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Boston 311 Service Requests
+Figure 18. Constituent-Initiated Boston 311 Service Requests by Neighborhood, 2022
+NOTE: “SE” includes the South End and Chinatown. Data includes 311 service requests by phone, online, and
+through the mobile application; When a precinct was split across neighborhoods, the number of service requests
+was allocated proportionally by area size; Density calculations were based on the 2021 Boston Population
+Estimate Project.
+DATA SOURCE: City of Boston, 311 Service Requests; Boston Public Health Commission, Boston Population
+Estimate Project.
+Boston Public Health Commission
+31
+
+--- Page 39 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+Table 1. Leading Types of Boston 311 Service Requests, 2022
+Types of Calls Number of Calls
+Parking Enforcement 57,662
+Requests for Street Cleaning 19,276
+Improper Storage of Trash (Barrels) 15,920
+Missed Trash/Recycling/Yard
+Waste/Bulk Item 13,792
+Code Enforcement Collection 13,162
+NOTE: Data includes 311 reports and service requests by phone,
+online, and through the mobile application.
+DATA SOURCE: City of Boston, 311 Service Requests
+In 2022, Boston residents made more than 276,721 reports and service requests to Boston 311.
+Of those, the highest number of requests were for parking enforcement (parking violations)
+with 57,662 requests. Other leading types of service requests included requests for street
+cleaning, improper trash storage, scheduling a bulk item pickup for garbage or recycling, missed
+trash or recycling items, and code enforcement collection (illegal dumping).
+Boston Public Health Commission
+32
+
+--- Page 40 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+REFERENCES
+1. Braveman P, Egerter S, Williams DR (2011). The social determinants of health: coming of age.
+Annu Rev Public Health. 32, 381–98.
+2. World Health Organization (2017). Boston - Age-Friendly World. Available from:
+https://extranet.who.int/agefriendlyworld/network/boston/
+3. Farrer L, Marinetti C, Cavaco YK, Costongs C. (2015). Advocacy for health equity: a synthesis
+review. The Milbank quarterly, 93(2), 392-437.
+4. KU Work Group for Community Health and Development. (2015). Identifying Community Assets
+and Resources. Community Tool Box. Lawrence, KS: University of Kansas.
+5. Glasgow Centre for Population Health. (2011). Asset based approaches for health improvement:
+redressing the balance. Glasgow: Glasgow Centre for Population Health.
+6. Christine PJ, Auchincloss AH, Bertoni AG, Carnethon MR, Sanchez BN, Moore K, et al. (2015).
+Longitudinal Associations Between Neighborhood Physical and Social Environments and Incident
+Type 2 Diabetes Mellitus: The Multi-Ethnic Study of Atherosclerosis (MESA). JAMA internal
+medicine, 175(8), 1311-20.
+7. Gordon-Larsen P, Boone-Heinonen J, Sidney S, Sternfeld B, Jacobs DR, Jr., Lewis CE. (2009).
+Active commuting and cardiovascular disease risk: the CARDIA study. Archives of internal
+medicine, 169(13), 1216-23.
+8. Hilmers A, Hilmers DC, Dave J. (2012). Neighborhood disparities in access to healthy foods and
+their effects on environmental justice. American journal of public health, 102(9), 1644-54.
+9. Lochner KA, Kawachi I, Brennan RT, Buka SL. (2003). Social capital and neighborhood mortality
+rates in Chicago. Social science & medicine (1982), 56(8), 1797-805.
+10. Papas MA, Alberg AJ, Ewing R, Helzlsouer KJ, Gary TL, Klassen AC. (2007). The built environment
+and obesity. Epidemiologic reviews, 29, 129-43.
+11. Wedick, N. M., Ma, Y., Olendzki, B. C., Procter-Gray, E., Cheng, J., Kane, K. J., ... & Others. (2015).
+Access to healthy food stores modifies effect of a dietary intervention. American journal of
+preventive medicine, 48(3), 309-317.
+12. Wen, M., Zhang, X., Harris, C. D., Holt, J. B., & Croft, J. B. (2013). Spatial disparities in the
+distribution of parks and green spaces in the USA. Annals of behavioral medicine: a publication
+of the Society of Behavioral Medicine, 45(Suppl 1), S18-27.
+Boston Public Health Commission
+33
+
+--- Page 41 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+13. Centers for Disease Control and Prevention, National Center for Environmental Health, Division
+of Emergency and Environmental Health Services. (2011). Healthy Community Design: Impact of
+the Built Environment on Health. June 2011.
+14. Sallis JF, Floyd MF, Rodríguez DA, Saelens BE. (2013). The Role of Built Environments in Physical
+Activity, Obesity, and CVD. Circulation, 125(5), 729-37.
+15. Renalds A, Smith TH, Hale PJ. (2010). A systematic review of built environment and health.
+Family & community health, 33(1), 68-78.
+16. Carlson C, Aytur S, Gardner K, Rogers S. (2012). Complexity in built environment, health, and
+destination walking: a neighborhood-scale analysis. Journal of urban health: bulletin of the New
+York Academy of Medicine, 89(2), 270-84.
+17. Krieger J, Rabkin J, Sharify D, Song L. (2009). High point walking for health: creating built and
+social environments that support walking in a public housing community. American journal of
+public health, 99 Suppl 3, S593-9.
+18. Massachusetts Department of Public Health. (2010). Health of Massachusetts: Community
+Assets. Boston2010.
+19. Leyden KM. (2003). Social capital and the built environment: the importance of walkable
+neighborhoods. American journal of public health, 93(9), 1546-51.
+20. Casagrande SS, Whitt-Glover MC, Lancaster KJ, Odoms-Young AM, Gary TL. (2009). Built
+environment and health behaviors among African Americans: a systematic review. American
+journal of preventive medicine, 36(2), 174-81.
+21. Graziose MM, Gray HL, Quinn J, Rundle AG, Contento IR, Koch PA. (2016). Association Between
+the Built Environment in School Neighborhoods with Physical Activity Among New York City
+Children, 2012. Preventing chronic disease, 13, E110.
+22. Cohen DA, McKenzie TL, Sehgal A, Williamson S, Golinelli D, Lurie N. (2007). Contribution of
+public parks to physical activity. American journal of public health, 97(3), 509-14.
+23. Wang, H. Q., & Liang, L. Q. (2022). How Do Housing Prices Affect Residents' Health? New
+Evidence from China. Frontiers in public health, 9, 816372.
+Boston Public Health Commission
+34
+
+--- Page 42 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+24. Yilmazer, T., Babiarz, P., & Liu, F. (2015). The impact of diminished housing wealth on health in
+the United States: evidence from the Great Recession. Social science & medicine (1982), 130,
+234–241.
+25. Swope, C. B., & Hernández, D. (2019). Housing as a determinant of health equity: A conceptual
+model. Social Science & Medicine, 243, 112571.
+26. Stearns RC. Racial Content of FHA (Federal Housing Administration) Underwriting Practices,
+1934-1962. Used with permission of the University of Baltimore.
+27. Age friendly Boston, MA. (n.d.). Available from: https://www.agefriendly.org/cities/boston-ma-
+usa
+28. Boston Planning and Development Agency (2020). Boston by the Numbers 2020.
+29. Age-Friendly Boston Action Plan (2017). Available from:
+https://www.boston.gov/sites/default/files/embed/f/full_report_0.pdf
+30. Levine, J. R., & Gershenson, C. (2014). From Political to Material Inequality: Race, Immigration,
+and Requests for Public Goods. Sociological Forum, 29(3), 607-627.
+31. Kim S, Kim CY, You MS. (2015). Civic participation and self-rated health: a cross-national multi-
+level analysis using the world value survey. Journal of preventive medicine and public health =
+Yebang Uihakhoe chi, 48(1), 18-27.
+32. Denny KJ, Doyle OM. (2007). "... Take up thy bed, and vote." Measuring the relationship
+between voting behaviour and indicators of health. European journal of public health, 17(4),
+400-1.
+33. Poortinga W. (2006). Social capital: an individual or collective resource for health? Social science
+& medicine (1982), 62(2), 292-302.
+34. Matthieu MM, Lawrence KA, Robertson-Blackmore E. (2017). The impact of a civic service
+program on biopsychosocial outcomes of post 9/11 U.S. military veterans. Psychiatry research,
+248, 111-6.
+35. Moore S, Kawachi I. (2017). Twenty years of social capital and health research: a glossary.
+Journal of epidemiology and community health.
+Boston Public Health Commission
+35
+
+--- Page 43 ---
+HEALTH OF BOSTON 2023 COMMUNITY ASSETS REPORT
+36. Jenkinson CE, Dickens AP, Jones K, Thompson-Coon J, Taylor RS, Rogers M, et al. (2013). Is
+volunteering a public health intervention? A systematic review and meta-analysis of the health
+and survival of volunteers. BMC public health, 13, 773.
+37. Robert Wood Johnson Foundation. (2023). Building a Culture of Health: Civic Engagement.
+Available from: http://www.cultureofhealth.org/en/taking-action/making-health-a-shared-
+value/civic-engagement.html.
+Boston Public Health Commission
+36

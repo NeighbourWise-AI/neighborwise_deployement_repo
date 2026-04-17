@@ -1,0 +1,346 @@
+--- Page 1 ---
+REPORT | FALL 2025
+BOOSTING BLUEBIKES
+ASSESSING THE EARLY IMPACT OF E-BIKES
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+
+--- Page 4 ---
+iv A BETTER CITY BOOSTING BLUEBIKES
+BOOSTING BLUEBIKES: ASSESSING THE EARLY IMPACT OF
+E-BIKES ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+TABLE OF CONTENTS
+1
+Executive Summary
+1
+Context
+2
+A Note on Methodology
+3
+Analysis Results
+7
+Conclusion
+9
+References
+10
+Appendix
+CONTRIBUTORS
+Written By:
+• Amir Wilson, TMA Coordinator & Spatial Data
+Analyst
+Advised By:
+• Scott Mullen, Transportation Demand Management
+Director
+• Kate Dineen, President & CEO
+PHOTO CREDITS
+All photos in this report
+by Annielly Camargo
+
+--- Page 5 ---
+ASSESSING THE EARLY IMPACT OF E-BIKES A BETTER CITY 1
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+EXECUTIVE SUMMARY
+The goal of this report is to quantify the impact of the addition of e-bikes to the Bluebikes
+system, analyze the impressive growth of Bluebikes ridership in 2024, and extract from
+the analysis relevant insights to help regional and City stakeholders best facilitate the
+continued success of Greater Boston’s world-class shared mobility network. The key
+findings are as follows:
+FINDING #1:
+Bluebikes ridership increased 29% on average from 2023 to 2024 in the month-to-
+month comparison.
+FINDING #2:
+The introduction of the new e-bike fleet was a major causal factor for the increase in
+monthly trips from 2023 to 2024.
+FINDING #3:
+The new e-bikes punch above their weight with a magnitude of monthly trips per bike
+that is on average two times higher than that of classic bike trips in both 2023 and
+2024.
+CONTEXT
+Bluebikes is Greater Boston’s docked bicycle-sharing system, which is composed of
+over 5,000 bikes and 534 docking stations jointly owned and operated by the cities and
+towns of Arlington, Boston, Brookline, Cambridge, Chelsea, Everett, Malden, Medford,
+Newton, Revere, Salem, Somerville, and Watertown. Currently, 71% of MBTA rapid transit
+stops (Red, Blue, Green, Orange, and Silver) co-locate with at least one Bluebikes station
+within 200-meters.1 The system and its ridership have grown steadily every year since its
+founding in 2011, eclipsing 1 million total trips in a single operational season for the first
+time in 2014 (Table A1).2 From 2023 to 2024, the system experienced one of its largest
+jumps in yearly ridership with a net increase of more than one million trips.
+Table 1. Growth of Bluebikes ridership in 2024 over 2023. For all system growth data
+since 2011, see Table A1 in the Appendix. Source: https://bluebikes.com/system-data.
+Total Total Bicycles Total E-Bikes
+Year Bluebikes (Beginning / End of (Beginning / End of
+Trips Season) Season)
+2023 3,686,979 4,000 / 5,300 0 / *50
+2024 4,734,042 5,300 / 5,500 50 / 750
+Difference +1,047,063
+
+--- Page 6 ---
+2 A BETTER CITY BOOSTING BLUEBIKES
+A significant bicycle expansion supported ridership in 2023 and 2024. The system
+started with 4,000 bikes in 2023 and grew to *5300 by the end of the calendar year. The
+system gained 200 additional classic bikes in 2024.2
+On December 20, 2023, Bluebikes launched its new electric pedal-assist bicycle fleet by
+adding 50 new “e-bikes” to the system.3 The following January 2024 was the first month
+with e-bikes available for all of 31 days, and the system phased up to a total of 750
+e-bikes by summer of 2024.3,4,5,6 Each new e-bike has an electric motor that gives a small
+boost in power to the rider while pedaling at a speed below 20 mph. Electric pedal assist
+bikes reduce the amount of exertion required to ride and increase riding speed, thereby
+reducing physical barriers of entry to riding a bike and making it more comfortable for
+everyday mobility.7 This report seeks to quantify the impact of e-bikes in the Bluebikes
+system by comparing monthly ridership from 2023 to 2024.
+A NOTE ON METHODOLOGY
+All data in this analysis come directly from the Bluebikes website at: bluebikes.com/
+system-data. Bluebikes publishes a monthly ridership log as a CSV file containing the
+start and end station information for every trip, along with other useful information to
+better characterize ridership. In this report, the analysis excludes aberrant trip records
+where either the start or end station is missing from the data. It also discards the 2,935
+e-bike trips taken in the last 11 days of December 2023, since it is an incomplete month
+of data with only 50 e-bikes available.
+The method then aggregates all monthly trip data from 2023 through 2024 and uses the
+“dplyr” package in R to produce summary tables that serve as the basis for charts and
+statistics created in Microsoft Excel. The scope of this analysis focuses on visualizing
+the growth of monthly ridership between 2023 and 2024 and understanding the impact
+of e-bikes on these trends. Moving forward, the A Better City Transportation Demand
+Management team will continue to undertake original geospatial data analyses to
+further highlight Bluebikes co-location with transit, understand other external factors
+that affect ridership, and share mobility best-practices for transportation planners,
+employers, and institutions.
+In each of the figures in the next section of this report, total trips in 2023 are blue and
+total trips in 2024 are orange. Trips in 2023 are always taken on “classic” bikes, which are
+regular bicycles with no electric boost. These bikes are easily recognizable on the street
+by the blue color that gives them their name.
+* Bluebikes documents that the system ended with 5,300 bikes in 2023 and that the total number of
+bikes increases to 5,500 by the end of 2024. However, several sources3,4,5,7 document the addition of 750
+e-bikes for the 2024 season. These 750 bikes are totaled in the 1,300-bike increase over 2023 in Table 1
+even though only 50 e-bikes initially entered circulation in December 2023. The remaining e-bikes phased
+in through the early months of 2024. Source: https://bluebikes.com/system-data; https://bluebikes.com/
+about/media-kit.
+
+--- Page 7 ---
+ASSESSING THE EARLY IMPACT OF E-BIKES A BETTER CITY 3
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+Trips in 2024 are made up of both trips taken on
+“classic” bikes and trips taken on e-bikes, which
+feature electric pedal-assist. The e-bikes are
+recognizable on the street by their light grey color.
+To emphasize trends in the data, the figures in the
+next section will display “classic” trips in 2024 in dark
+grey and “electric” trips in 2024 in green whenever
+distinguishing between the two.
+ANALYSIS RESULTS
+FINDING #1: Bluebikes ridership increased 29% on average from 2023 to 2024 in
+the month-to-month comparison.
+Comparing the total monthly ridership in 2023 to that in 2024, the ridership in each
+month in 2024 always eclipsed the total ridership of the respective month in 2023
+(Figure 1). On average, any given month in 2024 saw a 29% increase from the ridership
+during the same month in 2023. Ridership in 2024 hit its peak in September with
+581,671 trips, which is 32% greater than the total ridership during the peak month
+of 2023 (August, 439,438 total trips). Even in winter when monthly ridership is at
+its lowest, the 166,669 trips taken in January 2024 were 21% greater than the total
+number of trips during the same month in 2023.
+FINDING #1 CHARTS
+Figure 1. Percentage labels indicate the percent increase in total number of trips from
+2023 to 2024.
+
+--- Page 8 ---
+4 A BETTER CITY BOOSTING BLUEBIKES
+FINDING #2: The introduction of the new e-bike fleet was a major causal factor for the
+increase in monthly trips from 2023 to 2024.
+The Bluebikes system gained over one million trips from 2023 to 2024 (Table 1). Figure
+2 shows that total monthly trips taken only on classic bikes underwent a 5% decrease
+from 2023 to 2024, though not enough to indicate a significant trend of decline.
+Despite this consistency in classic bike ridership, the system still gained 1 million trips,
+meaning that e-bikes made up the difference. In fact, there were 1.2 million total e-bike
+trips in 2024, and these trips accounted for 25% of the total Bluebikes ridership in that
+year (Figure 3).
+Furthermore, a simple linear regression (SLR) analysis using total monthly e-bike trips
+in 2024 as a predictor variable for the difference in total monthly trips between 2023
+and 2024 yields a model that suggests e-bike trips in 2024 play a significant part in
+accounting for the year-over-year increase in total ridership (Figure A1; R² = 0.76; p =
+0.0002 at 99% confidence).
+FINDING #2 CHARTS
+Figure 2. Percentage labels indicate the percent decrease in total number of trips from 2023 to
+2024 when only considering classic bike trips in 2024.
+
+--- Page 9 ---
+ASSESSING THE EARLY IMPACT OF E-BIKES A BETTER CITY 5
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+Figure 3. Percentage labels display the percent of all monthly trips that e-bikes accounted for
+in 2024.
+FINDING #3: The new e-Bikes punch above their weight with a magnitude of trips per
+bike that is on average two times higher than that of classic bike trips in both 2023 and
+2024.
+The results of Finding #1 and Finding #2 demonstrate that the total monthly e-bike
+trips in 2024 are a significant reason for the massive growth in Bluebikes ridership
+between 2023 and 2024. However, the point that truly illustrates the impact of e-bikes
+on ridership growth is that they accounted for a relatively large number of total
+monthly trips in 2024, while proportionally being very few compared to the existing
+fleet of classic bikes.
+Normalizing for size of fleet, all bikes in 2023 averaged 72 monthly trips per bike,
+classic bikes in 2024 averaged 63 monthly trips per bike, and e-bikes in 2024 averaged
+135 monthly trips per bike (Figure 5). Comparing the magnitudes of these statistics,
+each e-bike in 2024, on average, accounted for twice as many trips per bike as did
+classic bikes in 2023 and 2024 (Figure 6).
+
+--- Page 10 ---
+6 A BETTER CITY BOOSTING BLUEBIKES
+FINDING #3 CHARTS
+Figure 4. Total monthly trips divided by the average number of bikes in the
+fleet, per category.
+Figure 5. Figure 5 takes each record of total monthly trips per bike for each year and
+bicycle type and divides this number by the value of monthly trips per bike in 2023.
+Since the graph aims to compare the performance of classic and e-bikes relative to all
+classic trips in 2023, it creates a scale of magnitude: Classic trips in 2023 have a ratio
+of “1” because this data series is compared to itself. The lines corresponding to classic
+and electric trips in 2024 illustrate how many times more trips on average each bike
+accounted for over each month than classic bikes in 2023.
+
+--- Page 11 ---
+ASSESSING THE EARLY IMPACT OF E-BIKES A BETTER CITY 7
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+CONCLUSION
+The introduction of e-bikes to the Bluebikes fleet in 2024 significantly impacted
+ridership. Trips taken on the new e-bikes accounted for the more than one million
+additional trips in 2024 versus 2023. Most impressive is that each e-bike accounted for
+on average two times more trips per bike than their classic counterparts, suggesting
+they are more popular among riders.
+Looking ahead, e-bikes can play an impactful role in making bikeshare systems
+successful. Given the accessibility and inclusivity benefits of e-bikes,7 the collective
+thirteen municipalities and the Metropolitan Area Planning Council (MAPC), which
+oversees the interaction of Bluebikes equipment and use between municipalities,
+should make investments in e-bike fleet expansion and associated infrastructure a top
+priority.
+One of the system’s key needs is
+integrated charging infrastructure.
+Without built-in station charging,
+e-bike charging can be expensive and
+inefficient: technicians must travel
+out to bikes in the field to manually
+swap low batteries for freshly charged
+ones,8 which adds costs to overhead
+for staffing and transportation.
+Furthermore, built-in charging would
+make the system more efficient by
+allowing e-bikes to recharge batteries
+while not in-use and making bikes
+available when they would otherwise
+be waiting for the next battery swap.
+There are initiatives underway to
+secure additional resources for infrastructure needs. In October 2024, MAPC won a
+$21.6 million Congestion Relief Grant from the Federal Highway Administration to
+expand the Bluebikes network in addition to funding new shuttles in Boston.9,10 The
+grant would fund 32 new bicycle docks with built-in charging, 90 new e-bikes, and 290
+classic bikes. The status of this grant award is unclear due to the current uncertainty
+in Washington D.C. In early May 2025, MAPC, on behalf of the collective thirteen
+municipalities, released a Request for Proposals (RFP) soliciting a new operator for
+the next five years for the Bluebikes system. Two of the five major goals listed in the
+RFP are to significantly expand the number of stations and to “advance technological
+innovation” as part of maintaining an “excellent state of repair.”10 The new contract
+aims to ensure that expansion and technological support for e-bikes will continue to
+drive their impact on Bluebikes ridership moving forward.
+
+--- Page 12 ---
+8 A BETTER CITY BOOSTING BLUEBIKES
+These technological and operational improvements are not the only changes that can
+make Bluebikes more successful. Station siting is an element of planning that will be
+integral to ensuring the system’s growth. As the thirteen municipalities continue to add
+more stations, they should prioritize co-location with transit in addition to supporting
+locales with limited existing transit options to bolster the connectivity across Greater
+Boston. The Bluebikes system can both fill in the gaps of the transportation network
+and extend the range of bus, rapid transit, Commuter Rail, and ferry trips. In this way,
+Bluebikes organically support the region with new mobility options, and uplift our
+existing network by adding connections that weren’t possible before. As Bluebikes
+facilities continue to solidify, there will be exciting new opportunities to expand the
+network to new communities, and for key stakeholders including the MBTA, the thirteen
+municipalities and the MAPC, the next operator,10 and the Department of Transportation
+to consider more seamlessly integrating Bluebikes access into the existing transit fare
+system.
+
+--- Page 13 ---
+ASSESSING THE EARLY IMPACT OF E-BIKES A BETTER CITY 9
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+REFERENCES
+1 A Better City. Original analysis conducted using ArcGIS Pro spatial analysis
+software, September 2024.
+2 Bluebikes. “System Data,” 2025. https://bluebikes.com/system-data.
+3 MassBike. “E-Bikes Have Finally Arrived in the Bluebikes Bike Share System,”
+December 20, 2023. https://www.massbike.org/ebikes-have-finally-arrived-in-
+the-bluebikes-bike-share-system.
+4 Newsroom, Blue Cross Blue Shield of Massachusetts. “Greater Boston
+Municipal Leaders and Blue Cross Blue Shield of Massachusetts Announce
+Addition of Bluebikes’ Next-Gen EBikes,” December 21, 2023. Greater Boston
+Municipal Leaders and Blue Cross Blue Shield of Massachusetts Announce
+Addition of Bluebikes’ Next-Gen Ebikes - Dec 21, 2023.
+5 StreetsBlog Mass. “Electric Bluebikes Have Arrived in Boston,” December 20,
+2023. https://mass.streetsblog.org/2023/12/20/electric-bluebikes-have-
+arrived-in-boston.
+6 Bluebikes. “Media kit,” January 2024. https://bluebikes.com/about/media-kit.
+7 Lee and Sener. “E-Bikes Toward Inclusive Mobility: A Literature Review of ]
+Perceptions, Concerns, and Barriers.” Transportation Research Interdisciplinary
+Perspectives (22), November 2023. https://doi.org/10.1016/j.trip.2023.100940.
+8 StreetsBlog Mass. “Federal Funds Will Let Bluebikes System Add Electrified
+Stations for E-Bikes,” October 2024. https://mass.streetsblog.org/2024/10/22/
+federal-funds-will-let-bluebikes-system-add-electrified-stations-for-e-bikes.
+9 MAPC. “$21.6M Grant to fund Bluebikes Expansion, New Transit Shuttles, Other
+Congestion Relief Solutions in Metro Boston,” October 17, 2024. https://www.
+mapc.org/news/fed-grant-to-fund-congestion-relief-solutions/.
+10 MAPC. “Bicycle Share Services: Fundraising, Operations, Marketing,
+and Equipment Services Request for Proposals, May 2025. RFP%202025%20
+Bikeshare%20Services%20-%20FINAL.
+
+--- Page 14 ---
+10 A BETTER CITY BOOSTING BLUEBIKES
+APPENDIX
+Table A1. Bluebikes system growth since 2011. Source: https://bluebikes.com/system-data.
+Total Bicycles Total Operational
+Total Bluebikes
+Year (Beginning / End of Days
+Trips
+Season)
+2011 140,974 610 126 (July 28 - Nov 30)
+2012 531,388 610 / 1,050 240 (Apr 3 - Nov 28)
+2013 908,165 1,050 / 1,200 240 (Apr 2 - Nov 27)
+2014 1,184,558 1,200 / 1,300 239 (Apr 2 - Nov 26)
+2015 1,122,544 1,300 / 1,500 223 (Apr 17 - Nov 25)
+2016 1,236,236 1,500 / 1,800 307 (Feb 29 - Dec 31)
+2017 1,313,837 1,800 308 (Feb 27 - Dec 31)
+2018 1,767,806 1,800 / 2,500+ 365
+2019 2,520,418 2,500+ / 3,500+ 365
+2020 2,065,292 3,500+ / 3,750+ 365
+2021 2,954,624 3,750+ / 4,000+ 365
+2022 3,781,611 4,000+ 365
+2023 3,686,979 4,000+ / 5,300 365
+2024 4,734,042 5,300 / 5,500 365
+
+--- Page 15 ---
+ASSESSING THE EARLY IMPACT OF E-BIKES A BETTER CITY 11
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+Figure A1. Simple Linear Regression (SLR) Model: R-Squared = 0.76; p-value =
+0.0002.
+INTERPRETATION OF THE SIMPLE LINEAR REGRESSION
+A Simple Linear Regression (SLR) model asks: Hypothetically, if the total monthly
+e-bike trips in 2024 are the reason for the 29% increase in total ridership from
+2023 to 2024, what would the observed difference in trips between 2023 and 2024
+be in this case? To answer this question, the SLR method assumes that the total
+number of e-bike trips in 2024 have no impact on the difference in trips between
+2023 and 2024, and finds the line-of-best-fit for the observed data (Figure 4). The
+assessment of the line-of-best-fit tells how well its predictions for the difference in
+trips between 2023 and 2024 match what occurred between 2023 and 2024.
+The R²-value of 0.76 (adjusted: 0.73) means that the linear model based on total
+monthly e-bike trips in 2024 explains 76% of the variability observed in the real
+difference in total monthly trips between 2023 and 2024.
+The p-value of 0.0002% tells that there is a 0.0002% probability that, if it were true
+that monthly e-bike trips in 2024 had no impact on the year-over-year increase
+in trips, the SLR method would yield a stronger linear relationship than Figure 4
+depicts.
+The result is that the model suggests with 99% confidence that the monthly
+e-bike trips taken in 2024 are a major reason for the increase in total trips from
+2023 to 2024.
+
+--- Page 16 ---
+BOOSTING BLUEBIKES
+ASSESSING THE EARLY IMPACT OF E-BIKES
+ON BIKESHARE RIDERSHIP IN GREATER BOSTON
+14 Beacon Street, Suite 402
+Boston, MA 02108
+617.502.6240
+www.abettercity.org

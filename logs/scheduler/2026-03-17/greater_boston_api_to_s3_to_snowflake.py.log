@@ -1,0 +1,1054 @@
+[2026-03-17T16:37:11.435+0000] {processor.py:161} INFO - Started process (PID=3887) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:37:11.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:37:11.438+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.437+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:37:11.793+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:37:11.833+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.833+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:greater_boston_crime_to_s3_to_snowflake
+[2026-03-17T16:37:11.836+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.836+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:greater_boston_crime_to_s3_to_snowflake
+[2026-03-17T16:37:11.837+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.837+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:greater_boston_crime_to_s3_to_snowflake
+[2026-03-17T16:37:11.837+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.837+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:37:11.841+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.841+0000] {dag.py:3058} INFO - Creating ORM DAG for greater_boston_crime_to_s3_to_snowflake
+[2026-03-17T16:37:11.844+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:11.844+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:37:11.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.418 seconds
+[2026-03-17T16:37:42.344+0000] {processor.py:161} INFO - Started process (PID=3967) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:37:42.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:37:42.349+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:42.349+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:37:42.567+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:37:42.577+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:42.577+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:37:42.587+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:42.587+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:37:42.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-03-17T16:38:13.389+0000] {processor.py:161} INFO - Started process (PID=4047) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:38:13.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:38:13.391+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:13.391+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:38:13.597+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:38:13.604+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:13.604+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:38:13.614+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:13.613+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:38:13.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.235 seconds
+[2026-03-17T16:38:44.130+0000] {processor.py:161} INFO - Started process (PID=4133) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:38:44.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:38:44.132+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:44.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:38:44.304+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:38:44.312+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:44.312+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:38:44.320+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:44.320+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:38:44.325+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.197 seconds
+[2026-03-17T16:39:14.765+0000] {processor.py:161} INFO - Started process (PID=4213) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:39:14.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:39:14.769+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:14.768+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:39:14.977+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:39:14.986+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:14.986+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:39:14.996+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:14.996+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:39:15.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.255 seconds
+[2026-03-17T16:39:45.473+0000] {processor.py:161} INFO - Started process (PID=4293) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:39:45.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:39:45.478+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:45.477+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:39:45.700+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:39:45.709+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:45.709+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:39:45.722+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:45.722+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:39:45.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.265 seconds
+[2026-03-17T16:40:16.359+0000] {processor.py:161} INFO - Started process (PID=4373) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:40:16.360+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:40:16.363+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:16.363+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:40:16.563+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:40:16.571+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:16.571+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:40:16.651+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:16.650+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:40:16.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.303 seconds
+[2026-03-17T16:40:47.475+0000] {processor.py:161} INFO - Started process (PID=4453) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:40:47.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:40:47.479+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:47.478+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:40:47.797+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:40:47.804+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:47.804+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:40:47.810+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:47.810+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:40:47.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.347 seconds
+[2026-03-17T16:41:18.188+0000] {processor.py:161} INFO - Started process (PID=4533) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:41:18.188+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:41:18.190+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:18.190+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:41:18.505+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:41:18.512+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:18.512+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:41:18.523+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:18.523+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:41:18.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.350 seconds
+[2026-03-17T16:41:49.287+0000] {processor.py:161} INFO - Started process (PID=4613) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:41:49.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:41:49.290+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:49.290+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:41:49.536+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:41:49.542+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:49.542+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:41:49.549+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:49.549+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:41:49.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.272 seconds
+[2026-03-17T16:42:19.982+0000] {processor.py:161} INFO - Started process (PID=4693) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:42:19.983+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:42:19.985+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:19.985+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:42:20.243+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:42:20.249+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:20.249+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:42:20.255+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:20.255+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:42:20.261+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-03-17T16:42:50.437+0000] {processor.py:161} INFO - Started process (PID=4773) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:42:50.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:42:50.441+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:50.441+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:42:50.668+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:42:50.674+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:50.674+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:42:50.680+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:50.680+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:42:50.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.254 seconds
+[2026-03-17T16:43:20.916+0000] {processor.py:161} INFO - Started process (PID=4853) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:43:20.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:43:20.918+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:20.918+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:43:21.195+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:43:21.201+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:21.201+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:43:21.207+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:21.207+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:43:21.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.299 seconds
+[2026-03-17T16:43:51.295+0000] {processor.py:161} INFO - Started process (PID=4933) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:43:51.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:43:51.299+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:51.298+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:43:51.540+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:43:51.546+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:51.546+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:43:51.553+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:51.552+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:43:51.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-17T16:44:21.734+0000] {processor.py:161} INFO - Started process (PID=5013) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:44:21.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:44:21.737+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:21.737+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:44:21.960+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:44:21.966+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:21.965+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:44:21.972+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:21.972+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:44:21.977+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.248 seconds
+[2026-03-17T16:44:52.402+0000] {processor.py:161} INFO - Started process (PID=5093) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:44:52.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:44:52.405+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:52.405+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:44:52.654+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:44:52.660+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:52.659+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:44:52.666+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:52.666+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:44:52.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.274 seconds
+[2026-03-17T16:45:23.508+0000] {processor.py:161} INFO - Started process (PID=5173) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:45:23.509+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:45:23.512+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:23.511+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:45:23.683+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:45:23.690+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:23.690+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:45:23.698+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:23.698+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:45:23.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.201 seconds
+[2026-03-17T16:45:54.207+0000] {processor.py:161} INFO - Started process (PID=5253) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:45:54.210+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:45:54.215+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:54.214+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:45:54.593+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:45:54.608+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:54.608+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:45:54.623+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:54.623+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:45:54.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.431 seconds
+[2026-03-17T16:46:25.072+0000] {processor.py:161} INFO - Started process (PID=5333) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:46:25.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:46:25.075+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:25.075+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:46:25.307+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:46:25.317+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:25.317+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:46:25.328+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:25.328+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:46:25.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-03-17T16:46:55.740+0000] {processor.py:161} INFO - Started process (PID=5413) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:46:55.741+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:46:55.742+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:55.742+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:46:55.925+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:46:55.932+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:55.932+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:46:55.939+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:55.939+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:46:55.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-03-17T16:47:26.491+0000] {processor.py:161} INFO - Started process (PID=5493) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:47:26.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:47:26.494+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:26.494+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:47:26.685+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:47:26.692+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:26.692+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:47:26.700+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:26.699+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:47:26.706+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.219 seconds
+[2026-03-17T16:47:57.316+0000] {processor.py:161} INFO - Started process (PID=5573) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:47:57.317+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:47:57.319+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:57.319+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:47:57.502+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:47:57.510+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:57.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:47:57.518+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:57.518+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:47:57.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.213 seconds
+[2026-03-17T16:48:28.239+0000] {processor.py:161} INFO - Started process (PID=5653) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:48:28.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:48:28.242+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:28.241+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:48:28.430+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:48:28.438+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:28.438+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:48:28.446+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:28.446+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:48:28.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.218 seconds
+[2026-03-17T16:48:58.857+0000] {processor.py:161} INFO - Started process (PID=5733) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:48:58.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:48:58.860+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:58.859+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:48:59.110+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:48:59.116+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:59.116+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:48:59.123+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:59.123+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:48:59.128+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.276 seconds
+[2026-03-17T16:49:29.382+0000] {processor.py:161} INFO - Started process (PID=5813) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:49:29.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:49:29.387+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:49:29.386+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:49:29.722+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:49:29.728+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:49:29.728+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:49:29.737+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:49:29.737+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:49:29.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.367 seconds
+[2026-03-17T16:50:00.067+0000] {processor.py:161} INFO - Started process (PID=5893) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:50:00.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:50:00.071+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:00.070+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:50:00.408+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:50:00.416+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:00.416+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:50:00.423+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:00.423+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:50:00.429+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.371 seconds
+[2026-03-17T16:50:30.944+0000] {processor.py:161} INFO - Started process (PID=5973) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:50:30.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:50:30.949+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:30.948+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:50:31.309+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:50:31.322+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:31.322+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:50:31.336+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:31.336+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:50:31.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.408 seconds
+[2026-03-17T16:51:01.725+0000] {processor.py:161} INFO - Started process (PID=6053) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:51:01.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:51:01.733+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:01.732+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:51:02.163+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:51:02.179+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:02.179+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:51:02.189+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:02.189+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:51:02.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.482 seconds
+[2026-03-17T16:51:32.510+0000] {processor.py:161} INFO - Started process (PID=6133) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:51:32.511+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:51:32.514+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:32.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:51:32.809+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:51:32.815+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:32.814+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:51:32.822+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:32.822+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:51:32.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.323 seconds
+[2026-03-17T16:52:03.121+0000] {processor.py:161} INFO - Started process (PID=6213) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:52:03.122+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:52:03.124+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:03.124+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:52:03.380+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:52:03.386+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:03.386+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:52:03.393+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:03.393+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:52:03.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-03-17T16:52:33.773+0000] {processor.py:161} INFO - Started process (PID=6293) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:52:33.774+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:52:33.777+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:33.777+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:52:34.064+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:52:34.070+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:34.070+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:52:34.077+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:34.077+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:52:34.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.315 seconds
+[2026-03-17T16:53:04.604+0000] {processor.py:161} INFO - Started process (PID=6373) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:53:04.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:53:04.608+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:04.607+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:53:04.857+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:53:04.863+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:04.863+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:53:04.871+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:04.871+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:53:04.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.276 seconds
+[2026-03-17T16:53:35.088+0000] {processor.py:161} INFO - Started process (PID=6453) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:53:35.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:53:35.090+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:35.090+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:53:35.318+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:53:35.324+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:35.324+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:53:35.331+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:35.331+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:53:35.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.253 seconds
+[2026-03-17T16:54:05.866+0000] {processor.py:161} INFO - Started process (PID=6533) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:54:05.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:54:05.870+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:05.870+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:54:06.063+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:54:06.072+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:06.072+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:54:06.081+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:06.081+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:54:06.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.226 seconds
+[2026-03-17T16:54:36.671+0000] {processor.py:161} INFO - Started process (PID=6613) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:54:36.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:54:36.675+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:36.675+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:54:36.867+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:54:36.874+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:36.874+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:54:36.882+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:36.882+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:54:36.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.221 seconds
+[2026-03-17T16:55:07.296+0000] {processor.py:161} INFO - Started process (PID=6693) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:55:07.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:55:07.298+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:07.298+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:55:07.492+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:55:07.500+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:07.500+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:55:07.508+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:07.508+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:55:07.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.221 seconds
+[2026-03-17T16:55:38.027+0000] {processor.py:161} INFO - Started process (PID=6773) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:55:38.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:55:38.032+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:38.031+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:55:38.283+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:55:38.294+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:38.293+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:55:38.304+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:38.304+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:55:38.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.290 seconds
+[2026-03-17T16:56:08.986+0000] {processor.py:161} INFO - Started process (PID=6853) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:56:08.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:56:08.991+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:08.991+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:56:09.246+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:56:09.257+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:09.256+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:56:09.267+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:09.267+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:56:09.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.293 seconds
+[2026-03-17T16:56:39.812+0000] {processor.py:161} INFO - Started process (PID=6933) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:56:39.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:56:39.815+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:39.815+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:56:40.041+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:56:40.050+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:40.050+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:56:40.147+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:40.146+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:56:40.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.348 seconds
+[2026-03-17T16:57:10.934+0000] {processor.py:161} INFO - Started process (PID=7013) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:57:10.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:57:10.937+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:10.937+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:57:11.167+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:57:11.173+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:11.173+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:57:11.180+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:11.180+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:57:11.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.255 seconds
+[2026-03-17T16:57:41.360+0000] {processor.py:161} INFO - Started process (PID=7093) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:57:41.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:57:41.365+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:41.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:57:41.636+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:57:41.642+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:41.642+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:57:41.650+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:41.650+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:57:41.655+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.301 seconds
+[2026-03-17T16:58:11.852+0000] {processor.py:161} INFO - Started process (PID=7173) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:58:11.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:58:11.855+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:11.855+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:58:12.084+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:58:12.089+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:12.089+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:58:12.096+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:12.096+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:58:12.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.253 seconds
+[2026-03-17T16:58:42.231+0000] {processor.py:161} INFO - Started process (PID=7253) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:58:42.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:58:42.234+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:42.234+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:58:42.466+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:58:42.472+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:42.472+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:58:42.478+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:42.478+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:58:42.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.259 seconds
+[2026-03-17T16:59:12.541+0000] {processor.py:161} INFO - Started process (PID=7333) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:59:12.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:59:12.544+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:12.544+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:59:12.780+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:59:12.787+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:12.786+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:59:12.793+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:12.793+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:59:12.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.261 seconds
+[2026-03-17T16:59:43.059+0000] {processor.py:161} INFO - Started process (PID=7413) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:59:43.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T16:59:43.062+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:43.062+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:59:43.427+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T16:59:43.438+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:43.438+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T16:59:43.448+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:43.448+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T16:59:43.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.399 seconds
+[2026-03-17T17:00:13.654+0000] {processor.py:161} INFO - Started process (PID=7493) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:00:13.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:00:13.659+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:13.658+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:00:13.959+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:00:13.967+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:13.967+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:00:13.975+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:13.975+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:00:13.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.333 seconds
+[2026-03-17T17:00:44.023+0000] {processor.py:161} INFO - Started process (PID=7573) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:00:44.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:00:44.027+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:44.026+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:00:44.290+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:00:44.297+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:44.296+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:00:44.305+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:44.304+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:00:44.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.292 seconds
+[2026-03-17T17:01:14.662+0000] {processor.py:161} INFO - Started process (PID=7653) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:01:14.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:01:14.665+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:14.665+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:01:14.911+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:01:14.917+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:14.917+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:01:14.924+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:14.924+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:01:14.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.273 seconds
+[2026-03-17T17:01:45.822+0000] {processor.py:161} INFO - Started process (PID=7733) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:01:45.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:01:45.827+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:45.826+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:01:46.039+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:01:46.047+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:46.047+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:01:46.057+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:46.057+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:01:46.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.248 seconds
+[2026-03-17T17:02:16.722+0000] {processor.py:161} INFO - Started process (PID=7813) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:02:16.723+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:02:16.726+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:16.725+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:02:16.907+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:02:16.916+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:16.916+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:02:16.924+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:16.924+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:02:16.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.214 seconds
+[2026-03-17T17:02:47.401+0000] {processor.py:161} INFO - Started process (PID=7899) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:02:47.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:02:47.404+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:47.404+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:02:47.582+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:02:47.590+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:47.589+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:02:47.597+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:47.597+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:02:47.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-03-17T17:03:18.163+0000] {processor.py:161} INFO - Started process (PID=7979) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:03:18.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:03:18.167+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:18.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:03:18.356+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:03:18.363+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:18.363+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:03:18.376+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:18.376+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:03:18.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.227 seconds
+[2026-03-17T17:03:49.027+0000] {processor.py:161} INFO - Started process (PID=8059) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:03:49.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:03:49.031+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:49.030+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:03:49.217+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:03:49.225+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:49.225+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:03:49.234+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:49.234+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:03:49.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.218 seconds
+[2026-03-17T17:04:19.881+0000] {processor.py:161} INFO - Started process (PID=8139) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:04:19.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:04:19.885+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:19.885+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:04:20.059+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:04:20.066+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:20.066+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:04:20.074+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:20.074+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:04:20.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.205 seconds
+[2026-03-17T17:04:50.631+0000] {processor.py:161} INFO - Started process (PID=8219) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:04:50.632+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:04:50.634+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:50.634+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:04:50.813+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:04:50.824+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:50.823+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:04:50.904+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:50.904+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:04:50.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-03-17T17:05:21.855+0000] {processor.py:161} INFO - Started process (PID=8299) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:05:21.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:05:21.859+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:21.859+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:05:22.108+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:05:22.115+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:22.115+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:05:22.122+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:22.122+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:05:22.128+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.276 seconds
+[2026-03-17T17:05:52.191+0000] {processor.py:161} INFO - Started process (PID=8379) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:05:52.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:05:52.195+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:52.194+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:05:52.451+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:05:52.460+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:52.459+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:05:52.467+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:52.466+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:05:52.473+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.286 seconds
+[2026-03-17T17:06:22.616+0000] {processor.py:161} INFO - Started process (PID=8459) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:06:22.617+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:06:22.622+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:22.622+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:06:22.899+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:06:22.906+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:22.906+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:06:22.914+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:22.914+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:06:22.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.310 seconds
+[2026-03-17T17:06:53.308+0000] {processor.py:161} INFO - Started process (PID=8539) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:06:53.309+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:06:53.310+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:53.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:06:53.584+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:06:53.591+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:53.591+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:06:53.599+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:53.599+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:06:53.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.301 seconds
+[2026-03-17T17:07:24.537+0000] {processor.py:161} INFO - Started process (PID=8619) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:07:24.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:07:24.540+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:24.540+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:07:24.803+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:07:24.811+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:24.810+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:07:24.819+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:24.819+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:07:24.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.290 seconds
+[2026-03-17T17:07:54.899+0000] {processor.py:161} INFO - Started process (PID=8699) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:07:54.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:07:54.901+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:54.901+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:07:55.173+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:07:55.180+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:55.180+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:07:55.186+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:55.186+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:07:55.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.296 seconds
+[2026-03-17T17:08:25.511+0000] {processor.py:161} INFO - Started process (PID=8779) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:08:25.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:08:25.516+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:25.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:08:25.787+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:08:25.793+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:25.793+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:08:25.801+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:25.801+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:08:25.807+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.299 seconds
+[2026-03-17T17:08:55.899+0000] {processor.py:161} INFO - Started process (PID=8859) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:08:55.901+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:08:55.903+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:55.903+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:08:56.180+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:08:56.189+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:56.189+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:08:56.197+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:56.197+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:08:56.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.309 seconds
+[2026-03-17T17:09:26.274+0000] {processor.py:161} INFO - Started process (PID=8939) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:09:26.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:09:26.278+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:26.278+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:09:26.536+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:09:26.544+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:26.543+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:09:26.551+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:26.551+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:09:26.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.287 seconds
+[2026-03-17T17:09:57.076+0000] {processor.py:161} INFO - Started process (PID=9019) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:09:57.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:09:57.080+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:57.079+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:09:57.267+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:09:57.275+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:57.275+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:09:57.284+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:57.284+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:09:57.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.219 seconds
+[2026-03-17T17:10:27.566+0000] {processor.py:161} INFO - Started process (PID=9099) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:10:27.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:10:27.570+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:27.570+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:10:27.770+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:10:27.779+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:27.778+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:10:27.788+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:27.788+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:10:27.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.234 seconds
+[2026-03-17T17:10:58.137+0000] {processor.py:161} INFO - Started process (PID=9179) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:10:58.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:10:58.141+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:58.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:10:58.337+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:10:58.346+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:58.346+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:10:58.355+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:58.355+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:10:58.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.231 seconds
+[2026-03-17T17:11:28.807+0000] {processor.py:161} INFO - Started process (PID=9259) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:11:28.808+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:11:28.809+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:11:28.809+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:11:29.048+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:11:29.071+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:11:29.069+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:11:29.107+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:11:29.107+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:11:29.115+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.315 seconds
+[2026-03-17T17:11:59.816+0000] {processor.py:161} INFO - Started process (PID=9339) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:11:59.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:11:59.820+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:11:59.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:12:00.050+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:12:00.059+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:00.058+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:12:00.068+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:00.068+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:12:00.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.266 seconds
+[2026-03-17T17:12:30.178+0000] {processor.py:161} INFO - Started process (PID=9419) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:12:30.180+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:12:30.183+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:30.182+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:12:30.367+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:12:30.458+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:30.458+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:12:30.465+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:30.465+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:12:30.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.298 seconds
+[2026-03-17T17:13:00.635+0000] {processor.py:161} INFO - Started process (PID=9499) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:13:00.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:13:00.645+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:00.644+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:13:00.952+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:13:00.962+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:00.962+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:13:00.970+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:00.970+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:13:00.978+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.350 seconds
+[2026-03-17T17:13:31.092+0000] {processor.py:161} INFO - Started process (PID=9579) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:13:31.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:13:31.095+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:31.095+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:13:31.377+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:13:31.388+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:31.387+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:13:31.395+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:31.395+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:13:31.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.314 seconds
+[2026-03-17T17:14:01.623+0000] {processor.py:161} INFO - Started process (PID=9659) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:14:01.624+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:14:01.625+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:01.625+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:14:01.886+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:14:01.893+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:01.893+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:14:01.901+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:01.901+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:14:01.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.286 seconds
+[2026-03-17T17:14:32.054+0000] {processor.py:161} INFO - Started process (PID=9739) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:14:32.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:14:32.056+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:32.056+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:14:32.391+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:14:32.402+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:32.402+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:14:32.414+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:32.414+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:14:32.422+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.370 seconds
+[2026-03-17T17:15:03.199+0000] {processor.py:161} INFO - Started process (PID=9819) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:15:03.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:15:03.202+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:03.202+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:15:03.510+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:15:03.517+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:03.517+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:15:03.528+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:03.528+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:15:03.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.339 seconds
+[2026-03-17T17:15:33.781+0000] {processor.py:161} INFO - Started process (PID=9899) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:15:33.782+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:15:33.784+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:33.784+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:15:34.059+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:15:34.069+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:34.068+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:15:34.078+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:34.078+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:15:34.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.306 seconds
+[2026-03-17T17:16:04.622+0000] {processor.py:161} INFO - Started process (PID=9979) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:16:04.624+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:16:04.626+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:04.626+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:16:04.932+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:16:04.939+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:04.939+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:16:04.948+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:04.948+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:16:04.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.338 seconds
+[2026-03-17T17:16:35.566+0000] {processor.py:161} INFO - Started process (PID=10059) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:16:35.569+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:16:35.573+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:35.573+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:16:35.895+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:16:35.908+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:35.908+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:16:35.922+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:35.922+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:16:35.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.372 seconds
+[2026-03-17T17:17:06.834+0000] {processor.py:161} INFO - Started process (PID=10139) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:17:06.835+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:17:06.836+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:06.836+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:17:07.064+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:17:07.076+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:07.076+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:17:07.088+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:07.087+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:17:07.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.266 seconds
+[2026-03-17T17:17:37.926+0000] {processor.py:161} INFO - Started process (PID=10219) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:17:37.928+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:17:37.929+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:37.928+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:17:38.123+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:17:38.135+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:38.135+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:17:38.148+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:38.148+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:17:38.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.236 seconds
+[2026-03-17T17:18:08.835+0000] {processor.py:161} INFO - Started process (PID=10299) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:18:08.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:18:08.837+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:08.837+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:18:09.029+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:18:09.043+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:09.043+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:18:09.055+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:09.055+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:18:09.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.233 seconds
+[2026-03-17T17:18:39.733+0000] {processor.py:161} INFO - Started process (PID=10379) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:18:39.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:18:39.735+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:39.735+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:18:39.948+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:18:39.957+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:39.957+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:18:39.966+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:39.966+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:18:39.978+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.247 seconds
+[2026-03-17T17:19:10.722+0000] {processor.py:161} INFO - Started process (PID=10460) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:19:10.723+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:19:10.724+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:10.724+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:19:10.931+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:19:10.941+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:10.941+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:19:10.954+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:10.954+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:19:10.968+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.248 seconds
+[2026-03-17T17:19:41.660+0000] {processor.py:161} INFO - Started process (PID=10540) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:19:41.662+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:19:41.664+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:41.664+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:19:41.903+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:19:41.918+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:41.918+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:19:41.933+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:41.933+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:19:41.947+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.291 seconds
+[2026-03-17T17:20:12.009+0000] {processor.py:161} INFO - Started process (PID=10620) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:20:12.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:20:12.012+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:12.012+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:20:12.203+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:20:12.294+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:12.294+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:20:12.302+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:12.301+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:20:12.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.303 seconds
+[2026-03-17T17:20:42.575+0000] {processor.py:161} INFO - Started process (PID=10700) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:20:42.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:20:42.579+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:42.579+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:20:42.894+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:20:42.901+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:42.901+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:20:42.910+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:42.910+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:20:42.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.353 seconds
+[2026-03-17T17:21:13.172+0000] {processor.py:161} INFO - Started process (PID=10780) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:21:13.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:21:13.176+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:13.176+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:21:13.486+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:21:13.494+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:13.493+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:21:13.503+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:13.503+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:21:13.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.346 seconds
+[2026-03-17T17:21:44.046+0000] {processor.py:161} INFO - Started process (PID=10859) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:21:44.048+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:21:44.051+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:44.051+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:21:44.330+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:21:44.348+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:44.348+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:21:44.356+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:44.356+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:21:44.364+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.325 seconds
+[2026-03-17T17:22:14.644+0000] {processor.py:161} INFO - Started process (PID=10939) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:22:14.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:22:14.647+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:14.647+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:22:14.950+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:22:14.960+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:14.960+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:22:14.970+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:14.970+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:22:14.978+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.339 seconds
+[2026-03-17T17:22:45.211+0000] {processor.py:161} INFO - Started process (PID=11019) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:22:45.213+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:22:45.215+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:45.215+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:22:45.479+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:22:45.489+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:45.489+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:22:45.499+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:45.499+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:22:45.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.301 seconds
+[2026-03-17T17:23:15.737+0000] {processor.py:161} INFO - Started process (PID=11099) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:23:15.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:23:15.741+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:15.741+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:23:16.052+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:23:16.063+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:16.063+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:23:16.072+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:16.072+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:23:16.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.350 seconds
+[2026-03-17T17:23:46.463+0000] {processor.py:161} INFO - Started process (PID=11179) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:23:46.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:23:46.467+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:46.466+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:23:46.731+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:23:46.742+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:46.742+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:23:46.753+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:46.752+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:23:46.760+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.301 seconds
+[2026-03-17T17:24:16.959+0000] {processor.py:161} INFO - Started process (PID=11259) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:24:16.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:24:16.963+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:16.963+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:24:17.273+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:24:17.282+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:17.282+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:24:17.290+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:17.290+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:24:17.299+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.346 seconds
+[2026-03-17T17:24:48.165+0000] {processor.py:161} INFO - Started process (PID=11339) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:24:48.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:24:48.169+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:48.169+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:24:48.452+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:24:48.460+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:48.460+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:24:48.471+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:48.471+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:24:48.480+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.320 seconds
+[2026-03-17T17:25:18.652+0000] {processor.py:161} INFO - Started process (PID=11419) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:25:18.654+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:25:18.656+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:18.656+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:25:18.839+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:25:18.847+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:18.847+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:25:18.856+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:18.856+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:25:18.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.219 seconds
+[2026-03-17T17:25:49.616+0000] {processor.py:161} INFO - Started process (PID=11499) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:25:49.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:25:49.620+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:49.620+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:25:49.846+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:25:49.859+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:49.859+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:25:49.872+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:49.872+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:25:49.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.269 seconds
+[2026-03-17T17:26:20.585+0000] {processor.py:161} INFO - Started process (PID=11585) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:26:20.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:26:20.595+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:20.594+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:26:20.795+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:26:20.806+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:20.805+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:26:20.817+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:20.817+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:26:20.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.248 seconds
+[2026-03-17T17:26:51.457+0000] {processor.py:161} INFO - Started process (PID=11665) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:26:51.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:26:51.460+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:51.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:26:51.672+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:26:51.682+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:51.682+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:26:51.691+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:51.691+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:26:51.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.247 seconds
+[2026-03-17T17:27:22.450+0000] {processor.py:161} INFO - Started process (PID=11745) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:27:22.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:27:22.456+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:22.456+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:27:22.641+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:27:22.650+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:22.650+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:27:22.660+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:22.660+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:27:22.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.227 seconds
+[2026-03-17T17:27:53.583+0000] {processor.py:161} INFO - Started process (PID=11825) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:27:53.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:27:53.588+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:53.588+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:27:53.805+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:27:53.820+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:53.820+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:27:53.835+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:53.835+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:27:53.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.271 seconds
+[2026-03-17T17:28:24.199+0000] {processor.py:161} INFO - Started process (PID=11905) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:28:24.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:28:24.202+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:24.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:28:24.505+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:28:24.520+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:24.520+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:28:24.529+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:24.529+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:28:24.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.340 seconds
+[2026-03-17T17:28:54.831+0000] {processor.py:161} INFO - Started process (PID=11985) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:28:54.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:28:54.838+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:54.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:28:55.215+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:28:55.228+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:55.228+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:28:55.238+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:55.238+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:28:55.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.422 seconds
+[2026-03-17T17:29:25.961+0000] {processor.py:161} INFO - Started process (PID=12065) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:29:25.963+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:29:25.967+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:25.967+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:29:26.345+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:29:26.356+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:26.356+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:29:26.365+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:26.365+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:29:26.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.421 seconds
+[2026-03-17T17:29:56.641+0000] {processor.py:161} INFO - Started process (PID=12139) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:29:56.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:29:56.645+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:56.644+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:29:56.908+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:29:56.915+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:56.915+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:29:56.926+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:56.925+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:29:56.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.297 seconds
+[2026-03-17T17:30:27.652+0000] {processor.py:161} INFO - Started process (PID=12219) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:30:27.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:30:27.653+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:30:27.653+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:30:27.892+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:30:27.900+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:30:27.900+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:30:27.909+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:30:27.909+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:30:27.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-03-17T17:31:02.336+0000] {processor.py:161} INFO - Started process (PID=12299) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:31:02.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:31:02.342+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:02.341+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:31:02.648+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:31:02.657+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:02.656+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:31:02.665+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:02.665+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:31:02.673+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.344 seconds
+[2026-03-17T17:31:37.616+0000] {processor.py:161} INFO - Started process (PID=12379) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:31:37.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:31:37.624+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:37.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:31:37.946+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:31:37.954+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:37.954+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:31:37.965+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:37.965+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:31:37.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.363 seconds
+[2026-03-17T17:32:16.940+0000] {processor.py:161} INFO - Started process (PID=12459) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:32:16.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:32:16.943+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:16.943+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:32:17.186+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:32:17.194+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:17.194+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:32:17.202+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:17.202+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:32:17.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.272 seconds
+[2026-03-17T17:32:57.601+0000] {processor.py:161} INFO - Started process (PID=12539) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:32:57.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:32:57.607+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:57.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:32:57.809+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:32:57.820+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:57.820+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:32:57.829+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:57.828+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:32:57.839+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.243 seconds
+[2026-03-17T17:33:37.657+0000] {processor.py:161} INFO - Started process (PID=12619) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:33:37.659+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:33:37.662+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:33:37.662+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:33:37.854+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:33:37.866+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:33:37.866+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:33:37.875+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:33:37.875+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:33:37.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.233 seconds
+[2026-03-17T17:34:16.080+0000] {processor.py:161} INFO - Started process (PID=12699) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:34:16.082+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:34:16.085+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:16.085+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:34:16.280+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:34:16.292+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:16.292+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:34:16.302+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:16.301+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:34:16.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.234 seconds
+[2026-03-17T17:34:54.597+0000] {processor.py:161} INFO - Started process (PID=12779) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:34:54.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:34:54.602+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:54.601+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:34:54.786+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:34:54.800+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:54.800+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:34:54.809+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:54.809+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:34:54.816+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.223 seconds
+[2026-03-17T17:35:30.083+0000] {processor.py:161} INFO - Started process (PID=12859) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:35:30.084+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:35:30.088+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:35:30.088+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:35:30.307+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:35:30.316+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:35:30.316+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:35:30.326+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:35:30.326+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:35:30.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.256 seconds
+[2026-03-17T17:36:09.881+0000] {processor.py:161} INFO - Started process (PID=12939) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:36:09.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:36:09.886+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:09.886+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:36:10.172+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:36:10.195+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:10.195+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:36:10.211+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:10.211+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:36:10.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.454 seconds
+[2026-03-17T17:36:49.928+0000] {processor.py:161} INFO - Started process (PID=13019) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:36:49.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:36:49.931+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:49.931+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:36:50.181+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:36:50.188+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:50.187+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:36:50.198+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:50.198+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:36:50.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.280 seconds
+[2026-03-17T17:37:28.751+0000] {processor.py:161} INFO - Started process (PID=13099) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:37:28.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:37:28.755+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:37:28.755+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:37:28.939+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:37:28.949+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:37:28.949+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:37:29.030+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:37:29.030+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:37:29.040+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.294 seconds
+[2026-03-17T17:38:07.742+0000] {processor.py:161} INFO - Started process (PID=13179) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:38:07.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:38:07.746+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:07.746+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:38:08.002+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:38:08.011+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:08.010+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:38:08.021+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:08.021+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:38:08.035+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.296 seconds
+[2026-03-17T17:38:45.703+0000] {processor.py:161} INFO - Started process (PID=13259) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:38:45.705+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:38:45.708+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:45.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:38:45.973+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:38:45.984+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:45.984+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:38:45.993+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:45.993+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:38:46.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.301 seconds
+[2026-03-17T17:39:26.053+0000] {processor.py:161} INFO - Started process (PID=13339) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:39:26.054+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:39:26.055+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:39:26.055+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:39:26.294+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:39:26.303+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:39:26.303+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:39:26.313+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:39:26.313+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:39:26.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.271 seconds
+[2026-03-17T17:40:04.474+0000] {processor.py:161} INFO - Started process (PID=13419) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:40:04.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:40:04.481+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:04.481+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:40:04.749+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:40:04.759+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:04.759+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:40:04.769+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:04.769+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:40:04.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.309 seconds
+[2026-03-17T17:40:43.874+0000] {processor.py:161} INFO - Started process (PID=13499) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:40:43.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:40:43.879+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:43.878+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:40:44.132+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:40:44.143+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:44.143+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:40:44.150+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:44.150+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:40:44.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.293 seconds
+[2026-03-17T17:41:22.231+0000] {processor.py:161} INFO - Started process (PID=13579) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:41:22.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:41:22.233+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:41:22.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:41:22.531+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:41:22.539+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:41:22.538+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:41:22.548+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:41:22.548+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:41:22.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.328 seconds
+[2026-03-17T17:42:02.624+0000] {processor.py:161} INFO - Started process (PID=13659) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:42:02.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:42:02.630+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:02.629+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:42:02.825+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:42:02.835+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:02.834+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:42:02.845+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:02.845+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:42:02.854+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.234 seconds
+[2026-03-17T17:42:41.013+0000] {processor.py:161} INFO - Started process (PID=13739) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:42:41.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:42:41.018+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:41.017+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:42:41.192+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:42:41.206+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:41.205+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:42:41.216+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:41.216+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:42:41.227+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.217 seconds
+[2026-03-17T17:43:20.001+0000] {processor.py:161} INFO - Started process (PID=13819) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:43:20.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:43:20.005+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:20.005+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:43:20.192+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:43:20.203+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:20.202+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:43:20.212+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:20.212+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:43:20.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.223 seconds
+[2026-03-17T17:43:59.731+0000] {processor.py:161} INFO - Started process (PID=13899) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:43:59.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:43:59.733+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:59.733+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:43:59.910+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:43:59.920+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:59.920+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:43:59.931+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:59.930+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:43:59.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-03-17T17:44:40.948+0000] {processor.py:161} INFO - Started process (PID=13979) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:44:40.949+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:44:40.950+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:44:40.950+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:44:41.125+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:44:41.134+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:44:41.134+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:44:41.144+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:44:41.144+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:44:41.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.210 seconds
+[2026-03-17T17:45:21.050+0000] {processor.py:161} INFO - Started process (PID=14059) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:45:21.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:45:21.054+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:21.054+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:45:21.365+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:45:21.376+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:21.375+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:45:21.385+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:21.385+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:45:21.391+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.345 seconds
+[2026-03-17T17:45:59.200+0000] {processor.py:161} INFO - Started process (PID=14139) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:45:59.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:45:59.203+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:59.203+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:45:59.486+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:45:59.493+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:59.493+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:45:59.504+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:59.504+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:45:59.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.319 seconds
+[2026-03-17T17:46:39.039+0000] {processor.py:161} INFO - Started process (PID=14219) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:46:39.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:46:39.044+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:46:39.044+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:46:39.316+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:46:39.326+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:46:39.326+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:46:39.334+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:46:39.334+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:46:39.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.310 seconds
+[2026-03-17T17:47:17.309+0000] {processor.py:161} INFO - Started process (PID=14299) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:47:17.311+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:47:17.315+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:17.314+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:47:17.584+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:47:17.591+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:17.591+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:47:17.599+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:17.599+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:47:17.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.304 seconds
+[2026-03-17T17:47:56.294+0000] {processor.py:161} INFO - Started process (PID=14379) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:47:56.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:47:56.298+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:56.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:47:56.599+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:47:56.607+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:56.607+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:47:56.617+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:56.617+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:47:56.626+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.337 seconds
+[2026-03-17T17:48:31.233+0000] {processor.py:161} INFO - Started process (PID=14459) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:48:31.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:48:31.235+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:48:31.235+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:48:31.663+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:48:31.670+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:48:31.670+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:48:31.679+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:48:31.679+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:48:31.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.459 seconds
+[2026-03-17T17:49:11.930+0000] {processor.py:161} INFO - Started process (PID=14539) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:49:11.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:49:11.934+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:11.933+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:49:12.189+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:49:12.198+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:12.198+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:49:12.208+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:12.208+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:49:12.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.292 seconds
+[2026-03-17T17:49:51.086+0000] {processor.py:161} INFO - Started process (PID=14619) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:49:51.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:49:51.088+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:51.088+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:49:51.275+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:49:51.287+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:51.287+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:49:51.299+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:51.299+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:49:51.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.226 seconds
+[2026-03-17T17:50:31.078+0000] {processor.py:161} INFO - Started process (PID=14699) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:50:31.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:50:31.084+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:50:31.084+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:50:31.265+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:50:31.275+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:50:31.275+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:50:31.284+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:50:31.284+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:50:31.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.221 seconds
+[2026-03-17T17:51:08.453+0000] {processor.py:161} INFO - Started process (PID=14779) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:51:08.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:51:08.457+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:08.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:51:08.659+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:51:08.670+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:08.670+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:51:08.681+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:08.681+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:51:08.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.242 seconds
+[2026-03-17T17:51:53.080+0000] {processor.py:161} INFO - Started process (PID=14859) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:51:53.081+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:51:53.085+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:53.085+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:51:53.282+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:51:53.294+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:53.294+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:51:53.303+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:53.303+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:51:53.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.238 seconds
+[2026-03-17T17:52:33.244+0000] {processor.py:161} INFO - Started process (PID=14939) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:52:33.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:52:33.250+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:52:33.250+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:52:33.439+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:52:33.449+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:52:33.449+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:52:33.459+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:52:33.459+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:52:33.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.226 seconds
+[2026-03-17T17:53:09.895+0000] {processor.py:161} INFO - Started process (PID=15019) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:53:09.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:53:09.900+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:09.900+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:53:10.108+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:53:10.118+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:10.118+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:53:10.199+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:10.199+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:53:10.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.321 seconds
+[2026-03-17T17:53:47.792+0000] {processor.py:161} INFO - Started process (PID=15099) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:53:47.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:53:47.797+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:47.797+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:53:48.139+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:53:48.151+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:48.151+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:53:48.161+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:48.161+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:53:48.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.382 seconds
+[2026-03-17T17:54:34.275+0000] {processor.py:161} INFO - Started process (PID=15179) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:54:34.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:54:34.278+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:54:34.278+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:54:34.526+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:54:34.534+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:54:34.534+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:54:34.543+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:54:34.543+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:54:34.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.279 seconds
+[2026-03-17T17:55:07.016+0000] {processor.py:161} INFO - Started process (PID=15259) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:55:07.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:55:07.020+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:07.020+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:55:07.307+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:55:07.317+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:07.317+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:55:07.327+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:07.327+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:55:07.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.325 seconds
+[2026-03-17T17:55:46.196+0000] {processor.py:161} INFO - Started process (PID=15339) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:55:46.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T17:55:46.200+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:46.199+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:55:46.503+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T17:55:46.512+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:46.512+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T17:55:46.524+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:46.523+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T17:55:46.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.342 seconds
+[2026-03-17T18:52:02.205+0000] {processor.py:161} INFO - Started process (PID=15419) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T18:52:02.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T18:52:02.212+0000] {logging_mixin.py:188} INFO - [2026-03-17T18:52:02.212+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T18:52:02.774+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T18:52:02.793+0000] {logging_mixin.py:188} INFO - [2026-03-17T18:52:02.792+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T18:52:02.813+0000] {logging_mixin.py:188} INFO - [2026-03-17T18:52:02.812+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T18:52:02.841+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.639 seconds
+[2026-03-17T20:03:53.232+0000] {processor.py:161} INFO - Started process (PID=15499) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T20:03:53.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T20:03:53.245+0000] {logging_mixin.py:188} INFO - [2026-03-17T20:03:53.245+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T20:03:53.855+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T20:03:53.868+0000] {logging_mixin.py:188} INFO - [2026-03-17T20:03:53.867+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T20:03:53.879+0000] {logging_mixin.py:188} INFO - [2026-03-17T20:03:53.878+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T20:03:53.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.673 seconds
+[2026-03-17T21:04:33.582+0000] {processor.py:161} INFO - Started process (PID=15579) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T21:04:33.591+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T21:04:33.619+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:04:33.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T21:04:34.479+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T21:04:34.495+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:04:34.494+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T21:04:34.511+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:04:34.511+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T21:04:34.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.965 seconds
+[2026-03-17T21:06:45.292+0000] {processor.py:161} INFO - Started process (PID=15659) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T21:06:45.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T21:06:45.300+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:06:45.300+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T21:06:45.549+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T21:06:45.564+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:06:45.564+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T21:06:45.582+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:06:45.582+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T21:06:45.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.308 seconds
+[2026-03-17T22:05:43.476+0000] {processor.py:161} INFO - Started process (PID=15739) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T22:05:43.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T22:05:43.482+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:05:43.482+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T22:05:43.771+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T22:05:43.801+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:05:43.801+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T22:05:43.816+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:05:43.816+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T22:05:43.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.360 seconds
+[2026-03-17T22:50:29.173+0000] {processor.py:161} INFO - Started process (PID=15818) to work on /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T22:50:29.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py for tasks to queue
+[2026-03-17T22:50:29.181+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:50:29.180+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T22:50:29.477+0000] {processor.py:840} INFO - DAG(s) 'greater_boston_crime_to_s3_to_snowflake' retrieved from /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py
+[2026-03-17T22:50:29.528+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:50:29.526+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-03-17T22:50:29.559+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:50:29.559+0000] {dag.py:3823} INFO - Setting next_dagrun for greater_boston_crime_to_s3_to_snowflake to 2026-04-01 02:00:00+00:00, run_after=2026-05-01 02:00:00+00:00
+[2026-03-17T22:50:29.585+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/greater_boston_api_to_s3_to_snowflake.py took 0.415 seconds

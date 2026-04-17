@@ -1,0 +1,21 @@
+[2026-02-19T06:07:27.080+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bluebikes_api_to_s3_to_snowflake.fetch_and_convert manual__2026-02-19T06:07:25.817753+00:00 [queued]>
+[2026-02-19T06:07:27.082+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bluebikes_api_to_s3_to_snowflake.fetch_and_convert manual__2026-02-19T06:07:25.817753+00:00 [queued]>
+[2026-02-19T06:07:27.082+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-19T06:07:27.087+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): fetch_and_convert> on 2026-02-19 06:07:25.817753+00:00
+[2026-02-19T06:07:27.089+0000] {standard_task_runner.py:60} INFO - Started process 2686 to run task
+[2026-02-19T06:07:27.092+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'bluebikes_api_to_s3_to_snowflake', 'fetch_and_convert', 'manual__2026-02-19T06:07:25.817753+00:00', '--job-id', '88', '--raw', '--subdir', 'DAGS_FOLDER/bluebikes_api_to_s3_to_snowflake.py', '--cfg-path', '/tmp/tmp0e5n7ekg']
+[2026-02-19T06:07:27.092+0000] {standard_task_runner.py:88} INFO - Job 88: Subtask fetch_and_convert
+[2026-02-19T06:07:27.113+0000] {task_command.py:423} INFO - Running <TaskInstance: bluebikes_api_to_s3_to_snowflake.fetch_and_convert manual__2026-02-19T06:07:25.817753+00:00 [running]> on host 68ec4590c1d2
+[2026-02-19T06:07:27.146+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='bluebikes_api_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='fetch_and_convert' AIRFLOW_CTX_EXECUTION_DATE='2026-02-19T06:07:25.817753+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-19T06:07:25.817753+00:00'
+[2026-02-19T06:07:27.150+0000] {logging_mixin.py:188} INFO - Fetching ALL Blue Bikes station data from https://data.boston.gov/api/3/action/datastore_search?resource_id=44c931aa-4577-4caa-a8f2-ed1e38263e70 with pagination
+[2026-02-19T06:07:27.151+0000] {logging_mixin.py:188} INFO - Fetching records 0 to 10000...
+[2026-02-19T06:07:27.483+0000] {logging_mixin.py:188} INFO - Fetched 572 records. Total so far: 572
+[2026-02-19T06:07:27.484+0000] {logging_mixin.py:188} INFO - Reached last page
+[2026-02-19T06:07:27.484+0000] {logging_mixin.py:188} INFO - Saving JSON to /opt/***/bluebikes_stations_20260219T060725.json
+[2026-02-19T06:07:27.495+0000] {logging_mixin.py:188} INFO - Converting 572 records to CSV
+[2026-02-19T06:07:27.499+0000] {logging_mixin.py:188} INFO - CSV saved to /opt/***/bluebikes_stations_20260219T060725.csv
+[2026-02-19T06:07:27.500+0000] {logging_mixin.py:188} INFO - JSON and CSV files saved in ***-project directory
+[2026-02-19T06:07:27.521+0000] {python.py:201} INFO - Done. Returned value was: {'csv_path': '/opt/***/bluebikes_stations_20260219T060725.csv', 'json_path': '/opt/***/bluebikes_stations_20260219T060725.json', 'record_count': 572}
+[2026-02-19T06:07:27.527+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=bluebikes_api_to_s3_to_snowflake, task_id=fetch_and_convert, execution_date=20260219T060725, start_date=20260219T060727, end_date=20260219T060727
+[2026-02-19T06:07:27.571+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-19T06:07:27.583+0000] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

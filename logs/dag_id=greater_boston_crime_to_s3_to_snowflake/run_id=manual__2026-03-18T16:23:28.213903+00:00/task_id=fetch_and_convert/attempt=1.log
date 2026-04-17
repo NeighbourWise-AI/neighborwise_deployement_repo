@@ -1,0 +1,126 @@
+[2026-03-18T16:23:28.959+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: greater_boston_crime_to_s3_to_snowflake.fetch_and_convert manual__2026-03-18T16:23:28.213903+00:00 [queued]>
+[2026-03-18T16:23:28.961+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: greater_boston_crime_to_s3_to_snowflake.fetch_and_convert manual__2026-03-18T16:23:28.213903+00:00 [queued]>
+[2026-03-18T16:23:28.961+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-03-18T16:23:28.965+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): fetch_and_convert> on 2026-03-18 16:23:28.213903+00:00
+[2026-03-18T16:23:28.967+0000] {standard_task_runner.py:60} INFO - Started process 2551 to run task
+[2026-03-18T16:23:28.972+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'greater_boston_crime_to_s3_to_snowflake', 'fetch_and_convert', 'manual__2026-03-18T16:23:28.213903+00:00', '--job-id', '361', '--raw', '--subdir', 'DAGS_FOLDER/greater_boston_api_to_s3_to_snowflake.py', '--cfg-path', '/tmp/tmpy5qtnh2v']
+[2026-03-18T16:23:28.973+0000] {standard_task_runner.py:88} INFO - Job 361: Subtask fetch_and_convert
+[2026-03-18T16:23:28.998+0000] {task_command.py:423} INFO - Running <TaskInstance: greater_boston_crime_to_s3_to_snowflake.fetch_and_convert manual__2026-03-18T16:23:28.213903+00:00 [running]> on host 19d83aa9a1d3
+[2026-03-18T16:23:29.021+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='greater_boston_crime_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='fetch_and_convert' AIRFLOW_CTX_EXECUTION_DATE='2026-03-18T16:23:28.213903+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-18T16:23:28.213903+00:00'
+[2026-03-18T16:23:29.025+0000] {logging_mixin.py:188} INFO - 
+Fetching data for ARLINGTON (ORI: MA0090200)
+[2026-03-18T16:23:30.091+0000] {logging_mixin.py:188} INFO -   homicide: 0 total across 3 years
+[2026-03-18T16:23:30.899+0000] {logging_mixin.py:188} INFO -   rape: 7 total across 3 years
+[2026-03-18T16:23:31.868+0000] {logging_mixin.py:188} INFO -   robbery: 5 total across 3 years
+[2026-03-18T16:23:32.744+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 83 total across 3 years
+[2026-03-18T16:23:33.772+0000] {logging_mixin.py:188} INFO -   burglary: 97 total across 3 years
+[2026-03-18T16:23:34.727+0000] {logging_mixin.py:188} INFO -   larceny: 510 total across 3 years
+[2026-03-18T16:23:35.545+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 57 total across 3 years
+[2026-03-18T16:23:36.510+0000] {logging_mixin.py:188} INFO -   arson: 4 total across 3 years
+[2026-03-18T16:23:37.014+0000] {logging_mixin.py:188} INFO - 
+Fetching data for BROOKLINE (ORI: MA0110400)
+[2026-03-18T16:23:37.330+0000] {logging_mixin.py:188} INFO -   homicide: 0 total across 3 years
+[2026-03-18T16:23:38.132+0000] {logging_mixin.py:188} INFO -   rape: 12 total across 3 years
+[2026-03-18T16:23:38.993+0000] {logging_mixin.py:188} INFO -   robbery: 32 total across 3 years
+[2026-03-18T16:23:39.810+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 132 total across 3 years
+[2026-03-18T16:23:40.615+0000] {logging_mixin.py:188} INFO -   burglary: 135 total across 3 years
+[2026-03-18T16:23:41.652+0000] {logging_mixin.py:188} INFO -   larceny: 1479 total across 3 years
+[2026-03-18T16:23:42.458+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 78 total across 3 years
+[2026-03-18T16:23:43.293+0000] {logging_mixin.py:188} INFO -   arson: 2 total across 3 years
+[2026-03-18T16:23:43.797+0000] {logging_mixin.py:188} INFO - 
+Fetching data for NEWTON (ORI: MA0093300)
+[2026-03-18T16:23:44.110+0000] {logging_mixin.py:188} INFO -   homicide: 3 total across 3 years
+[2026-03-18T16:23:45.035+0000] {logging_mixin.py:188} INFO -   rape: 22 total across 3 years
+[2026-03-18T16:23:45.861+0000] {logging_mixin.py:188} INFO -   robbery: 16 total across 3 years
+[2026-03-18T16:23:46.669+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 111 total across 3 years
+[2026-03-18T16:23:47.473+0000] {logging_mixin.py:188} INFO -   burglary: 161 total across 3 years
+[2026-03-18T16:23:48.311+0000] {logging_mixin.py:188} INFO -   larceny: 1365 total across 3 years
+[2026-03-18T16:23:49.117+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 69 total across 3 years
+[2026-03-18T16:23:49.925+0000] {logging_mixin.py:188} INFO -   arson: 2 total across 3 years
+[2026-03-18T16:23:50.429+0000] {logging_mixin.py:188} INFO - 
+Fetching data for WATERTOWN (ORI: MA0094800)
+[2026-03-18T16:23:50.753+0000] {logging_mixin.py:188} INFO -   homicide: 0 total across 3 years
+[2026-03-18T16:23:51.642+0000] {logging_mixin.py:188} INFO -   rape: 25 total across 3 years
+[2026-03-18T16:23:52.471+0000] {logging_mixin.py:188} INFO -   robbery: 17 total across 3 years
+[2026-03-18T16:23:53.280+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 110 total across 3 years
+[2026-03-18T16:23:54.103+0000] {logging_mixin.py:188} INFO -   burglary: 83 total across 3 years
+[2026-03-18T16:23:54.913+0000] {logging_mixin.py:188} INFO -   larceny: 1370 total across 3 years
+[2026-03-18T16:23:55.723+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 42 total across 3 years
+[2026-03-18T16:23:56.602+0000] {logging_mixin.py:188} INFO -   arson: 4 total across 3 years
+[2026-03-18T16:23:57.105+0000] {logging_mixin.py:188} INFO - 
+Fetching data for MEDFORD (ORI: MA0093000)
+[2026-03-18T16:23:57.421+0000] {logging_mixin.py:188} INFO -   homicide: 3 total across 3 years
+[2026-03-18T16:23:58.446+0000] {logging_mixin.py:188} INFO -   rape: 43 total across 3 years
+[2026-03-18T16:23:59.378+0000] {logging_mixin.py:188} INFO -   robbery: 37 total across 3 years
+[2026-03-18T16:24:00.394+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 266 total across 3 years
+[2026-03-18T16:24:01.202+0000] {logging_mixin.py:188} INFO -   burglary: 142 total across 3 years
+[2026-03-18T16:24:02.031+0000] {logging_mixin.py:188} INFO -   larceny: 1625 total across 3 years
+[2026-03-18T16:24:02.850+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 241 total across 3 years
+[2026-03-18T16:24:03.875+0000] {logging_mixin.py:188} INFO -   arson: 5 total across 3 years
+[2026-03-18T16:24:04.377+0000] {logging_mixin.py:188} INFO - 
+Fetching data for MALDEN (ORI: MA0092700)
+[2026-03-18T16:24:04.797+0000] {logging_mixin.py:188} INFO -   homicide: 0 total across 3 years
+[2026-03-18T16:24:05.640+0000] {logging_mixin.py:188} INFO -   rape: 18 total across 3 years
+[2026-03-18T16:24:06.637+0000] {logging_mixin.py:188} INFO -   robbery: 72 total across 3 years
+[2026-03-18T16:24:07.443+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 424 total across 3 years
+[2026-03-18T16:24:08.251+0000] {logging_mixin.py:188} INFO -   burglary: 241 total across 3 years
+[2026-03-18T16:24:09.098+0000] {logging_mixin.py:188} INFO -   larceny: 1904 total across 3 years
+[2026-03-18T16:24:10.020+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 344 total across 3 years
+[2026-03-18T16:24:10.841+0000] {logging_mixin.py:188} INFO -   arson: 4 total across 3 years
+[2026-03-18T16:24:11.345+0000] {logging_mixin.py:188} INFO - 
+Fetching data for REVERE (ORI: MA0130400)
+[2026-03-18T16:24:11.863+0000] {logging_mixin.py:188} INFO -   homicide: 1 total across 3 years
+[2026-03-18T16:24:12.784+0000] {logging_mixin.py:188} INFO -   rape: 42 total across 3 years
+[2026-03-18T16:24:13.706+0000] {logging_mixin.py:188} INFO -   robbery: 52 total across 3 years
+[2026-03-18T16:24:14.518+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 585 total across 3 years
+[2026-03-18T16:24:15.447+0000] {logging_mixin.py:188} INFO -   burglary: 246 total across 3 years
+[2026-03-18T16:24:16.266+0000] {logging_mixin.py:188} INFO -   larceny: 1846 total across 3 years
+[2026-03-18T16:24:17.074+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 320 total across 3 years
+[2026-03-18T16:24:17.907+0000] {logging_mixin.py:188} INFO -   arson: 8 total across 3 years
+[2026-03-18T16:24:18.409+0000] {logging_mixin.py:188} INFO - 
+Fetching data for CHELSEA (ORI: MA0130300)
+[2026-03-18T16:24:18.827+0000] {logging_mixin.py:188} INFO -   homicide: 2 total across 3 years
+[2026-03-18T16:24:19.747+0000] {logging_mixin.py:188} INFO -   rape: 100 total across 3 years
+[2026-03-18T16:24:20.601+0000] {logging_mixin.py:188} INFO -   robbery: 168 total across 3 years
+[2026-03-18T16:24:21.488+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 777 total across 3 years
+[2026-03-18T16:24:22.327+0000] {logging_mixin.py:188} INFO -   burglary: 206 total across 3 years
+[2026-03-18T16:24:23.228+0000] {logging_mixin.py:188} INFO -   larceny: 1433 total across 3 years
+[2026-03-18T16:24:24.048+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 206 total across 3 years
+[2026-03-18T16:24:24.867+0000] {logging_mixin.py:188} INFO -   arson: 11 total across 3 years
+[2026-03-18T16:24:25.375+0000] {logging_mixin.py:188} INFO - 
+Fetching data for EVERETT (ORI: MA0091700)
+[2026-03-18T16:24:25.713+0000] {logging_mixin.py:188} INFO -   homicide: 2 total across 3 years
+[2026-03-18T16:24:26.608+0000] {logging_mixin.py:188} INFO -   rape: 70 total across 3 years
+[2026-03-18T16:24:27.427+0000] {logging_mixin.py:188} INFO -   robbery: 45 total across 3 years
+[2026-03-18T16:24:28.244+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 423 total across 3 years
+[2026-03-18T16:24:29.050+0000] {logging_mixin.py:188} INFO -   burglary: 219 total across 3 years
+[2026-03-18T16:24:29.856+0000] {logging_mixin.py:188} INFO -   larceny: 1523 total across 3 years
+[2026-03-18T16:24:30.704+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 264 total across 3 years
+[2026-03-18T16:24:31.593+0000] {logging_mixin.py:188} INFO -   arson: 6 total across 3 years
+[2026-03-18T16:24:32.096+0000] {logging_mixin.py:188} INFO - 
+Fetching data for SALEM (ORI: MA0052800)
+[2026-03-18T16:24:32.415+0000] {logging_mixin.py:188} INFO -   homicide: 2 total across 3 years
+[2026-03-18T16:24:33.221+0000] {logging_mixin.py:188} INFO -   rape: 21 total across 3 years
+[2026-03-18T16:24:34.082+0000] {logging_mixin.py:188} INFO -   robbery: 37 total across 3 years
+[2026-03-18T16:24:34.900+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 178 total across 3 years
+[2026-03-18T16:24:35.722+0000] {logging_mixin.py:188} INFO -   burglary: 156 total across 3 years
+[2026-03-18T16:24:36.537+0000] {logging_mixin.py:188} INFO -   larceny: 1668 total across 3 years
+[2026-03-18T16:24:37.359+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 127 total across 3 years
+[2026-03-18T16:24:38.283+0000] {logging_mixin.py:188} INFO -   arson: 9 total across 3 years
+[2026-03-18T16:24:38.786+0000] {logging_mixin.py:188} INFO - 
+Fetching data for QUINCY (ORI: MA0112000)
+[2026-03-18T16:24:39.088+0000] {logging_mixin.py:188} INFO -   homicide: 2 total across 3 years
+[2026-03-18T16:24:39.892+0000] {logging_mixin.py:188} INFO -   rape: 93 total across 3 years
+[2026-03-18T16:24:40.739+0000] {logging_mixin.py:188} INFO -   robbery: 89 total across 3 years
+[2026-03-18T16:24:41.559+0000] {logging_mixin.py:188} INFO -   aggravated-assault: 917 total across 3 years
+[2026-03-18T16:24:42.381+0000] {logging_mixin.py:188} INFO -   burglary: 524 total across 3 years
+[2026-03-18T16:24:43.298+0000] {logging_mixin.py:188} INFO -   larceny: 2774 total across 3 years
+[2026-03-18T16:24:44.094+0000] {logging_mixin.py:188} INFO -   motor-vehicle-theft: 332 total across 3 years
+[2026-03-18T16:24:44.897+0000] {logging_mixin.py:188} INFO -   arson: 15 total across 3 years
+[2026-03-18T16:24:45.403+0000] {logging_mixin.py:188} INFO - 
+Finished fetching. Total rows: 264
+[2026-03-18T16:24:45.405+0000] {logging_mixin.py:188} INFO - CSV saved to /opt/***/greater_boston_crime_20260318T162328.csv (264 rows)
+[2026-03-18T16:24:45.430+0000] {python.py:201} INFO - Done. Returned value was: {'csv_path': '/opt/***/greater_boston_crime_20260318T162328.csv', 'record_count': 264}
+[2026-03-18T16:24:45.441+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=greater_boston_crime_to_s3_to_snowflake, task_id=fetch_and_convert, execution_date=20260318T162328, start_date=20260318T162328, end_date=20260318T162445
+[2026-03-18T16:24:45.494+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-03-18T16:24:45.509+0000] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

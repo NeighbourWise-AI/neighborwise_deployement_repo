@@ -1,0 +1,588 @@
+[2026-04-10T00:00:11.818+0000] {processor.py:161} INFO - Started process (PID=12519) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:00:11.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:00:11.821+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:11.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:00:12.052+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:00:12.063+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:12.063+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:00:12.074+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:12.074+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:00:12.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-04-10T00:00:42.505+0000] {processor.py:161} INFO - Started process (PID=12600) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:00:42.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:00:42.508+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:42.508+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:00:42.753+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:00:42.760+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:42.760+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:00:42.767+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:42.767+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:00:42.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.273 seconds
+[2026-04-10T00:01:13.101+0000] {processor.py:161} INFO - Started process (PID=12680) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:01:13.101+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:01:13.102+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:13.102+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:01:13.346+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:01:13.358+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:13.358+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:01:13.368+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:13.368+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:01:13.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.284 seconds
+[2026-04-10T00:01:43.414+0000] {processor.py:161} INFO - Started process (PID=12760) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:01:43.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:01:43.416+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:43.416+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:01:43.602+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:01:43.616+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:43.616+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:01:43.627+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:43.627+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:01:43.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.225 seconds
+[2026-04-10T00:02:13.873+0000] {processor.py:161} INFO - Started process (PID=12840) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:02:13.874+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:02:13.875+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:13.875+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:02:14.047+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:02:14.063+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:14.063+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:02:14.074+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:14.074+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:02:14.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.213 seconds
+[2026-04-10T00:02:44.237+0000] {processor.py:161} INFO - Started process (PID=12920) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:02:44.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:02:44.241+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:44.240+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:02:44.428+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:02:44.440+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:44.440+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:02:44.452+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:44.452+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:02:44.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.228 seconds
+[2026-04-10T00:03:14.706+0000] {processor.py:161} INFO - Started process (PID=13000) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:03:14.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:03:14.709+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:14.709+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:03:14.884+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:03:14.895+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:14.895+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:03:14.903+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:14.903+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:03:14.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-04-10T00:03:45.566+0000] {processor.py:161} INFO - Started process (PID=13079) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:03:45.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:03:45.568+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:45.567+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:03:45.734+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:03:45.743+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:45.743+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:03:45.750+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:45.750+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:03:45.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.193 seconds
+[2026-04-10T00:04:16.607+0000] {processor.py:161} INFO - Started process (PID=13160) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:04:16.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:04:16.609+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:16.608+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:04:16.780+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:04:16.787+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:16.787+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:04:16.874+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:16.874+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:04:16.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-04-10T00:04:48.027+0000] {processor.py:161} INFO - Started process (PID=13240) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:04:48.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:04:48.029+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:48.029+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:04:48.260+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:04:48.270+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:48.270+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:04:48.278+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:48.277+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:04:48.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-04-10T00:05:18.387+0000] {processor.py:161} INFO - Started process (PID=13320) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:05:18.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:05:18.390+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:18.390+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:05:18.624+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:05:18.635+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:18.635+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:05:18.643+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:18.643+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:05:18.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.266 seconds
+[2026-04-10T00:05:48.670+0000] {processor.py:161} INFO - Started process (PID=13399) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:05:48.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:05:48.673+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:48.672+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:05:48.915+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:05:48.923+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:48.923+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:05:48.931+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:48.931+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:05:48.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-04-10T00:06:19.162+0000] {processor.py:161} INFO - Started process (PID=13479) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:06:19.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:06:19.164+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:19.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:06:19.397+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:06:19.403+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:19.403+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:06:19.410+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:19.410+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:06:19.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.256 seconds
+[2026-04-10T00:06:49.633+0000] {processor.py:161} INFO - Started process (PID=13559) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:06:49.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:06:49.635+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:49.635+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:06:49.869+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:06:49.876+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:49.875+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:06:49.882+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:49.882+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:06:49.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.257 seconds
+[2026-04-10T00:07:20.070+0000] {processor.py:161} INFO - Started process (PID=13639) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:07:20.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:07:20.072+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:20.072+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:07:20.317+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:07:20.324+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:20.323+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:07:20.331+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:20.331+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:07:20.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.269 seconds
+[2026-04-10T00:07:50.759+0000] {processor.py:161} INFO - Started process (PID=13720) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:07:50.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:07:50.761+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:50.761+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:07:51.001+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:07:51.013+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:51.013+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:07:51.019+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:51.019+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:07:51.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.268 seconds
+[2026-04-10T00:08:21.191+0000] {processor.py:161} INFO - Started process (PID=13800) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:08:21.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:08:21.192+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:21.192+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:08:21.435+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:08:21.445+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:21.445+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:08:21.452+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:21.452+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:08:21.458+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.269 seconds
+[2026-04-10T00:08:51.972+0000] {processor.py:161} INFO - Started process (PID=13886) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:08:51.972+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:08:51.974+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:51.973+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:08:52.150+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:08:52.162+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:52.162+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:08:52.170+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:52.170+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:08:52.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-04-10T00:09:22.966+0000] {processor.py:161} INFO - Started process (PID=13966) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:09:22.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:09:22.968+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:22.968+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:09:23.139+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:09:23.149+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:23.149+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:09:23.157+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:23.157+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:09:23.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.200 seconds
+[2026-04-10T00:09:53.805+0000] {processor.py:161} INFO - Started process (PID=14046) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:09:53.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:09:53.807+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:53.807+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:09:53.980+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:09:53.991+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:53.990+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:09:53.998+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:53.998+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:09:54.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.208 seconds
+[2026-04-10T00:10:24.783+0000] {processor.py:161} INFO - Started process (PID=14126) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:10:24.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:10:24.785+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:24.785+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:10:24.990+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:10:24.999+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:24.999+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:10:25.009+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:25.009+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:10:25.017+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.235 seconds
+[2026-04-10T00:10:55.876+0000] {processor.py:161} INFO - Started process (PID=14206) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:10:55.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:10:55.877+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:55.877+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:10:56.060+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:10:56.072+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:56.072+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:10:56.080+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:56.080+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:10:56.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.212 seconds
+[2026-04-10T00:11:26.821+0000] {processor.py:161} INFO - Started process (PID=14286) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:11:26.822+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:11:26.824+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:26.824+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:11:26.992+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:11:27.002+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:27.002+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:11:27.010+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:27.010+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:11:27.017+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.197 seconds
+[2026-04-10T00:11:57.853+0000] {processor.py:161} INFO - Started process (PID=14366) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:11:57.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:11:57.855+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:57.855+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:11:58.029+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:11:58.039+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:58.039+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:11:58.121+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:58.121+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:11:58.132+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.281 seconds
+[2026-04-10T00:12:29.331+0000] {processor.py:161} INFO - Started process (PID=14445) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:12:29.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:12:29.334+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:29.334+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:12:29.578+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:12:29.587+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:29.587+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:12:29.595+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:29.595+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:12:29.604+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.274 seconds
+[2026-04-10T00:12:59.984+0000] {processor.py:161} INFO - Started process (PID=14526) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:12:59.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:12:59.986+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:59.986+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:13:00.238+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:13:00.247+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:00.247+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:13:00.257+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:00.257+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:13:00.265+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-04-10T00:13:30.452+0000] {processor.py:161} INFO - Started process (PID=14605) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:13:30.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:13:30.454+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:30.454+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:13:30.705+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:13:30.714+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:30.714+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:13:30.723+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:30.723+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:13:30.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-04-10T00:14:55.390+0000] {processor.py:161} INFO - Started process (PID=14679) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:14:55.391+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:14:55.392+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:14:55.392+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:14:55.649+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:14:55.661+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:14:55.661+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:14:55.673+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:14:55.673+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:14:55.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.297 seconds
+[2026-04-10T00:15:25.820+0000] {processor.py:161} INFO - Started process (PID=14759) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:15:25.820+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:15:25.821+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:25.821+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:15:26.064+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:15:26.073+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:26.072+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:15:26.082+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:26.081+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:15:26.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.280 seconds
+[2026-04-10T00:15:56.667+0000] {processor.py:161} INFO - Started process (PID=14838) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:15:56.669+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:15:56.675+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:56.674+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:15:57.012+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:15:57.024+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:57.024+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:15:57.039+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:57.039+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:15:57.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.389 seconds
+[2026-04-10T00:16:27.713+0000] {processor.py:161} INFO - Started process (PID=14918) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:16:27.716+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:16:27.720+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:27.719+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:16:27.956+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:16:27.969+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:27.968+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:16:27.981+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:27.981+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:16:27.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.281 seconds
+[2026-04-10T00:16:58.059+0000] {processor.py:161} INFO - Started process (PID=14998) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:16:58.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:16:58.064+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:58.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:16:58.362+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:16:58.376+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:58.376+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:16:58.391+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:58.391+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:16:58.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.347 seconds
+[2026-04-10T00:17:28.620+0000] {processor.py:161} INFO - Started process (PID=15078) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:17:28.623+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:17:28.625+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:28.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:17:28.820+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:17:28.832+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:28.832+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:17:28.843+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:28.843+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:17:28.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.241 seconds
+[2026-04-10T00:17:59.752+0000] {processor.py:161} INFO - Started process (PID=15158) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:17:59.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:17:59.755+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:59.754+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:17:59.944+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:17:59.956+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:59.956+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:17:59.966+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:59.966+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:17:59.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.227 seconds
+[2026-04-10T00:18:30.058+0000] {processor.py:161} INFO - Started process (PID=15238) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:18:30.059+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:18:30.061+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:18:30.061+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:18:30.248+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:18:30.256+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:18:30.256+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:18:30.266+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:18:30.266+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:18:30.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.223 seconds
+[2026-04-10T00:19:00.459+0000] {processor.py:161} INFO - Started process (PID=15319) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:19:00.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:19:00.461+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:00.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:19:00.634+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:19:00.645+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:00.645+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:19:00.653+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:00.653+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:19:00.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.201 seconds
+[2026-04-10T00:19:31.614+0000] {processor.py:161} INFO - Started process (PID=15399) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:19:31.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:19:31.617+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:31.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:19:31.821+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:19:31.833+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:31.833+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:19:31.841+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:31.841+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:19:31.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.236 seconds
+[2026-04-10T00:20:02.055+0000] {processor.py:161} INFO - Started process (PID=15479) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:20:02.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:20:02.057+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:02.057+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:20:02.238+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:20:02.255+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:02.254+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:20:02.346+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:02.346+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:20:02.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.299 seconds
+[2026-04-10T00:20:32.778+0000] {processor.py:161} INFO - Started process (PID=15558) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:20:32.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:20:32.781+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:32.781+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:20:33.025+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:20:33.034+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:33.034+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:20:33.042+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:33.042+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:20:33.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.274 seconds
+[2026-04-10T00:21:03.715+0000] {processor.py:161} INFO - Started process (PID=15639) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:21:03.716+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:21:03.717+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:03.717+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:21:03.962+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:21:03.971+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:03.971+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:21:03.980+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:03.980+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:21:03.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.277 seconds
+[2026-04-10T00:21:34.522+0000] {processor.py:161} INFO - Started process (PID=15719) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:21:34.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:21:34.524+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:34.524+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:21:34.757+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:21:34.767+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:34.767+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:21:34.775+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:34.775+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:21:34.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-04-10T00:22:04.946+0000] {processor.py:161} INFO - Started process (PID=15799) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:22:04.946+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:22:04.948+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:04.948+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:22:05.204+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:22:05.211+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:05.210+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:22:05.218+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:05.218+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:22:05.231+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.288 seconds
+[2026-04-10T00:22:35.365+0000] {processor.py:161} INFO - Started process (PID=15879) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:22:35.367+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:22:35.368+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:35.368+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:22:35.632+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:22:35.640+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:35.640+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:22:35.651+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:35.651+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:22:35.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.295 seconds
+[2026-04-10T00:23:05.831+0000] {processor.py:161} INFO - Started process (PID=15959) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:23:05.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:23:05.833+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:05.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:23:06.083+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:23:06.090+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:06.089+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:23:06.098+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:06.098+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:23:06.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.275 seconds
+[2026-04-10T00:23:36.456+0000] {processor.py:161} INFO - Started process (PID=16039) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:23:36.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:23:36.458+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:36.458+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:23:36.714+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:23:36.723+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:36.723+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:23:36.731+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:36.731+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:23:36.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.283 seconds
+[2026-04-10T00:24:06.950+0000] {processor.py:161} INFO - Started process (PID=16119) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:24:06.951+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:24:06.953+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:06.952+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:24:07.206+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:24:07.216+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:07.216+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:24:07.223+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:07.223+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:24:07.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.282 seconds
+[2026-04-10T00:24:37.410+0000] {processor.py:161} INFO - Started process (PID=16199) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:24:37.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:24:37.413+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:37.412+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:24:37.595+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:24:37.609+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:37.609+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:24:37.618+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:37.617+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:24:37.625+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.217 seconds
+[2026-04-10T00:25:08.385+0000] {processor.py:161} INFO - Started process (PID=16279) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:25:08.386+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:25:08.387+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:08.387+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:25:08.558+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:25:08.568+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:08.568+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:25:08.576+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:08.576+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:25:08.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.199 seconds
+[2026-04-10T00:25:39.315+0000] {processor.py:161} INFO - Started process (PID=16359) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:25:39.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:25:39.316+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:39.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:25:39.490+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:25:39.500+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:39.499+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:25:39.507+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:39.507+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:25:39.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.200 seconds
+[2026-04-10T00:26:10.510+0000] {processor.py:161} INFO - Started process (PID=16438) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:26:10.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:26:10.513+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:10.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:26:10.701+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:26:10.713+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:10.712+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:26:10.722+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:10.722+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:26:10.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.221 seconds
+[2026-04-10T00:26:41.495+0000] {processor.py:161} INFO - Started process (PID=16518) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:26:41.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:26:41.496+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:41.496+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:26:41.670+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:26:41.681+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:41.681+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:26:41.690+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:41.689+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:26:41.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.203 seconds
+[2026-04-10T00:27:12.448+0000] {processor.py:161} INFO - Started process (PID=16602) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:27:12.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:27:12.450+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:12.450+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:27:12.627+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:27:12.639+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:12.638+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:27:12.648+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:12.648+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:27:12.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.207 seconds
+[2026-04-10T00:27:43.735+0000] {processor.py:161} INFO - Started process (PID=16682) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:27:43.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:27:43.736+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:43.736+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:27:43.987+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:27:43.999+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:43.999+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:27:44.007+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:44.006+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:27:44.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-04-10T00:28:14.227+0000] {processor.py:161} INFO - Started process (PID=16762) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:28:14.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:28:14.228+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:14.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:28:14.475+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:28:14.483+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:14.483+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:28:14.492+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:14.491+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:28:14.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.275 seconds
+[2026-04-10T00:28:44.641+0000] {processor.py:161} INFO - Started process (PID=16841) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:28:44.641+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:28:44.642+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:44.642+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:28:44.881+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:28:44.888+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:44.887+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:28:44.898+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:44.898+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:28:44.904+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.265 seconds
+[2026-04-10T00:29:16.194+0000] {processor.py:161} INFO - Started process (PID=16921) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:29:16.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:29:16.196+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:16.196+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:29:16.431+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:29:16.445+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:16.445+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:29:16.453+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:16.453+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:29:16.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.267 seconds
+[2026-04-10T00:29:46.768+0000] {processor.py:161} INFO - Started process (PID=17002) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:29:46.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:29:46.770+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:46.770+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:29:47.016+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:29:47.026+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:47.026+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:29:47.033+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:47.033+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:29:47.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.274 seconds
+[2026-04-10T00:30:17.278+0000] {processor.py:161} INFO - Started process (PID=17082) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:30:17.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:30:17.282+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:17.282+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:30:17.557+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:30:17.567+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:17.567+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:30:17.575+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:17.574+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:30:17.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.305 seconds
+[2026-04-10T00:30:48.240+0000] {processor.py:161} INFO - Started process (PID=17162) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:30:48.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:30:48.243+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:48.243+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:30:48.527+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:30:48.542+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:48.541+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:30:48.550+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:48.550+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:30:48.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.318 seconds
+[2026-04-10T00:31:19.161+0000] {processor.py:161} INFO - Started process (PID=17242) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:31:19.162+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:31:19.164+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:19.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:31:19.442+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:31:19.453+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:19.453+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:31:19.461+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:19.461+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:31:19.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.308 seconds
+[2026-04-10T00:31:50.295+0000] {processor.py:161} INFO - Started process (PID=17322) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:31:50.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:31:50.297+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:50.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:31:50.595+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:31:50.610+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:50.609+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:31:50.619+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:50.619+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:31:50.629+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.336 seconds
+[2026-04-10T00:32:20.789+0000] {processor.py:161} INFO - Started process (PID=17402) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:32:20.789+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:32:20.791+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:20.791+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:32:20.982+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:32:20.993+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:20.993+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:32:21.002+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:21.002+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:32:21.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.223 seconds
+[2026-04-10T00:32:51.054+0000] {processor.py:161} INFO - Started process (PID=17482) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:32:51.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:32:51.056+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:51.056+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:32:51.239+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:32:51.251+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:51.251+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:32:51.261+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:51.261+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:32:51.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.222 seconds
+[2026-04-10T00:33:22.071+0000] {processor.py:161} INFO - Started process (PID=17562) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:33:22.072+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:33:22.073+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:22.073+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:33:22.247+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:33:22.258+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:22.258+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:33:22.266+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:22.266+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:33:22.274+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.204 seconds
+[2026-04-10T00:33:53.085+0000] {processor.py:161} INFO - Started process (PID=17642) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:33:53.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:33:53.088+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:53.088+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:33:53.271+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:33:53.284+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:53.284+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:33:53.292+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:53.292+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:33:53.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.223 seconds
+[2026-04-10T00:34:24.069+0000] {processor.py:161} INFO - Started process (PID=17722) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:34:24.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:34:24.071+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:24.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:34:24.257+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:34:24.269+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:24.269+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:34:24.277+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:24.277+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:34:24.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.215 seconds
+[2026-04-10T00:34:54.340+0000] {processor.py:161} INFO - Started process (PID=17801) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:34:54.340+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:34:54.341+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:54.341+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:34:54.519+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:34:54.527+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:54.527+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:34:54.536+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:54.536+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:34:54.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-04-10T00:35:25.562+0000] {processor.py:161} INFO - Started process (PID=17880) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:35:25.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:35:25.563+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:25.563+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:35:25.824+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:35:25.834+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:25.834+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:35:25.848+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:25.848+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:35:25.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.295 seconds
+[2026-04-10T00:35:57.332+0000] {processor.py:161} INFO - Started process (PID=17962) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:35:57.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:35:57.333+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:57.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:35:57.579+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:35:57.586+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:57.586+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:35:57.597+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:57.597+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:35:57.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.277 seconds
+[2026-04-10T00:36:27.846+0000] {processor.py:161} INFO - Started process (PID=18042) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:36:27.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:36:27.848+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:27.848+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:36:28.095+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:36:28.105+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:28.104+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:36:28.113+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:28.113+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:36:28.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.277 seconds
+[2026-04-10T00:36:58.558+0000] {processor.py:161} INFO - Started process (PID=18122) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:36:58.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:36:58.561+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:58.561+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:36:58.823+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:36:58.832+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:58.832+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:36:58.839+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:58.839+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:36:58.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.289 seconds
+[2026-04-10T00:37:29.015+0000] {processor.py:161} INFO - Started process (PID=18202) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:37:29.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:37:29.016+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:29.016+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:37:29.253+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:37:29.263+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:29.263+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:37:29.272+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:29.272+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:37:29.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.264 seconds
+[2026-04-10T00:37:59.886+0000] {processor.py:161} INFO - Started process (PID=18281) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:37:59.887+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:37:59.889+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:59.889+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:38:00.132+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:38:00.144+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:00.144+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:38:00.153+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:00.153+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:38:00.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.276 seconds
+[2026-04-10T00:38:30.700+0000] {processor.py:161} INFO - Started process (PID=18361) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:38:30.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:38:30.704+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:30.704+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:38:30.942+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:38:30.955+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:30.955+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:38:30.964+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:30.964+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:38:30.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.271 seconds
+[2026-04-10T00:39:01.505+0000] {processor.py:161} INFO - Started process (PID=18442) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:39:01.506+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:39:01.507+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:01.507+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:39:01.756+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:39:01.763+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:01.763+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:39:01.771+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:01.771+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:39:01.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.278 seconds
+[2026-04-10T00:39:32.102+0000] {processor.py:161} INFO - Started process (PID=18521) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:39:32.102+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:39:32.104+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:32.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:39:32.335+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:39:32.342+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:32.342+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:39:32.351+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:32.351+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:39:32.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.259 seconds
+[2026-04-10T00:40:02.544+0000] {processor.py:161} INFO - Started process (PID=18601) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:40:02.544+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:40:02.546+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:02.546+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:40:02.713+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:40:02.725+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:02.725+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:40:02.733+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:02.733+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:40:02.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.200 seconds
+[2026-04-10T00:40:32.861+0000] {processor.py:161} INFO - Started process (PID=18681) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:40:32.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:40:32.865+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:32.865+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:40:33.056+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:40:33.068+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:33.068+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:40:33.080+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:33.080+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:40:33.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.231 seconds
+[2026-04-10T00:41:03.324+0000] {processor.py:161} INFO - Started process (PID=18761) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:41:03.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:41:03.327+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:03.327+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:41:03.500+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:41:03.510+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:03.510+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:41:03.522+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:03.522+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:41:03.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.209 seconds
+[2026-04-10T00:41:33.717+0000] {processor.py:161} INFO - Started process (PID=18841) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:41:33.718+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:41:33.723+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:33.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:41:33.927+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:41:33.939+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:33.939+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:41:33.949+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:33.949+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:41:33.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.241 seconds
+[2026-04-10T00:42:04.223+0000] {processor.py:161} INFO - Started process (PID=18921) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:42:04.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:42:04.229+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:04.229+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:42:04.397+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:42:04.407+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:04.406+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:42:04.416+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:04.416+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:42:04.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.206 seconds
+[2026-04-10T00:42:34.513+0000] {processor.py:161} INFO - Started process (PID=19001) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:42:34.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:42:34.518+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:34.517+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:42:34.686+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:42:34.698+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:34.698+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:42:34.706+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:34.706+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:42:34.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.205 seconds
+[2026-04-10T00:43:04.910+0000] {processor.py:161} INFO - Started process (PID=19081) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:43:04.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:43:04.917+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:04.917+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:43:05.074+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:43:05.085+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:05.085+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:43:05.170+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:05.170+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:43:05.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.272 seconds
+[2026-04-10T00:43:35.615+0000] {processor.py:161} INFO - Started process (PID=19162) to work on /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:43:35.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/housing_api_to_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:43:35.617+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:35.616+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:43:35.870+0000] {processor.py:840} INFO - DAG(s) 'housing_api_to_s3_to_snowflake' retrieved from /opt/airflow/dags/housing_api_to_s3_to_snowflake.py
+[2026-04-10T00:43:35.883+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:35.883+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:43:35.895+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:35.895+0000] {dag.py:3823} INFO - Setting next_dagrun for housing_api_to_s3_to_snowflake to 2026-07-01 00:00:00+00:00, run_after=2027-07-01 00:00:00+00:00
+[2026-04-10T00:43:35.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/housing_api_to_s3_to_snowflake.py took 0.289 seconds

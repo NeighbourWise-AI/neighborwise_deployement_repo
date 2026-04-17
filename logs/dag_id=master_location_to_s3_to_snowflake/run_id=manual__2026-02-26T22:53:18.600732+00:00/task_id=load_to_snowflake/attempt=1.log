@@ -1,0 +1,40 @@
+[2026-02-26T22:53:27.698+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: master_location_to_s3_to_snowflake.load_to_snowflake manual__2026-02-26T22:53:18.600732+00:00 [queued]>
+[2026-02-26T22:53:27.703+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: master_location_to_s3_to_snowflake.load_to_snowflake manual__2026-02-26T22:53:18.600732+00:00 [queued]>
+[2026-02-26T22:53:27.704+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-26T22:53:27.708+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): load_to_snowflake> on 2026-02-26 22:53:18.600732+00:00
+[2026-02-26T22:53:27.711+0000] {standard_task_runner.py:60} INFO - Started process 1757 to run task
+[2026-02-26T22:53:27.713+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'master_location_to_s3_to_snowflake', 'load_to_snowflake', 'manual__2026-02-26T22:53:18.600732+00:00', '--job-id', '270', '--raw', '--subdir', 'DAGS_FOLDER/master_location_to_s3_to_snowflake.py', '--cfg-path', '/tmp/tmpyqmftmun']
+[2026-02-26T22:53:27.714+0000] {standard_task_runner.py:88} INFO - Job 270: Subtask load_to_snowflake
+[2026-02-26T22:53:27.733+0000] {task_command.py:423} INFO - Running <TaskInstance: master_location_to_s3_to_snowflake.load_to_snowflake manual__2026-02-26T22:53:18.600732+00:00 [running]> on host 3c05600bc10c
+[2026-02-26T22:53:27.761+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='master_location_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='load_to_snowflake' AIRFLOW_CTX_EXECUTION_DATE='2026-02-26T22:53:18.600732+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-26T22:53:18.600732+00:00'
+[2026-02-26T22:53:27.774+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2026-02-26T22:53:27.775+0000] {connection.py:370} INFO - Snowflake Connector for Python Version: 3.6.0, Python Version: 3.8.18, Platform: Linux-6.12.67-linuxkit-aarch64-with-glibc2.34
+[2026-02-26T22:53:27.775+0000] {connection.py:1171} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2026-02-26T22:53:27.775+0000] {connection.py:1181} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-26T22:53:28.047+0000] {ssl_wrap_socket.py:100} INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+[2026-02-26T22:53:28.859+0000] {cursor.py:1028} INFO - query: [USE SCHEMA NEIGHBOURWISE_DOMAINS.STAGE]
+[2026-02-26T22:53:29.014+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-26T22:53:29.015+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-26T22:53:29.016+0000] {logging_mixin.py:188} INFO - Truncating STG_MASTER_LOCATION
+[2026-02-26T22:53:29.016+0000] {cursor.py:1028} INFO - query: [TRUNCATE TABLE NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION]
+[2026-02-26T22:53:29.918+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-26T22:53:29.919+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-26T22:53:29.920+0000] {logging_mixin.py:188} INFO - Loading data from s3://neighborwise-ai-s3-bucket/master-location/master_location_20260226T225318.csv to Snowflake
+[2026-02-26T22:53:29.921+0000] {cursor.py:1028} INFO - query: [COPY INTO NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION (LOCATION_ID, NAME, CI...]
+[2026-02-26T22:53:33.177+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-26T22:53:33.179+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-26T22:53:33.180+0000] {cursor.py:1028} INFO - query: [SELECT COUNT(*), GRANULARITY FROM NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATIO...]
+[2026-02-26T22:53:33.772+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-26T22:53:33.774+0000] {cursor.py:1205} INFO - Number of results in first chunk: 2
+[2026-02-26T22:53:33.776+0000] {logging_mixin.py:188} INFO -   CITY: 12 records
+[2026-02-26T22:53:33.777+0000] {logging_mixin.py:188} INFO -   NEIGHBORHOOD: 39 records
+[2026-02-26T22:53:33.777+0000] {cursor.py:1028} INFO - query: [SELECT COUNT(*) FROM NEIGHBOURWISE_DOMAINS.STAGE.STG_MASTER_LOCATION]
+[2026-02-26T22:53:34.005+0000] {cursor.py:1041} INFO - query execution done
+[2026-02-26T22:53:34.006+0000] {cursor.py:1205} INFO - Number of results in first chunk: 1
+[2026-02-26T22:53:34.007+0000] {logging_mixin.py:188} INFO - Total records in STG_MASTER_LOCATION: 51
+[2026-02-26T22:53:34.007+0000] {connection.py:718} INFO - closed
+[2026-02-26T22:53:34.313+0000] {connection.py:724} INFO - No async queries seem to be running, deleting session
+[2026-02-26T22:53:34.456+0000] {python.py:201} INFO - Done. Returned value was: {'status': 'success', 'records_loaded': 51}
+[2026-02-26T22:53:34.477+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=master_location_to_s3_to_snowflake, task_id=load_to_snowflake, execution_date=20260226T225318, start_date=20260226T225327, end_date=20260226T225334
+[2026-02-26T22:53:34.505+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-26T22:53:34.514+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

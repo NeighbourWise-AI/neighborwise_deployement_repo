@@ -1,0 +1,1012 @@
+--- Page 1 ---
+STUDENT HOUSING
+TRENDS
+2023
+
+--- Page 2 ---
+EXECUTIVE SUMMARY
+The City of Boston continues to be a worldwide
+destination for college and university students, with
+several top-ranked universities and colleges in the
+greater city area.
+As of fall 2023, nearly 163,000 students are enrolled in Boston-based undergraduate and graduate
+degree programs. Institutions do not have sufficient student housing to accommodate this
+population, which puts considerable pressure on the city’s housing market. By the numbers,
+students occupy close to 16,900 single-family, 2-family, 3-family, or condo properties in the
+private housing market within the City of Boston. Every housing unit inhabited by students shrinks
+the housing pool available for Boston’s workforce and families. Student competition also drives
+up housing costs, mainly because multiple students living together as roommates can often afford
+to pay more for a unit than a family. A previous regression analysis conducted by the Mayor’s
+Office of Housing, which looked at over 150,000 rental listings between 2015 and 2021, suggests
+that students raise rental prices by $200 compared to neighborhoods with less dense student
+population.
+To understand student impacts on Boston’s housing, the Mayor’s Office of Housing analyzes trends
+and publishes an annual Student Housing Report. This report provides a picture of enrollment
+changes and the geography of student living, including enrollment information, the number of
+full-time undergraduates and graduates being housed, where students live off-campus (in terms
+of the type of housing and location), and dorm-bed production and planned beds.
+The 2023 Student Housing Report is based on data collected in the fall 2023 University Accountability
+Reports (UARs), which colleges and universities in Boston must file with the City each year. A UAR
+outlines exactly where undergraduate and graduate students are housed. The Report analyzes this
+data for year-over-year changes since the baseline year of 2013 when this data was first analyzed.
+Student Housing Trends: 2023
+1
+
+--- Page 3 ---
+The fall 2023 year-over-year graduate enrollment rate in Boston slowed to 1.2% (+816) after more
+robust growth than the previous year, while undergraduate enrollment saw a more significant
+uptick than its previously stagnant position. From 2013 to 2023, undergraduate enrollment
+increased by 3.5 percent (+3,294), while graduate student enrollment increased by nearly 29
+percent (+14,895) over the same period.
+Overall, 32.5 percent of the enrolled student population resides on campus or in university-
+managed housing in Greater Boston. In Boston specifically, that percentage is 45.5 percent. By
+degree, 62 percent of undergraduate students living in Boston are housed on campus. The same
+applies to only 10.3 percent of the smaller graduate student cohort.
+The recent trend since 2020 and the COVID-19 pandemic has been a rise in the number of students
+residing off-campus at home, meaning in the off-campus housing they lived in before enrollment.
+However, in fall 2023, the number of students living off-campus (at the house they previously
+occupied before enrollment) fell by 3 percent, while the number of students off-campus at homes
+secured to pursue an education increased by 5 percent.
+Of the more than 38,000 students who live off-campus in homes secured for their education, 18,575
+(49 percent) are undergraduate students, and 19,432 (51 percent) are graduate students. Sixty-
+five percent of these students are concentrated in Allston (02134), the Fenway (02115 and 02215),
+Brighton (02136), and Mission Hill (02120), placing significant pressure on the rental markets of
+these neighborhoods.
+Colleges and universities added 6,466 net dorm beds (after considering demolitions) from 2014
+to 2023. An additional 1,100 beds are under construction at Simmons, and 1,726 net new beds at
+Northeastern have been approved for construction. Many of Boston’s educational institutions will
+have to renew their Institutional Master Plans (IMPs) with the Boston Planning & Development
+Agency (BPDA) over the next year, allowing the City to negotiate for more student housing.
+Assuming all currently planned dorm-bed production occurs, there would need to be 24,255
+additional dorm beds added to house all full-time undergraduate students in Boston.
+Student Housing Trends: 2023
+2
+
+--- Page 4 ---
+DEFINITIONS &
+ANALYTICAL CONSTRAINTS
+Off-campus Housing:
+Off-campus housing is defined as any housing not owned and operated by an educational
+institution, excluding spaces leased but managed by a respective institution. In 2013, colleges
+did not separate the off-campus numbers into sub-categories of students living at home
+(where they previously lived), not at home (meaning in housing secured to go to school), and
+university-managed housing. Since 2014, most schools have reported on this. Therefore,
+comparing students living off campus to the baseline data is impossible. Furthermore, a
+few institutions have yet to make these distinctions in any University Accountability Report
+(UAR) report.
+Off-campus (living at home):
+Off-campus (living at home) is a living arrangement where students live with their parents
+or legal guardians in any housing the educational institution does not own or control. In
+earlier reports, this category was formerly called “commuters.” For part-time students,
+non-traditional students, or graduate students, this category represents a place they lived
+before becoming a student and continue to live in rather than a place obtained for residency
+as a student. Generally, living at home is when the local/mailing address and the home/
+permanent address are the same in the institutional database.
+Off-campus (not at home):
+Off-campus (not at home) is defined as housing occupied by students who do not live
+with their parents or legal guardians or in any housing facility owned or controlled by
+the educational institution. In earlier reports, this category was formerly called “private
+housing.” This category includes students who entered the private market primarily to
+study at a Boston-based institution. Generally, “not at home” is when the local/mailing
+address and the home/permanent address are not the same in the institutional database.
+Student Housing Trends: 2023
+3
+
+--- Page 5 ---
+ENROLLMENT TRENDS
+From 2022 to 2023, total student enrollment increased from 159,720 to 162,981 —3,261 new students
+(2 percent growth).1 Undergraduate enrollment grew faster than graduate enrollment for the first
+time since 2015, outpacing year-over-year graduate student growth by 1.4 percent, or 1,629 more
+undergraduates than graduates.
+Since 2013, total enrollment has increased by nearly 18,200 students (12.6 percent). This increase
+is primarily attributed to the growth in graduate students: 28.8 percent compared to just 3.5
+percent undergraduate growth.
+Table 1: Total Enrollment Change by Degree Level, 2013 and 2021-2023
+% Change
+2013 2021 2022 2023
+2022-2023 2013-2023
+Undergraduate
+93,134 92,185 93,983 96,428 2.6% 3.5%
+Enrollment
+Graduate Enrollment 51,658 61,035 65,737 66,553 1.2% 28.8%
+Total Enrollment 144,792 153,220 159,720 162,981 2.0% 12.6%
+Figure 1 shows annual enrollment by degree level from 2013 to 2023. Overall, undergraduate
+enrollment has been steady—except for a dip in 2020, likely due to COVID-19. Graduate enrollment
+has increased rapidly since 2016, before a sizable drop during the 2020 school year, followed by
+significant increases in 2021 and 2022. In 2023, however, graduate enrollment grew by just 1.2%
+year over year, the lowest percentage increase since 2016, except for the pandemic.
+Figure 1: Undergraduate and Graduate Enrollment Trends, 2013-2023
+100,000
+96,428
+93,134 92,559 93,829 93,050 93,783 94,448 93,043 92,185 93,983
+90,000 90,383
+80,000
+70,000
+66,553
+65,737
+61,035
+60,000
+57,070
+55,967
+54,554 54,877
+52,940 52,988 53,476
+51,658
+50,000
+40,000
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Undergraduate Enrollment Graduate Enrollment
+1 The student housing data tracked by the City of Boston excludes community colleges, satellite campuses,
+and students enrolled in exclusively or primarily online programs.
+Student Housing Trends: 2023
+4
+
+--- Page 6 ---
+ENROLLMENT BY
+EDUCATIONAL INSTITUTION
+Table 2 provides enrollment numbers for each of Boston’s higher educational institutions for 2013
+and 2021 to 2023. As in previous years, total enrollment growth has been led by Northeastern
+University, which increased by more than 16,707 students (63.2 percent) since 2013. Boston
+University grew by 3,219 students (11.2 percent) during the same period. Enrollment at Suffolk
+University decreased by nearly 1,900 students. Bay State College lost just under 1,100 after losing
+accreditation in 2023 and closing. The University of Massachusetts Boston lost 840 students over
+the same period.
+Table 2: Total Enrollment Change by School, 2013-2023
+Change
+Total Enrollment Counts
+2013-2023 2022-2023
+Institution Name
+2013
+(Base 2021 2022 2023 Count % Count %
+Year)
+Bay State College (Closed) 1,098 314 221 0 -1,098 -100.0% -221 -100.00%
+Benjamin Franklin Institute of
+463 409 386 423 -40 -8.60% 37 9.60%
+Technology
+Berklee College of Music 5,293 5,708 6,094 6,158 865 16.30% 64 1.10%
+Boston Architectural College 725 450 421 412 -313 -43.20% -9 -2.10%
+Boston Baptist College 96 42 45 33 -63 -65.60% -12 -26.70%
+Boston College 13,525 15,106 14,734 14,694 1,169 8.60% -40 -0.30%
+Boston University 28,831 30,776 32,148 32,050 3,219 11.20% -98 -0.30%
+Emerson College 4,523 4,789 4,837 4,791 268 5.90% -46 -1.00%
+Emmanuel College 2,320 1,854 1,919 1,936 -384 -16.60% 17 0.90%
+Fisher College 978 748 775 776 -202 -20.70% 1 0.10%
+Harvard University (Boston
+3,830 4,250 5,067 4,993 1,163 30.40% -74 -1.50%
+Campuses)
+Massachusetts College of Art and
+1,910 1,856 1,820 1,895 -15 -0.80% 75 4.10%
+Design
+Massachusetts College of
+4,469 4,018 3,935 3,826 -643 -14.40% -109 -2.80%
+Pharmacy and Health Sciences
+Massachusetts Institute of
+11,301 11,939 11,875 11,936 635 5.60% 61 0.50%
+Technology
+MGH Institute of Health
+1,302 1,566 1,549 1,498 196 15.10% -51 -3.30%
+Professions
+New England College of
+502 523 536 529 27 5.40% -7 -1.30%
+Optometry
+New England Conservatory of
+812 807 795 784 -28 -3.40% -11 -1.40%
+Music
+New England Law Boston 964 1,062 1,074 1,085 121 12.60% 11 1.00%
+Northeastern University 26,437 35,909 40,572 43,144 16,707 63.20% 2,572 6.30%
+Student Housing Trends: 2023
+5
+
+--- Page 7 ---
+SHOWA Institute 263 273 273 918 655 249.00% 645 236.30%
+Simmons University 3,972 3,236 3,108 3,279 -693 -17.40% 171 5.50%
+St John Seminary 192 96 72 106 -86 -44.80% 34 47.20%
+Suffolk University 8,437 6,372 6,473 6,564 -1,873 -22.20% 91 1.40%
+Tufts University (Boston
+3,283 3,423 2,833 3,020 -263 -8.00% 187 6.60%
+Campuses)
+University of Massachusetts
+14,547 13,213 13,969 13,707 -840 -5.80% -262 -1.90%
+Boston
+Urban College of Boston 767 461 590 704 -63 -8.20% 114 19.30%
+Wentworth Institute of
+3,952 4,020 3,599 3,720 -232 -5.90% 121 3.40%
+Technology
+Total Enrollment 144,792 153,220 159,720 162,981 18,189 12.60% 3,261 2.00%
+Table 3 provides enrollment by degree level for 2013 to 2023. Northeastern University increased
+its undergraduate student enrollment (24 percent), but its growth has been primarily driven by
+graduate students (145.7 percent). Boston University’s undergraduate student enrollment has been
+flat over this period, with all growth attributed to graduate students (27.9 percent). In contrast,
+Suffolk University and the University of Massachusetts Boston (UMass Boston) have decreased
+by 1,873 and 840 students, respectively. Appendix Table B1 contains further details on enrollment
+changes for 2022 and 2023.
+Table 3: Enrollment Change by School and Degree Level, 2013 to 2023
+Undergraduate Enrollment Graduate Enrollment
+Institution Name 2013 % 2013 %
+(Base 2023 Change (Base 2023 Change
+Change Change
+Year) Year)
+Bay State College 1,098 0 -1,098 - 0 0 0 -
+Benjamin Franklin Institute of
+463 423 -40 -8.60% 0 0 0 -
+Technology
+Berklee College of Music 4,947 5,942 995 20.10% 346 216 -130 -37.57%
+Boston Architectural College 407 203 -204 -50.10% 318 209 -109 -34.30%
+Boston Baptist College 96 33 -63 -65.60% 0 0 0 -
+Boston College 9,049 9,575 526 5.80% 4,476 5,119 643 14.40%
+Boston University 17,730 17,850 120 0.68% 11,101 14,200 3099 27.92%
+Emerson College 3,720 4,167 447 12.00% 803 624 -179 -22.30%
+Emmanuel College 2,059 1,868 -191 -9.30% 261 68 -193 -73.90%
+Fisher College 978 663 -315 -32.20% 0 113 113 -
+Harvard University (Boston
+0 0 0 - 3,830 4,993 1,163 30.40%
+Campuses)
+Massachusetts College of Art and
+1,776 1,787 11 0.60% 134 108 -26 -19.40%
+Design
+Massachusetts College of
+3,499 2,684 -815 -23.30% 970 1,142 172 17.70%
+Pharmacy and Health Sciences
+Massachusetts Institute of
+4,528 4,592 64 1.40% 6,773 7,344 571 8.40%
+Technology
+Student Housing Trends: 2023
+6
+
+--- Page 8 ---
+MGH Institute of Health
+307 318 11 3.60% 995 1,180 185 18.60%
+Professions
+New England College of
+0 0 0 - 502 529 27 5.40%
+Optometry
+New England Conservatory of
+430 393 -37 -8.60% 382 391 9 2.40%
+Music
+New England Law Boston 0 0 0 - 964 1,085 121 12.60%
+Northeastern University 17,924 22,229 4,305 24.00% 8,513 20,915 12,402 145.70%
+SHOWA Institute 263 918 655 249.00% 0 0 0 -
+Simmons University 1,732 1,757 25 1.40% 2,240 1,522 -718 -32.10%
+St John Seminary 43 22 -21 -48.80% 149 84 -65 -43.60%
+Suffolk University 5,593 4,457 -1,136 -20.30% 2,844 2,107 -737 -25.90%
+Tufts University (Boston
+484 592 108 - 2,799 2,428 -371 -13.30%
+Campuses)
+University of Massachusetts
+11,533 11,691 158 1.40% 3,014 2,016 -998 -33.10%
+Boston
+Urban College of Boston 767 704 -63 -8.20% 0 0 0 -
+Student Housing Trends: 2023
+7
+
+--- Page 9 ---
+STUDENT HOUSING IN GREATER BOSTON:
+ON-CAMPUS AND OFF-CAMPUS
+Table 4 outlines student living arrangements for the colleges and universities tracked by the City
+of Boston. This data includes students who live off-campus outside of Boston.
+Data indicates that, between 2019 and 2022, there’s been a rise in the number of students residing
+off-campus at home. Nevertheless, in fall 2023, the number of students living off-campus at home
+fell by 3 percent, while the number of students residing off-campus but not at home increased
+by 5 percent. This means there’s been an uptick in students living off campus in housing they’ve
+secured to attend school rather than housing they previously occupied.
+Table 4 Student Living Arrangements, 2021 to 20232
+Percent in
+Year-over-Year Two-year
+Living Arrangement 2021 2022 2023 Living
+Change change
+Arrangement
+On-Campus or University-
+49,593 51,930 52,957 2% 6.8% 32.5%
+Provided Housing
+Off-Campus (living at home)
+38,061 41,002 39,907 -3% 4.9% 24.5%
+or Study Abroad/Co-op
+Off-Campus (not-at-home) 65,395 66,515 69,836 5% 6.8% 42.9%
+Not Categorized 171 273 281 3% 64.3% 0.2%
+Total 153,220 159,720 162,981 2% 6.4% -
+In fall 2023, nearly 53,000 students (32.5 percent) resided on-campus or in university-provided
+housing, while just over 39,900 students (24.5 percent) resided at home (4,546 of these students
+were studying abroad or in a co-op program). The remaining 69,836 students (42.9 percent) lived
+in private housing, primarily in the metro Boston region.
+Table 5 Students by Living Arrangements and Degree Level, 2023
+Percent of
+Living Arrangement Undergraduates Graduates Total
+Total
+On-Campus or University-Provided
+47,178 5,779 52,957 32.50%
+Housing
+Off-Campus (living at home) or
+17,485 22,422 39,907 24.50%
+Study Abroad/Co-op
+Off-Campus (not-at-home) 31,648 38,188 69,836 42.80%
+Not Categorized 117 164 281 0.20%
+Total 96,428 66,553 162,981 100.00%
+2 The bulk of students in the off campus (living-at-home) or study abroad/co-op category are paired together
+in this table because they have no impact on the private housing market.
+Student Housing Trends: 2023
+8
+
+--- Page 10 ---
+Table 6 provides the number of full-time undergraduate students housed on and off campus by
+school, including those living off-campus outside of Boston. Of all full-time undergraduate students,
+51 percent live in on-campus housing. Among the schools with the largest full-time undergraduate
+student populations (6,000 or more), Boston College houses the highest percentage (74.3 percent)
+of full-time undergraduate students, while Boston University houses 66 percent. Northeastern
+University houses 43.2 percent of full-time undergraduate students, while UMass Boston houses
+11.3 percent of full-time undergraduates.
+Among medium-sized institutions (1,000-6,000 full-time undergraduate students), the
+Massachusetts Institute of Technology housed 92.8 percent of full-time undergraduate students,
+followed by Emmanuel College at 79.6 percent. Berklee College of Music housed the lowest
+percentage of students, at 24.3%, followed by the Massachusetts College of Pharmacy and Health
+Sciences, which housed 26.1%.
+Student Housing Trends: 2023
+9
+
+--- Page 11 ---
+Table 6: Percentage of Full-time Undergraduates Housed by School, 20233
+%
+In Off- Off
+Enrolled Study Off Students
+On- University- campus Campus
+Institution Full-Time Abroad/ Campus Provided
+Campus Managed (living-at (hot-at-
+Undergraduates COOP Other Housing
+Housing home) home)
+by School
+Benjamin
+Franklin
+298 0 0 180 0 0 118 0.0%
+Institute of
+Technology
+Berklee College
+of Music
+5,641 1,368 0 236 130 0 3,907 24.3%
+(w Boston
+Conservatory)
+Boston
+Architectural 151 17 0 9 0 0 125 11.3%
+College
+Boston Baptist
+25 19 0 6 0 0 0 -
+College
+Boston College 9,575 7,111 0 126 380 0 1,958 74.3%
+Boston
+17,664 11,657 0 824 359 0 4,824 66.0%
+University
+Emerson
+4,119 2,728 0 1,006 0 27 358 66.2%
+College
+Emmanuel
+1,834 1,379 80 264 8 0 103 79.6%
+College
+Fisher College 658 317 0 275 0 0 66 48.2%
+Harvard
+University
+0 0 0 0 0 0 0 -
+(Boston
+Campuses)
+Massachusetts
+College of Art 1,669 745 0 148 0 0 776 44.6%
+and Design
+Massachusetts
+College of
+2,517 657 0 214 0 71 1,575 26.1%
+Pharmacy and
+Health Sciences
+Massachusetts
+Institute of 4,559 3,494 736 29 16 17 267 92.8%
+Technology
+MGH Institute
+of Health 102 0 0 102 0 0 0 -
+Professions
+New England
+College of 0 0 0 0 0 0 0 -
+Optometry
+New England
+Conservatory of 361 178 0 53 0 0 130 49.3%
+Music
+New England
+0 0 0 0 0 0 0 -
+Law Boston
+3 This table calculates the percentage of the enrolled full-time undergraduate students housed in the region),
+not just those living in Boston. Part-time students are excluded from the calculation as they generally do not seek
+housing provided by schools. As a result, total undergraduate enrollment in this table is lower than in Table 1.
+Student Housing Trends: 2023
+10
+
+--- Page 12 ---
+STUDENTS LIVING IN BOSTON
+Table 7 outlines the living arrangements for students living within the City of Boston. In fall 2023,
+41,490 students (44.1 percent of all students living in Boston) reside on-campus or in university-
+provided housing, while 11,487 students (12.2 percent) reside off-campus at home. The remaining
+41,123 students (43.7 percent) reside off-campus but not at home within Boston.
+Table 7: Student Living Arrangements in Boston, 2019-2023
+Percent in
+Year-Over- Two -Year
+Living Arrangement 2021 2022 2023 Living
+Year Change Change
+Arrangement
+On-Campus or University-
+39,146 41,204 41,490 0.7% 6.0% 44.1%
+Provided Housing
+Off-Campus (Living-at-Home) 10,433 11,290 11,487 1.7% 10.1% 12.2%
+Off-Campus (Not-at-Home) 33,812 38,007 41,123 8.2% 21.6% 43.7%
+Total 83,391 90501 94,100 4.0% 12.8% 100.0%
+Sixty-one percent of undergraduate students living in Boston are housed on campus or in
+university-managed housing. Of the remaining undergraduate students, 32 percent reside off
+campus but not at home, and the remaining six percent live off campus at home. In contrast, Only
+11 percent of graduate students are housed by the school, while the majority (66 percent) reside
+off campus (not at home).
+Table 8: Student Living Arrangements by Degree Level in Boston, 2023
+Percent of Percent of
+Living Arrangement Undergraduates Graduates Total
+Undergraduates Graduates
+On-Campus or University-
+38,051 61% 3,439 11% 41,490
+Provided Housing
+Off-Campus (Living-at-home) 3,957 6% 7,530 24% 11,487
+Off-Campus (Not-at-home) 20,149 32% 20,974 66% 41,123
+Total 62,157 100% 31,943 100% 94,100
+Student Housing Trends: 2023
+11
+
+--- Page 13 ---
+UNDERGRADUATES LIVING
+OFF CAMPUS IN BOSTON
+Table 9 shows the number of undergraduate students reported by each school as living off campus
+(not at home).
+Overall, the number of undergraduate students in private housing increased by 1,574 students
+year-over-year (8.5 percent) and 2,361 undergraduate students (13.3 percent) from 2021 to 2023.
+Year-over-year, Northeastern University has had the largest increase of undergraduate students
+in private housing (1,448 undergraduate students, a 31.9 percent increase), representing 92% of
+the total year-over-year increase. Suffolk University and UMass Boston saw an increase of 186 and
+158 students residing off campus (not at home).
+Table 9: Undergraduate Students Living Off-Campus (Not-At Home) in Boston4
+Year-
+Two-Year
+Year-over Over-Year Two-Year
+Institution 2021 2022 2023 Percent
+Year Change Percent Change
+Change
+Change
+Bay State College 11 15 0 -15 -100.00% -11 -100.00%
+Benjamin Franklin
+2 4 97 93 2325.00% 95 4750.00%
+Institute of Technology
+Berklee College of Music 3,270 3,778 3,858 80 2.10% 588 18.00%
+Boston Architectural
+51 67 55 -12 -17.90% 4 7.80%
+College
+Boston Baptist College 1 0 0 0 - -1 -100.00%
+Boston College 1,443 1,444 1,280 -164 -11.40% -163 -11.30%
+Boston Conservatory
+0 0 0 0 - 0 -
+(Closed)
+Boston University 3,789 3,710 3,695 -15 -0.40% -94 -2.50%
+Emerson College 228 159 159 0 0.00% -69 -30.30%
+Emmanuel College 179 124 78 -46 -37.10% -101 -56.40%
+Fisher College 38 50 50 0 0.00% 12 31.60%
+Harvard University 0 0 0 0 - 0 -
+Massachusetts College of
+282 244 242 -2 -0.80% -40 -14.20%
+Art and Design
+Massachusetts College
+of Pharmacy and Health 720 561 604 43 7.70% -116 -16.10%
+Sciences
+4 This table includes full-time and part-time students. The 2021 and 2022 Simmon numbers were estimated
+given data reporting issues at this school.
+Student Housing Trends: 2023
+12
+
+--- Page 14 ---
+Massachusetts Institute
+75 45 45 0 0.00% -30 -40.00%
+of Technology
+MGH Institute of Health
+0 0 0 0 - 0 -
+Professions
+New England College of
+0 0 0 0 - 0 -
+Optometry
+New England
+173 162 117 -45 -27.80% -56 -32.40%
+Conservatory of Music
+New England Law Boston 0 0 0 0 - 0 -
+Northeastern University 4,161 4,544 5,992 1,448 31.90% 1,831 44.00%
+School of Museum of Fine
+0 0 0 0 - 0 -
+Arts
+SHOWA Institute 0 0 0 0 - 0 -
+Simmons University 148 182 202 20 11.00% 54 36.50%
+St John Seminary 0 0 1 1 - 1 -
+Suffolk University 943 904 1,090 186 20.60% 147 15.60%
+Tufts University (Health
+28 22 27 5 22.70% -1 -3.60%
+Sciences)
+University of
+1,810 2,210 2,368 158 7.10% 558 30.80%
+Massachusetts Boston
+Urban College of Boston 0 0 0 0 - 0 -
+Wentworth Institute of
+436 350 189 -161 -46.00% -247 -56.70%
+Technology
+Wheelock College
+0 0 0 0 - 0 -
+(Closed)
+Total 17,788 18,575 20,149 1,574 8.50% 2,361 13.30%
+In 2023, Northeastern University had the highest number of undergraduates living off campus
+(not at home) at 5,992. Berklee College of Music and Boston University had the second and third
+highest numbers in this category: 3,858 and 3,695, respectively.
+Figure 2: 2023 Top 10 Schools by Undergraduate Students in Private Housing
+Northeastern University 5,992
+Berklee College of Music 3,858
+Boston University 3,695
+University of Massachusetts Boston 2,368
+Boston College 1,280
+Suffolk University 1,090
+Massachusetts College of Pharmacy and Health Sciences 604
+Massachusetts College of Art and Design 242
+Wentworth Institute of Technology 189
+Emerson College 159
+0 1000 2000 3000 4000 5000 6000 7000
+Student Housing Trends: 2023
+13
+
+--- Page 15 ---
+GRADUATE STUDENTS LIVING
+OFF CAMPUS IN BOSTON
+Table 10 provides the number of graduate students reported by each school as living in Boston
+and off-campus (not at home) since 2021. Overall, the number of graduate students in private
+housing increased by 28 percent (4,588) from 2020 to 2022.
+During that time, Northeastern had a very large increase of 2,229 graduate students living off-
+campus in Boston’s private housing market. The next closest school was Boston University, with
+598 students. Several schools saw declines in the number of graduate students living off campus
+(not at home), but the decline was less than 100 in each case.
+Table 10: Graduate Students Living Off-Campus (Not-At-Home) in Boston5
+Year-over- Two-year
+Year-over Two-year
+Institution 2021 2022 2023 year Percent Percent
+Year Change Change
+Change Change
+Bay State College 0 0 0 0 - 0 -
+Benjamin Franklin Institute
+0 0 0 0 - 0 -
+of Technology
+Berklee College of Music 160 139 144 5 3.60% -16 -10.00%
+Boston Architectural
+59 61 76 15 24.60% 17 28.80%
+College
+Boston Baptist College 0 0 0 0 - 0 -
+Boston College 772 948 935 -13 -1.40% 163 21.10%
+Boston Conservatory
+0 0 0 0 - 0 -
+(Closed)
+Boston University 5,568 6,166 6,294 128 2.10% 726 13.00%
+Emerson College 99 84 84 0 0.00% -15 -15.20%
+Emmanuel College 0 0 0 0 - 0 -
+Fisher College 3 4 4 0 0.00% 1 33.30%
+Harvard University 606 773 653 -120 -15.50% 47 7.80%
+Massachusetts College of
+34 32 28 -4 -12.50% -6 -17.60%
+Art and Design
+Massachusetts College
+of Pharmacy and Health 570 610 521 -89 -14.60% -49 -8.60%
+Sciences
+5 This table includes both full-time and part-time students. MGH Institute of Health Professionals, New
+England Conservatory of Music, and New England Law of Boston did not distinguish between the off-campus
+subgroups, but their students are not included in this table as they most likely would be categorized as “living at
+home,” according to the schools. In 2022, New England Optometry distinguished between off-campus subgroups,
+so 2020 and 2021 were proportioned based on the same split. The 2021 and 2022 Simmon numbers were estimated
+given data reporting issues caused by the transition to a new address management system at this school.
+Student Housing Trends: 2023
+14
+
+--- Page 16 ---
+Massachusetts Institute of
+555 489 479 -10 -2.00% -76 -13.70%
+Technology
+MGH Institute of Health
+0 0 0 0 - 0 -
+Professions
+New England College of
+362 377 373 -4 -1% 11 3%
+Optometry*
+New England Conservatory
+284 317 228 -89 -28.10% -56 -19.70%
+of Music
+New England Law Boston 0 0 0 0 - 0 -
+Northeastern University 4,198 6,227 7,875 1,648 26.50% 3,677 87.60%
+School of Museum of Fine
+0 0 0 0 - 0 -
+Arts
+SHOWA Institute 0 0 0 0 - 0 -
+Simmons University* 395 332 304 -28 -8.40% -91 -23.00%
+St John Seminary 6 0 9 9 - 3 50%
+Suffolk University 533 589 700 111 18.80% 167 31.30%
+Tufts University (Health
+1,485 1,459 1,336 -123 -8.40% -149 -10.00%
+Sciences)
+University of Massachusetts
+658 801 899 98 12.20% 241 36.60%
+Boston
+Urban College of Boston 0 0 0 0 - 0 -
+Wentworth Institute of
+39 24 32 8 33.30% -7 -17.90%
+Technology
+Wheelock College (Closed) 0 0 0 0 - 0 -
+Total 16,386 19,432 20,974 1,542 7.90% 4,588 28.00%
+In 2022, Northeastern had the highest number of graduate students living off campus and not at
+home (7,875), followed closely by Boston University (6,294).
+Figure 3: Top 10 Schools by Graduate Students in Private Housing
+Northeastern University 7,875
+Boston University 6,294
+Tufts University (Health Sciences) 1,336
+Boston College 935
+University of Massachusetts Boston 899
+Suffolk University 700
+Harvard University 653
+Massachusetts College of Pharmacy and Health Sciences 521
+Massachusetts Institute of Technology 479
+New England College of Optometry* 373
+0 1,000 2,000 3,000 4,000 5,000 6,000 7,000 8,000 9,000
+Student Housing Trends: 2023
+15
+
+--- Page 17 ---
+OFF-CAMPUS STUDENT
+HOUSING BY NEIGHBOHOOD
+Table 11 shows the geographic distribution of undergraduate and graduate students by Boston
+zip codes. The top five zip codes with the highest number of students living off campus (not at
+home) were 02115 (Fenway/Kenmore), 02215 (Longwood/Mission Hill/Fenway), Allston (02134),
+02120 (Mission Hill), and 02135 (Brighton). In total, 61 percent of the students living off campus
+reside within these zip codes. The next five zip codes with the highest number of students living
+off campus represent 24 percent of all student addresses. The remaining 15 percent of off-campus
+student addresses are scattered across other zip codes. Maps and data by neighborhood can be
+found in Appendix C.
+Table 11: Off-campus (not-at-home) Students, by Zip Code, 20236
+Percentage
+% of All
+Neighborhood ZIP Undergraduates Graduates All Students of Tier/
+Students
+Group
+Fenway/Kenmore 02115 3,740 1,271 5,011 13.60%
+Longwood/Mission Hill/
+02215 2,546 2,021 4,567 12.40%
+Fenway
+61%
+Allston 02134 2,036 2,471 4,507 12.20%
+Mission Hill 02120 2,709 1,772 4,481 12.20%
+Brighton 02135 2,020 1,829 3,849 10.40%
+Upham's Corner &
+02125 1,031 1,041 2,072 5.60%
+Columbia Point
+Jamaica Plain 02130 399 1,648 2,047 5.60%
+24%
+South End 02118 838 1,144 1,982 5.40%
+Roxbury 02119 570 1,333 1,903 5.20%
+Back Bay 02116 393 538 931 2.50%
+East Boston 02128 532 316 848 2.30%
+Chinatown 02111 316 528 844 2.30%
+West End 02114 305 499 804 2.20% 9%
+South Boston 02127 101 323 424 1.20%
+Dorchester 02124 294 81 375 1.00%
+North End 02113 191 155 346 0.90%
+Bowdoin 02122 208 73 281 0.80%
+Dorchester 02121 146 134 280 0.80% 4%
+Roslindale 02131 129 78 207 0.60%
+Hyde Park 02136 167 35 202 0.50%
+Other 468 430 898 2.40% 2%
+Total 19,139 17,720 36,859 100% 100%
+6 The totals in this table do not match the total numbers of students off campus (not at home) reported
+elsewhere in this report because Simmons University did not provide a full-set of off-campus locations.
+Student Housing Trends: 2023
+16
+
+--- Page 18 ---
+Map C1: Map of Off-Campus (Not At Home) Student Distribution
+Student Housing Trends: 2023
+17
+
+--- Page 19 ---
+OFF-CAMPUS STUDENT
+HOUSING BY PROPERTY TYPE
+This section focuses on the property types in which undergraduate and graduate students reside.
+Over half of Boston’s off-campus (not at home) students (16,894) live in properties of three units or
+fewer and condominiums. One-, two- and three-family properties were initially built for Boston’s
+workforce, and most condominiums are generally intended to be owner-occupied housing. In
+some cases, students are living in condo units purchased by parents as an investment to provide
+housing while their children are in school, which will later be sold when the student graduates.
+Other condo units are rented at a profit to students by investor-owners.
+Table 12: Students Living Off-Campus By Housing Type7
+Property Type 2021 Student Count % of Addresses
+Apartments (4+ Units) 5,338 27%
+Condominiums 3,293 17%
+Undergraduates Mixed-Use 3,963 20%
+Other 1,346 7%
+Small Properties (1-3 units) 5,722 29%
+Apartments (4+ Units) 4,813 26%
+Condominiums 3,450 19%
+Graduates Mixed-Use 4,844 26%
+Other 1,305 7%
+Small Properties (1-3 units) 3,953 22%
+Apartments (4+ Units) 10,151 27%
+Condominiums 6,743 18%
+All Students Mixed-Use 8,807 23%
+Other 2,651 7%
+Small Properties (1-3 units) 9,675 25%
+7 Based on geocoded off-campus addresses obtained from Fall 2023 University Accountability Reports.
+Property categories are based on the Massachusetts Property Classification System Occupancy Codes. “3 units or
+less” refers to residential properties: single-family (code 101), two-family (code 104) and three-family (code 105). The
+condominium category (code 102/995) counts instances in which a condo exists, regardless of whether the condo
+is located in a house or apartment building. For example, condos in a three-unit building are reported as condos,
+not as a three-family. Apartments are non-subsidized buildings with four units or more, excluding co-ops, rooming
+houses, and fraternity houses (codes 111-114 and 120). Mixed-use properties are buildings with multiple uses such as
+residential, commercial, condo, or office (codes 10-31). These figures include both full-time and part-time students.
+Student Housing Trends: 2023
+18
+
+--- Page 20 ---
+NEW ON-CAMPUS HOUSING
+From 2014 to 2023, colleges and universities added 7,752 dorm beds to Boston’s student housing
+inventory. Over the same period, there was a loss of 1,196 beds. The net gain of 6,556 dorm beds
+constitutes a 17% increase in dorm beds.
+Table 13 outlines the planned dorm production and beds in the pipeline (without a timeframe). This
+total production of beds will result in an additional 4,443 dorm beds. Even with these additions,
+23,095 full-time undergraduates could remain unhoused by their institutions if 2023 enrollment
+trends continue.
+While Simmons University has been approved for a new 1,100-bed dormitory on its main campus,
+it will also demolish its existing 1,036-bed residential village near Brookline Avenue. Northeastern
+University plans to add 1,726 new beds, which were approved by the Boston Planning Development
+Agency board and will soon be under construction.
+Table 13: Full-time Undergraduate Housing Needs vs. Planned Beds, 20238
+Full-Time
+New Unmet
+Undergraduates In Large Current or
+Under Board Dorm Student
+Institutions Living Off- Project Planned
+Construction Approved Beds in Housing
+Campus (Not-at- Review Demolitions
+Pipeline Need
+Home)
+Bay State College Closed) 0
+Benjamin Franklin
+118 118
+Institute of Technology
+Berklee College of Music
+3,907 450 3,457
+(w Boston Conservatory)
+Boston Architectural
+125 125
+College
+Boston Baptist College 0 0
+Boston College 1,958 550 1,408
+Boston University 4,824 523 4,301
+Emerson College 358 358
+Emmanuel College 103 103
+Fisher College 66 66
+Harvard University 0 0
+Massachusetts College of
+776 776
+Art and Design
+Massachusetts College
+of Pharmacy and Health 1,575 1,575
+Sciences
+8 Institutional Master Plan (IMP) review is required by Article 80 of the Boston Zoning Code for hospitals,
+colleges, and universities with more than 150,000 of gross square feet of institutional uses. “Pipeline” refers to
+projects that have received zoning approval but are not yet designed or approved under Large Project Review
+(Institutional Master Plan); their timeline is uncertain.Generally, IMPs are renewed every 10 years and reviewed
+under the BPDA’s Article 80 process. In addition, an institution must update, renew, and amend its IMP whenever it
+adds or changes any project over a minimum threshold. For information about current IMPs in Boston, please visit
+Institutional Planning. Please note that planned beds are based on estimates and are subject to change.
+Student Housing Trends: 2023
+19
+
+--- Page 21 ---
+Massachusetts Institute
+267 267
+of Technology
+MGH Institute of Health
+0 0
+Professions
+New England College of
+0 0
+Optometry
+New England
+130 130
+Conservatory of Music
+New England Law Boston 0 0
+Northeastern University 6,924 2,226 -500 5,198
+SHOWA Institute 0 0
+Simmons University 27 1,100 -1,036 -37
+St. John Seminary 5 5
+Suffolk University 1,274 1,274
+Tufts University (Health
+153 153
+Sciences)
+University of
+5,723 1,000 4,723
+Massachusetts Boston
+Urban College of Boston 0 0
+Wentworth Institute of
+255 255
+Technology
+Total 28,568 1,956 2,226 0 2,523 -1,536 24,255
+Student Housing Trends: 2023
+20
+
+--- Page 22 ---
+APPENDIX A: KEY DATA ISSUES
+As required by the University Accountability Ordinance, all Boston-based universities and colleges
+must submit a UAR report to the City each year providing data about the students enrolled in their
+schools, including where they live (on and off campus). The overall quality of the reporting has
+improved since the initial reports started in 2013. However, data quality, particularly of earlier
+reports, has created comparability issues that complicate analysis of trends over time. What
+follows is a brief discussion of the data issues relevant to the primary focus areas of this report.
+The footnotes in the report contain specific information about data reconciliations, if any. Please
+note that this report is based only on fall semester data for the year reported.
+Student address data is self-reported. In a small percentage of cases, the address data provided
+has enough errors that cannot be corrected and thus cannot be used. Some addresses provided
+outside of city limits are residence halls or PO Boxes, all of which are discarded. The more data
+controls and the more standardized the addresses provided by the schools, the more accurate the
+data is in indicating a given student’s recent location and whether that address is the guardian’s
+or not.
+A few small graduate schools cannot identify which students reside off campus at home or not
+at home. This is covered in detail in footnote 5. The students at these schools are categorized as
+students residing at home, given information provided by the schools.
+When schools change address management systems, it can also temporarily or permanently impact
+the way they categorize students, and assumptions have to be made to adjust for differences from
+year to year.
+Student Housing Trends: 2023
+21
+
+--- Page 23 ---
+APPENDIX B: ENROLLMENT
+Table B1: 2022-2023 Enrollment Change by School and Degree Level
+Undergraduate Enrollment Graduate Enrollment
+Institution Name
+2022 2023 Change % Change 2022 2023 Change % Change
+Bay State College (closed) 221 0 -221 - 0 0 0 -
+Benjamin Franklin Institute of
+386 423 37 9.60% 0 0 0 -
+Technology
+Berklee College of Music 5,860 5,942 82 1.40% 234 216 -18 -7.69%
+Boston Architectural College 198 203 5 2.50% 223 209 -14 -6.30%
+Boston Baptist College 45 33 -12 -26.70% 0 0 0 -
+Boston College 9,484 9,575 91 1.00% 5,250 5,119 -131 -2.50%
+Boston University 17,668 17,850 182 1.03% 14,480 14,200 -280 -1.93%
+Emerson College 4,171 4,167 -4 -0.10% 666 624 -42 -6.30%
+Emmanuel College 1,860 1,868 8 0.40% 59 68 9 15.30%
+Fisher College 670 663 -7 -1.00% 105 113 8 7.60%
+Harvard University (Boston Campuses) 0 0 0 - 5,067 4,993 -74 -1.50%
+Massachusetts College of Art and
+1,716 1,787 71 4.10% 104 108 4 3.80%
+Design
+Massachusetts College of Pharmacy
+2,670 2,684 14 0.50% 1,265 1,142 -123 -9.70%
+and Health Sciences
+Massachusetts Institute of Technology 4,674 4,592 -82 -1.80% 7,201 7,344 143 2.00%
+MGH Institute of Health Professions 330 318 -12 -3.60% 1,219 1,180 -39 -3.20%
+New England College of Optometry 0 0 0 - 536 529 -7 -1.30%
+New England Conservatory of Music 382 393 11 2.90% 413 391 -22 -5.30%
+New England Law Boston 0 0 0 - 1,074 1,085 11 1.00%
+Northeastern University 21,451 22,229 778 3.60% 19,121 20,915 1,794 9.40%
+SHOWA Institute 273 918 645 236.30% 0 0 0 -
+Simmons University 1,636 1,757 121 7.40% 1,472 1,522 50 3.40%
+St John Seminary 25 22 -3 -12.00% 47 84 37 78.70%
+Suffolk University 4,351 4,457 106 2.40% 2,122 2,107 -15 -0.70%
+Tufts University (Boston Campuses) 247 592 345 - 2,586 2,428 -158 -
+University of Massachusetts Boston 11,612 11,691 79 0.70% 2,357 2,016 -341 -14.50%
+Urban College of Boston 590 704 114 19.30% 0 0 0 -
+Wentworth Institute of Technology 3,463 3,560 97 2.80% 136 160 24 17.60%
+Total Enrollment 93,983 96,428 2,445 2.60% 65,737 66,553 816 1.20%
+Student Housing Trends: 2023
+22
+
+--- Page 24 ---
+Table B2: Enrollment by Degree Level and Full-time and Part-time Status, 2023
+Fall 2023 Undergraduate Enrollment Graduate Enrollment
+Institution Name Full-Time Part-Time Total Full-Time Part-Time Total
+Bay State College 0 0 0 0 0 0
+Benjamin Franklin Institute
+298 125 423 0 0 0
+of Technology
+Berklee College of Music 5,641 301 5,942 207 9 216
+Boston Architectural College 151 52 203 173 36 209
+Boston Baptist College 25 8 33 0 0 0
+Boston College 9,575 0 9,575 3,609 1,510 5,119
+Boston Conservatory
+0 0 0 0 0 0
+(Closed)
+Boston University 17,664 186 17,850 10,865 3,335 14,200
+Emerson College 4,119 48 4,167 539 85 624
+Emmanuel College 1,834 34 1,868 0 68 68
+Fisher College 658 5 663 93 20 113
+Harvard University (Boston
+0 0 0 4,268 725 4,993
+Campuses)
+Massachusetts College of Art
+1,669 118 1,787 98 10 108
+and Design
+Massachusetts College
+of Pharmacy and Health 2,517 167 2,684 1,104 38 1,142
+Sciences
+Massachusetts Institute of
+4,559 33 4,592 7,163 181 7,344
+Technology
+MGH Institute of Health
+102 216 318 780 400 1,180
+Professions
+New England College of
+0 0 0 527 2 529
+Optometry
+New England Conservatory
+361 32 393 367 24 391
+of Music
+New England Law Boston 0 0 0 843 242 1,085
+Northeastern University 22,153 76 22,229 19,985 930 20,915
+School of Museum of Fine
+0 0 0 0 0 0
+Arts (Closed)
+SHOWA Institute 400 518 918 0 0 0
+Simmons University 963 794 1,757 283 1,239 1,522
+St John Seminary 18 4 22 52 32 84
+Suffolk University 4,310 147 4,457 1,362 745 2,107
+Tufts University (Boston
+584 8 592 2,370 58 2,428
+Campuses)
+Student Housing Trends: 2023
+23
+
+--- Page 25 ---
+University of Massachusetts
+9,710 1,981 11,691 1,413 603 2,016
+Boston
+Urban College of Boston 18 686 704 0 0 0
+Wentworth Institute of
+3,464 96 3,560 141 19 160
+Technology
+Wheelock College (Closed) 0 0 0 0 0 0
+Total Enrollment 90,793 5,635 96,428 56,242 10,311 66,553
+Student Housing Trends: 2023
+24
+
+--- Page 26 ---
+APPENDIX C: STUDENT
+DISTRIBUTION MAPS AND TABLES
+Table C1: Off-campus (Not At Home) Students by Boston Planning and Development Agency
+(BPDA) Neighborhoods9
+Neighborhood Undergraduates Graduates Total % of Grand Total
+Allston 2,396 2,568 4,964 13.50%
+Back Bay 1,115 706 1,821 4.90%
+Bay Village 27 42 69 0.20%
+Beacon Hill 164 265 429 1.20%
+Brighton 2,001 1,812 3,813 10.30%
+Charlestown 43 110 153 0.40%
+Chinatown 215 384 599 1.60%
+Dorchester 1,584 1,202 2,786 7.60%
+Downtown 459 558 1,017 2.80%
+East Boston 532 316 848 2.30%
+Fenway 4,850 2,404 7,254 19.70%
+Hyde Park 158 35 193 0.50%
+Jamaica Plain 354 1,649 2,003 5.40%
+Leather District 5 11 16 0.00%
+Longwood Medical Area 41 41 82 0.20%
+Mattapan 104 20 124 0.30%
+Mission Hill 2,558 2,104 4,662 12.60%
+North End 224 186 410 1.10%
+Roslindale 119 76 195 0.50%
+Roxbury 1,523 1,673 3,196 8.70%
+South Boston 101 324 425 1.20%
+South Boston Waterfront 29 64 93 0.30%
+South End 400 948 1,348 3.70%
+West End 62 160 222 0.60%
+West Roxbury 75 62 137 0.40%
+Total 19,139 17,720 36,859 100.00%
+9 The totals in this table do not match the total numbers of students living off campus (not at home) reported
+elsewhere in this report because Simmons University did not provide a full set of off-campus locations.
+Student Housing Trends: 2023
+25
+
+--- Page 27 ---
+Map C1: City of Boston Off-Campus Student Hotspots
+Student Housing Trends: 2023
+26

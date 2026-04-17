@@ -1,0 +1,16 @@
+[2026-02-19T04:36:45.322+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: mbta_api_to_s3_to_snowflake.fetch_routes manual__2026-02-19T04:36:43.604873+00:00 [queued]>
+[2026-02-19T04:36:45.325+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: mbta_api_to_s3_to_snowflake.fetch_routes manual__2026-02-19T04:36:43.604873+00:00 [queued]>
+[2026-02-19T04:36:45.326+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-02-19T04:36:45.332+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): fetch_routes> on 2026-02-19 04:36:43.604873+00:00
+[2026-02-19T04:36:45.335+0000] {standard_task_runner.py:60} INFO - Started process 1246 to run task
+[2026-02-19T04:36:45.338+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'mbta_api_to_s3_to_snowflake', 'fetch_routes', 'manual__2026-02-19T04:36:43.604873+00:00', '--job-id', '82', '--raw', '--subdir', 'DAGS_FOLDER/mbta_api_s3_snowflake.py', '--cfg-path', '/tmp/tmpt98iwv2n']
+[2026-02-19T04:36:45.339+0000] {standard_task_runner.py:88} INFO - Job 82: Subtask fetch_routes
+[2026-02-19T04:36:45.370+0000] {task_command.py:423} INFO - Running <TaskInstance: mbta_api_to_s3_to_snowflake.fetch_routes manual__2026-02-19T04:36:43.604873+00:00 [running]> on host 68ec4590c1d2
+[2026-02-19T04:36:45.407+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='mbta_api_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='fetch_routes' AIRFLOW_CTX_EXECUTION_DATE='2026-02-19T04:36:43.604873+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-19T04:36:43.604873+00:00'
+[2026-02-19T04:36:45.411+0000] {logging_mixin.py:188} INFO - Fetching MBTA routes...
+[2026-02-19T04:36:45.609+0000] {logging_mixin.py:188} INFO - Found 177 routes
+[2026-02-19T04:36:45.611+0000] {logging_mixin.py:188} INFO - Routes CSV saved to /opt/***/mbta_routes_20260219T043643.csv
+[2026-02-19T04:36:45.621+0000] {python.py:201} INFO - Done. Returned value was: {'routes_csv': '/opt/***/mbta_routes_20260219T043643.csv', 'route_count': 177}
+[2026-02-19T04:36:45.627+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=mbta_api_to_s3_to_snowflake, task_id=fetch_routes, execution_date=20260219T043643, start_date=20260219T043645, end_date=20260219T043645
+[2026-02-19T04:36:45.645+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-19T04:36:45.654+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

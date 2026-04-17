@@ -1,0 +1,228 @@
+--- Page 1 ---
+O
+STON REG
+IO
+B N BOSTON REGION METROPOLITAN PLANNING ORGANIZATION
+MPO
+Monica Tibbits-Nutt, MPO Chair | Secretary and CEO, Massachusetts Department of Transportation
+M N
+E T R
+O
+ATI O Tegin Leigh Teich, Executive Director, MPO Staff
+P O NI Z
+LITA
+N
+PLANNING
+OR
+G
+A
+WORK PROGRAM
+EXPLORATION OF BLUEBIKES TRANSIT CONNECTIONS
+FEBRUARY 15, 2024
+Proposed Motion
+The Boston Region Metropolitan Planning Organization (MPO) votes to approve this
+work program.
+Project Identification
+Unified Planning Work Program (UPWP) Classification
+Agency and Other Client Transportation Planning Studies and Technical Analyses
+Project Number 13818
+Client
+MBTA
+Client Supervisor: Pete Robie
+Project Supervisors
+Principal: Rounaq Basu
+Manager: Tanner Bonner
+Funding Source
+MassDOT-Directed PL Funds
+Schedule and Budget
+Schedule: 7 months after work commences
+Budget: $65,401
+Schedule and budget details are shown in Exhibits 1 and 2, respectively.
+Relationship to MPO Work
+This study is supported in full with non-MPO funding. Committing MPO staff to this
+project will not impinge on the quality or timeliness of MPO-funded work.
+State Transportation Building • Ten Park Plaza, Suite 2150 • Boston, MA 02116-3968 • (857) 702-3700 • bostonmpo.org
+
+--- Page 2 ---
+Boston Region MPO 2 February 15, 2024
+Background
+Bluebikes, the Boston region’s public bikeshare system, has seen a dramatic increase
+in ridership in recent years. Total annual trips more than doubled between 2013 and
+2020, alongside a roughly threefold increase in bike fleet size and docking stations.
+Bluebikes continues to expand and recently introduced electric bikes to the system. As
+Bluebikes serve an ever-increasing number of the region’s trips, planners need to be
+equipped with robust data analyses to consider the differing purposes of travel and
+travel patterns of Bluebikes users.
+Bikeshare programs have been widely recognized as an effective solution for providing
+first- and last-mile connections, increasing system connectivity, decreasing travel times,
+and encouraging mode shift from cars to transit. Despite readily available ridership and
+survey data, there has not yet been a thorough investigation of how Bluebikes can
+provide connections to public transit. Such an exploration, with an eye towards targeted
+expansions of Bluebikes with the goal of increasing connections to transit stops and
+stations, could lead to an increase in both Bluebikes and MBTA ridership by
+encouraging mode shift. Additionally, highlighting the potential expansion of stations
+that could serve as first- and last-mile connections could drive continued investments in
+bicycle and pedestrian infrastructure projects to improve system connectivity.
+Central Transportation Planning Staff (CTPS) is conducting other work and programs
+related to this subject, including a Bluebikes fare equity analysis and demographic
+survey, development of a Baseline Equity Metrics dashboard, and the Boston Region
+MPO’s Bicycle and Pedestrian program.
+Objectives
+This work will leverage available trip and survey data to identify existing Bluebikes trip
+flows of users making first- and last-mile connections. Additionally, CTPS will identify
+potential future Bluebikes locations that best serve first- and last-mile connections with
+an emphasis on impacts for environmental justice communities.
+
+--- Page 3 ---
+Boston Region MPO 3 February 15, 2024
+Work Description
+This study will investigate the current use of Bluebikes for making first- and last-mile
+connections to transit. MPO staff will draw insights from Bluebikes trip data, the MBTA
+Systemwide Passenger Survey, and potentially the CTPS 2023 Bluebikes Demographic
+Survey. Additionally, this work will use demographic data and state-of-the-art analysis
+tools such as Conveyal to highlight where future Bluebikes investments could have the
+greatest potential to connect users to transit. This study will culminate in a technical
+memorandum describing analytical results, including a brief literature review and
+description of the methodology.
+Task 1 Literature Review
+CTPS will explore previous and existing efforts that have utilized bikeshare planning
+to serve first- and last-mile connections. CTPS will also investigate any published
+methodologies and analyses that leverage similar data to explore trip patterns
+between bikeshare and transit, and that estimate future demand for such trips upon
+system expansion.
+Products of Task 1
+A literature review to be included in the technical memorandum
+Task 2 Trip and Survey Data Analysis
+CTPS will synthesize available trip and survey data from Bluebikes and the MBTA to
+identify the prevalence of bike-trip patterns by users making first- and last-mile
+transit connections and investigate the characteristics of such trips.
+Subtask 2.1 Prepare Data and Identify Limitations
+CTPS will explore Bluebikes and MBTA data to identify information available for
+analysis and limitations that affect methodology choice. Data cleaning to support
+quality control will be conducted before performing the analysis.
+Subtask 2.2 Develop Methodology
+Informed by findings from the literature review and data preparation, CTPS will
+detail a methodology to explore existing first- and last-mile trip patterns and the
+characteristics of such trips. Methodology details will include assumptions of
+what constitutes a first- and last-mile trip pattern in the data, the conflation of
+Bluebikes data with MBTA survey data, the geographic extent of analysis, and a
+timeframe within the data to analyze.
+Subtask 2.3 Conduct Analysis
+CTPS will follow the formulated methodology to perform the analysis and
+synthesize results.
+Products of Task 2
+A robust methodology that analyzes first- and last-mile trip patterns
+
+--- Page 4 ---
+Boston Region MPO 4 February 15, 2024
+Initial results showing corridors and transit stations and stops where transit
+passengers are using Bluebikes for existing first- and last-mile trips to and from
+transit services (to be described in the technical memorandum)
+Task 3 Accessibility Analysis
+CTPS will conduct Conveyal access analyses to leverage insights from trip and
+survey data and explore the potential of future Bluebikes system expansions to
+serve first- and last-mile connections. These analyses will be synthesized with
+demographic data to emphasize potential impact on environmental justice
+communities.
+Subtask 3.1 Develop Methodology
+CTPS will decide on analysis parameters to run with Conveyal to model
+destination access via bikeshare (including both traditional bikes and electric
+bikes) and transit as an integrated mode of transportation. During this phase,
+staff will consult with the Conveyal support team to explore methodologies and
+obtain data pertaining to the level of traffic stress (LTS) across the transportation
+network as necessary. Staff will also decide on any destination types to include in
+the access analyses and candidate locations throughout the Boston region to
+model future bikeshare expansion.
+Subtask 3.2 Conduct Analysis
+Staff will follow the formulated methodology to perform the analysis and
+synthesize results.
+Products of Task 3
+A robust methodology that analyzes changes in destination access for
+demographic groups that would occur as a result of potential future Bluebikes
+expansion at candidate locations, and initial results to share with stakeholders
+Task 4 Document and Communicate Results
+Work performed during the study will culminate in a technical memorandum,
+including the literature review, methodology, and initial results from the analyses
+performed. The memorandum will describe previous and existing efforts nationwide
+that target bikeshare investment to serve first- and last-mile connections, existing trip
+patterns of first- and last-mile connections, and the potential impact to users’ access
+to first- and last-mile connections from future bikeshare investment at candidate
+locations.
+Products of Task 4
+Internal technical documentation and a technical memorandum detailing the
+literature review, methodology, and initial results from the analyses performed
+
+--- Page 5 ---
+(cid:0)(cid:2)(cid:3)(cid:2)(cid:0)(cid:4)(cid:5)(cid:6)(cid:0)(cid:7)(cid:3)(cid:0)(cid:6)(cid:8)(cid:9) (cid:10)(cid:11)(cid:8)(cid:12)(cid:6)(cid:13)(cid:14)(cid:15)(cid:16)(cid:6)(cid:12)(cid:17)(cid:14)(cid:18)(cid:19)(cid:6)(cid:20)(cid:21)(cid:22)(cid:23)(cid:24)(cid:23)(cid:25)(cid:6)(cid:26)
+,-./0/1(cid:6)2
+,345674,8(cid:6)39:,8;<,
+,-=>?@A1/?B(cid:6)?C(cid:6)D>EF0/GFH(cid:6)4@ABH/1(cid:6)9?BBFI1/?BH
+(cid:9)(cid:14) (cid:25)(cid:22)
+(cid:11)#(cid:30)(cid:16) (cid:26) (cid:0) J (cid:4) (cid:3) K L
+(cid:26))M(cid:23)(cid:25)(cid:19)(cid:15)#(cid:25)%(cid:15)(cid:19)(cid:6)N(cid:19)O(cid:23)(cid:19)" (cid:6)+(cid:6)
+(cid:0))(cid:11)(cid:15)(cid:23)(cid:18)(cid:6)# $(cid:6)(cid:12)%(cid:15)O(cid:19)P(cid:6)!#(cid:25)#(cid:6)+ #(cid:28)P(cid:30)(cid:23)(cid:30)
+J)+(cid:17)(cid:17)(cid:19)(cid:30)(cid:30)(cid:23)(cid:24)(cid:23)(cid:28)(cid:23)(cid:25)P(cid:6)+ #(cid:28)P(cid:30)(cid:23)(cid:30)
+(cid:4))!(cid:14)(cid:17)%*(cid:19) (cid:25)(cid:6)# $(cid:6)(cid:10)(cid:14)**% (cid:23)(cid:17)#(cid:25)(cid:19)(cid:6)N(cid:19)(cid:30)%(cid:28)(cid:25)(cid:30) (cid:6)(cid:31)(cid:6)
+(cid:8)(cid:15)(cid:14)$%(cid:17)(cid:25)(cid:30)(cid:2)(cid:9)(cid:23)(cid:28)(cid:19)(cid:30)(cid:25)(cid:14) (cid:19)(cid:30)
++(cid:7)M(cid:23)(cid:25)(cid:19)(cid:15)#(cid:25)%(cid:15)(cid:19)(cid:6)(cid:15)(cid:19)O(cid:23)(cid:19)"
+(cid:31)(cid:7)(cid:11)(cid:19)(cid:17)(cid:22) (cid:23)(cid:17)#(cid:28)(cid:6)*(cid:19)*(cid:14)(cid:15)# $%*
+(cid:27)(cid:23)(cid:28)(cid:19)(cid:7)(cid:2)(cid:2)(cid:2)(cid:10)(cid:7)(cid:2)(cid:29)(cid:30)(cid:19)(cid:15)(cid:30)(cid:2)(cid:11)(cid:31)(cid:14) (cid:19)(cid:15)(cid:2)!(cid:14)" (cid:28)(cid:14)#$(cid:30)(cid:2)(cid:29)(cid:18)$#(cid:25)(cid:19)$(cid:6)!(cid:15)#(cid:27)(cid:25)(cid:6)(cid:31)%$&(cid:19)(cid:25)(cid:6)’(cid:6)(cid:20)(cid:21)(cid:18)(cid:28)(cid:14)(cid:15)#(cid:25)(cid:23)(cid:14) (cid:6)(cid:14)(cid:27)(cid:6)(cid:31)(cid:28)%(cid:19)(cid:24)(cid:23)(cid:16)(cid:19)(cid:30)(cid:6)(cid:11)(cid:15)# (cid:30)(cid:23)(cid:25)(cid:6)(cid:10)(cid:14) (cid:19)(cid:17)(cid:25)(cid:23)(cid:14) (cid:30)((cid:20)(cid:21)(cid:22)(cid:23)(cid:24)(cid:23)(cid:25)((cid:26))(cid:22)(cid:25)*(cid:28) (cid:26)(cid:2)(cid:26)
+
+--- Page 6 ---
+(cid:0)(cid:2)(cid:3)(cid:2)(cid:0)(cid:4)(cid:5)(cid:6)(cid:0)(cid:7)(cid:3)(cid:8)(cid:6)(cid:9)(cid:10) (cid:11)(cid:12)(cid:9)(cid:13)(cid:6)(cid:14)(cid:15)(cid:16)(cid:17)(cid:6)(cid:13)(cid:18)(cid:15)(cid:19)(cid:20)(cid:6)(cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:24)(cid:26)(cid:6)(cid:0)
+,-./0/1(cid:6)2
+,345674,8(cid:6)9:34
+,-;<=>?1/=@(cid:6)=A(cid:6)B<CD0/EDF(cid:6)4>?@F/1(cid:6)9=@@DG1/=@F
+8/>DG1(cid:6)3?<?>H(cid:6)?@I(cid:6):JD>.D?I KLMNOPQ
+(cid:9)(cid:20)(cid:16)(cid:30)(cid:15) ’(cid:14)(cid:20)(cid:20)(cid:17)(cid:30)(cid:6)(cid:25)R(cid:6)(cid:9)#R(cid:6)S(cid:16)#$(cid:20) !(cid:24)(cid:16)(cid:20)(cid:18)(cid:26)TU(cid:20)(cid:16)(cid:23)(cid:20)#$ (cid:12)(cid:15)(cid:26)#(cid:28)
+(cid:12)#(cid:30)(cid:17) S’Z S’[ S’\ S’] (cid:12)(cid:15)(cid:26)#(cid:28) (cid:13)#(cid:28)#(cid:16)R V+(cid:0)(cid:8))WXY (cid:11)(cid:15)(cid:30)(cid:26)
++)^(cid:24)(cid:26)(cid:20)(cid:16)#(cid:26)%(cid:16)(cid:20)(cid:6)_(cid:20)U(cid:24)(cid:20)" (cid:8))(cid:8) (cid:8))(cid:0) +)[ +)(cid:3) W)(cid:3) ‘(cid:3)(cid:5)(cid:3)W\ ‘](cid:5)]](cid:8) ‘+(cid:0)(cid:5)+Z\
+(cid:0))(cid:12)(cid:16)(cid:24)(cid:19)(cid:6)# $(cid:6)(cid:13)%(cid:16)U(cid:20)R(cid:6)!#(cid:26)#
+a #(cid:28)R(cid:30)(cid:24)(cid:30) (cid:8))(cid:8) (cid:8))(cid:0) +)(cid:0) (cid:4))(cid:0) (cid:3))[ ‘[(cid:5)](cid:0)(cid:4) ‘+(cid:8)(cid:5)W\(cid:4) ‘+[(cid:5)ZZ[
+W)a(cid:18)(cid:18)(cid:20)(cid:30)(cid:30)(cid:24)(cid:25)(cid:24)(cid:28)(cid:24)(cid:26)R(cid:6)a #(cid:28)R(cid:30)(cid:24)(cid:30) (cid:8))(cid:8) (cid:8))(cid:0) +)(cid:0) (cid:4))(cid:8) (cid:3))(cid:3) ‘[(cid:5)(cid:0)[(cid:0) ‘Z(cid:5)Z]W ‘+[(cid:5)(cid:0)(cid:4)(cid:3)
+(cid:4))!(cid:15)(cid:18)%*(cid:20) (cid:26)(cid:6)# $(cid:6)(cid:11)(cid:15)**% (cid:24)(cid:18)#(cid:26)(cid:20)
+_(cid:20)(cid:30)%(cid:28)(cid:26)(cid:30) (cid:8))+ (cid:8))W +)+ W)+ (cid:4))\ ‘\(cid:5)(cid:0)(cid:4)(cid:3) ‘[(cid:5)\+] ‘+(cid:3)(cid:5)Z]+
+(cid:12)(cid:15)(cid:26)#(cid:28) (cid:8))+ +)+ (cid:3))W +(cid:0))[ +Z)(cid:4) ‘(cid:0)Z(cid:5)][\ ‘W(cid:3)(cid:5)\+W ‘](cid:3)(cid:5)(cid:4)(cid:8)+
+:1.D>(cid:6)8/>DG1(cid:6)9=F1F KP
+4:47b(cid:6)9:34 KLMNOPQ
+cC@I/@d
+(cid:10)#(cid:30)(cid:30)!T(cid:12)’!(cid:24)(cid:16)(cid:20)(cid:18)(cid:26)(cid:20)$(cid:6)(cid:9)^(cid:6)e% $(cid:30)
+(cid:27)(cid:24)(cid:28)(cid:20)(cid:7)(cid:2)(cid:2)(cid:2)(cid:11)(cid:7)(cid:2)(cid:29)(cid:30)(cid:20)(cid:16)(cid:30)(cid:2)(cid:12)(cid:31)(cid:15) (cid:20)(cid:16)(cid:2)!(cid:15)" (cid:28)(cid:15)#$(cid:30)(cid:2)(cid:29)(cid:19)$#(cid:26)(cid:20)$(cid:6)!(cid:16)#(cid:27)(cid:26)(cid:6)(cid:31)%$&(cid:20)(cid:26)(cid:6)’(cid:6)(cid:21)(cid:22)(cid:19)(cid:28)(cid:15)(cid:16)#(cid:26)(cid:24)(cid:15) (cid:6)(cid:15)(cid:27)(cid:6)(cid:31)(cid:28)%(cid:20)(cid:25)(cid:24)(cid:17)(cid:20)(cid:30)(cid:6)(cid:12)(cid:16)# (cid:30)(cid:24)(cid:26)(cid:6)(cid:11)(cid:15) (cid:20)(cid:18)(cid:26)(cid:24)(cid:15) (cid:30)((cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:24)(cid:26)((cid:0))(cid:23)(cid:26)*(cid:28) +(cid:2)+
+
+--- Page 7 ---
+Boston Region MPO 7 February 15, 2024
+The Boston Region Metropolitan Planning Organization (MPO) operates its programs, services, and activities in
+compliance with federal nondiscrimination laws including Title VI of the Civil Rights Act of 1964 (Title VI), the Civil
+Rights Restoration Act of 1987, and related statutes and regulations. Title VI prohibits discrimination in federally
+assisted programs and requires that no person in the United States of America shall, on the grounds of race, color, or
+national origin (including limited English proficiency), be excluded from participation in, denied the benefits of, or be
+otherwise subjected to discrimination under any program or activity that receives federal assistance. Related federal
+nondiscrimination laws administered by the Federal Highway Administration, Federal Transit Administration, or both,
+prohibit discrimination on the basis of age, sex, and disability. The Boston Region MPO considers these protected
+populations in its Title VI Programs, consistent with federal interpretation and administration. In addition, the Boston
+Region MPO provides meaningful access to its programs, services, and activities to individuals with limited English
+proficiency, in compliance with U.S. Department of Transportation policy and guidance on federal Executive Order
+13166.
+The Boston Region MPO also complies with the Massachusetts Public Accommodation Law, M.G.L. c 272 sections
+92a, 98, 98a, which prohibits making any distinction, discrimination, or restriction in admission to, or treatment in a
+place of public accommodation based on race, color, religious creed, national origin, sex, sexual orientation,
+disability, or ancestry. Likewise, the Boston Region MPO complies with the Governor's Executive Order 526, section
+4, which requires that all programs, activities, and services provided, performed, licensed, chartered, funded,
+regulated, or contracted for by the state shall be conducted without unlawful discrimination based on race, color, age,
+gender, ethnicity, sexual orientation, gender identity or expression, religion, creed, ancestry, national origin, disability,
+veteran's status (including Vietnam-era veterans), or background.
+A complaint form and additional information can be obtained by contacting the MPO or at
+http://www.bostonmpo.org/mpo_non_discrimination. To request this information in a different language or in an
+accessible format, please contact
+Title VI Specialist
+Boston Region MPO
+10 Park Plaza, Suite 2150
+Boston, MA 02116
+civilrights@ctps.org
+By Telephone:
+857.702.3700 (voice)
+For people with hearing or speaking difficulties, connect through the state MassRelay service:
+• Relay Using TTY or Hearing Carry-over: 800.439.2370
+• Relay Using Voice Carry-over: 866.887.6619
+• Relay Using Text to Speech: 866.645.9870
+For more information, including numbers for Spanish speakers, visit https://www.mass.gov/massrelay.

@@ -1,0 +1,557 @@
+[2026-02-26T19:54:19.893+0000] {processor.py:161} INFO - Started process (PID=67) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:54:19.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:54:19.898+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:19.898+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:54:20.841+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:54:20.975+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:20.975+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:neighborhoods_to_s3_to_snowflake
+[2026-02-26T19:54:20.984+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:20.983+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:neighborhoods_to_s3_to_snowflake
+[2026-02-26T19:54:20.996+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:20.996+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:neighborhoods_to_s3_to_snowflake
+[2026-02-26T19:54:20.997+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:20.997+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:54:21.005+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:21.005+0000] {dag.py:3058} INFO - Creating ORM DAG for neighborhoods_to_s3_to_snowflake
+[2026-02-26T19:54:21.017+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:21.017+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:54:21.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 1.155 seconds
+[2026-02-26T19:54:51.435+0000] {processor.py:161} INFO - Started process (PID=141) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:54:51.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:54:51.436+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:51.436+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:54:51.683+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:54:51.690+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:51.689+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:54:51.698+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:54:51.698+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:54:51.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.272 seconds
+[2026-02-26T19:55:22.290+0000] {processor.py:161} INFO - Started process (PID=210) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:55:22.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:55:22.296+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:55:22.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:55:22.573+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:55:22.583+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:55:22.583+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:55:22.592+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:55:22.592+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:55:22.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.316 seconds
+[2026-02-26T19:55:53.288+0000] {processor.py:161} INFO - Started process (PID=282) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:55:53.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:55:53.294+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:55:53.294+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:55:53.651+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:55:53.664+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:55:53.664+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:55:53.672+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:55:53.672+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:55:53.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.402 seconds
+[2026-02-26T19:56:23.894+0000] {processor.py:161} INFO - Started process (PID=354) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:56:23.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:56:23.904+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:56:23.904+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:56:24.313+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:56:24.325+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:56:24.325+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:56:24.334+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:56:24.334+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:56:24.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.459 seconds
+[2026-02-26T19:56:54.483+0000] {processor.py:161} INFO - Started process (PID=432) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:56:54.486+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:56:54.491+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:56:54.490+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:56:54.685+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:56:54.697+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:56:54.697+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:56:54.708+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:56:54.708+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:56:54.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.236 seconds
+[2026-02-26T19:57:25.197+0000] {processor.py:161} INFO - Started process (PID=504) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:57:25.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:57:25.206+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:57:25.205+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:57:25.411+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:57:25.421+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:57:25.421+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:57:25.429+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:57:25.429+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:57:25.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.244 seconds
+[2026-02-26T19:57:55.755+0000] {processor.py:161} INFO - Started process (PID=576) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:57:55.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:57:55.760+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:57:55.759+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:57:55.963+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:57:55.976+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:57:55.976+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:57:55.985+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:57:55.984+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:57:55.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.241 seconds
+[2026-02-26T19:58:26.419+0000] {processor.py:161} INFO - Started process (PID=648) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:58:26.421+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:58:26.424+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:58:26.424+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:58:26.623+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:58:26.639+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:58:26.639+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:58:26.654+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:58:26.654+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:58:26.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.249 seconds
+[2026-02-26T19:58:57.090+0000] {processor.py:161} INFO - Started process (PID=720) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:58:57.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:58:57.095+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:58:57.094+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:58:57.304+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:58:57.314+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:58:57.314+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:58:57.326+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:58:57.326+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:58:57.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.258 seconds
+[2026-02-26T19:59:27.800+0000] {processor.py:161} INFO - Started process (PID=792) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:59:27.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:59:27.805+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:59:27.805+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:59:28.013+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:59:28.025+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:59:28.025+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:59:28.033+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:59:28.033+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:59:28.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.250 seconds
+[2026-02-26T19:59:58.289+0000] {processor.py:161} INFO - Started process (PID=864) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:59:58.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T19:59:58.295+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:59:58.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:59:58.507+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T19:59:58.521+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:59:58.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T19:59:58.530+0000] {logging_mixin.py:188} INFO - [2026-02-26T19:59:58.530+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T19:59:58.538+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.253 seconds
+[2026-02-26T20:00:28.768+0000] {processor.py:161} INFO - Started process (PID=936) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:00:28.771+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:00:28.772+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:00:28.772+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:00:28.977+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:00:28.990+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:00:28.990+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:00:29.002+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:00:29.002+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:00:29.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.244 seconds
+[2026-02-26T20:00:59.560+0000] {processor.py:161} INFO - Started process (PID=1008) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:00:59.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:00:59.567+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:00:59.566+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:00:59.781+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:00:59.791+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:00:59.791+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:00:59.801+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:00:59.801+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:00:59.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.335 seconds
+[2026-02-26T20:01:30.348+0000] {processor.py:161} INFO - Started process (PID=1080) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:01:30.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:01:30.354+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:01:30.354+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:01:30.658+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:01:30.686+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:01:30.686+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:01:30.945+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:01:30.945+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:01:30.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.617 seconds
+[2026-02-26T20:02:01.689+0000] {processor.py:161} INFO - Started process (PID=1152) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:02:01.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:02:01.703+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:02:01.703+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:02:02.138+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:02:02.154+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:02:02.154+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:02:02.163+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:02:02.162+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:02:02.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.492 seconds
+[2026-02-26T20:02:33.020+0000] {processor.py:161} INFO - Started process (PID=1224) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:02:33.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:02:33.025+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:02:33.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:02:33.281+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:02:33.293+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:02:33.293+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:02:33.303+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:02:33.303+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:02:33.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.294 seconds
+[2026-02-26T20:03:03.665+0000] {processor.py:161} INFO - Started process (PID=1296) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:03:03.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:03:03.671+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:03:03.671+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:03:04.024+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:03:04.037+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:03:04.037+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:03:04.044+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:03:04.044+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:03:04.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.393 seconds
+[2026-02-26T20:03:34.348+0000] {processor.py:161} INFO - Started process (PID=1368) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:03:34.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:03:34.353+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:03:34.353+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:03:34.618+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:03:34.630+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:03:34.630+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:03:34.638+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:03:34.638+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:03:34.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.301 seconds
+[2026-02-26T20:04:04.879+0000] {processor.py:161} INFO - Started process (PID=1440) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:04:04.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:04:04.882+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:04:04.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:04:05.135+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:04:05.146+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:04:05.145+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:04:05.153+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:04:05.153+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:04:05.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.284 seconds
+[2026-02-26T20:04:35.520+0000] {processor.py:161} INFO - Started process (PID=1512) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:04:35.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:04:35.530+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:04:35.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:04:35.887+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:04:35.901+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:04:35.900+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:04:35.908+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:04:35.908+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:04:35.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.403 seconds
+[2026-02-26T20:05:06.476+0000] {processor.py:161} INFO - Started process (PID=1584) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:05:06.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:05:06.482+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:05:06.481+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:05:06.779+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:05:06.786+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:05:06.786+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:05:06.794+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:05:06.794+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:05:06.804+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.335 seconds
+[2026-02-26T20:05:37.172+0000] {processor.py:161} INFO - Started process (PID=1656) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:05:37.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:05:37.176+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:05:37.176+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:05:37.434+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:05:37.444+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:05:37.444+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:05:37.451+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:05:37.451+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:05:37.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.289 seconds
+[2026-02-26T20:06:08.028+0000] {processor.py:161} INFO - Started process (PID=1728) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:06:08.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:06:08.042+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:06:08.040+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:06:08.434+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:06:08.446+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:06:08.446+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:06:08.457+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:06:08.457+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:06:08.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.446 seconds
+[2026-02-26T20:06:39.190+0000] {processor.py:161} INFO - Started process (PID=1800) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:06:39.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:06:39.198+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:06:39.197+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:06:39.508+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:06:39.517+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:06:39.517+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:06:39.529+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:06:39.529+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:06:39.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.357 seconds
+[2026-02-26T20:07:09.937+0000] {processor.py:161} INFO - Started process (PID=1872) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:07:09.939+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:07:09.944+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:07:09.944+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:07:10.341+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:07:10.354+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:07:10.354+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:07:10.362+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:07:10.362+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:07:10.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.435 seconds
+[2026-02-26T20:07:40.600+0000] {processor.py:161} INFO - Started process (PID=1944) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:07:40.602+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:07:40.606+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:07:40.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:07:40.792+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:07:40.804+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:07:40.803+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:07:40.812+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:07:40.811+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:07:40.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.222 seconds
+[2026-02-26T20:08:10.954+0000] {processor.py:161} INFO - Started process (PID=2016) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:08:10.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:08:10.958+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:08:10.958+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:08:11.188+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:08:11.199+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:08:11.199+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:08:11.213+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:08:11.213+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:08:11.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.274 seconds
+[2026-02-26T20:08:41.610+0000] {processor.py:161} INFO - Started process (PID=2088) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:08:41.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:08:41.619+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:08:41.618+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:08:41.812+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:08:41.827+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:08:41.827+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:08:41.835+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:08:41.835+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:08:41.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.239 seconds
+[2026-02-26T20:09:12.015+0000] {processor.py:161} INFO - Started process (PID=2160) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:09:12.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:09:12.020+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:09:12.019+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:09:12.238+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:09:12.256+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:09:12.256+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:09:12.272+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:09:12.272+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:09:12.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.272 seconds
+[2026-02-26T20:09:42.657+0000] {processor.py:161} INFO - Started process (PID=2232) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:09:42.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:09:42.663+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:09:42.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:09:42.844+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:09:42.855+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:09:42.855+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:09:42.863+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:09:42.863+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:09:42.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.216 seconds
+[2026-02-26T20:10:13.039+0000] {processor.py:161} INFO - Started process (PID=2304) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:10:13.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:10:13.043+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:10:13.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:10:13.257+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:10:13.269+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:10:13.269+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:10:13.280+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:10:13.280+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:10:13.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.250 seconds
+[2026-02-26T20:10:43.513+0000] {processor.py:161} INFO - Started process (PID=2376) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:10:43.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:10:43.520+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:10:43.519+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:10:43.738+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:10:43.751+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:10:43.750+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:10:43.761+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:10:43.761+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:10:43.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.260 seconds
+[2026-02-26T20:11:14.120+0000] {processor.py:161} INFO - Started process (PID=2448) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:11:14.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:11:14.128+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:11:14.127+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:11:14.417+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:11:14.426+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:11:14.426+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:11:14.435+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:11:14.435+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:11:14.441+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.328 seconds
+[2026-02-26T20:11:44.778+0000] {processor.py:161} INFO - Started process (PID=2520) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:11:44.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:11:44.784+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:11:44.783+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:11:45.098+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:11:45.110+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:11:45.110+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:11:45.118+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:11:45.118+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:11:45.125+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.355 seconds
+[2026-02-26T20:12:15.503+0000] {processor.py:161} INFO - Started process (PID=2592) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:12:15.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:12:15.514+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:12:15.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:12:15.797+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:12:15.805+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:12:15.805+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:12:15.813+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:12:15.813+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:12:15.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.322 seconds
+[2026-02-26T20:12:46.422+0000] {processor.py:161} INFO - Started process (PID=2664) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:12:46.424+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:12:46.429+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:12:46.428+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:12:46.737+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:12:46.749+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:12:46.749+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:12:46.760+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:12:46.760+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:12:46.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.365 seconds
+[2026-02-26T20:13:17.092+0000] {processor.py:161} INFO - Started process (PID=2736) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:13:17.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:13:17.094+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:13:17.094+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:13:17.438+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:13:17.452+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:13:17.452+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:13:17.461+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:13:17.461+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:13:17.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.379 seconds
+[2026-02-26T20:13:48.087+0000] {processor.py:161} INFO - Started process (PID=2808) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:13:48.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:13:48.089+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:13:48.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:13:48.337+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:13:48.349+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:13:48.349+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:13:48.357+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:13:48.356+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:13:48.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.278 seconds
+[2026-02-26T20:14:18.736+0000] {processor.py:161} INFO - Started process (PID=2880) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:14:18.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:14:18.742+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:14:18.741+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:14:19.136+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:14:19.145+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:14:19.145+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:14:19.153+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:14:19.153+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:14:19.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.438 seconds
+[2026-02-26T20:14:49.758+0000] {processor.py:161} INFO - Started process (PID=2952) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:14:49.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:14:49.760+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:14:49.760+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:14:50.008+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:14:50.019+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:14:50.019+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:14:50.026+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:14:50.026+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:14:50.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.277 seconds
+[2026-02-26T20:15:20.394+0000] {processor.py:161} INFO - Started process (PID=3024) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:15:20.396+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:15:20.398+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:15:20.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:15:20.725+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:15:20.734+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:15:20.734+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:15:20.742+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:15:20.742+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:15:20.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.361 seconds
+[2026-02-26T20:15:51.191+0000] {processor.py:161} INFO - Started process (PID=3096) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:15:51.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:15:51.203+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:15:51.202+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:15:51.542+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:15:51.558+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:15:51.558+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:15:51.568+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:15:51.568+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:15:51.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.395 seconds
+[2026-02-26T20:16:22.325+0000] {processor.py:161} INFO - Started process (PID=3168) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:16:22.327+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:16:22.331+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:16:22.331+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:16:22.685+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:16:22.697+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:16:22.697+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:16:22.708+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:16:22.708+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:16:22.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.399 seconds
+[2026-02-26T20:16:53.215+0000] {processor.py:161} INFO - Started process (PID=3240) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:16:53.217+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:16:53.221+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:16:53.221+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:16:53.627+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:16:53.643+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:16:53.643+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:16:53.652+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:16:53.652+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:16:53.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.455 seconds
+[2026-02-26T20:17:24.242+0000] {processor.py:161} INFO - Started process (PID=3312) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:17:24.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:17:24.246+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:17:24.246+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:17:24.487+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:17:24.509+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:17:24.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:17:24.527+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:17:24.527+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:17:24.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.315 seconds
+[2026-02-26T20:17:54.882+0000] {processor.py:161} INFO - Started process (PID=3384) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:17:54.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:17:54.885+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:17:54.885+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:17:55.071+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:17:55.080+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:17:55.080+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:17:55.088+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:17:55.088+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:17:55.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.221 seconds
+[2026-02-26T20:18:25.180+0000] {processor.py:161} INFO - Started process (PID=3456) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:18:25.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:18:25.186+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:18:25.186+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:18:25.410+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:18:25.420+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:18:25.420+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:18:25.432+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:18:25.432+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:18:25.445+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.271 seconds
+[2026-02-26T20:18:55.618+0000] {processor.py:161} INFO - Started process (PID=3528) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:18:55.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:18:55.625+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:18:55.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:18:55.883+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:18:55.906+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:18:55.906+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:18:55.918+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:18:55.918+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:18:55.929+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.320 seconds
+[2026-02-26T20:19:26.243+0000] {processor.py:161} INFO - Started process (PID=3600) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:19:26.245+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:19:26.249+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:19:26.249+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:19:26.435+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:19:26.447+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:19:26.447+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:19:26.455+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:19:26.455+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:19:26.462+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.222 seconds
+[2026-02-26T20:19:56.729+0000] {processor.py:161} INFO - Started process (PID=3672) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:19:56.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:19:56.740+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:19:56.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:19:57.039+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:19:57.058+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:19:57.058+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:19:57.076+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:19:57.076+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:19:57.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.368 seconds
+[2026-02-26T20:20:27.283+0000] {processor.py:161} INFO - Started process (PID=3743) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:20:27.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:20:27.292+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:20:27.291+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:20:27.578+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:20:27.590+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:20:27.590+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:20:27.608+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:20:27.608+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:20:27.626+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.349 seconds
+[2026-02-26T20:20:57.984+0000] {processor.py:161} INFO - Started process (PID=3821) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:20:57.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:20:57.993+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:20:57.992+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:20:58.242+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:20:58.254+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:20:58.254+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:20:58.263+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:20:58.263+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:20:58.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.299 seconds
+[2026-02-26T20:21:28.732+0000] {processor.py:161} INFO - Started process (PID=3893) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:21:28.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:21:28.739+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:21:28.739+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:21:29.018+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:21:29.036+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:21:29.036+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:21:29.144+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:21:29.144+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:21:29.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.430 seconds
+[2026-02-26T20:21:59.418+0000] {processor.py:161} INFO - Started process (PID=3965) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:21:59.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:21:59.423+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:21:59.423+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:21:59.614+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:21:59.691+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:21:59.691+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:21:59.698+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:21:59.698+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:21:59.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.290 seconds
+[2026-02-26T20:22:30.048+0000] {processor.py:161} INFO - Started process (PID=4037) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:22:30.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:22:30.054+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:22:30.054+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:22:30.390+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:22:30.401+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:22:30.401+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:22:30.408+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:22:30.408+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:22:30.416+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.372 seconds
+[2026-02-26T20:23:00.769+0000] {processor.py:161} INFO - Started process (PID=4109) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:23:00.771+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:23:00.775+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:23:00.775+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:23:01.074+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:23:01.086+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:23:01.086+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:23:01.093+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:23:01.093+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:23:01.099+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.334 seconds
+[2026-02-26T20:23:31.459+0000] {processor.py:161} INFO - Started process (PID=4181) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:23:31.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:23:31.465+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:23:31.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:23:31.776+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:23:31.788+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:23:31.788+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:23:31.801+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:23:31.801+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:23:31.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.354 seconds
+[2026-02-26T20:24:02.149+0000] {processor.py:161} INFO - Started process (PID=4253) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:24:02.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:24:02.156+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:24:02.155+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:24:02.469+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:24:02.483+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:24:02.482+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:24:02.493+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:24:02.492+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:24:02.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.362 seconds
+[2026-02-26T20:24:32.976+0000] {processor.py:161} INFO - Started process (PID=4325) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:24:32.978+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:24:32.981+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:24:32.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:24:33.277+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:24:33.286+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:24:33.285+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:24:33.293+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:24:33.293+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:24:33.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.329 seconds
+[2026-02-26T20:25:03.895+0000] {processor.py:161} INFO - Started process (PID=4397) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:25:03.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:25:03.901+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:25:03.900+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:25:04.277+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:25:04.293+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:25:04.292+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:25:04.301+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:25:04.301+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:25:04.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.426 seconds
+[2026-02-26T20:25:34.984+0000] {processor.py:161} INFO - Started process (PID=4469) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:25:34.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:25:34.990+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:25:34.989+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:25:35.372+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:25:35.384+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:25:35.383+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:25:35.399+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:25:35.399+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:25:35.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.431 seconds
+[2026-02-26T20:26:05.927+0000] {processor.py:161} INFO - Started process (PID=4541) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:26:05.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:26:05.936+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:26:05.936+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:26:06.341+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:26:06.351+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:26:06.351+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:26:06.359+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:26:06.359+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:26:06.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.450 seconds
+[2026-02-26T20:26:36.907+0000] {processor.py:161} INFO - Started process (PID=4613) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:26:36.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:26:36.914+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:26:36.914+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:26:37.377+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:26:37.392+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:26:37.391+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:26:37.405+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:26:37.404+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:26:37.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.519 seconds
+[2026-02-26T20:27:08.190+0000] {processor.py:161} INFO - Started process (PID=4685) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:27:08.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:27:08.200+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:27:08.199+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:27:08.762+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:27:08.779+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:27:08.778+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:27:08.787+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:27:08.787+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:27:08.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.611 seconds
+[2026-02-26T20:27:39.616+0000] {processor.py:161} INFO - Started process (PID=4757) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:27:39.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:27:39.627+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:27:39.626+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:27:40.028+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:27:40.037+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:27:40.037+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:27:40.045+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:27:40.045+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:27:40.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.451 seconds
+[2026-02-26T20:28:10.629+0000] {processor.py:161} INFO - Started process (PID=4829) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:28:10.633+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:28:10.640+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:28:10.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:28:10.995+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:28:11.029+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:28:11.029+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:28:11.054+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:28:11.054+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:28:11.072+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.453 seconds
+[2026-02-26T20:28:42.060+0000] {processor.py:161} INFO - Started process (PID=4901) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:28:42.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:28:42.068+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:28:42.068+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:28:42.417+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:28:42.440+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:28:42.440+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:28:42.459+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:28:42.459+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:28:42.478+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.424 seconds
+[2026-02-26T20:29:13.207+0000] {processor.py:161} INFO - Started process (PID=4973) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:29:13.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:29:13.220+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:29:13.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:29:13.462+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:29:13.474+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:29:13.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:29:13.485+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:29:13.485+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:29:13.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.300 seconds
+[2026-02-26T20:29:43.695+0000] {processor.py:161} INFO - Started process (PID=5045) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:29:43.698+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:29:43.703+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:29:43.703+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:29:43.900+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:29:43.909+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:29:43.909+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:29:43.919+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:29:43.919+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:29:43.926+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.236 seconds
+[2026-02-26T20:30:14.016+0000] {processor.py:161} INFO - Started process (PID=5117) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:30:14.021+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:30:14.030+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:30:14.030+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:30:14.281+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:30:14.296+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:30:14.296+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:30:14.308+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:30:14.308+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:30:14.326+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.319 seconds
+[2026-02-26T20:30:44.458+0000] {processor.py:161} INFO - Started process (PID=5189) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:30:44.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:30:44.463+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:30:44.462+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:30:44.660+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:30:44.670+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:30:44.670+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:30:44.679+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:30:44.679+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:30:44.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.232 seconds
+[2026-02-26T20:31:14.894+0000] {processor.py:161} INFO - Started process (PID=5261) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:31:14.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:31:14.901+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:31:14.901+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:31:15.102+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:31:15.113+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:31:15.112+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:31:15.122+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:31:15.122+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:31:15.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.245 seconds
+[2026-02-26T20:31:45.546+0000] {processor.py:161} INFO - Started process (PID=5333) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:31:45.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:31:45.555+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:31:45.554+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:31:45.865+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:31:45.880+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:31:45.880+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:31:45.903+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:31:45.903+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:31:46.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.513 seconds
+[2026-02-26T20:32:16.531+0000] {processor.py:161} INFO - Started process (PID=5405) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:32:16.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:32:16.539+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:32:16.539+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:32:16.839+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:32:16.949+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:32:16.948+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:32:16.958+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:32:16.957+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:32:16.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.442 seconds
+[2026-02-26T20:32:47.426+0000] {processor.py:161} INFO - Started process (PID=5477) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:32:47.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:32:47.434+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:32:47.434+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:32:47.825+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:32:47.842+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:32:47.842+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:32:47.850+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:32:47.850+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:32:47.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.442 seconds
+[2026-02-26T20:33:18.341+0000] {processor.py:161} INFO - Started process (PID=5549) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:33:18.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:33:18.356+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:33:18.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:33:18.721+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:33:18.736+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:33:18.736+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:33:18.744+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:33:18.744+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:33:18.750+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.419 seconds
+[2026-02-26T20:33:49.109+0000] {processor.py:161} INFO - Started process (PID=5621) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:33:49.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:33:49.118+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:33:49.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:33:49.418+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:33:49.429+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:33:49.429+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:33:49.440+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:33:49.440+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:33:49.446+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.343 seconds
+[2026-02-26T20:34:19.872+0000] {processor.py:161} INFO - Started process (PID=5693) to work on /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:34:19.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py for tasks to queue
+[2026-02-26T20:34:19.882+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:34:19.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:34:20.328+0000] {processor.py:840} INFO - DAG(s) 'neighborhoods_to_s3_to_snowflake' retrieved from /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py
+[2026-02-26T20:34:20.345+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:34:20.344+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-26T20:34:20.355+0000] {logging_mixin.py:188} INFO - [2026-02-26T20:34:20.355+0000] {dag.py:3823} INFO - Setting next_dagrun for neighborhoods_to_s3_to_snowflake to 2027-01-01 00:00:00+00:00, run_after=2028-01-01 00:00:00+00:00
+[2026-02-26T20:34:20.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/neighborhoods_to_s3_to_snowflake.py took 0.497 seconds

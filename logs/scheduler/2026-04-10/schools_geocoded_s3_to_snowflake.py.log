@@ -1,0 +1,588 @@
+[2026-04-10T00:00:11.272+0000] {processor.py:161} INFO - Started process (PID=12514) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:00:11.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:00:11.273+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:11.273+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:00:11.495+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:00:11.500+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:11.500+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:00:11.504+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:11.504+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:00:11.510+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.240 seconds
+[2026-04-10T00:00:41.995+0000] {processor.py:161} INFO - Started process (PID=12594) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:00:41.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:00:41.996+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:41.996+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:00:42.209+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:00:42.214+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:42.214+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:00:42.218+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:00:42.217+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:00:42.223+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.229 seconds
+[2026-04-10T00:01:12.543+0000] {processor.py:161} INFO - Started process (PID=12674) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:01:12.544+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:01:12.545+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:12.545+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:01:12.775+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:01:12.782+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:12.782+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:01:12.786+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:12.786+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:01:12.792+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.250 seconds
+[2026-04-10T00:01:42.992+0000] {processor.py:161} INFO - Started process (PID=12754) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:01:42.993+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:01:42.993+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:42.993+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:01:43.151+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:01:43.159+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:43.158+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:01:43.162+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:01:43.162+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:01:43.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.177 seconds
+[2026-04-10T00:02:13.233+0000] {processor.py:161} INFO - Started process (PID=12834) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:02:13.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:02:13.234+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:13.234+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:02:13.393+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:02:13.400+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:13.400+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:02:13.404+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:13.404+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:02:13.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.178 seconds
+[2026-04-10T00:02:43.504+0000] {processor.py:161} INFO - Started process (PID=12914) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:02:43.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:02:43.505+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:43.505+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:02:43.682+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:02:43.689+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:43.689+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:02:43.694+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:02:43.694+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:02:43.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.199 seconds
+[2026-04-10T00:03:13.968+0000] {processor.py:161} INFO - Started process (PID=12994) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:03:13.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:03:13.969+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:13.968+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:03:14.129+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:03:14.137+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:14.137+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:03:14.144+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:14.144+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:03:14.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.186 seconds
+[2026-04-10T00:03:45.186+0000] {processor.py:161} INFO - Started process (PID=13074) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:03:45.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:03:45.187+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:45.187+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:03:45.345+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:03:45.352+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:45.352+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:03:45.356+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:03:45.356+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:03:45.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.178 seconds
+[2026-04-10T00:04:16.315+0000] {processor.py:161} INFO - Started process (PID=13154) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:04:16.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:04:16.316+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:16.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:04:16.489+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:04:16.500+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:16.500+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:04:16.504+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:16.504+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:04:16.510+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.197 seconds
+[2026-04-10T00:04:47.480+0000] {processor.py:161} INFO - Started process (PID=13234) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:04:47.481+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:04:47.482+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:47.482+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:04:47.719+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:04:47.731+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:47.730+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:04:47.735+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:04:47.735+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:04:47.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.266 seconds
+[2026-04-10T00:05:17.830+0000] {processor.py:161} INFO - Started process (PID=13314) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:05:17.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:05:17.832+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:17.832+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:05:18.074+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:05:18.082+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:18.082+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:05:18.088+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:18.088+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:05:18.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.269 seconds
+[2026-04-10T00:05:48.136+0000] {processor.py:161} INFO - Started process (PID=13393) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:05:48.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:05:48.140+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:48.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:05:48.369+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:05:48.379+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:48.379+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:05:48.383+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:05:48.382+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:05:48.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.257 seconds
+[2026-04-10T00:06:18.637+0000] {processor.py:161} INFO - Started process (PID=13473) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:06:18.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:06:18.640+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:18.639+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:06:18.871+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:06:18.883+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:18.880+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:06:18.888+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:18.888+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:06:18.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.262 seconds
+[2026-04-10T00:06:49.113+0000] {processor.py:161} INFO - Started process (PID=13553) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:06:49.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:06:49.117+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:49.114+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:06:49.351+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:06:49.358+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:49.358+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:06:49.363+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:06:49.363+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:06:49.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.261 seconds
+[2026-04-10T00:07:19.551+0000] {processor.py:161} INFO - Started process (PID=13633) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:07:19.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:07:19.553+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:19.553+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:07:19.784+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:07:19.792+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:19.791+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:07:19.798+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:19.798+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:07:19.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.257 seconds
+[2026-04-10T00:07:50.238+0000] {processor.py:161} INFO - Started process (PID=13714) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:07:50.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:07:50.239+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:50.239+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:07:50.454+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:07:50.459+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:50.459+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:07:50.463+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:07:50.463+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:07:50.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.231 seconds
+[2026-04-10T00:08:20.682+0000] {processor.py:161} INFO - Started process (PID=13794) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:08:20.683+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:08:20.683+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:20.683+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:08:20.893+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:08:20.899+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:20.899+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:08:20.902+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:20.902+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:08:20.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.228 seconds
+[2026-04-10T00:08:51.556+0000] {processor.py:161} INFO - Started process (PID=13874) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:08:51.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:08:51.557+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:51.557+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:08:51.717+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:08:51.724+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:51.723+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:08:51.727+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:08:51.727+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:08:51.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.178 seconds
+[2026-04-10T00:09:22.567+0000] {processor.py:161} INFO - Started process (PID=13960) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:09:22.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:09:22.568+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:22.568+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:09:22.726+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:09:22.733+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:22.733+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:09:22.737+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:22.737+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:09:22.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.177 seconds
+[2026-04-10T00:09:53.356+0000] {processor.py:161} INFO - Started process (PID=14039) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:09:53.357+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:09:53.357+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:53.357+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:09:53.530+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:09:53.542+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:53.542+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:09:53.547+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:09:53.547+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:09:53.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.201 seconds
+[2026-04-10T00:10:24.373+0000] {processor.py:161} INFO - Started process (PID=14120) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:10:24.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:10:24.375+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:24.374+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:10:24.534+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:10:24.541+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:24.541+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:10:24.545+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:24.545+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:10:24.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.178 seconds
+[2026-04-10T00:10:55.475+0000] {processor.py:161} INFO - Started process (PID=14200) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:10:55.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:10:55.476+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:55.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:10:55.634+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:10:55.641+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:55.641+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:10:55.645+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:10:55.645+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:10:55.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.177 seconds
+[2026-04-10T00:11:26.422+0000] {processor.py:161} INFO - Started process (PID=14280) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:11:26.423+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:11:26.423+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:26.423+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:11:26.579+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:11:26.586+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:26.586+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:11:26.590+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:26.590+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:11:26.595+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.175 seconds
+[2026-04-10T00:11:57.378+0000] {processor.py:161} INFO - Started process (PID=14360) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:11:57.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:11:57.379+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:57.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:11:57.546+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:11:57.556+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:57.556+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:11:57.560+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:11:57.560+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:11:57.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.190 seconds
+[2026-04-10T00:12:28.807+0000] {processor.py:161} INFO - Started process (PID=14440) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:12:28.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:12:28.808+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:28.808+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:12:28.964+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:12:28.972+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:28.972+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:12:29.034+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:29.034+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:12:29.040+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.235 seconds
+[2026-04-10T00:12:59.452+0000] {processor.py:161} INFO - Started process (PID=14520) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:12:59.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:12:59.454+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:59.453+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:12:59.674+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:12:59.679+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:59.679+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:12:59.683+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:12:59.683+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:12:59.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.237 seconds
+[2026-04-10T00:13:29.841+0000] {processor.py:161} INFO - Started process (PID=14598) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:13:29.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:13:29.842+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:29.842+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:13:30.139+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:13:30.150+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:30.150+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:13:30.157+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:13:30.156+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:13:30.166+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.328 seconds
+[2026-04-10T00:14:55.038+0000] {processor.py:161} INFO - Started process (PID=14673) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:14:55.039+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:14:55.040+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:14:55.040+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:14:55.287+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:14:55.300+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:14:55.300+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:14:55.306+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:14:55.306+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:14:55.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.280 seconds
+[2026-04-10T00:15:25.497+0000] {processor.py:161} INFO - Started process (PID=14753) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:15:25.498+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:15:25.499+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:25.499+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:15:25.743+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:15:25.753+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:25.753+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:15:25.758+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:25.757+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:15:25.768+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.272 seconds
+[2026-04-10T00:15:56.012+0000] {processor.py:161} INFO - Started process (PID=14833) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:15:56.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:15:56.014+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:56.014+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:15:56.279+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:15:56.286+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:56.286+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:15:56.290+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:15:56.290+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:15:56.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.287 seconds
+[2026-04-10T00:16:26.392+0000] {processor.py:161} INFO - Started process (PID=14913) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:16:26.393+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:16:26.394+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:26.394+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:16:26.640+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:16:26.647+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:26.647+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:16:26.651+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:26.651+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:16:26.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.267 seconds
+[2026-04-10T00:16:56.772+0000] {processor.py:161} INFO - Started process (PID=14993) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:16:56.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:16:56.773+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:56.772+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:16:56.993+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:16:56.999+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:56.999+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:16:57.002+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:16:57.002+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:16:57.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.238 seconds
+[2026-04-10T00:17:27.166+0000] {processor.py:161} INFO - Started process (PID=15073) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:17:27.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:17:27.167+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:27.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:17:27.332+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:17:27.339+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:27.339+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:17:27.343+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:27.343+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:17:27.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.184 seconds
+[2026-04-10T00:17:58.466+0000] {processor.py:161} INFO - Started process (PID=15153) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:17:58.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:17:58.468+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:58.468+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:17:58.680+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:17:58.692+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:58.691+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:17:58.698+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:17:58.697+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:17:58.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.241 seconds
+[2026-04-10T00:18:28.792+0000] {processor.py:161} INFO - Started process (PID=15233) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:18:28.793+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:18:28.795+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:18:28.795+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:18:28.986+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:18:28.997+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:18:28.996+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:18:29.002+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:18:29.002+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:18:29.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.219 seconds
+[2026-04-10T00:19:00.082+0000] {processor.py:161} INFO - Started process (PID=15313) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:19:00.083+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:19:00.084+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:00.084+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:19:00.263+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:19:00.275+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:00.275+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:19:00.281+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:00.281+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:19:00.288+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.208 seconds
+[2026-04-10T00:19:31.138+0000] {processor.py:161} INFO - Started process (PID=15393) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:19:31.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:19:31.140+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:31.139+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:19:31.325+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:19:31.336+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:31.336+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:19:31.341+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:19:31.341+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:19:31.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.213 seconds
+[2026-04-10T00:20:01.702+0000] {processor.py:161} INFO - Started process (PID=15473) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:20:01.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:20:01.705+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:01.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:20:01.885+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:20:01.897+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:01.897+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:20:01.902+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:01.902+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:20:01.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.209 seconds
+[2026-04-10T00:20:32.213+0000] {processor.py:161} INFO - Started process (PID=15553) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:20:32.213+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:20:32.214+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:32.214+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:20:32.379+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:20:32.389+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:32.389+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:20:32.458+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:20:32.458+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:20:32.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.253 seconds
+[2026-04-10T00:21:03.154+0000] {processor.py:161} INFO - Started process (PID=15633) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:21:03.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:21:03.155+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:03.155+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:21:03.399+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:21:03.406+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:03.406+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:21:03.410+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:03.410+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:21:03.416+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.264 seconds
+[2026-04-10T00:21:33.710+0000] {processor.py:161} INFO - Started process (PID=15712) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:21:33.711+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:21:33.713+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:33.712+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:21:33.954+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:21:33.962+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:33.962+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:21:33.969+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:21:33.969+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:21:33.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.271 seconds
+[2026-04-10T00:22:04.401+0000] {processor.py:161} INFO - Started process (PID=15793) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:22:04.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:22:04.402+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:04.402+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:22:04.630+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:22:04.636+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:04.636+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:22:04.639+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:04.639+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:22:04.644+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.245 seconds
+[2026-04-10T00:22:34.829+0000] {processor.py:161} INFO - Started process (PID=15873) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:22:34.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:22:34.830+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:34.830+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:22:35.056+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:22:35.062+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:35.062+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:22:35.066+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:22:35.066+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:22:35.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.244 seconds
+[2026-04-10T00:23:05.274+0000] {processor.py:161} INFO - Started process (PID=15953) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:23:05.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:23:05.275+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:05.275+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:23:05.513+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:23:05.520+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:05.519+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:23:05.524+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:05.524+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:23:05.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.262 seconds
+[2026-04-10T00:23:35.914+0000] {processor.py:161} INFO - Started process (PID=16033) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:23:35.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:23:35.915+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:35.915+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:23:36.140+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:23:36.148+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:36.148+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:23:36.151+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:23:36.151+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:23:36.157+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.244 seconds
+[2026-04-10T00:24:06.405+0000] {processor.py:161} INFO - Started process (PID=16113) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:24:06.405+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:24:06.406+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:06.406+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:24:06.625+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:24:06.630+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:06.630+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:24:06.634+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:06.634+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:24:06.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.236 seconds
+[2026-04-10T00:24:37.009+0000] {processor.py:161} INFO - Started process (PID=16193) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:24:37.009+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:24:37.010+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:37.010+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:24:37.166+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:24:37.173+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:37.173+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:24:37.177+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:24:37.177+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:24:37.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.175 seconds
+[2026-04-10T00:25:07.980+0000] {processor.py:161} INFO - Started process (PID=16273) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:25:07.981+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:25:07.981+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:07.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:25:08.143+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:25:08.150+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:08.150+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:25:08.154+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:08.154+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:25:08.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.181 seconds
+[2026-04-10T00:25:38.916+0000] {processor.py:161} INFO - Started process (PID=16353) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:25:38.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:25:38.917+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:38.917+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:25:39.075+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:25:39.082+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:39.082+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:25:39.086+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:25:39.086+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:25:39.092+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.177 seconds
+[2026-04-10T00:26:10.102+0000] {processor.py:161} INFO - Started process (PID=16432) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:26:10.103+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:26:10.103+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:10.103+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:26:10.262+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:26:10.269+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:10.269+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:26:10.273+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:10.273+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:26:10.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.178 seconds
+[2026-04-10T00:26:41.098+0000] {processor.py:161} INFO - Started process (PID=16512) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:26:41.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:26:41.099+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:41.099+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:26:41.255+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:26:41.262+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:41.262+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:26:41.266+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:26:41.266+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:26:41.272+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.175 seconds
+[2026-04-10T00:27:11.990+0000] {processor.py:161} INFO - Started process (PID=16596) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:27:11.991+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:27:11.991+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:11.991+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:27:12.158+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:27:12.169+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:12.168+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:27:12.175+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:12.175+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:27:12.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.193 seconds
+[2026-04-10T00:27:43.377+0000] {processor.py:161} INFO - Started process (PID=16676) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:27:43.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:27:43.379+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:43.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:27:43.654+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:27:43.666+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:43.666+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:27:43.669+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:27:43.669+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:27:43.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.300 seconds
+[2026-04-10T00:28:13.914+0000] {processor.py:161} INFO - Started process (PID=16756) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:28:13.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:28:13.915+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:13.915+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:28:14.151+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:28:14.160+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:14.160+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:28:14.164+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:14.164+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:28:14.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.258 seconds
+[2026-04-10T00:28:44.319+0000] {processor.py:161} INFO - Started process (PID=16836) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:28:44.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:28:44.322+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:44.321+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:28:44.562+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:28:44.574+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:44.573+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:28:44.578+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:28:44.578+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:28:44.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.275 seconds
+[2026-04-10T00:29:15.657+0000] {processor.py:161} INFO - Started process (PID=16916) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:29:15.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:29:15.659+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:15.658+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:29:15.884+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:29:15.890+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:15.890+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:29:15.894+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:15.893+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:29:15.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.243 seconds
+[2026-04-10T00:29:46.251+0000] {processor.py:161} INFO - Started process (PID=16996) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:29:46.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:29:46.252+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:46.252+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:29:46.466+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:29:46.472+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:46.472+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:29:46.475+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:29:46.475+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:29:46.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.231 seconds
+[2026-04-10T00:30:16.689+0000] {processor.py:161} INFO - Started process (PID=17076) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:30:16.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:30:16.690+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:16.690+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:30:16.934+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:30:16.941+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:16.941+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:30:16.945+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:16.945+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:30:16.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.263 seconds
+[2026-04-10T00:30:47.651+0000] {processor.py:161} INFO - Started process (PID=17156) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:30:47.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:30:47.652+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:47.652+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:30:47.898+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:30:47.905+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:47.905+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:30:47.909+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:30:47.909+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:30:47.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.265 seconds
+[2026-04-10T00:31:18.532+0000] {processor.py:161} INFO - Started process (PID=17236) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:31:18.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:31:18.534+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:18.534+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:31:18.778+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:31:18.786+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:18.786+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:31:18.790+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:18.790+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:31:18.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.264 seconds
+[2026-04-10T00:31:49.602+0000] {processor.py:161} INFO - Started process (PID=17316) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:31:49.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:31:49.604+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:49.604+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:31:49.883+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:31:49.893+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:49.893+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:31:49.898+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:31:49.898+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:31:49.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.305 seconds
+[2026-04-10T00:32:20.292+0000] {processor.py:161} INFO - Started process (PID=17396) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:32:20.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:32:20.293+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:20.293+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:32:20.474+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:32:20.497+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:20.496+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:32:20.507+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:20.506+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:32:20.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.231 seconds
+[2026-04-10T00:32:50.630+0000] {processor.py:161} INFO - Started process (PID=17476) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:32:50.630+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:32:50.631+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:50.631+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:32:50.792+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:32:50.801+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:50.801+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:32:50.805+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:32:50.805+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:32:50.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.183 seconds
+[2026-04-10T00:33:21.661+0000] {processor.py:161} INFO - Started process (PID=17556) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:33:21.662+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:33:21.663+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:21.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:33:21.826+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:33:21.833+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:21.832+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:33:21.837+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:21.837+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:33:21.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.183 seconds
+[2026-04-10T00:33:52.663+0000] {processor.py:161} INFO - Started process (PID=17636) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:33:52.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:33:52.664+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:52.664+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:33:52.822+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:33:52.829+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:52.829+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:33:52.833+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:33:52.833+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:33:52.839+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.177 seconds
+[2026-04-10T00:34:23.673+0000] {processor.py:161} INFO - Started process (PID=17716) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:34:23.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:34:23.674+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:23.674+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:34:23.835+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:34:23.842+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:23.842+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:34:23.846+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:23.846+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:34:23.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.180 seconds
+[2026-04-10T00:34:54.092+0000] {processor.py:161} INFO - Started process (PID=17796) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:34:54.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:34:54.093+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:54.093+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:34:54.271+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:34:54.279+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:54.279+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:34:54.284+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:34:54.284+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:34:54.292+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.201 seconds
+[2026-04-10T00:35:25.270+0000] {processor.py:161} INFO - Started process (PID=17876) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:35:25.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:35:25.271+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:25.271+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:35:25.530+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:35:25.540+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:25.539+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:35:25.543+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:25.543+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:35:25.549+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.281 seconds
+[2026-04-10T00:35:56.768+0000] {processor.py:161} INFO - Started process (PID=17956) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:35:56.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:35:56.770+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:56.770+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:35:57.012+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:35:57.020+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:57.020+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:35:57.026+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:35:57.026+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:35:57.037+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.271 seconds
+[2026-04-10T00:36:27.282+0000] {processor.py:161} INFO - Started process (PID=18036) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:36:27.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:36:27.283+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:27.283+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:36:27.530+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:36:27.538+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:27.538+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:36:27.544+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:27.544+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:36:27.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.275 seconds
+[2026-04-10T00:36:57.976+0000] {processor.py:161} INFO - Started process (PID=18116) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:36:57.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:36:57.977+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:57.977+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:36:58.217+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:36:58.224+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:58.224+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:36:58.228+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:36:58.228+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:36:58.233+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.258 seconds
+[2026-04-10T00:37:28.679+0000] {processor.py:161} INFO - Started process (PID=18196) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:37:28.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:37:28.681+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:28.680+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:37:28.915+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:37:28.925+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:28.925+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:37:28.930+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:28.930+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:37:28.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.265 seconds
+[2026-04-10T00:37:59.138+0000] {processor.py:161} INFO - Started process (PID=18275) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:37:59.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:37:59.141+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:59.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:37:59.527+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:37:59.536+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:59.536+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:37:59.543+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:37:59.543+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:37:59.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.415 seconds
+[2026-04-10T00:38:30.128+0000] {processor.py:161} INFO - Started process (PID=18355) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:38:30.130+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:38:30.132+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:30.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:38:30.377+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:38:30.389+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:30.389+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:38:30.394+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:38:30.394+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:38:30.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.276 seconds
+[2026-04-10T00:39:01.190+0000] {processor.py:161} INFO - Started process (PID=18436) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:39:01.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:39:01.191+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:01.191+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:39:01.434+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:39:01.441+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:01.441+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:39:01.445+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:01.445+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:39:01.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.263 seconds
+[2026-04-10T00:39:31.553+0000] {processor.py:161} INFO - Started process (PID=18515) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:39:31.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:39:31.555+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:31.555+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:39:31.793+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:39:31.802+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:31.802+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:39:31.807+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:39:31.807+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:39:31.816+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.264 seconds
+[2026-04-10T00:40:02.104+0000] {processor.py:161} INFO - Started process (PID=18595) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:40:02.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:40:02.107+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:02.107+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:40:02.288+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:40:02.297+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:02.297+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:40:02.302+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:02.302+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:40:02.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.208 seconds
+[2026-04-10T00:40:32.343+0000] {processor.py:161} INFO - Started process (PID=18675) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:40:32.344+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:40:32.346+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:32.346+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:40:32.545+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:40:32.558+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:32.558+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:40:32.564+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:40:32.563+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:40:32.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.232 seconds
+[2026-04-10T00:41:02.905+0000] {processor.py:161} INFO - Started process (PID=18756) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:41:02.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:41:02.907+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:02.906+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:41:03.067+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:41:03.074+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:03.074+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:41:03.078+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:03.078+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:41:03.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.180 seconds
+[2026-04-10T00:41:33.308+0000] {processor.py:161} INFO - Started process (PID=18836) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:41:33.308+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:41:33.309+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:33.309+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:41:33.469+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:41:33.476+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:33.476+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:41:33.479+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:41:33.479+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:41:33.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.179 seconds
+[2026-04-10T00:42:03.666+0000] {processor.py:161} INFO - Started process (PID=18916) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:42:03.667+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:42:03.668+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:03.667+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:42:03.845+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:42:03.854+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:03.854+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:42:03.859+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:03.859+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:42:03.866+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.202 seconds
+[2026-04-10T00:42:34.100+0000] {processor.py:161} INFO - Started process (PID=18996) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:42:34.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:42:34.101+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:34.101+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:42:34.265+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:42:34.272+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:34.272+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:42:34.276+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:42:34.276+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:42:34.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.184 seconds
+[2026-04-10T00:43:04.419+0000] {processor.py:161} INFO - Started process (PID=19076) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:43:04.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:43:04.421+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:04.421+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:43:04.598+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:43:04.605+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:04.605+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:43:04.609+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:04.609+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:43:04.614+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.197 seconds
+[2026-04-10T00:43:35.267+0000] {processor.py:161} INFO - Started process (PID=19156) to work on /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:43:35.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py for tasks to queue
+[2026-04-10T00:43:35.270+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:35.269+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:43:35.449+0000] {processor.py:840} INFO - DAG(s) 'schools_geocoded_to_s3_to_snowflake' retrieved from /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py
+[2026-04-10T00:43:35.458+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:35.458+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-04-10T00:43:35.529+0000] {logging_mixin.py:188} INFO - [2026-04-10T00:43:35.529+0000] {dag.py:3823} INFO - Setting next_dagrun for schools_geocoded_to_s3_to_snowflake to None, run_after=None
+[2026-04-10T00:43:35.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools_geocoded_s3_to_snowflake.py took 0.269 seconds

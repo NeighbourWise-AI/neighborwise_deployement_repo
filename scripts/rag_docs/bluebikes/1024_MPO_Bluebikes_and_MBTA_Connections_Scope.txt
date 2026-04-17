@@ -1,0 +1,187 @@
+--- Page 1 ---
+O
+STON REG
+IO
+B N BOSTON REGION METROPOLITAN PLANNING ORGANIZATION
+MPO
+Monica Tibbits-Nutt, MPO Chair | Secretary and CEO, Massachusetts Department of Transportation
+M N
+E T R
+O
+ATI O Tegin Leigh Teich, Executive Director, MPO Staff
+P O
+LITA
+N
+PLANNING
+OR
+G
+A
+NI Z
+WORK PROGRAM
+BLUEBIKES AND MBTA CONNECTIONS
+OCTOBER 24, 2024
+Proposed Motion
+The Boston Region Metropolitan Planning Organization (MPO) votes to approve this
+work program.
+Project Identification
+Unified Planning Work Program (UPWP) Classification
+Boston Region MPO Planning Studies and Technical Analyses
+Project Number 13819
+Client
+Boston Region MPO
+Project Supervisors
+Principal: Rounaq Basu
+Manager: Tanner Bonner
+Funding Source
+MPO Planning Contract and MPO §5303 Contract 126734
+Schedule and Budget
+Schedule: 11 months after work commences
+Budget: $59,452
+Schedule and budget details are shown in Exhibits 1 and 2, respectively.
+Relationship to MPO Goals
+The Boston Region MPO elected to fund this study with its federally allocated
+metropolitan planning funds during federal fiscal year (FFY) 2025. The work completed
+through this study will address the following goal areas established in the MPO’s Long-
+Range Transportation Plan: access and connectivity, mobility and reliability, and equity.
+State Transportation Building • Ten Park Plaza, Suite 2150 • Boston, MA 02116-3968 • (857) 702-3700 • bostonmpo.org
+
+--- Page 2 ---
+Boston Region MPO 2 October 24, 2024
+Background
+A well-integrated and safe multimodal network is essential for serving a variety of trip
+needs and shifting further away from car-dependent travel. Bikeshare offers significant
+utility by connecting with public transit and facilitating multimodal trips throughout the
+Boston region. One of its key roles is addressing what is known as the first- and last-
+mile problem, making it easier for riders to access transit stations and complete their
+trips efficiently without the need of a car. Additionally, Bluebikes can substitute for
+transit for trips that may otherwise take longer or be less convenient, offering riders a
+flexible and often quicker alternative. In these ways, Bluebikes and the Massachusetts
+Bay Transportation Authority (MBTA) can both complement and compete with each
+other.
+Central Transportation Planning Staff, the staff to the MPO, has worked with the MBTA
+and the Cities of Boston, Cambridge, and Somerville to understand how riders interact
+with the Bluebikes system. This study will allow the MPO to further understand how we
+could improve our existing bicycle network and how both Bluebikes and the MBTA can
+serve as a more viable option for people to travel.
+Staff recently conducted a literature review and an exploratory analysis to develop a
+baseline understanding of the complementary relationships between bikeshare and
+transit. While we found that a great majority of existing Bluebikes stations are near
+MBTA stops, there are still gaps in system connectivity and a variety of factors left
+unexplored. With the use of additional data, tools, and methodologies, along with
+stakeholder input, staff will build upon this previous work to analyze where the
+Bluebikes and the MBTA allow for complementary and competitive trips and how rider
+behavior reflects available bikeshare and transit opportunities.
+This research complements existing MPO efforts, including a Bluebikes fare equity
+analysis and demographic survey, development of a Baseline Equity Metrics
+dashboard, and the Boston Region MPO’s Bicycle and Pedestrian program. The
+findings could inform continued investment in bicycle and pedestrian infrastructure
+projects, cooperative planning efforts between Bluebikes and the MBTA, and other
+efforts that may lead to an increase in both Bluebikes and MBTA ridership.
+Objective
+This work will build on previous research on the interaction between the Bluebikes and
+MBTA systems using additional data and expanded methodologies to understand
+system connectivity and rider behavior.
+Work Description
+Staff will conduct analysis and engagement to consider how the Bluebikes system
+interacts with the MBTA. This work will analyze where the Bluebikes and the MBTA
+
+--- Page 3 ---
+Boston Region MPO 3 October 24, 2024
+allow for complementary and competitive trips and how rider behavior reflects available
+bikeshare and transit opportunities.
+Task 1 Plan and Prepare Analysis
+MPO staff will identify specific analysis areas of interest depending on available data
+and stakeholder input.
+Subtask 1.1 Review Previous Work
+MPO staff will organize the analyses in the GitHub repository, holistically review
+the findings from our previous work, and identify focus areas for extending the
+research.
+Subtask 1.2 Consult Stakeholders
+To inform data source choices, analysis approach, and delivery of the final work
+product, staff will identify and engage with stakeholders who may include
+municipal planners, MBTA staff, community groups, bikeshare users, and/or
+advocacy organizations.
+Subtask 1.3 Identify Data Sources and Analysis Tools
+Staff will determine the potential of various datasets (e.g., ridership patterns and
+geographic data) to provide more granular insight, with the goal to integrate
+advanced analysis tools.
+Subtask 1.4 Prepare Data
+After data sources and analysis tools are identified, staff will clean and process
+data as necessary.
+Products of Task 1
+A defined approach for analyzing interactions between Bluebikes and the MBTA.
+Task 2 Conduct Analysis
+Staff will follow the methodology and focus areas of interest formulated in Task 1 to
+conduct analysis. Analysts will incorporate feedback from contributors and
+stakeholders as appropriate, conduct quality control and management, and decide
+on useful metrics and statistics for reporting.
+Products of Task 2
+A set of analytical findings synthesized from various datasets, including a clear
+identification of key gaps and opportunities in the Bluebikes–MBTA network and
+existing patterns of multimodal travel behavior.
+Task 3 Document and Communicate Results
+Before, during, and after the analysis, staff will keep internal documentation up-to
+date and explore options for data visualizations and report format. After the analysis,
+staff will create a report and communicate the results to the MPO board.
+
+--- Page 4 ---
+Boston Region MPO 4 October 24, 2024
+Products of Task 3
+A report detailing the study motivation, methodology, analysis findings, and key
+takeaways (including suggestions for improving transit and bikeshare
+integration), along with robust internal documentation.
+
+--- Page 5 ---
+Exhibit 1
+ESTIMATED SCHEDULE
+Bluebikes and MBTA Connections
+Month
+Task 1 2 3 4 5 6 7 8 9 10 11
+1. Plan and Prepare Analysis
+2. Conduct Analysis
+3. Document and Communicate
+Results
+A
+Products/Milestones
+A: Report
+
+--- Page 6 ---
+Exhibit 2
+ESTIMATED COST
+Bluebikes and MBTA Connections
+Direct Salary and Overhead $59,452
+Person-Weeks by Pay Grade Direct Overhead Total
+Task G-9 G-8 G-7 G-6 Total Salary (120.3%) Cost
+1. Plan and Prepare Analysis 0.0 0.7 0.6 4.0 5.3 $8,250 $9,924 $18,174
+2. Conduct Analysis 0.0 0.7 0.6 5.0 6.3 $9,675 $11,639 $21,313
+3. Document and Communicate
+Results 0.5 1.0 0.0 4.0 5.5 $9,062 $10,902 $19,965
+Total 0.5 2.4 1.2 13.0 17.1 $26,987 $32,465 $59,452
+Other Direct Costs $0
+TOTAL COST $59,452
+Funding
+MPO Planning Contract 126734
+MPO §5303 Planning Contract 126734
+
+--- Page 7 ---
+Boston Region MPO 5 October 24, 2024
+CIVIL RIGHTS NOTICE TO THE PUBLIC
+Welcome. Bem Vinda. Bienvenido. Akeyi. 欢迎. 歡迎
+You are invited to participate in our transportation planning process, free from
+discrimination. The Boston Region Metropolitan Planning Organization (MPO) is
+committed to nondiscrimination in all activities and complies with Title VI of the Civil
+Rights Act of 1964, which prohibits discrimination on the basis of race, color, or national
+origin (including limited English proficiency). Related federal and state
+nondiscrimination laws prohibit discrimination on the basis of age, sex, disability, and
+additional protected characteristics.
+For additional information or to file a civil rights complaint, visit
+www.bostonmpo.org/mpo_non_discrimination.
+To request this information in a different language or format, please contact:
+Boston Region MPO Title VI Specialist
+10 Park Plaza, Suite 2150
+Boston, MA 02116
+Phone: 857.702.3700
+Email: civilrights@ctps.org
+F or people with hearing or speaking difficulties, connect through the state MassRelay
+service, www.mass.gov/massrelay. Please allow at least five business days for your
+request to be fulfilled.

@@ -1,0 +1,501 @@
+--- Page 1 ---
+MBTA
+Strategic Planning
+Authority-Wide Goals and Metrics
+Final Report January 2024
+
+--- Page 2 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Contents
+Letter from the General Manager ....................................................................................3
+Introduction ........................................................................................................................4
+Strategic Planning Background .......................................................................................5
+Strategic Planning Purpose ..............................................................................................5
+Framework and Approach ................................................................................................5
+2020 Mission, Vision, and Values .....................................................................................6
+Culture, Collaboration and Communications .................................................................6
+Workforce Investments .....................................................................................................6
+Diversity, Equity, and Inclusion ........................................................................................6
+Early Actions Supporting the 2020 Strategic Plan .........................................................7
+2022 Strategic Planning: Process Overview ...................................................................8
+Process Overview .............................................................................................................8
+Re-affirmed Mission and Vision .......................................................................................8
+Process Design .................................................................................................................8
+Document Review .............................................................................................................8
+Facilitation Design .............................................................................................................9
+2022 Strategic Planning: Goals and Metrics .................................................................10
+Values Refined ................................................................................................................11
+Goals and Metrics Development ....................................................................................13
+MBTA Goals and Metrics ...............................................................................................13
+What’s Next? ....................................................................................................................15
+Where We Are in the Process and Next Steps ..............................................................16
+2
+
+--- Page 3 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Letter from the General Manager
+Dear Colleagues,
+I’m pleased to introduce the MBTA’s Strategic Plan that was presented to our Board The goals highlight developing a safety culture; modernizing our system, improving
+of Directors in August of 2023. As we launch this plan, the MBTA is in the midst of connectivity, and bringing our assets to a state of good repair; employing transpar-
+coping with the residual impacts on ridership since the COVID-19 pandemic, re- ent decision-making; building and retaining a diverse workforce; recognizing the
+sponding to the FTA safety management inspection, and implementing the Track importance of our service and its impact on our communities and our economy;
+Improvement Plan to reduce slow zones and eliminating speed restrictions. Now, enhancing system sustainability and resiliency; increasing ridership and supporting
+more than ever, it is important to have a long-term plan that guides the organization mode shift; and improving open communication about the costs and revenue need-
+forward as we tackle these short term, complex challenges. ed to support our service.
+Our mission remains constant – to serve the public by providing safe, reliable, and I will provide periodic updates and more details about our goals, and the strategies
+accessible transportation. This plan includes our previous statements of our values and initiatives that are being undertaken to achieve those goals. In the meantime, I
+of safety, service, sustainability, and updated values for equity and culture. These ask that you to take the time to familiarize yourselves with the goals and to consider
+values better reflect who we are and who we want to be and our impact on our em- how your work aligns with them. Using this plan as a guide, we will build on the
+ployees, riders, and the communities we serve, and prioritizes people and safety in significant progress we’ve already made, support the state’s economy, and execute
+the work we do. on our long-range vision.
+Our Strategic Plan is a living document that was developed with input from people Thank you,
+across the organization. It provides the core strategic vision for our organization,
+with the flexibility to evolve to meet the ever-changing, and sometimes unexpected,
+needs of our customers and region. Executing on the Strategic Plan will help restore
+the MBTA’s reputation, building a safe, reliable and resilient system customers can
+depend on, and will evolve an organizational culture that values a diverse workforce Phil Eng
+that represents our ridership. General Manager & CEO
+3
+
+--- Page 4 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Introduction
+The Massachusetts Bay Transportation Authority (MBTA), or the Authority, is the priorities and goals to insure they are implementable. Although built upon the earlier
+largest transit system in Massachusetts and one of the oldest in the US, providing strategic planning work, this plan went further by:
+subway, bus, commuter rail, ferry, and paratransit service to eastern Massachusetts
+• identifying potential conflicting priorities across departments,
+and parts of Rhode Island. The MBTA employs more than 7,000 employees who
+serve our customers. Throughout 2022, the MBTA engaged in a staff-led strategic • assessing projects across the Authority that may not meet, and may even
+planning process to guide the Authority’s work over the coming decade, to align our potentially impede, broader Authority goals,
+internal priorities, and to inform our long-range planning activities.
+• ensuring that all staff are prepared and ready to implement the goals.
+The purpose was to set Authority-wide goals and metrics, built on the MBTA’s pre- In a previous planning phase in 2020, the MBTA established the mission, vision, and
+vious strategic planning work in 2020. The MBTA’s strategic planning is an ongoing values for the Authority, creating a high-level sense of purpose in the T’s work. The
+process that will be revisited over time as the Authority evolves. The goals and met- Authority’s mission and vision have not changed in the latest plan; however, this
+rics are intended to guide both day-to-day decision-making and help the Authority recent planning refreshed the Authority’s values and took the work further by estab-
+think longer-term about how to achieve its desired outcomes and embrace the or- lishing goals to guide the Authority’s actions and metrics to help us track progress.
+ganization’s values. Over the course of four months, a diverse group of more than 150 staff from across
+the Authority were actively and intentionally engaged in crafting goals and metrics
+The planning process was designed to support the Authority’s ongoing transforma-
+to guide the MBTA’s work. This document reflects the expertise, time, intention, and
+tion, by breaking down silos within the Authority, elevating the importance of people
+experience of the MBTA’s staff and sets a clear direction for the Authority’s work in
+at the MBTA, and responding to current challenges and disruptions, reframing them
+the coming years.
+as opportunities for transformation. These opportunities and challenges included
+the FTA safety management inspection, workforce shortages, and simultaneous
+transitions in MBTA, MassDOT, and government leadership. The process leveraged
+the knowledge of the MBTA’s staff as experts on the Authority’s needs and on the
+important role that workplace culture has on both the workforce and their ability to
+achieve the organization’s goals.
+The MBTA recognized it had a unique opportunity to set long range goals and mea-
+sures for success while at the same time promoting Authority coordination, integra-
+tion, and planning. This Authority-wide, staff-driven process fully examined possible
+4
+
+--- Page 5 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Strategic Planning Background
+Strategic Planning Purpose and moved to what we want to accomplish and how to measure our progress in our
+2022 work. In the coming years, the MBTA will continue its strategic planning by de-
+Combined with the Authority’s mission, vision, and values, the goals and metrics
+fining the steps we will take to achieve our goals. The role of these various strategic
+defined in this report will guide the work of the MBTA over the coming years as it
+planning elements is described below:
+responds to operation and safety challenges and transforms to meet both external
+demands and the internal culture changes needed to better support our staff, riders,
+Figure 1: Strategic Planning framework
+and the regions we serve. Our strategic plan has been shaped by our previous plans
+and commitments as well as by the input and expertise of our workforce. The plan 4
+Mission what we do
+is intended to:
+4
+• Provide an opportunity for the Authority to adapt and evolve to changes in the Vision what we aspire to be
+region.
+4
+Values the principles that guide us in our work
+• Help the Authority prioritize goals, its employees, and monetary capital.
+44
+• Clarify multimodal priorities aligned to our values and incorporate those priorities Goals how we achieve our vision and mission
+into planning and financial programming.
+44
+Metrics how we will track our progress
+• Support the alignment of our internal departments and staff to Authority-wide
+goals.
+444
+Objectives our priorities to achieve our goals
+• Determine metrics for success that can be used to track progress.
+444
+Strategies specific steps to achieve objectives
+Framework and Approach
+In our ongoing strategic planning, the MBTA has aspired to shift the Authority’s 4 Completed in 2020 | 44 2022 Project | 444 2024 Work
+culture by both centering the experiences of our employees and by agreeing to a
+framework before setting actions or prioritizing specific projects. Therefore, in 2020
+Through the development of these strategic planning elements, the MBTA will have
+we started from broad agreement on what we do and who we are,
+a comprehensive framework to guide the Authority’s work in the years to come.
+5
+
+--- Page 6 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+2020 Mission, Vision, and Values
+In its 2020 work, the MBTA developed the mission, vision, and values of the Author- This process also revealed that the challenges the organization faced were deeply
+ity and focused on improving operations by addressing key internal organizational rooted in the Authority’s culture. In response, the MBTA identified three internal pri-
+priorities. This work served as an opportunity to create a shared sense of purpose ority areas for continued improvement and investment:
+while beginning the work of reshaping the Authority’s culture and highlighting pres-
+Culture, Collaboration and Communications
+sure points for the workforce. Through this work, the MBTA developed the following:
+Improve internal engagement and collaborative decision-making processes
+Workforce Investments
+Recognize our diverse talent and provide opportunities for meaningful professional
+We serve the public by providing safe, development and career pathways
+reliable, and accessible transportation. Diversity, Equity, and Inclusion
+Invest in becoming a more diverse, equitable, and inclusive organization
+Given the timing of the pandemic and the unexpected burdens on the system that
+followed, the MBTA temporarily paused the continuation of its strategic planning
+We envision a thriving region enabled
+until the Fall of 2022. However, the Authority made progress in aligning its work to
+by a best-in-class transit system. its values and developing new actions to address the three internal priorities set in
+2020.
+Our work is guided in the principles of
+safety, service, equity and sustainability.
+6
+
+--- Page 7 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Early Actions Supporting the 2020 Strategic Plan
+Culture, Collaboration, and Communication
+• Improved employee communications, particularly for frontline employees through
+installation of digital screens (TCOMMS), use of employee newsletter (Between The
+Lines), and creation of new intranet site (TSTOP).
+• Implemented an annual staff survey to gather regular feedback from staff about
+employee satisfaction and workplace culture.
+Workforce Investments
+• Developed a new leadership development training program for managers, training 150
+supervisors to date in adaptive leadership.
+• Launched the ideal program – Individuals Defining Excellence and Leadership –
+designed to build on the knowledge base of MBTA employees and to expand their
+awareness of the challenges the MBTA faces in safety, service delivery, and public
+perception.
+Diversity, Equity, and Inclusion
+• Formed a DEI Employee Advisory Council consisting of 15-20 staff representing many
+identities and roles within the T.
+• Hired staff to support a new department focused on diversity, equity, and inclusion.
+7
+
+--- Page 8 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+2022 Strategic Planning: Process Overview
+Process Overview
+From August through December 2022, the MBTA returned to its strategic planning concurrent FTA safety management inspection report findings, but not to lose
+work to build on the existing mission, vision, and values and deepen the Authority’s momentum since the development of shared goals would be an opportunity to
+alignment by establishing goals and identifying metrics to track progress. Through- respond to the safety concerns and other challenges while not losing sight of
+out the fall, more than 150 MBTA staff engaged in a series of meetings to frame the need to plan for the future.
+the Authority’s goals and metrics, as well as to identify next steps for achieving
+the goals. The development of the Authority’s goals and metrics was orchestrated
+• We agreed to be honest about real resource constraints and the gap
+through an intentional process that engaged stakeholders and built upon the foun-
+between what we have and what we need for success. For years, the MBTA
+dation of the MBTA’s past planning efforts.
+has prioritized operations despite financial, operational, and labor constraints.
+In this work, we agreed to focus on the right goals, while being honest that
+Re-affirmed Mission and Vision
+some goals may require changes to resources to achieve.
+As this next phase of the strategic planning process commenced, we determined it
+was important to ground the work to the 2020 strategic plan. The mission and vision
+• We agreed that strategic planning at the T would be iterative and ongoing.
+statement were that grounding. At the start of the process we re-affirmed our com-
+While this phase of the project was designed to update values and identify
+mitment to the previously defined mission and vision.
+goals and metrics, we recognized that planning would need to be continued
+Mission: We serve the public by providing safe, reliable, and accessible transpor- later to flesh out objectives and strategies. Additionally, we built into the
+tation. process the expectation that the plan would be periodically reassessed and
+refreshed as necessary.
+Vision: We envision a thriving region enabled by a best-in-class transit system.
+Document Review
+Process Design
+To begin the work to identify goals and metrics, we needed to gain an understanding
+The MBTA identified key components to frame the project process. of the current work and priorities of the MBTA. A review of plans and key documents
+was undertaken to understand what goals and commitments had been made by the
+• We agreed to focus on the “why” of planning. The process was deemed as
+Authority and to gather information from MBTA staff about their department’s goals,
+important as the outcomes: it was designed to engage employees and create
+data sources, and expectations for the future.
+alignment around organizational priorities. We committed to aligning with the
+8
+
+--- Page 9 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Inventory
+This review made clear that the MBTA has made commitments to our riders and
+the communities we serve to make improvements in service and reliability and to
+expand access to transit. Additionally, the goals and metrics in these plans and
+documents were not consistent and lacked an overarching focus. There was a lack
+of clarity about what the MBTA should prioritize with its limited financial and staffing
+resources.
+Since the analyzed plans provide significant guidance for the MBTA’s work today,
+the findings from this analysis informed the first iteration of the MBTA’s goals and
+metrics. This rolling up of existing plans into the goals and metrics made clear that
+the Authority is building on existing work with its strategic planning, rather than
+starting from a blank canvas.
+Facilitation Design
+The facilitation process was intentionally structured to engage a broad range of
+MBTA staff with diverse roles and experiences. The process included a range of
+subject matter experts across the Authority including executive staff, frontline staff,
+and union leaders from across the Authority. It was also designed to center MBTA
+staff as the subject matter experts for determining the agencies priorities and to
+build on the previous strategic planning report and the FTA’s safety management
+inspection, that made clear many MBTA challenges are rooted in addressing the
+Authority’s internal culture.
+The goals and metrics work was driven by cross-departmental working groups, each
+with a separate charge. Subject matter experts were assigned to working groups to
+draft goals aligned to each of the MBTA’s four values, plus a group focused on a
+new area: culture. These groups had honest conversations about the MBTA’s goals,
+as well as the interconnections and tradeoffs between goals. A separate group of
+subject matter experts also convened to develop draft metrics to track success on
+each of the proposed goals.
+9
+
+--- Page 10 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+2022 Strategic Planning: Goals and Metrics
+Two additional teams, the MBTA’s executive team and the Strategic Planning Com-
+Subject Matter Experts: Values and Data Working Groups
+mittee for Implementation (SPCI), shaped the structure of the planning process to
+ensure maximum engagement from MBTA staff and elevated strategic topics for
+Provided crosscutting feedback focused on
+leadership discussion.
+Union Leadership implementability and the needs of the MBTA’s
+Each of the engaged groups is described in more detail below. workforce.
+Figure 2: MBTA Staff Engagement Approach Alignment Across Values
+Subject Matter Experts: Values and Data Working Groups
+Strategic Planning Provided big picture insights and process guidance
+Five working groups of MBTA staff subject matter Committee for to ensure a smooth project process, maximum
+experts provided insight and expertise to propose Implementation (SPCI) engagement, and feedback on draft deliverables.
+Value Specific Working goals aligned to each of the organizational values.
+Groups
+Provided feedback and sign-off on the project
+The groups focused on:
+process, outcomes, and all final deliverables before
+Safety, Service, Sustainability, Equity, Culture
+Executive Team being shared with stakeholders. The General
+Manager’s direct reports served as an anchor for all
+An inter-departmental group of data experts
+the work.
+Data + Metrics Group proposed metrics to track the MBTA’s progress in
+achieving each goal.
+Front Line Employee Perspectives: Crosscutting All Values
+Provided input to ensure strategic goals and
+DEI Employee Advisory
+priorities included a broad range of employee
+Council
+perspectives.
+10
+
+--- Page 11 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Values Refined
+Equity and Culture Value Statements
+The process of developing Authority-wide goals and metrics prompted a fresh look
+at the MBTA’s pre-existing mission, vision, and values. While there was wide-rang-
+ing agreement to carry over the values of safety, service and sustainability from
+our previous strategic planning work, the equity and workplace culture participants
+acknowledged the need to further define the organization’s values and aspirations
+regarding equity and culture to develop more robust goals in these areas. Equity
+participants noted that the previous statement had emphasized fairness more than
+equity and had not adequately accounted for impacts on geographic areas adjacent
+to the MBTA’s service and facilities. The culture group advocated for the creation of
+a new value statement which would consolidate the internal priorities set in 2020
+(collaboration, communication, and culture; workforce investments; and diversity,
+equity, and inclusion) into a single value statement that prioritized people’s well-be-
+ing. As a result, the equity and culture working groups, as well as the DEI Employee
+Advisory Council, refined the equity statement and drafted a culture statement for
+the MBTA.
+11
+
+--- Page 12 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Values
+Safety: We put safety at the forefront of our
+work.
+Service: We endeavor to deliver superior
+service connecting people
+and communities.
+Equity: We commit to prioritizing the needs of
+our transit-dependent riders, our employees,
+and the economic regions we service in
+decision-making processes to eliminate unjust
+and unintentional consequences.
+Sustainability: We invest resources wisely in
+solutions for our team, our communities, and
+our environment.
+Culture: We aspire to transform our culture into
+one that keeps people’s well-being and safety at
+the center of everything we do. The MBTA DEI Employee Advisory Council
+Accessibility: We commit to removing physical,
+operational, and informational barriers so riders
+of all abilities can travel with independence and
+confidence.
+12
+
+--- Page 13 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Goals and Metrics Development
+MBTA Goals and Metrics
+As a result of the many working sessions and participant engagement, the MBTA advancing the transportation system of the future, prioritizing safety and reliability,
+drafted organization-wide goals and metrics to guide the Authority. The MBTA es- enhancing and increasing system accessibility, and promoting environmental sus-
+tablished eight goals for the Authority aligned with the Administration’s priorities of tainability and resiliency.
+Values
+Safety Service Sustainability Equity Culture
+Safety Modernization Transparent Workforce Service and Sustainability Mode Shift Communicating
+Empower and support and State of Communication Retain, attract, and Economic and Resilience Attract new riders, Our Costs
+staff to develop a culture Good Repair Ensure the experiences invest in a diverse and Vitality Increase the retain existing riders, Communicate openly
+which prioritizes and Efficiently modernize and perspectives of qualified workforce that Support the regional environmental and increase the about our costs and
+promotes safety assets and improve our staff and riders are represents our ridership vitality by providing a sustainability and percentage of transit- the revenue needed to
+connectivity, while accounted for through dependable, frequent, resilience of our trips in the region support our ongoing
+ensuring MBTA property transparent decision and accessible service transit system service and the growth
+is maintained to a state making that riders love of our system
+of good repair
+Safety | Equity Safety | Service Sustainability | Equity Equity | Culture Sustainability | Culture Safety | Sustainability Sustainability | Service Sustainability | Equity
+| Service
+Goals
+13
+
+--- Page 14 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+The draft metrics were developed with insight from the data and metrics working
+group, which included individuals working on capturing and using data to inform
+decisions across many areas of the MBTA. Currently hundreds of data points are
+routinely gathered, analyzed and reported upon. However, there is not a single data Increase in:
+source that every team member knows about and has access to, and no overarching
+metrics that bind the work of the MBTA’s 7,000+ employees and contractors together
+for a shared purpose.
+Percent of assets modernized and in
+Developing draft metrics that span all the MBTA’s operations was met with a sense
+a state of good repair
+of urgency, as without them work will continue to be siloed and inefficient, and safety
+problems will continue to exist. To address this challenge and ensure that data-gath-
+ering and data-informed decision-making support the intentions and goals outlined
+Rider satisfaction
+in the strategic plan, the data and metrics group aimed to cull the indicators and data
+points necessary to assess the Authority’s performance at a high level over time.
+Employee satisfaction
+Figure 3: MBTA Overarching Metrics
+High-level metrics can be used to track progress toward goals and report on imple-
+mentation.
+Mode share
+Accessible trips
+Reduction in:
+Staffing diversity
+Injuries, and elimination of
+fatalities
+Clear goals and metrics help the organization and staff on a day-to-day basis to
+align decision-making, especially when every decision is made amid constrained
+resources. Through alignment with the mission, vision, and values along with our
+The rate of carbon emissions
+newly defined goals, we will be better equipped to achieve desired outcomes, mea-
+sure success, or determine course corrections via data-driven analytics.
+14
+
+--- Page 15 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+What’s Next?
+With its goals and metrics complete, the MBTA will turn its attention to how to
+implement the goals and track progress toward their completion. We believe
+strategic planning is about planning as a process. The overall strategic plan-
+ning process the MBTA is undertaking is depicted in Figure 4 and discussed
+in more detail below.
+Figure 4 : MBTA Strategic Planning Process Overview
+MBTA Strategic Planning Process
+Evaluate Set the mission, Develop metrics Build and align Understand the Engage Assemble the
+outcomes/ vision, goals and to track progress the team to baseline and stakeholders in resources to
+reassess/update values achieve initial conduct gap action planning implement goals
+actions analysis
+X
+We are here.
+15
+
+--- Page 16 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Where We Are in the Process and Next Steps ity and external influences change. Metrics will be used to track our progress and
+to indicate where a course correction is required, in addition, unforeseen changes in
+The MBTA’s strategic planning is iterative and will evolve over time. Internally, we
+the environment in which we operate may indicate a need to reevaluate and refine
+will be working to communicate the finalized goals and metrics to all staff to ensure
+our strategic plan.
+they know how their work fits into the big picture. We are in the process of realign-
+ing the organizational structure and adding staff to meet the goals set out in our Since the goals arose from an analysis of the MBTA’s existing plans, projects, and
+plan. As a next step, we will be assessing our baseline and identifying gaps in how staff-driven priorities, there are many actions already underway to achieve each
+our existing work plans address the new Authority-wide goals. We will finalize our goal. While not a comprehensive list, some of the major actions already underway to
+Authority-wide metrics in a dashboard and set targets for how much progress we meet and achieve each goal are included below.
+can feasibly make toward each goal. We are also developing the baseline data we
+will track our progress against. For example, an annual staff survey will provide data Figure 5: 2022 Strategic Planning: Activities Underway
+on employee satisfaction, and a workforce assessment will set the baseline for how
+many workers we need. Activities Underway
+The goals and metrics included in this report will guide the MBTA both in internal
+Empower and support staff to develop a culture which prioritizes and
+communciation with our staff and external engagement with stakeholders across promotes safety
+our service area.
+• Safety Management System (SMS) Implementation
+The MBTA’s goals and metrics will form the foundation for the Authority’s required
+• Distribution of updated Personal Protective Equipment to all staff
+planning activities, including Program for Mass Transportation (PMT) and the Capital
+Improvement Program. The PMT will provide a public process for stakeholders to Modernize assets while ensuring MBTA property is maintained to a state
+of good repair
+weigh in on the costs and trade-offs of potential long-term investments based on
+the values, goals, and metrics defined by the MBTA, in partnership with MassDOT’s
+• Implementation of recommendations in the Transit Asset Management Plan
+Office of Transportation Planning. (TAMP)
+• Green Line Transformation, Orange Line Transformation,
+Internally, we will be working to communicate the finalized goals and metrics to all
+and Red Line Transformation programs
+staff to ensure each employee understands how their work fits into the big picture.
+We will also incorporate the goals into Authority performance management process-
+Ensure the experiences and perspectives of our staff and riders are
+es and use them to guide MBTA departments in detailing the objectives, strategies, accounted for through transparent decision-making
+and activities that the Authority will take in the coming year to address each of the
+• DEI Employee Advisory Council
+goals.
+• Employee Concerns Hotline
+A key component of our planning process is to evaluate, reassess, and update. The
+• Employee survey
+goals and metrics are meant to guide the organization, and will evolve as the Author-
+16
+
+--- Page 17 ---
+MBTA Strategic Planning Goals and Metrics | Final Report January 2024
+Activities Underway Activities Underway
+Retain, attract, and invest in a diverse and qualified workforce that Communicate openly about our costs and the revenue needed to support
+represents our ridership our ongoing work
+• Authority-wide workforce assessment and development of 5-year hiring goals • Continuation of a robust discretionary grant strategy
+• Development of new employee resource groups • Using real estate to bring value to the MBTA
+• Implementation of multiple new training programs for managers • Refining CIP scoring to ensure all CIP projects advance the goals and reflect
+our values
+Provide a dependable, frequent, and accessible service that customers love
+This strategic planning work represents an opportunity to shape the future of the
+MBTA for its riders, its employees, and impacted communities. The strategic plan
+• Implementation of Plan for Accessible Transportation Infrastructure (PATI)
+will guide the Authority’s work, clarify priorities and projects, and improve transpar-
+• Opening of the Mobility Center for individuals with disabilities
+ency in the MBTA’s decision-making and performance management. While there is
+• Further implementation of the Better Bus Program, including bus priority in
+more work to be done to develop objectives and strategies and to create cross-de-
+collaboration with municipalities
+partmental alignment to achieve these goals, this work represents a turning point
+• Beginning work with MassDOT on the next Program for Mass Transportation,
+and an opportunity to shape the future of the MBTA and the regions we serve.
+which will use the MBTA’s goals
+Increase the environmental sustainability and resilience of our transit
+system
+• Investments in Bus Fleet and Facility Modernization program
+• Bus fleet electrification
+• Resiliency plans by asset and mode
+Attract new riders, retain existing riders, and increase percentage of
+transit trips in the region
+• Implementing Bus Network Redesign to ensure bus trips are competitive and
+attractive to riders
+• Opening of South Coast Rail
+• Implementation of early recommendations from Rail Vision (clock-face
+schedules, new regional rail connections between commuter rail and
+Orange Line)
+17

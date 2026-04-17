@@ -1,0 +1,1217 @@
+--- Page 1 ---
+Congestion Relief 2024
+Grant Application
+Metropolitan Area Planning Council
+& the City of Boston
+April 22, 2024
+
+--- Page 2 ---
+Table of Contents
+I. Basic Project Information ......................................................................................... 1
+Project Description .......................................................................................................................... 1
+Project Location ............................................................................................................................... 4
+Lead Applicant ................................................................................................................................ 8
+II. Grant Funds, Sources and Uses of All Project Funding ......................................... 10
+Program Components .................................................................................................................. 11
+III. Merit Criteria .......................................................................................................... 13
+Merit Criterion 1. Characterizing Congestion and Associated Impacts ............................. 14
+Merit Criterion 2: Congestion Management and Climate Change Consideration ........... 15
+Merit Criterion 3: Safety ............................................................................................................ 16
+Merit Criterion 4. Public Engagement, Collaboration, and Partnerships ........................... 18
+Merit Criterion 5. Equity and Justice40 ................................................................................... 19
+IV. Project Readiness and Environmental Risk ........................................................... 23
+Technical Feasibility and Assessment ........................................................................................ 23
+Project Schedule ........................................................................................................................... 24
+Required Approvals .................................................................................................................... 25
+V. Administration Priorities and Departmental Strategic Plan Goals ......................... 27
+Climate Change and Sustainability .......................................................................................... 27
+Workforce Development, Job Quality, and Wealth Creation ............................................ 28
+VI. Statutory Required Project Selection Priority ......................................................... 29
+VII. FHWA Priority Selection Considerations ................................................................ 29
+VIII. Letters of Support ................................................................................................... 30
+Appendices ................................................................................................................... 30
+Figures
+Figure 1: Selected FMLM Zones and Shuttles ................................................................................. 2
+Figure 2: Citymapper User Interface Examples ............................................................................ 4
+Figure 3: Allston-Brighton Commuter Shuttles ................................................................................. 5
+Figure 4: Seaport Circulator and A Street Shuttle ........................................................................ 5
+Figure 5: Charlestown Commuter Shuttle ........................................................................................ 6
+Figure 6: Mattapan Microtransit Zone ............................................................................................. 6
+Figure 7: Grove Hall Microtransit ..................................................................................................... 6
+Figure 8: Bluebikes Existing and Proposed Expansion ................................................................. 8
+Figure 9: LINKUP Greater Boston Organizational Structure ....................................................... 9
+Figure 10: Areas of Persistent Poverty Census Tracts in FMLM Neighborhoods................... 20
+Figure 11: Bluebikes Expansion Sites in EJ Areas ....................................................................... 21
+Figure 12: LINKUP Greater Boston Initiative Schedule.............................................................. 24
+Figure 13: Massachusetts GHG Emissions by Source, 2005 and 2021 ................................. 27
+MAPC | City of Boston i
+
+--- Page 3 ---
+Tables
+Table 1: Federal and Non-Federal Funding and Percentages by Initiative ......................... 11
+Table 2: Funding Across the Four-Year Program ....................................................................... 11
+Table 3: Operating Costs and Percentages Across Initiatives ................................................. 11
+Table 4: TTI Vehicular Congestion Rankings for Greater Boston (2020) ............................... 14
+Table 5: Resilient Boston Goals Guiding LINKUP Greater Boston Strategies ....................... 22
+MAPC | City of Boston ii
+
+--- Page 4 ---
+Congestion Relief 2024 Grant Application
+I. BASIC PROJECT INFORMATION
+Project Description
+The Metropolitan Area Planning Council (MAPC), in partnership with the City of Boston (CoB),
+MassDOT, and a coalition of TMAs, is requesting $22,779,443 through the USDOT FHWA
+Congestion Relief Program to implement “LINKUP Greater Boston” (Leveraging Innovative
+Networks to Keep Urban Pathways Uncongested in Greater Boston). MAPC believes that
+combating congestion requires a suite of initiatives that bolster public transit, provide robust
+micromobility options, and ease the transition away from single occupancy vehicles (SOVs). The
+four initiatives proposed in this project do just that:
+ Bolstered public transit: Additional on-demand and fixed first-mile, last-mile shuttles in
+five selected neighborhoods throughout the City of Boston that currently lack robust public
+transit, thereby expanding the reach of the transit system.
+ Expanded bike availability: Expand on the success of Greater Boston’s Bluebikes
+program by adding e-bikes, pedal bikes, and requisite docking stations.
+ Cohesive access to the network: One integrated trip planning and payment mobile
+application.
+ Transit incentives: Research the impact of transit incentives on nudging SOV users
+towards the enhanced transit and bike networks.
+Today, traffic congestion in the Greater Boston region has reached a breaking point. The severity
+of this issue is highlighted in the 2022 Global Traffic Scorecard released by transportation data
+company INRIX, listing Boston as the second most congested city in the country, and the fourth
+worst globally: the average Boston driver loses 134 hours to traffic annually, equating to more
+than five days of lost time or $2,270 in lost productivity. The Texas A&M Transportation Institute
+has ranked Greater Boston among the worst large urbanized areas for automobile congestion.
+To realize a significant decrease in the region’s reliance on SOVs, Greater Boston requires a
+significant investment in a targeted set of transportation options that, together, provide a strong
+alternative to driving alone. The initiatives proposed in LINKUP Greater Boston are designed to
+extend the reach of the public transportation network with an eye towards congested areas, gaps
+in transit, and disadvantaged communities. With an acknowledgement that public transit cannot
+efficiently serve every geography, we have included a Bluebikes expansion to fill additional
+FMLM gaps and serve short, localized trips for residents and commuters. To make it easier for
+residents to access these two initiatives, LINKUP Greater Boston is proposing to launch an industry-
+leading wayfinding and payment mobile application throughout the Boston region known as
+Citymapper). Last, the efficacy of these interventions will be assessed using a transit
+incentivization project, which will be custom designed to nudge travelers onto the enhanced
+transportation network. Below we describe these initiatives in greater detail.
+Initiative 1: Expanded Public Transit
+One of the most pressing challenges facing public transportation in Boston today is the first-mile,
+last-mile (FMLM) connection, which is the distance a transit rider needs to travel from a transit stop
+to their final destination, or vice versa. According to recent Census Bureau findings, just over 46%
+of all public transportation riders reported the bus as their primary commuting mode, behind
+other public transportation modes. However, transit often only provides transportation to preset,
+MAPC | City of Boston 1
+
+--- Page 5 ---
+Congestion Relief 2024 Grant Application
+high traffic locations, leaving many commuters to walk or bike the first leg or last leg of their trip.
+LINKUP Greater Boston proposes implementing innovative transit projects designed specifically to
+target FMLM connections. These improvements consist of:
+ Fixed-route shuttles in three Boston neighborhoods (Allston-Brighton,
+Charlestown/Somerville, and the Seaport District); and
+ On-demand microtransit zone-based services in two neighborhoods (Mattapan and Grove
+Hall).
+The selected zones and shuttles (shown in Figure 1) are described in detail in the following section.
+These services will function as an extension of the Massachusetts Bay Transportation Authority
+(MBTA),1 allowing travelers to easily connect into the broader network and reduce their private
+0F
+vehicle use.
+Figure 1: Selected FMLM Zones and Shuttles
+1 CoB has a long history of collaborating with the MBTA and will leverage that relationship to implement this project.
+For instance, both CoB and the MBTA have collaborated on multiple projects including Mission Hill Link (a community-
+run bus service where both CoB and MBTA contribute); the Columbus Avenue Bus Lanes (CoB oversaw the planning
+and MBTA oversaw implementation); and the Summer Street Pilot Program (CoB implemented with MassDOT funding
+and received support from the MBTA).
+MAPC | City of Boston 2
+
+--- Page 6 ---
+Congestion Relief 2024 Grant Application
+The neighborhoods have been selected for a variety of reasons, including:
+ Limited access to high-frequency MBTA service,
+ Propensity to drive alone to work compared to other neighborhoods,
+ Equity considerations, and
+ Adjacency to highly congested arterial highways.
+Initiative 2: Expanded Bluebikes Availability throughout Greater Boston
+Greater Boston’s bikeshare system, Bluebikes, is a vital publicly accessible mobility system, co-
+owned by 13 municipalities and providing rides for millions of people each year, including nearly
+four million rides in 2023. Bikeshare in Greater Boston began in 2011 serving Boston,
+Cambridge, Somerville, and Brookline and has scaled quickly over 13 years in operation.
+During the 2023 calendar year, Bluebikes operated approximately 5,000 bikes and 500 stations
+within its network. Daily ridership averaged nearly 14,000 trips per day during peak season,
+and more than 9,500 trips per day annually. In December 2023, Bluebikes expanded with new
+battery-powered electric bikes (e-bikes), which have exceeded usage predictions. In the first
+quarter of 2024, there have been 209,294 e-bike trips on the 700 e-bikes that have been
+added to the system, representing approximately 32% of all Bluebikes rides taken.
+The proposed expansion of the Bluebikes system includes adding 90 electric bikes and 32
+electrified stations in the busiest locations. In addition, MAPC plans to expand the non-electric
+(“pedal”) portion of the system to serve more people and more areas by adding approximately
+32 non-electrified stations along with 290 pedal bikes. Pedal bikes will be added in Bluebikes’
+newer municipalities, densifying the Bluebikes presence there and allowing more travelers to
+choose bike share as their primary mode of transportation, especially in areas just outside of the
+rapid transit system.
+This Initiative will be part of continued efforts by the 13 municipal owners of the system to
+expand and fund the public bike share system to ensure Bluebikes can continue to be an effective
+congestion relief and mode shift strategy for the region.
+Initiative 3: Integrated Trip Planning and Payment Application
+LINKUP Greater Boston will introduce Citymapper as the Greater Boston regional trip planning
+and payment mobile application (app), allowing riders to visualize, book, and pay for intermodal
+trips on one interface (see Figure 2), thereby making the public transportation system, as a whole,
+far more accessible.
+The app will provide travelers with information about available modes for their trip, including on-
+demand services, fixed route shuttles, subway lines, commuter rail services, MBTA buses, and
+Bluebikes cycle services. Moreover, the app will allow the user to set preferences, such as
+“quickest” trip or “least expensive” trip, etc., as well as allow the user to book/ticket and pay
+through the mobile application. With sufficient adoption, Citymapper will generate rich data from
+transit riders, such as the identification of trips that require long walks or that have poor journey
+times as compared to car rides. Data analysis will enable the LINKUP Greater Boston project
+team to identify and address the pain points that matter to riders so that the region can continue
+to increase transit accessibility, thus mitigating SOV use and the resulting congestion.
+MAPC | City of Boston 3
+
+--- Page 7 ---
+Congestion Relief 2024 Grant Application
+Figure 2: Citymapper User Interface Examples
+Initiative 4: Transit Incentives Study
+LINKUP Greater Boston is proposing a targeted research study to explore and address urban
+congestion and car dependency, aiming to foster more sustainable travel habits. The Transit
+Incentives Study will use the Citymapper app to test mode-based incentives, assessing if
+personalized rewards can effectively encourage more sustainable travel choices. Initially, the CoB
+will identify potential participants through an eligibility survey, evaluating their SOV use and the
+feasibility of using public transit for their commute. Second, the CoB will select a subset of survey
+respondents and test the ability to shift their travel behavior (from SOV to public transit or
+bikeshare) through mode-based financial incentives. The CoB will leverage this data to quantify
+the potential environmental impact of congestion reduction that results from this shift. The goal is
+to understand the relative efficacy of different transit incentives in reducing congestion and
+mitigating the environmental impact of SOVs. Conducting this study in Boston, a city known for
+high congestion and potential for public transit adoption, will allow researchers to accurately
+gauge the impact of incentivization on modal choice.
+Project Location
+The four initiatives will benefit residents throughout Greater Boston, with a particular focus on
+selected neighborhoods chosen for their potential to effectively alleviate congestion.
+Initiative 1: Expanded Public Transit
+Fixed Route Commuter Shuttles: Allston Brighton (AB), the Seaport District, and
+Charlestown/Somerville. (Each route will have two 14-passenger vans, 30-minute headways, and
+14-hour daily operation.)
+ Allston Brighton Shuttle 1: Oak Square to Coolidge Corner
+ Allston Brighton Shuttle 2: Harvard Square to Washington Square
+ Seaport District Shuttle 1: Seaport Circulator
+ Seaport District Shuttle 2: A Street Shuttle
+ Charlestown/Somerville Shuttle 1: Assembly to North Station
+MAPC | City of Boston 4
+
+--- Page 8 ---
+Congestion Relief 2024 Grant Application
+The increasing populations, rise of development activities, and limited public transit options in
+Allston Brighton, the Seaport, and Charlestown/Somerville highlight the need for expanded public
+transit services to target growing congestion.
+In Allston Brighton, travel times to Downtown Boston remain long, ranging from 35 to 55 minutes
+depending on the route and traffic conditions. FMLM connections are inadequate, with only one
+connecting bus route from Boston Landing (Route 64 bus) and long walking distances to other
+parts of the neighborhood, such as Brighton Center (~20 minutes). As a result, car dependency in
+this neighborhood remains high: over 37.4% of Brighton commuters drove alone to work
+compared to 28.8% in neighboring Brookline.2 Using route recommendations from the AB Mobility
+1F
+Plan, LINKUP Greater Boston proposes a “hop on/hop off” shuttle model to address FMLM gaps
+and provide connections in and out of Boston Landing, as pictured in Figure 3.
+Figure 3: Allston-Brighton Commuter Shuttles Figure 4: Seaport Circulator and A Street Shuttle
+The Seaport District, roughly the size of Downtown Boston, is experiencing worsening congestion
+due to rapid development. In 2018, fewer than 38% of trips to the Seaport were made via
+transit, bicycle, or on foot, compared to 70% in Downtown Boston. With an additional 28 million
+square feet of development on the horizon, including Gillette's new campus, the Seaport's travel
+demand will surge beyond the current 110,000 daily trips. The district not only hosts 33,000 jobs
+but also serves as a 24-hour center for retail and dining activities. In response, LINKUP Greater
+Boston plans to fund two shuttle services, the Seaport Circulator and the A Street Shuttle, to
+improve connectivity and alleviate transit gaps, as depicted in Figure 4.
+2 American Community Survey 5-year; 2018-2022. This statistic is somewhat misleading in Allston, where only 24.8%
+drove alone, as there is a significant number of commuters who walk to work (18.1% compared to 6.9% in Brighton)
+due to the concentration of schools and universities in the Allston neighborhood.
+MAPC | City of Boston 5
+
+--- Page 9 ---
+Congestion Relief 2024 Grant Application
+Charlestown/Somerville is accessible by only
+Figure 5: Charlestown Commuter Shuttle
+five vehicle bridges, emphasizing the need for
+robust public transit, cycling infrastructure, and
+alternative transport solutions to reduce car
+dependency. Despite having two MBTA stations,
+much of Charlestown/Somerville lacks convenient
+public transit access, with most transportation
+options not serving the area effectively.
+To improve connectivity, LINKUP Greater Boston
+proposes a fixed-route shuttle to link
+Charlestown/Somerville residents to downtown
+Boston's public transportation at North Station,
+which connects to commuter rail, ferry, and the
+green and orange MBTA lines (see Figure 5).
+On-Demand Microtransit Zones: Grove Hall and
+Mattapan (6AM - 8PM).
+The urgent need for congestion mitigation
+strategies in Mattapan and Grove Hall is
+underscored by their connection to Downtown Boston via I-93 (recognized by INRIX as the fourth-
+worst traffic corridor in the U.S). Both neighborhoods are historically underserved. Mattapan (see
+Figure 6) and Grove Hall (see Figure 7) were selected for microtransit due to their lower density
+and dispersed travel patterns among residents.
+Figure 6: Mattapan Microtransit Zone Figure 7: Grove Hall Microtransit
+MAPC | City of Boston 6
+
+--- Page 10 ---
+Congestion Relief 2024 Grant Application
+With the microtransit service, passengers can request on-demand trips, provided that one end of
+the trip is a transit stop, while the other can be their home or another destination.3 Despite the
+2F
+high potential for transit use, the region suffers from notable service gaps. Although a commuter
+rail line passes through, most residents face a walk of over 10 minutes to access it, creating
+significant transit access challenges. Only a few Mattapan residents can reach the Red Line and
+Trolley, and those in Grove Hall have no subway access at all. According to the 2020 US census,
+Mattapan is home to 23,900 individuals, with 18% living in poverty, 19% experiencing
+disabilities, and 15% aged 65 and above. The Grove Hall zone is home to 62,400 individuals,
+with 25% living in poverty, 17% experiencing disabilities, and 12% aged 65 and above.
+Initiative 2: Expanded Bluebikes throughout Greater Boston
+The Bluebike system began in 2011, when four Original Municipalities – Boston, Cambridge,
+Somerville, and Brookline – worked together to launch the network. Since then, Additional
+Municipalities (AMs) – Arlington, Chelsea, Everett, Newton, Revere, Watertown, Salem, Medford,
+and Malden – joined the network such that 13 municipalities now partner on the Bluebikes
+program. The Bluebikes Governance Council (GC) consists of CoB, the City of Cambridge, the City
+of Somerville, the Town of Brookline, and the City of Everett. The GC meets monthly with the
+vendor, Lyft Bikes and Scooters, LLC and is responsible for making decisions about the system.
+MAPC is currently facilitating a long-term planning process with the 13 municipalities to determine
+the ideal bike share system size for the region. This model includes reviewing data such as
+population and job density, transit access, bike infrastructure, environmental justice communities,
+and car ownership. Early findings show the need to expand the system, including potential
+expansion into communities without bike share as well as densification of stations in existing
+municipalities. Increasing the density of stations is critical to increasing ridership and promoting
+mode shift from vehicles to bikes. According to Lyft, since 2017, doubling the density of Bluebikes
+stations has more than doubled the ridership for the system. The Bluebikes system has
+approximately one station every quarter mile to a half mile, with a goal of stations every quarter
+mile to an eighth of a mile. Many of the AMs have only six to eight stations in their municipalities
+and need to densify their systems to see substantial ridership growth. New non-electrified
+(standard) stations will be placed in and owned by the AMs in Arlington, Chelsea, Everett,
+Newton, Revere, Watertown, Medford, and Malden, but the bikes will move throughout the
+system. (Note: Salem will not participate in this round of Bluebikes station expansion.) Locations
+for new standard stations will be determined with an eye to serving underserved communities.
+Additionally, electrification is a critical element of increasing system ridership and decreasing the
+region’s dependency on SOVs. While biking may not offer feasible solutions for all trips, e-bikes
+have been shown to appeal to a broader segment of the population than pedal bikes – namely
+people who would not otherwise consider cycling – and to effectively replace vehicles for trips
+under 10 miles, particularly FMLM trips. Since adding e-bikes in December 2023, the e-bikes that
+comprise15% of the network are responsible for over 30% of total trips. Electrified stations are
+necessary system infrastructure for electric bikes to support charging, decrease the need for
+support vehicles to drive around the region to swap batteries, and ensure that electric bikes are
+3 The list of transit stops in Mattapan is: Blue Hill Avenue Station, Mattapan Station, Morton Street Station, Talbot
+Avenue Station, Ashmont/Peabody Square Station, Forest Hills Station, and Central Ave Station.
+The list of transit stops in Grove Hall is: Blue Hill Avenue Station, Four Corners/Geneve Ave Station, Uphams Corner
+Station, JFK / UMass Station, Newmarket Station, and Roxbury Crossing Station.
+MAPC | City of Boston 7
+
+--- Page 11 ---
+Congestion Relief 2024 Grant Application
+reliable for users. These electrified stations have the potential to reduce battery swapping by
+80%, effectively reducing e-bike operations costs by nearly half. See Figure 8 for existing
+standard and proposed electrified station expansion locations.
+Figure 8: Bluebikes Existing and Proposed Expansion
+The e-bikes will be owned by the Cities of Boston, Cambridge, and Somerville and will travel
+throughout the system. The electrified stations will be placed at the busiest station locations
+throughout the system to ensure that electric bikes have the best chance of charging without
+requiring a battery change. Exact locations will be determined based on ridership data, potential
+for transit connections, utility availability, safety, off-street space, and engineering analysis.
+Initiatives 3 and 4: Regional Trip Planning App and Transit Incentive Study
+Both of these initiatives will occur throughout the Greater Boston region. The study will focus on
+assessing the impact of interventions in project areas outlined in Initiative 1.
+Lead Applicant
+The Metropolitan Area Planning Council is the regional planning agency serving the people who
+live and work in the 101 cities and towns of Greater Boston, Massachusetts. Established in 1963,
+MAPC is a public agency created under Massachusetts General Law Chapter 40B, Section 24.
+As the regional planning agency for Greater Boston, MAPC serves as the regional facilitator and
+convener for the Bluebikes municipalities, bringing municipal staff together through monthly
+coordinating meetings, special committees, and providing onboarding support to new and
+participating municipalities. MAPC has conducted several procurements to determine the system
+MAPC | City of Boston 8
+
+--- Page 12 ---
+Congestion Relief 2024 Grant Application
+operator and plays a key role in long-term planning for the system. MAPC is currently helping the
+municipalities plan for the next regional bikeshare procurement, finding sustainable funding for
+the system, and planning for system expansion.
+MAPC is currently managing a Safe Streets and Roads for All (SS4A) federal grant and has
+successfully managed other federal grants including an EPA Climate Pollution Reduction Grant,
+and Greater Boston Region Regional Workforce Training System grant under the Economic
+Development Administration-US Department of Commerce.
+In many past and current projects, MAPC acts as a pass-through agency for federal or state funds
+to assist municipalities in many different programs. MAPC has existing systems in place to receive
+and manage large funding amounts and report on their usage and expenditure. MAPC will
+receive a portion of the grant funds to manage the grant and the Bluebikes Expansion Initiative.
+Other Public and Private Parties
+MAPC will partner with multiple other government entities, and private and nonprofit
+organizations to successfully implement the four initiatives (see Figure 9).
+Figure 9: LINKUP Greater Boston Organizational Structure
+City of Boston: The City of Boston (CoB) manages millions of federal dollars from various
+agencies such as FHWA and the U.S. Department of Housing & Urban Development (HUD)
+through MassDOT. The CoB has the technical experience for this project, the practical experience,
+and legal capacity to ensure compliance with state and federal requirements, and the financial
+capacity to complete the project. Notably, the CoB successfully implemented a $15.5 million
+TIGER grant and is expected to deliver a $15 million RAISE grant on time and within budget. The
+CoB will be a subrecipient to MAPC and will be responsible for all project components
+(procurement, system design, monitoring, reporting) other than the Bluebikes expansion (LINKUP
+Greater Boston Initiatives 1, 3, and 4).
+MAPC | City of Boston 9
+
+--- Page 13 ---
+Congestion Relief 2024 Grant Application
+Via Transportation, Inc. (Microtransit & Shuttle Operator, Software Provider): The CoB is
+proposing the implementation of two on-demand microtransit zones and five shuttle routes with
+Via Transportation, Inc. (Via) as the turnkey operator and software provider. As Boston's
+microtransit technology and service delivery partner, Via has worked closely to define the transit
+need and design the services in alignment with Boston's goals to decrease congestion and promote
+public transportation utilization. In 2023, Via acquired Citymapper; therefore, Via will also be
+responsible for the oversight and management of the trip planning and payment app. Established
+in 2021, Via is a global leader in innovative mobility with a mission to operate and power
+convenient and efficient mobility solutions.
+Coalition of TMAs: The Allston Brighton TMA (ABTMA); The Seaport TMA; and The Lower
+Mystic TMA: All TMAs are private, nonprofit organizations made up of employers, institutions,
+and building owners working together to advance employee transportation options, improve air
+quality, and reduce traffic congestion. The ABTMA spearheaded the Allston Brighton
+Neighborhood Transit Link study in 2022, the Seaport TMA led the South Boston Seaport
+Strategic Transit Plan, and the Lower Mystic TMA led the Lower Mystic TMA Massachusetts
+Gaming Commission Shuttle Route Study (Charlestown/Somerville). The findings from these studies
+are currently guiding the recommendations for the LINKUP Greater Boston project. Each TMA will
+continue to lead community engagement activities in their respective communities.
+MassDOT: The Massachusetts Department of Transportation will provide the non-federal match
+for the Bluebikes Expansion.
+Lyft (Bluebikes System Operator): The current Bluebikes
+system operator is Lyft, Inc. d/b/a Lyft Bikes and Scooters,
+LLC and is under contract until April 2026. Lyft has
+individual contracts with each of the participating 13
+municipalities. Lyft or any future operating vendor will be
+part of project implementation and will have a financial
+benefit if awarded. Lyft receives ridership revenue from
+the system. Lyft also received title sponsorship funding from
+Blue Cross Blue Shield (BCBS). Approximately a third of the
+Bluebikes Expansion budget will purchase equipment from
+Lyft and grant funds will be used to pay Lyft, or any future
+operating vendor, for operating costs of the new system
+equipment.
+Municipalities: The Bluebikes municipalities will own the
+expanded stations and bicycles in their communities per
+Photo credit: Lyft
+their agreements with Lyft.
+II. GRANT FUNDS, SOURCES AND USES OF ALL
+PROJECT FUNDING
+The total cost to implement LINKUP Greater Boston is $28,474,303. The applicants are requesting
+80% federal funds (or $22,779,443) through the Congestion Relief Program and commit to
+matching the remaining 20% (or $5,694,861) using a diverse array of public and private funding
+sources. For more details on the match breakdown, please see Appendix B.
+MAPC | City of Boston 10
+
+--- Page 14 ---
+Congestion Relief 2024 Grant Application
+MAPC, as lead applicant for LINKUP Greater Boston, will administer the grant and coordinate the
+program, as well as directly oversee the Bluebikes Expansion (Initiative 2). The CoB, as
+subrecipient with experience in transit operations, will administer, coordinate, and oversee the
+Transit Initiatives (1, 3, and 4). The following tables (Table 1, Table 2, and Table 3) show the
+breakdown of budget by initiative, the percentage of operating costs, and year-over-year
+projections. More details on the project budgets are provided in Appendix B. The total
+percentage of operating costs amongst all four initiatives amounts to $14.01 million or 50% of
+the total budget.
+Table 1: Federal and Non-Federal Funding and Percentages by Initiative
+Table 2: Funding Across the Four-Year Program
+Table 3: Operating Costs and Percentages Across Initiatives
+Program Components
+Initiative 1: Expanded Public Transit Services
+To implement Initiative 1, LINKUP Greater Boston is requesting $11,448,556 in Federal funds
+(80% of project costs), with the CoB and partnering TMAs providing the non-Federal match of
+$2,862,139 (20% of the project costs) for a total of $14,310,695. Initiative 1 will improve the
+current system by:
+ Launching and operating five fixed route shuttles in Allston-Brighton, the Seaport District,
+and Charlestown/Somerville.
+ Launching and operating two on-demand microtransit services in Grove Hall and
+Mattapan.
+The budget for the proposed transit services is broken down into two main categories: capital
+expenditures (including vehicles and software) and operating expenses (including the cost to
+operate the vehicle/hour which includes driver pay, maintenance, and all other operating needs).
+MAPC | City of Boston 11
+
+--- Page 15 ---
+Congestion Relief 2024 Grant Application
+Grant Administration and Oversight. CoB will work with partnering TMAs and Via to undertake
+community engagement activities, finalize route and zone design, and oversee the launch and
+ongoing operations.
+Eligible Operating Costs. Operating costs for Initiative 1 amount to $11.54 million or 82.3% of the
+transit services budget. This amount of grant funds does not exceed the amount of the cost for
+implementation. Once the grant funds have been expended, CoB and its partners pledge to cover
+the operating costs for the shuttle routes and microtransit zones. CoB is optimistic about sustaining
+these services because they already receive substantial private funding, as evidenced by the
+local matching funds committed in this application, primarily led by the coalition of TMAs.
+Contingency Plan. CoB worked closely with Via to develop budgets for the public transit services,
+which includes a 5% contingency rate.
+Scalable Project Options. If sufficient funding is not available to support Initiative 1at the
+requested amount, scaled back options could be considered to prioritize key FMLM services while
+still making meaningful impacts. However, each scaled funding option comes with its own set of
+potential impacts including reduced accessibility and convenience for residents, slower progress in
+shifting travel behaviors towards sustainable options, limited data for comprehensive decision-
+making, and challenges in meeting congestion mitigation targets in the short term. Should CoB be
+required to scale back interventions, it would first eliminate the Charlestown/Somerville route
+($1,787,478) and then eliminate one (the Circulator) of the Seaport routes ($1,915,155). This
+would bring the total project amount for Initiative 1 down to $10,608,062 and the federal ask to
+$8,486,450.
+Initiative 2: Expanded Bluebikes within Greater Boston
+To implement Initiative 2, LINKUP Greater Boston is requesting $10,063,737 in Federal funds
+(80% of project costs), with MassDOT providing the non-Federal match of $2,515,934 (20% of
+project costs) for a total of $12,579,671. The Bluebikes Expansion will improve the current bike
+share system in the Boston Region by:
+ Adding up to 90 electric bikes and 32 electrified bikeshare stations (each station with 18
+bike ports) in the busiest locations, creating charging stations for the 700 e-bikes currently
+in the system and expanding e-bikes availability by 13%.
+ Re-positioning non-electrified stations that will be replaced by e-bike stations to better
+balance and densify bike share options.
+ Adding up to 290 pedal bikes and 32 new non-electrified stations (each station with 18
+bike ports) to densify the system in municipalities that recently joined the system.
+ Funding operations for the new pedal and e-bike services for the first three to four years.
+The budget includes installation costs for new stations, including electric and non-electric stations,
+electric and standard bicycles, as well as costs to procure an engineering and design consultant to
+assist in installing the volume of stations requested in this funding proposal. The initiative also
+includes the operating costs of the new system stations and bicycles. The final number of bike
+share stations and bicycles installed will depend on a variety of factors, including the site
+suitability analysis and site selection under guidance from the Bluebikes Governance Council.
+Grant Administration and Oversight. As the lead for Initiative 2, MAPC will work with the
+participating municipalities and others to undertake bike share station site suitability and
+MAPC | City of Boston 12
+
+--- Page 16 ---
+Congestion Relief 2024 Grant Application
+selection, assist in the community engagement, and evaluate how well the expanded bike share
+system is meeting program metrics for safety, equity, congestion relief, and decarbonization.
+Eligible Operating Costs. Operating costs for the Bluebikes initiative are $2.47 million or 19.7% of
+the proposed Bluebikes Expansion budget. This amount of grant funds does not exceed the
+amount of the cost for implementation. Operation and state-of-good-repair costs for the existing
+Bluebikes system will continue to be funded under the existing cost sharing arrangements between
+the bike share operator and the owning municipalities as well as funds though the Boston MPO.
+Evaluation of the expanded system will be part of this initiative to ensure the expanded bike
+share system continues operation beyond the grant period of performance.
+Contingency Plan. MAPC has included a 15% contingency rate across all Bluebikes cost categories
+to reflect the longer project period and the dynamic elements (such as utilities, materials, labor)
+with station procurement and installation. MAPC has used similar contingency rates for similar
+projects.
+Scalable Project Options. If sufficient funding is not available to support the entire Bluebikes
+Expansion initiative at the requested amount, the Expansion Initiative is entirely scalable and can
+prioritize key new electric and pedal bike share stations while still making equitable system
+improvements.
+Initiative 3: Integrated Trip Planning and Payment Application
+To implement Initiative 3, LINKUP Greater Boston is requesting $112,000 in Federal funds (80%
+of project costs), with CoB providing the non-Federal match of $28,000 (20% of project costs) for
+a total of $140,000. The Integrated Trip Planning and Payment Application (also known as
+Citymapper) will improve the current public transit system by allowing riders throughout Greater
+Boston to plan, book, and pay for intermodal trips on one interface. The project budget for the
+Citymapper App includes the cost to maintain and store data collected from rider trips.
+CoB will work with Via to launch and oversee the Citymapper app. There are no operating costs
+necessary to implement this project component. There is no contingency budget for this project
+component. There are no scalable options for this project.
+Initiative 4: Transit Incentives Study
+To implement Initiative 4, LINKUP Greater Boston is requesting $1,155,150 in Federal funds (80%
+of project costs), with CoB providing the non-Federal match of $288,787 (20% of project costs)
+for a total of $1,443,937. The Transit Incentives Study will improve the current system by
+providing CoB with accurate information on how to effectively incentivize mode shift from SOVs to
+public transit. The project budget for the transit incentives study includes the cost of personnel,
+fringe, travel, software configuration, and incentives for participants.
+CoB will work with Via to oversee the transit incentives study. This will include a rider survey, two
+incentive-based pilots, and then a final analysis and publication. There are no operating costs
+necessary to implement this project component. CoB has included a 5% contingency budget for
+this specific component. There are no scalable options for this project.
+III. MERIT CRITERIA
+The LINKUP Greater Boston team has developed the proposed program to address the Project
+Merit Criteria listed in the Notice of Funding Opportunity, as described below.
+MAPC | City of Boston 13
+
+--- Page 17 ---
+Congestion Relief 2024 Grant Application
+Merit Criterion 1. Characterizing Congestion and Associated Impacts
+The Greater Boston Region is notorious for having some of the worst traffic congestion in the
+world, consistently ranking among the most gridlocked cities globally. This severe congestion
+impairs regional mobility, undermines economic vitality, and exacerbates environmental
+conditions. The Texas A&M Transportation Institute (TTI) Urban Mobility report consistently ranks
+Greater Boston in the top 10 for traffic congestion under several metrics (see Table 4).
+Table 4: TTI Vehicular Congestion Rankings for Greater Boston (2020)
+Category US Rank for
+Greater Boston
+Total Delay 6th
+Delay per Auto Commuter 2nd
+Total Congestion Cost 6th
+Congestion Cost per Auto Commuter 4th
+Excess GHG Due to Congestion 7th
+Source: Performance Measure Summary - Boston MA-NH-RI, Texas A&N Transportation Institute, 2021
+The persistent congestion, alongside gaps in public transit options, underlines a critical need for
+innovative strategies to enhance mobility and reduce reliance on SOVs in the region.
+ The economic toll from congestion in Boston is evident as it ranks sixth in the nation for the
+loss of job accessibility, highlighting the direct impact of traffic jams on employment
+opportunities.
+ Regarding mobility, INRIX reported that drivers in the Boston area lost an average of
+134 hours to traffic congestion in 2022, demonstrating a drain on time and productivity.
+ Environmentally, congestion in Boston significantly worsens air quality through the
+emission of ultrafine particles from brakes and tires, disproportionally impacting people
+of color in Greater Boston.
+Congestion in the Boston region is largely attributed to the persistent increase in vehicle miles
+traveled (VMT). During the COVID-19 pandemic, VMT briefly fell by 18% but quickly rebounded
+with a 12% rise from 2020 to 2021. As of 2023, traffic levels nearly matched pre-pandemic
+figures, demonstrated by nearly $215 million collected in driver tolls in Q1 and Q2—only $5
+million less than the same period in 2019. This resurgence in travel is part of a broader trend
+across Massachusetts, a state which has seen some of the highest increases in VMT nationwide
+(ranking fourth nationally). Inadequate public transit options in Boston exacerbate the congestion
+problem, compelling many commuters to choose car travel over public transit. Furthermore, the
+Transportation Performance Management for the Greater Boston (2018-2021) report shows that
+not only are peak traffic volumes rebounding to pre-pandemic levels, but the congestion is also
+becoming more dispersed throughout the day, emphasizing the urgent need for more efficient
+transit solutions in the region.
+MassDOT’s 2019 "Congestion in the Commonwealth" report found that between 50-67% of
+major highways within the I-95/Route 128 core experience high levels of congestion. Among
+these critically congested highways are I-95, I-90, and I-93), all of which will see relief from
+LINKUP Greater Boston.
+ I-95 encircles the Greater Boston region and is a critical north-south artery that links
+numerous suburban communities (many that are members of the Bluebikes coalition) to
+MAPC | City of Boston 14
+
+--- Page 18 ---
+Congestion Relief 2024 Grant Application
+central Boston. The 2019 the Commonwealth report highlighted the severity of this issue
+stating that “it has become easier to identify road segments along and inside I-95/128
+that are not congested.”
+ On I-90, travel times see a substantial increase during peak hours, with the westbound
+segment of Route 9 between I-90 and I-95/128 taking about 18.3 minutes at 4 a.m. and
+escalating to 38.5 minutes by 8 p.m. Similarly, eastbound travel experiences a doubling
+of travel times during peak hours.
+ I-93 is identified as one of the most congested corridors in Massachusetts, with severe
+congestion throughout its segments. During heavily congested periods, travel times on I-93
+South can more than double, escalating from 49 minutes at 4 a.m. to a staggering 88
+minutes at 4 p.m.
+Merit Criterion 2: Congestion Management and Climate Change
+Consideration
+Project LINKUP Greater Boston proposes an integrated strategy aimed at transforming Greater
+Boston's transportation landscape by reducing reliance on private vehicles and addressing the
+diverse transportation needs of the region's neighborhoods. This comprehensive congestion
+strategy includes targeting specific areas with enhanced FMLM transit services, while other
+neighborhoods will benefit from improvements in biking infrastructure. Additionally, the rollout of
+a regional trip planning app is designed to simplify the use of the public transit system across all
+areas, making it more accessible and efficient. Ultimately, LINKUP Greater Boston's goal is to
+decrease vehicle miles traveled on major transport arteries such as I-95, I-90, and I-93, thereby
+alleviating congestion and improving regional connectivity.
+FMLM Transit Services Congestion Approach. To select the appropriate neighborhoods for
+effective FMLM services, the LINKUP Greater Boston team leveraged multiple recent planning
+studies and congestion analyses, such as the Boston Link Bus study and the Go Boston 2030 plan.
+Please refer to Section I, Project Location describing transit needs in each of the target
+neighborhoods and Section IV, Technical Feasibility outlining the process for selecting the
+appropriate transit intervention for each neighborhood. By targeting specific areas such as
+Mattapan, Grove Hall, the Seaport District, Allston-Brighton, and Charlestown/Somerville with
+enhanced FMLM transit options, commuters will have access to more efficient public transit,
+thereby reducing the number of cars and vehicle miles traveled on priority arterials (mainly I-90
+and I-93).
+Bluebikes Congestion Approach. The Bluebikes expansion initiative is a critical component to
+mitigate congestion by promoting bicycle use as a viable alternative to driving, especially for
+shorter trips within the city’s inner core, which are often 6 miles or less. Research from a 2021
+study highlights that adding a new bike share station can reduce vehicle ownership per household
+by 2.2%, vehicle miles traveled (VMT) per person by 3.3%, and vehicular emissions per capita by
+2.9%. Additionally, areas where bike share stations are located within 1 km of transit connections
+see a 10% reduction in auto dependence. Amongst all Bluebikes riders in 2023, 60% would have
+used a car if Bluebikes were not available; moreover, 50% of riders who own a vehicle state they
+use that vehicle less as a result of having access to Bluebikes. This effect on vehicle ownership and
+reliance on cars underscores the potential of expanded bike share services to alleviate traffic
+congestion effectively.
+MAPC | City of Boston 15
+
+--- Page 19 ---
+Congestion Relief 2024 Grant Application
+E-bikes have shown to significantly influence commuting
+behaviors in Greater Boston, making up over 30% of all
+Bluebikes trips since their introduction. Riders of e-bikes
+are 45% more likely to reduce their use of cars. For bike
+share riders, 32% of are more likely to have sold,
+donated, or discarded a car since using bike share, and
+51% more likely to use public transportation more than
+10 times per week. Expanded access to e-bikes across
+the region could also unlock latent demand from people
+who do not currently use bikes for transportation. Results
+from a 2022 MassINC poll revealed over half of
+respondents would be willing to shift to an e-bike for
+Photo credit: Lyft
+trips of 10 miles or less if they had access to one, and an
+April 2024 poll of Bluebikes e-bike riders found that 84% have and/or would replace SOV rides
+with e-bike trips.
+Merit Criterion 3: Safety
+The LINKUP Greater Boston project aims to improve bike and pedestrian safety across the region
+by reducing the number of SOVs on the roads. This initiative responds to the alarming increase in
+traffic-related fatalities throughout the region. Greater Boston recently saw a 54% rise in deaths,
+from 79 between 2010 and 2014 to 122 from 2014 to 2018. Similarly, during the same latter
+period, Massachusetts experienced 1,792 motor vehicle-related fatalities and 11,697 serious
+injuries, with Boston alone accounting for over 82% of the state’s fatal pedestrian incidents.
+Additionally, the number of bicycle crashes and injuries in Massachusetts has remained steady
+since 2004 and increased slightly since 2020.
+ Within the areas slated to receive FMLM transit services, there were six fatalities in the
+Allston-Brighton neighborhood, three in the Charlestown/Somerville neighborhood, five
+fatalities in the Mattapan zone, eight fatalities in the Grove Hall zone, and two in the
+Seaport District from 2015-2023.
+ Between 2021 and 2023, there were nearly 1,000 crashes involving cyclists in the
+Bluebikes communities, resulting in five fatalities and 775 injuries.
+CoB has already adopted a Vision Zero plan, the Boston MPO is developing a regional Vision
+Zero plan, and several of the participating Bluebikes municipalities already have local Vision
+Zero/bicycle plans. LINKUP Greater Boston incorporates strategies to further Vision Zero policies
+and improve safety for Boston roadway users. It is also aligned with the NHTSA Safe System
+Approach in the following ways:
+Introduce trip planning app (Citymapper) with real-time data to suggest the safest and most efficient
+routes, especially convenient for bicyclists (furthers the NHTSA Safer Road Users goal).
+The Citymapper trip planning app leverages real-time data to present users with the safest and
+most efficient routes. It factors in elements like traffic congestion and road closures to steer users
+away from potential hazards. This empowers users to compare different transportation options
+based on safety and travel time, enabling them to make informed decisions prioritizing safety.
+For example, if a user's route includes a high-traffic area during peak hours, the app proposals
+might encourage them to opt for public transit to avoid congestion and minimize accident risks.
+MAPC | City of Boston 16
+
+--- Page 20 ---
+Congestion Relief 2024 Grant Application
+Citymapper includes a safety feature tailored for bicyclists – the cycling router – which gives
+users the option of quiet, balanced, or fast routes. These routes consider various factors like road
+speeds, lane numbers, road surfaces, and elevation, providing users with routes that suit their
+preferences and confidence levels.
+Decrease SOV-use and overall VMT, contributing to a car-lite environment that is safer for all
+roadways users, especially pedestrians (furthers the NHTSA's Safer Roads goals).
+The project aims to boost safety in Greater Boston by expanding public transit options and
+reducing the number of SOVs, all of which is expected to cut traffic congestion and reduce
+collisions. The initiatives will bridge FMLM gaps with various transportation modes, giving residents
+flexible choices that best meet their needs.
+Ensure equitable and targeted Bluebikes placement in high-risk locations (furthers the NHTSA's Safer
+Roads goal).
+Examine existing crash data to determine high risk locations. If these locations fall within the
+areas planned for Bluebikes expansion, MAPC will collaborate with the local municipality,
+MassDOT, and other stakeholders to integrate necessary safety improvements into the bicycle
+network. This would involve determining if quick-build interventions (such as flex posts) are
+possible and if so, implementing those changes simultaneously with the Bluebikes expansion.
+Leverage previous successes in other Bluebikes
+communities. The City of Cambridge
+demonstrates that expanding bike share can be
+safely achieved. Between 2019 and 2022, as
+bike share usage and bicycle trips in Cambridge
+hit record highs, the rates of bicycle crashes and
+injuries decreased. This improvement in safety
+follows the city's adoption of the Vision Zero
+policy, adopted in 2016, which led to the
+implementation of numerous street safety and
+bicycle infrastructure projects. These initiatives
+have not only made the streets safer but also
+contributed to the popularity of Bluebikes stations
+in Cambridge. Moving forward, MAPC will
+encourage all partnering municipalities to add
+Bluebikes into Vision Zero prioritization plans.
+Commit to driver vigilance and safe operational performance on all transit services (furthers the
+NHTSA's Safety System Approach for Safer Speeds).
+Driver Vetting Process and Continuous Monitoring. All drivers of FMLM public transit services
+will undergo a thorough vetting process including background checks, driving record reviews, and
+verification of appropriate licenses and certifications. LINKUP Greater Boston will implement
+continuous monitoring to track driver behavior and performance, using GPS, onboard systems,
+and feedback from passengers and supervisors. Unsafe driving practices such as speeding or
+reckless maneuvers will be quickly addressed with corrective actions, additional training, or
+disciplinary measures.
+Encourage safe passenger boardings. For the proposed shuttle services, passengers will board
+and alight at designated stops away from traffic, ensuring their safety during transit. For the
+MAPC | City of Boston 17
+
+--- Page 21 ---
+Congestion Relief 2024 Grant Application
+microtransit services, pick-up and drop-off points will be easily configured (and continuously
+updated) to ensure that they are in safe and accessible locations.
+Merit Criterion 4. Public Engagement, Collaboration, and Partnerships
+The LINKUP Greater Boston team is drawing on insights from a variety of sources, including
+multiple transit studies and collaborative efforts, to shape their application. These inputs have
+involved extensive public engagement, with a particular focus on vulnerable groups who rely
+heavily on transit. These activities were designed to be inclusive and accessible, allowing for
+contributions from individuals across all backgrounds, regardless of race, color, national origin,
+disability, age, or sex. The key studies and collaborative efforts include:
+ The Boston Link Bus Study (2023)
+ The Allston-Brighton Neighborhood Transit Link Study (2022)
+ The South Boston Seaport Strategic Transit Plan (2030)
+ The Lower Mystic TMA Massachusetts Gaming Commission Shuttle Route Study (2023)
+ The Go Boston 2030 plan (updated 2024)
+ MAPC Bluebikes Working Group
+The Boston Link Bus Study (Link Study) set the stage for filling gaps in the City of Boston’s
+existing transit network. It is a compilation of findings and recommendations based on six months
+of analysis and stakeholder engagement. The recommendations for microtransit zones in
+Mattapan and Grove Hall are informed by this planning exercise. Public engagement activities
+centered on guidance from a Stakeholder Advisory Committee (SAC) which included about 25
+community members who participated in monthly meetings between August and November 2023.
+The Allston-Brighton Neighborhood Transit Link Study (AB Study) provides a blueprint for
+improving how people move around Allston and Brighton by making it safer and more efficient
+for all modes of transportation—walking, biking, transit, and cars. The recommendations for the
+AB shuttle expansions are informed by this planning exercise. More than 1,600 comments
+informed the preliminary and final recommendations for the AB shuttles. The AB Study also
+conducted a community survey in Spring 2022, receiving 273 responses.
+The South Boston Seaport Strategic Transit Plan (Seaport Transit Plan) was the first plan of its
+kind to look exclusively at transit, including public transit and private shuttles, expanding transit
+service, new and improved transit infrastructure, improved access to transit, and transit-first
+policies. The plan oversaw four in-person and virtual public meetings, ongoing virtual
+correspondence and information sharing, and coordination with transportation providers and
+major stakeholders in the neighborhood. To develop the recommendations, the team also relied on
+community input gleaned throughout the South Boston Waterfront Sustainable Transportation Plan
+(published in 2015), which involved more than 50 outreach meetings.
+The Lower Mystic TMA Massachusetts Gaming Commission Shuttle Route Study leveraged
+community engagement activities from PLAN: Charlestown. Community engagement activities for
+the PLAN included the Charlestown Advisory Group, which consisted of 26 Charlestown residents
+and community organization leaders, nominated by elected representatives. PLAN also oversaw
+19 public meetings and workshops, four walking tours, seven listening sessions, two open office
+hour sessions, and a survey which collected nearly 1,400 responses.
+The Go Boston 2030 Plan set a goal to decrease the number of Boston commuters driving alone
+to work by 50% and increase the percentage of commuters taking public transit by a third. To
+MAPC | City of Boston 18
+
+--- Page 22 ---
+Congestion Relief 2024 Grant Application
+achieve this goal, CoB would have to facilitate a dramatic shift in mode choices, incentivize non-
+auto travel, and increase multimodal connectivity and transit options. The Imagine Boston 2030
+Plan recognizes that reducing drive alone rates is closely related to improving the convenience of
+choosing modes other than SOVs. Community engagement for GoBoston began in 2015, when
+CoB collected 5,000 questions and sorted them into nine themes. In February of 2015, community
+and agency partners came together to identify priority questions for each theme. In May of
+2015, over 650 people attended a two-day Visioning Lab to shape the goals of Go Boston
+2030.
+The MAPC Bluebikes Working Group, consisting of member municipalities and the bike share
+operator, has driven significant expansions of the bike share system, including new stations and e-
+bikes in 2019 and 2023, respectively. The Working Group has effectively used community
+feedback gathered by Lyft, which is contractually required to perform outreach as part of its
+operating agreement. Lyft participates in events, offers promotions like free Earth Day rides, and
+conducts surveys, particularly targeting group memberships and the income-eligible program,
+which saw a 40% membership increase since 2022. Lyft’s efforts in engaging low- to moderate-
+income communities are ongoing, with the MAPC Working Group supporting these initiatives to
+ensure effective outreach and feedback collection as the system expands.
+Moving forward, LINKUP Greater Boston will leverage a consensus-based approach and
+extensive stakeholder networks to continuously prioritize community feedback. Community
+engagement efforts will be spearheaded by different organizations in specific areas to foster
+meaningful dialogue, cultivate trust, and ensure that local perspectives are at the forefront of
+decision-making processes. The approach will encompass both online and offline methods,
+drawing from successful practices employed in the aforementioned studies and collaborative
+efforts such as:
+1. Town Halls within each of the Bluebikes municipalities and communities receiving new
+transit services to describe the projects and get pre-launch insights.
+2. Focus Groups on a bi-annual basis and within each community, allowing individuals to
+provide feedback on the project within an intimate setting.
+3. Attend pop-up events and related activities that allow the team to talk to curious
+passersby about the projects while handing out educational materials.
+4. Launch targeted promotions, personalized communications, and subscription
+incentives to boost ridership. The incentives will be designed to reach communities of
+color, lower-income groups, people with disabilities, youth, and older adults.
+Merit Criterion 5. Equity and Justice40
+In addition to mitigating congestion, the LINKUP Greater Boston initiatives aim to enhance
+accessibility in historically underinvested communities. LINKUP Greater Boston is designed to
+ensure that Justice40 communities receive at least 40% of the project benefits in the following
+ways:
+ For Initiative 1, the communities in the selected project areas encompass a total area of
+11.2 square miles across five neighborhoods: Allston-Brighton, Charlestown/Somerville,
+Grove Hall, Mattapan, and the Seaport. Among these neighborhoods, five square miles
+fall within Areas of Persistent Poverty (AoPP) census tracts (there are 33 AoPP tracts total
+across all of the neighborhoods, see Figure 10). This distribution ensures that nearly 50%
+MAPC | City of Boston 19
+
+--- Page 23 ---
+Congestion Relief 2024 Grant Application
+of the project benefits will be directed to these Justice40 census tracts. Notably, 90% of
+the Grove Hall zone is located in an Area of Persistent Poverty census tract.
+ For Initiative 2, 84% of the top 32 ranked sites for Bluebike expansion fall within
+Environmental Justice (EJ) areas. The proposed expansion under this grant application
+would add 5 new e-bike stations in Justice 40 areas, and 25 of the 32 (78%) stations
+would be in EJ areas (see Figure 11). With this expansion, 30% of the total existing and
+proposed Bluebikes stations will be in Justice40 areas and 84% will be in both Justice40
+and EJ areas.4
+3F
+Figure 10: Areas of Persistent Poverty Census Tracts in FMLM Neighborhoods
+4 Census block groups in Massachusetts identified by the Commonwealth as environmental justice (EJ) Populations
+based on demographic criteria set by the Massachusetts Executive Office of Energy and Environmental Affairs (EEA)
+and can be viewed via maps at https://www.mass.gov/info-details/environmental-justice-populations-in-
+massachusetts.
+MAPC | City of Boston 20
+
+--- Page 24 ---
+Congestion Relief 2024 Grant Application
+Figure 11: Bluebikes Expansion Sites in EJ Areas
+LINKUP Greater Boston is guided in part by the city’s racial equity framework, "Resilient Boston:
+An Equitable and Connected City," which included an extensive equity assessment to identify
+disadvantaged communities. The study found that one in five Bostonians – and nearly one in three
+children under 18 – live in poverty, with these rates disproportionately affecting racial minorities.
+Median household (family and non-family) earnings for non-Latinx/Hispanic White Bostonians
+($79,802) continue to outpace those of Black ($38,454), Latinx/Hispanic ($30,883), and Asian
+($38,802) residents. The Resilient Boston document outlines multiple key goals and targets related
+to public transportation that have guided the planning for LINKUP Greater Boston, as shown in
+Table 5.
+Apart from reducing congestion and travel time, LINKUP Greater Boston will bring significant
+benefits to the communities involved, contributing to more equitable growth across the Boston
+region.
+MAPC | City of Boston 21
+
+--- Page 25 ---
+Congestion Relief 2024 Grant Application
+Table 5: Resilient Boston Goals Guiding LINKUP Greater Boston Strategies
+Resilient Boston Overarching Goal: Develop a redundant and reliable public transportation
+network to provide equitable accessibility for all Bostonians
+RESILIENT BOSTON Sub-Goal LINKUP GREATER BOSTON Strategy
+Ensure that every home in Boston will be The Bluebikes system has approximately one station every quarter
+within a ten-minute walk of a rail station mile to a half mile, with a goal of stations every quarter mile to an
+or key bus route stop. eighth of a mile.
+The introduction of on-demand microtransit services in Mattapan and
+Grove Hall will guarantee that every residence in these
+neighborhoods is within a ten-minute walking distance from a public
+transit stop, as the service is designed to ensure that no rider is asked
+to walk more than .25 miles to their requested pick-up or drop-off
+location.
+Reduce the transportation cost burden for The Bluebikes service is affordable at $2.95 per trip (up to 30
+very low-income individuals to the minutes) and memberships at $13 per month with unlimited 45-minute
+citywide average for a median rides. Both single rides and monthly passes are less than the price of
+household. the MBTA options. The service also provides an income-eligible
+program at $50 per year, or $5 per 30 days of riding.
+All proposed transit services will be free for community members who
+qualify as transit-dependent (e.g., low income, older adults,
+experiencing a disability)
+Reduce Bostonians’ average commute to The Citymapper transit planning app reduces Bostonians' commute
+work time by 10%. Decrease average time by providing real-time departure data, allowing riders to select
+commute times for families of color by the most efficient transit route with reliability, ultimately streamlining
+15%. travel experiences.
+With many trips in the Bluebikes service area under 6 miles, and with
+participating municipalities expanding their separate bike lanes and
+trails, Bluebikes provides a direct, consistent, and time competitive
+option for travel.
+Reducing Barriers to Economic Opportunity: LINKUP Greater Boston significantly enhances
+economic opportunities and job access for priority populations. For instance, Bluebikes operates
+24/7, providing reliable transportation outside of MBTA's regular hours and on holidays, which is
+particularly beneficial for third-shift workers. Additionally, the introduction of microtransit services
+promises to dramatically expand employment opportunities. With the new service, residents living
+in Mattapan and Grove Hall have access to thousands more jobs within a 60-minute commute.
+Improving Overall Quality of Life: Throughout Boston, transportation is often cited as a major
+barrier to accessing critical services—including grocery stores, healthcare appointments, and
+educational institutions—the lack of which can negatively impact life outcomes. Educational and
+health outcomes vary significantly depending on race and neighborhood. According to ACS data,
+only 16% of Mattapan’s residents have obtained a bachelor’s degree or higher, compared to
+53.4% citywide. Access to food also varies throughout the city, as the Harvard Political Review
+identified Dorchester (a neighborhood within the Grove Hall zone) as the second worst food
+desert within the city, next to West Roxbury. Additionally, Black and Latino residents make up
+40% of the city population, but bear a disproportionate burden of disease. The project will
+provide transit-dependent residents with better transportation options so that they can more
+effectively reach critical services.
+MAPC | City of Boston 22
+
+--- Page 26 ---
+Congestion Relief 2024 Grant Application
+IV. PROJECT READINESS AND ENVIRONMENTAL RISK
+Technical Feasibility and Assessment
+As explained in Merit Criterion 4, all proposed initiatives are based on thorough technical
+analysis, design studies, and robust community engagement efforts.
+Allston-Brighton Shuttle Technical Feasibility: The Allston-Brighton (AB) study evaluated
+potential transit improvements in Allston-Brighton by conducting a technical analysis that included
+a needs assessment and needs overlay analysis. The study proposed initial shuttle concepts based
+on several criteria including coverage, efficiency, cost, simplicity, and convenience. Community
+members were invited to comment on the proposals and planners incorporated that feedback into
+the next round of design. The two AB shuttles chosen for this application emerged as the top
+selections from the study.
+Seaport Shuttles Technical Feasibility: The Seaport Transit Plan thoroughly evaluated numerous
+transit concepts in South Boston's Seaport area, identifying opportunities and limitations within the
+transit network. Planners ultimately proposed 44 strategies to improve the operations, capacity,
+and connectivity of the transit network serving the neighborhood. Of the strategies, the A Street
+Shuttle and Seaport Circulator were specifically selected for this application due to their ability to
+address FMLM gaps in transit coverage and promote a shift away from SOVs.
+Charlestown Shuttles Technical Feasibility: The Lower Mystic TMA Massachusetts Gaming
+Commission Shuttle Route Study assessed potential shuttle routes in the Lower Mystic area,
+including Charlestown. This project incorporated findings from "PLAN: Charlestown," which was
+published in 2023 by the Boston Planning & Development Agency (BPDA). The route study
+systematically evaluated route options using six priority criteria: coverage, equity, efficiency, cost,
+simplicity, and convenience. The route from Assembly to North Station, which scored the highest
+across these criteria, is the one proposed in this application.
+On-Demand Microtransit Zones Technical Feasibility: CoB used extensive community input from
+the Boston Link study and data from various design tools—including Via’s in house on-demand
+planning tool, Remix On-Demand—to design the microtransit zones. The process included:
+1. Draft service zones by selecting the geographic areas that connect into highly congested
+arterials and/or lack sufficient public transit services.
+2. Estimate demand by assessing the population, employment, and demographic attributes of
+each zone alternative.
+3. Run simulations to determine the number of necessary vehicles and assess the tradeoffs
+between service parameters.
+4. Cost-benefit analysis using the results of the simulations and projected operating costs,
+evaluate the cost-effectiveness of each alternative.
+Moving forward, LINKUP Greater Boston can configure wait times, walking distances, and other
+service parameters for the microtransit services at any point. Parameters can also be adjusted
+over time as rider behavior, data, and community input are collected.
+Bluebikes Expansion Technical Feasibility: The Bluebikes expansion is the outcome of analysis
+by MAPC, the 13 Bluebikes municipalities and the system operator (Lyft) on the needs and
+expected impacts of densifying the bike share system. The expansion to add stations and bicycles
+is an outgrowth of similar expansions in 2019 (adding nine municipalities) and 2023 (adding e-
+MAPC | City of Boston 23
+
+--- Page 27 ---
+Congestion Relief 2024 Grant Application
+bikes). Lyft will use its recent experience in expanding and densifying the NYC and Chicago
+systems, including e-bike stations.
+Project Schedule
+Much of the work completed to date for LINKUP Greater Boston has been transit plans and
+community engagement activities which inform the initiatives. That work and the resulting
+community support of the project will pay dividends during service launch and ongoing
+operations. As illustrated in Figure 12, MAPC has drafted a realistic and conservative project
+schedule for the four project interventions. A more detailed project schedule for LINKUP Greater
+Boston is found in Appendix D.
+Figure 12: LINKUP Greater Boston Initiative Schedule
+ The estimated timeline for the transit operational improvements (Initiative 1) is three years.
+If awarded, the initiative will launch on October 1, 2025, and will operate through
+September 30, 2028.
+ The estimated timeline for the Bluebikes Expansion Program (Initiative 2) is four years (to
+account for the initial construction and installation). If awarded, MAPC would likely start in
+the last quarter of calendar year 2024 and complete the program in June 2029. The
+three years of operation will occur from April 1, 2026, through June 30, 2029.
+ The Citymapper App is already readily available to the Greater Boston public. CoB will
+begin collecting and storing data through the Citymapper app on July 1, 2025.
+MAPC | City of Boston 24
+
+--- Page 28 ---
+Congestion Relief 2024 Grant Application
+ The Transit Incentive Study will occur while Initiatives 1, 2, and 3 are all deployed, likely in
+2026/2027.
+Required Approvals
+Environmental Permits and Reviews
+The environmental permitting and approval process for LINKUP Greater Boston is expected to be
+straightforward, as MAPC does not foresee the need for any state or federal environmental
+permits for the project. The initiatives within LINKUP Greater Boston, including transit services and
+Bluebikes stations, are not projected to impact natural resources, adversely affect historic
+properties, Section 4(f) resources, or Environmental Justice populations. Notably, transit services
+will be operational without the necessity for construction, and Bluebikes stations will be integrated
+within existing sidewalks and parking areas. Should there be a need to adjust the bicycle stations
+to minimize impacts on sensitive sites, such as historical locations, MAPC will coordinate with
+MassDOT and other relevant bodies to secure a Categorical Exclusion if required.
+State and Local Approvals
+LINKUP Greater Boston meets state and local approvals and federal transportation planning
+requirements. As discussed in Merit Criteria 4, all initiatives are supported by meaningful public
+involvement. Additionally, MAPC has been working with MassDOT and the Boston MPO to fund
+various improvements and expansions to the Bluebikes system since 2011. This includes the Boston
+MPO’s decision to fund $1M annually for State of Good Repair for replacing stations and
+bicycles starting in FY2025.
+LINKUP Greater Boston supports MassDOT’s draft 2025 Beyond Mobility Plan, as well as the
+Commonwealth’s Clean Energy and Climate Plan for 2050, published in 2022, and MAPC’s
+decarbonization and clean energy goals outlined in the recently adopted regional plan,
+MetroCommon 2050.
+Federal Transportation Requirements Affecting State and Local Planning
+If awarded the grant, MAPC, as a member of the Boston MPO and in coordination with the CoB
+and MassDOT, will include all LINKUP Greater Boston initiatives in the TIP and STIP.
+ MassDOT is fully supportive of the Bluebikes expansion and suggested that MAPC apply
+for this Congestion Relief grant; MassDOT also has committed to providing the non-
+federal match for this grant.
+ CoB also maintains long standing relationships with MassDOT and the Boston MPO, which
+oversee the STIP and TIP, respectively. If awarded, all transit operational interventions will
+be incorporated into the STIP and TIP.
+Assessment of Project Risks and Mitigation Strategies
+The LINKUP Greater Boston project partners identified risks and developed mitigation strategies
+for each project initiative. Some risks are common to all initiatives, while others are unique to the
+transit operations component. These risks were categorized accordingly and thoroughly discussed,
+as shown below.
+MAPC | City of Boston 25
+
+--- Page 29 ---
+Congestion Relief 2024 Grant Application
+Risk 1, Community Resistance to Adoption: One significant risk is the potential for community
+resistance to changes in transit services or new technologies, which could lead to delays or
+setbacks.
+ Mitigation Strategies: LINKUP Greater Boston project leads will continue robust community
+engagement efforts. For the Bluebikes expansion, MAPC and participating municipalities
+will survey both riders and non-riders and use outreach methods (including social media) to
+inform the community about the bikes and gather feedback. For transit services, CoB will
+work with the TMAs to engage residents (especially older adults), businesses, and
+advocacy groups.
+Risk 2, Data Privacy Concerns: Another key risk involves data privacy concerns related to
+collecting and analyzing user data through the microtransit and Citymapper apps.
+ Mitigation Strategies: CoB recognizes the importance of robust data privacy and security
+protocols and will adhere to best practices and international standards to address any
+concerns. Via, the platform handling the sensitive data, will ensure security with robust
+data protection and safeguarding protocols, and is fully certified in ISO 27001, an
+international standard for risk management.
+Risk 3, Community Displacement: New transit and micromobility services present their own set of
+risks, particularly regarding potential community displacement in at-risk neighborhoods.
+ Mitigation Strategies: Mitigation strategies for this risk include employing local residents
+as drivers at a living wage, helping households reduce expenses by decreasing car
+dependency, and facilitating home-based businesses by improving access to underserved
+areas with transit or parking limitations.
+Risk 4, Driver Shortages and Supply Chain Issues: The driver shortage in this climate has prevented
+many transit agencies from scaling and even running efficient service.
+ Mitigation Strategy: All drivers will be offered a competitive salary and will also receive
+training opportunities to invest in their own employability over time, contributing to overall
+driver retention.
+Risk 5, Installation Delays for Bikeshare: The installation process presents several challenges, such
+as potential delays from utility connections, equipment lead times, and construction setbacks.
+ Mitigation Strategy: The Bluebikes working group will regularly coordinate to monitor and
+address project risks, drawing on past successes and challenges from similar expansions in
+cities like New York and Chicago. To further reduce risks, special attention will be paid to
+schedule management, planning all construction activities during favorable weather
+conditions to prevent delays.
+MAPC | City of Boston 26
+
+--- Page 30 ---
+Congestion Relief 2024 Grant Application
+V. ADMINISTRATION PRIORITIES AND
+DEPARTMENTAL STRATEGIC PLAN GOALS
+Climate Change and Sustainability
+The transportation sector is Figure 13: Massachusetts GHG Emissions by Source, 2005 and 2021
+responsible for 37% of the
+greenhouse gas emissions
+(GHGs) in Massachusetts.
+Despite significant reductions in
+greenhouse gases (GHGs) from
+electricity, increasing fuel
+efficiency, and the growing
+number of electric vehicles,
+transportation emissions have
+not declined at the same rate.
+Although the average vehicle
+registered in Massachusetts has
+improved its fuel efficiency from 18.6 miles per gallon (mpg) in 2005 to an estimated 23.4 mpg
+in 2021, the overall volume of vehicle miles traveled (VMT) continues to rise, which limits the
+reduction in GHGs from transportation. Currently three-quarters of transportation-related
+emissions come from private passenger vehicles, with only 10% coming from transit buses.
+The Carbon Free Boston plan emphasizes the need for a fundamental shift in Boston's
+transportation culture to achieve a carbon-neutral system. The plan's primary goal is to transition
+trips from cars to public transit, biking, and walking—a strategy that aligns closely with the
+initiatives proposed in this application. This success depends on the intelligent adoption of new
+technologies, influencing behavior with strong, equitable, and clearly articulated planning and
+investment, and effective collaboration with state and regional partners.
+LINKUP Greater Boston will address climate change in two ways:
+1. Switch trips from Single Occupancy Vehicles to public transit and bike share. Project
+LINKUP Greater Boston is set to significantly reduce private vehicle usage by fulfilling
+FMLM gaps and enhancing connectivity within Greater Boston, thereby increasing transit
+accessibility and mitigating congestion. Collectively, the initiatives are projected to
+eliminate nearly 2,700 single-occupancy vehicle (SOV) trips daily, amounting to nearly
+700,000 annually. Considering the average distance of SOV trips from each targeted
+neighborhood, this initiative is expected to cut nearly 12,500 vehicle miles traveled (VMT)
+daily and approximately 3.3 million VMT annually. These reductions correspond to a
+decrease of about 1,345 tons of CO2 emissions annually. Please see Attachment E for
+VMT and SOV calculations.
+2. Support households to be car-free and car-lite. The project is strategically designed to
+support households in becoming car-lite or car-free by leveraging the proven benefits of
+bike-sharing and other sustainable transit options. A 2021 study examining the impact of
+bike share in Metro Boston revealed that introducing new bike stations significantly
+reduces vehicle ownership, miles traveled per person, and vehicular emissions. This
+reduction in vehicle use is nearly immediate and sustainable over time. Lyft's annual survey
+further supports these findings, with 57% of Bluebikes users not owning personal vehicles
+and 50% of vehicle owners using their cars less frequently due to bike share access.
+MAPC | City of Boston 27
+
+--- Page 31 ---
+Congestion Relief 2024 Grant Application
+Furthermore, the increasing adoption of e-bikes and e-mopeds, which displaced
+approximately 1 million barrels of oil daily in 2022, highlights the shift towards less fossil
+fuel-dependent transportation options. LINKUP Greater Boston also introduces a trip
+planning app which will encourage sustainable transportation habits by making it easier
+for users to choose environmentally friendly modes of transportation. Additionally, the
+transit incentive research study will serve as a jumping-off point to test potential climate
+impacts of mode shift.
+Together, these initiatives not only promote a shift away from car dependency but also foster a
+more sustainable and equitable urban transport system.
+Workforce Development, Job Quality, and Wealth Creation
+The LINKUP Greater Boston team is dedicated to the use of minority-owned, women-owned,
+disadvantaged businesses (MWBE/DBE), and small businesses in the selection of vendors. The
+team is also committed to advancing a workforce that supports the creation of good-paying jobs
+with the free and fair choice to join a union. For example, CoB is required to solicit responses to
+Requests for Proposals from at least three DBE/MWBE firms. Additionally, any vendors selected
+to help with installation of Bluebikes stations will be hired under Massachusetts 30B Uniform
+Procurement Act after the grant award. MAPC will work with regional business groups and will
+reach out to businesses listed in the Massachusetts Supplier Diversity Office (SDO), or similar
+certified entities that support socio-economic disadvantaged businesses, minority-owned
+businesses, women-owned businesses, or small businesses. Furthermore, MAPC will require that
+interested vendors indicate how much (or what percentage) of their offered services will support
+those businesses in bids and proposals.
+LINKUP Greater Boston is poised to significantly enhance connectivity across the city, with a
+particular focus on underserved areas like Mattapan and Grove Hall. This initiative includes
+expanding the Bluebikes network, which will make it easier for residents to access a broader
+spectrum of job opportunities. By improving transit options and reducing transportation barriers,
+LINKUP Greater Boston enables residents to reach diverse employment hubs more easily, driving
+economic activity and increasing workforce participation. This broader access to jobs not only
+boosts residents' earning potential but also contributes to overall wealth creation within EJ
+communities.
+Furthermore, the LINKUP Greater Boston initiative will directly create new jobs through its various
+programs. The expansion of the Bluebikes network, for example, is expected to create 36 new
+jobs as part of the system design, station installation, and daily operations, based on the metric
+that one permanent job is created for every 2.5 bike share stations. Also, the FMLM transit
+initiatives will hire 50 local drivers, enhancing employment opportunities within the community.
+Boston is committed to investing in training for these drivers and dispatchers, enhancing skill
+development through interactive workshops and a comprehensive suite of resources. Moreover,
+the city plans to adopt best practices from its operating partner, Via, to ensure fair wages and
+effective management, thereby fostering a sustainable and supportive working environment for
+new employees.
+Please see Section III. Merit Criteria for how LINKUP Greater Boston will address the
+Administration Priorities and Departmental Strategic Plan Goals of Safety and Equity/Justice40.
+MAPC | City of Boston 28
+
+--- Page 32 ---
+Congestion Relief 2024 Grant Application
+VI. STATUTORY REQUIRED PROJECT SELECTION
+PRIORITY
+Boston's congestion problem is among the worst globally, as highlighted by the 2022 INRIX
+Global Traffic Scorecard ranking it as the fourth-worst city for congestion worldwide. This
+congestion leads to significant time and financial losses, with the average Boston driver losing 134
+hours and $2,270 annually due to traffic. The Texas A&M 2021 report further accentuates these
+challenges, showing a 12% increase in vehicle miles traveled (VMT) between 2020 and 2021
+and a near return to pre-pandemic levels.
+Inefficient public transit options force many to rely on cars, contributing to increased congestion
+and longer commute times. These congestion problems are particularly acute on major roadways
+like I-95, I-90, and I-93, as well as on local roads. According to the Boston MPO travel data,
+many trips within Greater Boston are less than six miles, showing that bike share and FMLM transit
+services can provide an affordable, equitable option to driving in Boston area traffic, and that
+LINKUP Greater Boston will help provide congestion relief in the region.
+VII. FHWA PRIORITY SELECTION CONSIDERATIONS
+The LINKUP Greater Boston Congestion Relief program will meet the following FHWA program
+priorities.
+ Grant Need: Without funding from the Congestion Relief Program, LINKUP Greater Boston
+will not occur. Since 2019, MAPC has been working with MassDOT and the 13 bike share
+municipalities to find a path to both replace the current bike share equipment that is
+reaching the end of its useful life and expand the system, particularly with e-bikes. The
+CoB has been working closely with the TMAs over the last few years to find start-up funds
+for the FMLM transit services.
+ Project Start: The project can start within six months of the date of the Program grant
+award is announced. MAPC, the member municipalities, and the Bluebikes operator
+already have a working group that meets regularly, and the siting of stations and
+additional Bluebikes can begin within six months of grant execution. The CoB has already
+selected its vendors and performed the technical analysis necessary to implement the
+transit components.
+ Innovative, integrated, multimodal solutions to congestion: LINKUP Greater Boston
+incorporates innovative, integrated, multimodal solutions to congestion relief by
+implementing a broad array of complementary initiatives. The initiatives will result in
+multimodal solutions to the FMLM challenge including innovative transit services coupled
+with Bluebikes expansion at transit stations, all of which will be supported by a unified trip
+planning and payment application. Together, these initiatives will enhance connectivity
+and reduce vehicle dependency.
+ Local economic development: For any vendor selection, the LINKUP Greater Boston
+partners will seek vendors who employ or are owned by women, person of color, persons
+with disabilities, and hire local workers from economically disadvantaged communities. The
+expanded bike share network will be an affordable and consistently available
+transportation option to access jobs. For the FMLM transit expansions, all partnering
+vendors will be instructed to hire drivers from within the community.
+MAPC | City of Boston 29
+
+--- Page 33 ---
+Congestion Relief 2024 Grant Application
+VIII. LETTERS OF SUPPORT
+The LINKUP Greater Boston team received the following Letters of Support for its proposed
+program, which are included as a separate PDF attachment, Appendix A:
+ City of Boston
+ Boston City Council
+ City of Chelsea
+ LivableStreets Alliance
+ Lyft Bikes
+ TransitMatters
+ Via Transportation, Inc.
+ Massachusetts Bicycle Coalition (MassBikes)
+ Seaport TMA
+ Allston Brighton TMA
+ City of Salem
+ Town of Arlington
+ Town of Brookline
+ Lower Mystic TMA
+ City of Watertown
+ City of Cambridge
+ City of Revere
+ We have also confirmed that we are receiving letters from U.S. Senator Elizabeth Warren
+and U.S. Senator Edward Markey on Behalf of Massachusetts Delegation; Massachusetts
+Department of Transportation (MassDOT); and Massachusetts Bay Transportation Authority
+(MBTA). We will forward those letters to FHWA immediately upon receipt.
+APPENDICES
+The appendices included in this application are:
+ Appendix A Letters of Support
+ Appendix B Budget Detail
+ Appendix C Maps
+ Appendix D Project Schedule
+ Appendix E VMT Calculations
+ Shapefiles
+MAPC | City of Boston 30

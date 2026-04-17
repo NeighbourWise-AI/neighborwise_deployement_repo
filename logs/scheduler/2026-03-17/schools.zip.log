@@ -1,0 +1,995 @@
+[2026-03-17T16:12:13.730+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:12:13.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:12:13.732+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:12:13.732+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:12:13.733+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:12:13.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.016 seconds
+[2026-03-17T16:12:44.538+0000] {processor.py:161} INFO - Started process (PID=166) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:12:44.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:12:44.540+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:12:44.539+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:12:44.541+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:12:44.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:13:15.318+0000] {processor.py:161} INFO - Started process (PID=242) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:13:15.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:13:15.322+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:13:15.321+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:13:15.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:13:15.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T16:13:46.474+0000] {processor.py:161} INFO - Started process (PID=323) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:13:46.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:13:46.476+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:13:46.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:13:46.477+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:13:46.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:14:17.427+0000] {processor.py:161} INFO - Started process (PID=401) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:14:17.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:14:17.429+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:14:17.429+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:14:17.430+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:14:17.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:14:47.876+0000] {processor.py:161} INFO - Started process (PID=478) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:14:47.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:14:47.880+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:14:47.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:14:47.881+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:14:47.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T16:15:18.116+0000] {processor.py:161} INFO - Started process (PID=556) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:15:18.116+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:15:18.117+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:15:18.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:15:18.118+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:15:18.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:15:48.957+0000] {processor.py:161} INFO - Started process (PID=632) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:15:48.958+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:15:48.958+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:15:48.958+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:15:48.959+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:15:48.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:16:20.725+0000] {processor.py:161} INFO - Started process (PID=713) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:16:20.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:16:20.726+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:16:20.726+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:16:20.727+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:16:20.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:16:51.226+0000] {processor.py:161} INFO - Started process (PID=791) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:16:51.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:16:51.227+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:16:51.227+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:16:51.228+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:16:51.233+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:17:21.710+0000] {processor.py:161} INFO - Started process (PID=869) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:17:21.711+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:17:21.711+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:17:21.711+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:17:21.712+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:17:21.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:17:52.094+0000] {processor.py:161} INFO - Started process (PID=947) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:17:52.095+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:17:52.096+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:17:52.095+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:17:52.096+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:17:52.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:18:22.552+0000] {processor.py:161} INFO - Started process (PID=1025) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:18:22.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:18:22.553+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:18:22.553+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:18:22.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:18:22.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:18:52.858+0000] {processor.py:161} INFO - Started process (PID=1103) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:18:52.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:18:52.860+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:18:52.859+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:18:52.860+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:18:52.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:19:23.277+0000] {processor.py:161} INFO - Started process (PID=1181) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:19:23.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:19:23.278+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:19:23.278+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:19:23.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:19:23.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:19:53.697+0000] {processor.py:161} INFO - Started process (PID=1259) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:19:53.697+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:19:53.698+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:19:53.698+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:19:53.699+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:19:53.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:20:24.571+0000] {processor.py:161} INFO - Started process (PID=1337) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:20:24.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:20:24.572+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:20:24.572+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:20:24.573+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:20:24.579+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:20:54.817+0000] {processor.py:161} INFO - Started process (PID=1415) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:20:54.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:20:54.819+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:20:54.818+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:20:54.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:20:54.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:21:26.046+0000] {processor.py:161} INFO - Started process (PID=1493) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:21:26.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:21:26.047+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:21:26.047+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:21:26.048+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:21:26.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:21:56.964+0000] {processor.py:161} INFO - Started process (PID=1571) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:21:56.964+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:21:56.965+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:21:56.965+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:21:56.966+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:21:56.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:22:27.743+0000] {processor.py:161} INFO - Started process (PID=1649) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:22:27.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:22:27.745+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:22:27.745+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:22:27.746+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:22:27.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:22:58.737+0000] {processor.py:161} INFO - Started process (PID=1727) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:22:58.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:22:58.739+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:22:58.739+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:22:58.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:22:58.745+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:23:29.614+0000] {processor.py:161} INFO - Started process (PID=1805) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:23:29.614+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:23:29.615+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:23:29.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:23:29.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:23:29.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:24:00.622+0000] {processor.py:161} INFO - Started process (PID=1883) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:24:00.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:24:00.623+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:24:00.623+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:24:00.624+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:24:00.630+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:24:30.978+0000] {processor.py:161} INFO - Started process (PID=1961) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:24:30.978+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:24:30.979+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:24:30.979+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:24:30.980+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:24:30.986+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:25:01.627+0000] {processor.py:161} INFO - Started process (PID=2038) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:25:01.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:25:01.628+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:25:01.628+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:25:01.629+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:25:01.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:25:32.403+0000] {processor.py:161} INFO - Started process (PID=2117) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:25:32.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:25:32.404+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:25:32.404+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:25:32.405+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:25:32.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:26:03.093+0000] {processor.py:161} INFO - Started process (PID=2192) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:26:03.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:26:03.094+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:26:03.094+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:26:03.096+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:26:03.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:26:33.461+0000] {processor.py:161} INFO - Started process (PID=2269) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:26:33.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:26:33.463+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:26:33.463+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:26:33.464+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:26:33.474+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:27:03.776+0000] {processor.py:161} INFO - Started process (PID=2347) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:27:03.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:27:03.777+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:27:03.777+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:27:03.778+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:27:03.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T16:27:34.089+0000] {processor.py:161} INFO - Started process (PID=2425) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:27:34.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:27:34.090+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:27:34.090+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:27:34.091+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:27:34.099+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:28:04.400+0000] {processor.py:161} INFO - Started process (PID=2503) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:28:04.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:28:04.402+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:28:04.402+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:28:04.403+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:28:04.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:28:34.831+0000] {processor.py:161} INFO - Started process (PID=2581) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:28:34.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:28:34.833+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:28:34.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:28:34.834+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:28:34.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:29:05.134+0000] {processor.py:161} INFO - Started process (PID=2659) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:29:05.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:29:05.136+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:29:05.135+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:29:05.136+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:29:05.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:29:36.294+0000] {processor.py:161} INFO - Started process (PID=2741) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:29:36.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:29:36.295+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:29:36.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:29:36.296+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:29:36.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:30:07.314+0000] {processor.py:161} INFO - Started process (PID=2819) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:30:07.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:30:07.315+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:30:07.315+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:30:07.316+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:30:07.321+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:30:38.332+0000] {processor.py:161} INFO - Started process (PID=2897) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:30:38.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:30:38.333+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:30:38.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:30:38.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:30:38.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:31:09.300+0000] {processor.py:161} INFO - Started process (PID=2975) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:31:09.300+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:31:09.301+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:31:09.301+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:31:09.302+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:31:09.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:31:40.102+0000] {processor.py:161} INFO - Started process (PID=3053) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:31:40.102+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:31:40.103+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:31:40.103+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:31:40.104+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:31:40.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:32:11.051+0000] {processor.py:161} INFO - Started process (PID=3129) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:32:11.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:32:11.053+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:32:11.052+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:32:11.053+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:32:11.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:32:42.812+0000] {processor.py:161} INFO - Started process (PID=3209) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:32:42.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:32:42.813+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:32:42.813+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:32:42.814+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:32:42.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:33:13.133+0000] {processor.py:161} INFO - Started process (PID=3286) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:33:13.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:33:13.134+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:33:13.134+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:33:13.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:33:13.140+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:33:43.516+0000] {processor.py:161} INFO - Started process (PID=3370) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:33:43.517+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:33:43.519+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:33:43.518+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:33:43.521+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:33:43.527+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T16:34:14.000+0000] {processor.py:161} INFO - Started process (PID=3448) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:34:14.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:34:14.003+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:34:14.003+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:34:14.004+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:34:14.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:34:44.484+0000] {processor.py:161} INFO - Started process (PID=3526) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:34:44.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:34:44.485+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:34:44.485+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:34:44.486+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:34:44.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:35:14.822+0000] {processor.py:161} INFO - Started process (PID=3604) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:35:14.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:35:14.823+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:35:14.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:35:14.824+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:35:14.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:35:45.357+0000] {processor.py:161} INFO - Started process (PID=3681) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:35:45.358+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:35:45.358+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:35:45.358+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:35:45.359+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:35:45.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:36:15.675+0000] {processor.py:161} INFO - Started process (PID=3759) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:36:15.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:36:15.676+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:36:15.676+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:36:15.677+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:36:15.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:36:46.940+0000] {processor.py:161} INFO - Started process (PID=3837) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:36:46.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:36:46.943+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:36:46.943+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:36:46.943+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:36:46.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.017 seconds
+[2026-03-17T16:37:17.700+0000] {processor.py:161} INFO - Started process (PID=3916) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:37:17.701+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:37:17.702+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:17.702+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:37:17.703+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:37:17.709+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:37:48.976+0000] {processor.py:161} INFO - Started process (PID=3997) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:37:48.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:37:48.977+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:37:48.977+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:37:48.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:37:48.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:38:19.855+0000] {processor.py:161} INFO - Started process (PID=4077) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:38:19.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:38:19.857+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:19.857+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:38:19.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:38:19.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:38:50.524+0000] {processor.py:161} INFO - Started process (PID=4157) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:38:50.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:38:50.525+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:38:50.525+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:38:50.526+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:38:50.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:39:21.151+0000] {processor.py:161} INFO - Started process (PID=4237) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:39:21.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:39:21.152+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:21.152+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:39:21.153+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:39:21.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:39:51.976+0000] {processor.py:161} INFO - Started process (PID=4317) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:39:51.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:39:51.978+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:39:51.977+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:39:51.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:39:51.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:40:23.166+0000] {processor.py:161} INFO - Started process (PID=4397) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:40:23.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:40:23.167+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:23.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:40:23.168+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:40:23.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:40:53.855+0000] {processor.py:161} INFO - Started process (PID=4477) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:40:53.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:40:53.857+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:40:53.857+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:40:53.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:40:53.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:41:23.927+0000] {processor.py:161} INFO - Started process (PID=4556) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:41:23.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:41:23.928+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:23.928+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:41:23.929+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:41:23.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:41:54.506+0000] {processor.py:161} INFO - Started process (PID=4635) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:41:54.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:41:54.508+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:41:54.508+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:41:54.508+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:41:54.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:42:24.919+0000] {processor.py:161} INFO - Started process (PID=4715) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:42:24.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:42:24.920+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:24.920+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:42:24.921+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:42:24.926+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:42:55.445+0000] {processor.py:161} INFO - Started process (PID=4795) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:42:55.445+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:42:55.446+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:42:55.446+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:42:55.447+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:42:55.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:43:25.942+0000] {processor.py:161} INFO - Started process (PID=4875) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:43:25.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:43:25.943+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:25.943+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:43:25.944+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:43:25.949+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:43:56.313+0000] {processor.py:161} INFO - Started process (PID=4955) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:43:56.314+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:43:56.316+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:43:56.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:43:56.317+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:43:56.324+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:44:26.736+0000] {processor.py:161} INFO - Started process (PID=5035) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:44:26.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:44:26.737+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:26.737+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:44:26.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:44:26.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:44:57.116+0000] {processor.py:161} INFO - Started process (PID=5115) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:44:57.116+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:44:57.117+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:44:57.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:44:57.118+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:44:57.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:45:27.911+0000] {processor.py:161} INFO - Started process (PID=5197) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:45:27.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:45:27.912+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:27.912+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:45:27.913+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:45:27.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:45:58.664+0000] {processor.py:161} INFO - Started process (PID=5276) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:45:58.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:45:58.667+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:45:58.666+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:45:58.667+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:45:58.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:46:29.397+0000] {processor.py:161} INFO - Started process (PID=5356) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:46:29.397+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:46:29.398+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:46:29.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:46:29.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:46:29.405+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:47:00.128+0000] {processor.py:161} INFO - Started process (PID=5437) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:47:00.129+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:47:00.130+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:00.130+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:47:00.131+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:47:00.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:47:30.948+0000] {processor.py:161} INFO - Started process (PID=5517) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:47:30.949+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:47:30.950+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:47:30.950+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:47:30.951+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:47:30.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T16:48:01.869+0000] {processor.py:161} INFO - Started process (PID=5597) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:48:01.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:48:01.871+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:01.871+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:48:01.871+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:48:01.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:48:32.412+0000] {processor.py:161} INFO - Started process (PID=5677) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:48:32.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:48:32.413+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:48:32.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:48:32.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:48:32.424+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:49:02.948+0000] {processor.py:161} INFO - Started process (PID=5757) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:49:02.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:49:02.949+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:49:02.949+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:49:02.950+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:49:02.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T16:49:33.547+0000] {processor.py:161} INFO - Started process (PID=5837) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:49:33.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:49:33.549+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:49:33.549+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:49:33.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:49:33.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:50:04.397+0000] {processor.py:161} INFO - Started process (PID=5917) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:50:04.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:50:04.399+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:04.399+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:50:04.400+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:50:04.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T16:50:35.213+0000] {processor.py:161} INFO - Started process (PID=5997) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:50:35.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:50:35.214+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:50:35.214+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:50:35.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:50:35.225+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:51:05.938+0000] {processor.py:161} INFO - Started process (PID=6077) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:51:05.939+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:51:05.940+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:05.940+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:51:05.940+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:51:05.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:51:36.554+0000] {processor.py:161} INFO - Started process (PID=6157) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:51:36.555+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:51:36.556+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:51:36.556+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:51:36.557+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:51:36.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T16:52:07.332+0000] {processor.py:161} INFO - Started process (PID=6237) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:52:07.333+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:52:07.334+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:07.334+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:52:07.335+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:52:07.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T16:52:37.604+0000] {processor.py:161} INFO - Started process (PID=6317) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:52:37.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:52:37.605+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:52:37.605+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:52:37.606+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:52:37.613+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:53:08.630+0000] {processor.py:161} INFO - Started process (PID=6397) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:53:08.631+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:53:08.631+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:08.631+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:53:08.632+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:53:08.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T16:53:39.459+0000] {processor.py:161} INFO - Started process (PID=6476) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:53:39.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:53:39.461+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:53:39.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:53:39.462+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:53:39.469+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:54:10.264+0000] {processor.py:161} INFO - Started process (PID=6556) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:54:10.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:54:10.266+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:10.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:54:10.267+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:54:10.274+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T16:54:40.920+0000] {processor.py:161} INFO - Started process (PID=6636) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:54:40.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:54:40.922+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:54:40.922+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:54:40.923+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:54:40.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T16:55:11.661+0000] {processor.py:161} INFO - Started process (PID=6716) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:55:11.662+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:55:11.663+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:11.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:55:11.665+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:55:11.673+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T16:55:42.555+0000] {processor.py:161} INFO - Started process (PID=6796) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:55:42.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:55:42.557+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:55:42.557+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:55:42.558+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:55:42.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.016 seconds
+[2026-03-17T16:56:13.340+0000] {processor.py:161} INFO - Started process (PID=6876) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:56:13.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:56:13.342+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:13.342+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:56:13.343+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:56:13.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T16:56:43.441+0000] {processor.py:161} INFO - Started process (PID=6955) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:56:43.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:56:43.443+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:56:43.443+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:56:43.444+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:56:43.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T16:57:13.836+0000] {processor.py:161} INFO - Started process (PID=7035) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:57:13.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:57:13.838+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:13.837+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:57:13.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:57:13.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T16:57:44.324+0000] {processor.py:161} INFO - Started process (PID=7115) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:57:44.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:57:44.326+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:57:44.326+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:57:44.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:57:44.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:58:14.739+0000] {processor.py:161} INFO - Started process (PID=7195) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:58:14.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:58:14.740+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:14.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:58:14.741+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:58:14.746+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:58:45.147+0000] {processor.py:161} INFO - Started process (PID=7275) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:58:45.147+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:58:45.148+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:58:45.148+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:58:45.149+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:58:45.154+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:59:15.443+0000] {processor.py:161} INFO - Started process (PID=7354) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:59:15.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:59:15.444+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:15.444+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:59:15.445+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:59:15.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T16:59:45.617+0000] {processor.py:161} INFO - Started process (PID=7432) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T16:59:45.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T16:59:45.619+0000] {logging_mixin.py:188} INFO - [2026-03-17T16:59:45.619+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T16:59:45.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T16:59:45.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:00:16.381+0000] {processor.py:161} INFO - Started process (PID=7515) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:00:16.382+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:00:16.383+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:16.382+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:00:16.383+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:00:16.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:00:46.910+0000] {processor.py:161} INFO - Started process (PID=7601) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:00:46.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:00:46.912+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:00:46.912+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:00:46.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:00:46.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:01:17.323+0000] {processor.py:161} INFO - Started process (PID=7681) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:01:17.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:01:17.324+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:17.324+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:01:17.325+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:01:17.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:01:48.368+0000] {processor.py:161} INFO - Started process (PID=7763) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:01:48.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:01:48.370+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:01:48.369+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:01:48.372+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:01:48.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T17:02:19.034+0000] {processor.py:161} INFO - Started process (PID=7842) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:02:19.034+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:02:19.035+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:19.035+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:02:19.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:02:19.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:02:49.964+0000] {processor.py:161} INFO - Started process (PID=7923) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:02:49.964+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:02:49.965+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:02:49.965+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:02:49.966+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:02:49.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:03:20.689+0000] {processor.py:161} INFO - Started process (PID=8003) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:03:20.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:03:20.690+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:20.690+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:03:20.691+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:03:20.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:03:51.572+0000] {processor.py:161} INFO - Started process (PID=8083) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:03:51.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:03:51.574+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:03:51.574+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:03:51.575+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:03:51.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:04:22.184+0000] {processor.py:161} INFO - Started process (PID=8162) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:04:22.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:04:22.185+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:22.185+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:04:22.186+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:04:22.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:04:53.499+0000] {processor.py:161} INFO - Started process (PID=8243) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:04:53.499+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:04:53.500+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:04:53.500+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:04:53.501+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:04:53.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:05:23.816+0000] {processor.py:161} INFO - Started process (PID=8323) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:05:23.816+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:05:23.817+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:23.817+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:05:23.818+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:05:23.823+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:05:54.339+0000] {processor.py:161} INFO - Started process (PID=8403) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:05:54.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:05:54.340+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:05:54.340+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:05:54.340+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:05:54.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:06:24.864+0000] {processor.py:161} INFO - Started process (PID=8482) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:06:24.864+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:06:24.865+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:24.865+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:06:24.866+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:06:24.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:06:54.990+0000] {processor.py:161} INFO - Started process (PID=8561) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:06:54.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:06:54.991+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:06:54.991+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:06:54.992+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:06:54.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:07:26.506+0000] {processor.py:161} INFO - Started process (PID=8643) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:07:26.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:07:26.509+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:26.508+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:07:26.510+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:07:26.517+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T17:07:57.063+0000] {processor.py:161} INFO - Started process (PID=8721) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:07:57.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:07:57.064+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:07:57.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:07:57.065+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:07:57.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:08:27.399+0000] {processor.py:161} INFO - Started process (PID=8801) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:08:27.400+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:08:27.401+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:27.400+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:08:27.401+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:08:27.407+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:08:58.097+0000] {processor.py:161} INFO - Started process (PID=8883) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:08:58.098+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:08:58.099+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:08:58.098+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:08:58.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:08:58.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:09:28.786+0000] {processor.py:161} INFO - Started process (PID=8963) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:09:28.786+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:09:28.787+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:28.787+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:09:28.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:09:28.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:09:59.345+0000] {processor.py:161} INFO - Started process (PID=9043) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:09:59.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:09:59.347+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:09:59.346+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:09:59.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:09:59.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:10:29.848+0000] {processor.py:161} INFO - Started process (PID=9123) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:10:29.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:10:29.851+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:10:29.851+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:10:29.852+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:10:29.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:11:00.501+0000] {processor.py:161} INFO - Started process (PID=9203) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:11:00.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:11:00.503+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:11:00.503+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:11:00.504+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:11:00.510+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:11:31.451+0000] {processor.py:161} INFO - Started process (PID=9283) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:11:31.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:11:31.453+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:11:31.452+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:11:31.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:11:31.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:12:02.684+0000] {processor.py:161} INFO - Started process (PID=9363) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:12:02.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:12:02.686+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:02.686+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:12:02.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:12:02.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.019 seconds
+[2026-03-17T17:12:33.246+0000] {processor.py:161} INFO - Started process (PID=9442) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:12:33.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:12:33.247+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:12:33.247+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:12:33.248+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:12:33.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:13:03.645+0000] {processor.py:161} INFO - Started process (PID=9521) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:13:03.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:13:03.646+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:03.646+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:13:03.647+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:13:03.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:13:34.066+0000] {processor.py:161} INFO - Started process (PID=9601) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:13:34.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:13:34.069+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:13:34.069+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:13:34.070+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:13:34.080+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.016 seconds
+[2026-03-17T17:14:04.553+0000] {processor.py:161} INFO - Started process (PID=9681) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:14:04.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:14:04.554+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:04.554+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:14:04.555+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:14:04.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:14:34.672+0000] {processor.py:161} INFO - Started process (PID=9761) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:14:34.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:14:34.673+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:14:34.673+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:14:34.674+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:14:34.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:15:05.172+0000] {processor.py:161} INFO - Started process (PID=9839) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:15:05.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:15:05.173+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:05.173+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:15:05.174+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:15:05.179+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T17:15:35.576+0000] {processor.py:161} INFO - Started process (PID=9919) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:15:35.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:15:35.577+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:15:35.577+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:15:35.578+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:15:35.584+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:16:06.468+0000] {processor.py:161} INFO - Started process (PID=9999) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:16:06.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:16:06.470+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:06.470+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:16:06.470+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:16:06.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:16:37.371+0000] {processor.py:161} INFO - Started process (PID=10083) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:16:37.371+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:16:37.372+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:16:37.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:16:37.373+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:16:37.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:17:08.419+0000] {processor.py:161} INFO - Started process (PID=10163) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:17:08.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:17:08.421+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:08.421+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:17:08.423+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:17:08.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T17:17:39.370+0000] {processor.py:161} INFO - Started process (PID=10243) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:17:39.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:17:39.371+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:17:39.371+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:17:39.372+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:17:39.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:18:10.192+0000] {processor.py:161} INFO - Started process (PID=10321) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:18:10.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:18:10.193+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:10.193+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:18:10.194+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:18:10.199+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:18:41.326+0000] {processor.py:161} INFO - Started process (PID=10403) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:18:41.328+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:18:41.329+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:18:41.328+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:18:41.331+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:18:41.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T17:19:12.178+0000] {processor.py:161} INFO - Started process (PID=10484) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:19:12.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:19:12.180+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:12.180+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:19:12.180+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:19:12.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:19:43.531+0000] {processor.py:161} INFO - Started process (PID=10564) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:19:43.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:19:43.532+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:19:43.532+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:19:43.533+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:19:43.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:20:14.130+0000] {processor.py:161} INFO - Started process (PID=10644) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:20:14.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:20:14.132+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:14.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:20:14.133+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:20:14.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:20:44.726+0000] {processor.py:161} INFO - Started process (PID=10724) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:20:44.727+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:20:44.728+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:20:44.728+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:20:44.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:20:44.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:21:15.553+0000] {processor.py:161} INFO - Started process (PID=10804) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:21:15.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:21:15.554+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:15.554+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:21:15.555+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:21:15.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:21:46.112+0000] {processor.py:161} INFO - Started process (PID=10883) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:21:46.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:21:46.114+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:21:46.114+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:21:46.115+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:21:46.120+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:22:16.687+0000] {processor.py:161} INFO - Started process (PID=10963) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:22:16.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:22:16.688+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:16.688+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:22:16.689+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:22:16.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:22:47.159+0000] {processor.py:161} INFO - Started process (PID=11043) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:22:47.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:22:47.161+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:22:47.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:22:47.162+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:22:47.169+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:23:17.881+0000] {processor.py:161} INFO - Started process (PID=11123) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:23:17.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:23:17.882+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:17.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:23:17.883+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:23:17.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:23:48.438+0000] {processor.py:161} INFO - Started process (PID=11203) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:23:48.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:23:48.440+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:23:48.440+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:23:48.441+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:23:48.446+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:24:18.967+0000] {processor.py:161} INFO - Started process (PID=11283) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:24:18.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:24:18.970+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:18.970+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:24:18.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:24:18.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.019 seconds
+[2026-03-17T17:24:50.089+0000] {processor.py:161} INFO - Started process (PID=11369) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:24:50.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:24:50.091+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:24:50.090+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:24:50.091+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:24:50.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:25:21.085+0000] {processor.py:161} INFO - Started process (PID=11449) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:25:21.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:25:21.087+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:21.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:25:21.090+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:25:21.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T17:25:52.036+0000] {processor.py:161} INFO - Started process (PID=11529) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:25:52.036+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:25:52.039+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:25:52.038+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:25:52.040+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:25:52.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T17:26:22.978+0000] {processor.py:161} INFO - Started process (PID=11609) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:26:22.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:26:22.980+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:22.980+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:26:22.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:26:22.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:26:53.861+0000] {processor.py:161} INFO - Started process (PID=11689) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:26:53.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:26:53.863+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:26:53.862+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:26:53.863+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:26:53.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:27:24.988+0000] {processor.py:161} INFO - Started process (PID=11769) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:27:24.989+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:27:24.989+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:24.989+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:27:24.990+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:27:24.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:27:55.588+0000] {processor.py:161} INFO - Started process (PID=11848) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:27:55.590+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:27:55.591+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:27:55.591+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:27:55.592+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:27:55.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:28:26.231+0000] {processor.py:161} INFO - Started process (PID=11928) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:28:26.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:28:26.233+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:26.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:28:26.236+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:28:26.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T17:28:57.147+0000] {processor.py:161} INFO - Started process (PID=12008) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:28:57.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:28:57.149+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:28:57.149+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:28:57.151+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:28:57.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:29:28.529+0000] {processor.py:161} INFO - Started process (PID=12089) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:29:28.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:29:28.530+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:28.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:29:28.531+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:29:28.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:29:58.855+0000] {processor.py:161} INFO - Started process (PID=12163) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:29:58.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:29:58.856+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:29:58.856+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:29:58.857+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:29:58.863+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:30:29.666+0000] {processor.py:161} INFO - Started process (PID=12243) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:30:29.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:30:29.667+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:30:29.667+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:30:29.668+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:30:29.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:31:04.321+0000] {processor.py:161} INFO - Started process (PID=12323) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:31:04.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:31:04.322+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:04.322+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:31:04.323+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:31:04.330+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:31:39.413+0000] {processor.py:161} INFO - Started process (PID=12402) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:31:39.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:31:39.414+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:31:39.414+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:31:39.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:31:39.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:32:19.031+0000] {processor.py:161} INFO - Started process (PID=12483) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:32:19.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:32:19.032+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:19.032+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:32:19.033+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:32:19.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T17:32:58.970+0000] {processor.py:161} INFO - Started process (PID=12562) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:32:58.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:32:58.971+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:32:58.971+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:32:58.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:32:58.978+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:33:39.175+0000] {processor.py:161} INFO - Started process (PID=12643) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:33:39.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:33:39.177+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:33:39.177+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:33:39.178+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:33:39.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:34:17.563+0000] {processor.py:161} INFO - Started process (PID=12723) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:34:17.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:34:17.564+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:17.564+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:34:17.565+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:34:17.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:34:56.055+0000] {processor.py:161} INFO - Started process (PID=12803) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:34:56.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:34:56.059+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:34:56.059+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:34:56.062+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:34:56.072+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.019 seconds
+[2026-03-17T17:35:31.627+0000] {processor.py:161} INFO - Started process (PID=12883) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:35:31.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:35:31.628+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:35:31.628+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:35:31.629+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:35:31.635+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:36:11.557+0000] {processor.py:161} INFO - Started process (PID=12963) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:36:11.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:36:11.559+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:11.559+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:36:11.559+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:36:11.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T17:36:52.026+0000] {processor.py:161} INFO - Started process (PID=13043) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:36:52.026+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:36:52.027+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:36:52.027+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:36:52.028+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:36:52.034+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:37:30.635+0000] {processor.py:161} INFO - Started process (PID=13123) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:37:30.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:37:30.636+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:37:30.636+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:37:30.637+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:37:30.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:38:09.722+0000] {processor.py:161} INFO - Started process (PID=13202) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:38:09.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:38:09.725+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:09.725+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:38:09.726+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:38:09.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:38:47.681+0000] {processor.py:161} INFO - Started process (PID=13283) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:38:47.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:38:47.683+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:38:47.683+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:38:47.684+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:38:47.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T17:39:27.948+0000] {processor.py:161} INFO - Started process (PID=13363) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:39:27.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:39:27.949+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:39:27.949+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:39:27.950+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:39:27.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:40:06.456+0000] {processor.py:161} INFO - Started process (PID=13443) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:40:06.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:40:06.457+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:06.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:40:06.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:40:06.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T17:40:45.901+0000] {processor.py:161} INFO - Started process (PID=13523) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:40:45.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:40:45.903+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:40:45.902+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:40:45.903+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:40:45.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:41:24.138+0000] {processor.py:161} INFO - Started process (PID=13602) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:41:24.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:41:24.141+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:41:24.141+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:41:24.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:41:24.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.016 seconds
+[2026-03-17T17:42:04.054+0000] {processor.py:161} INFO - Started process (PID=13683) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:42:04.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:42:04.055+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:04.055+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:42:04.056+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:42:04.063+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:42:42.594+0000] {processor.py:161} INFO - Started process (PID=13763) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:42:42.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:42:42.595+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:42:42.595+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:42:42.596+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:42:42.603+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:43:21.477+0000] {processor.py:161} INFO - Started process (PID=13843) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:43:21.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:43:21.478+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:43:21.478+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:43:21.479+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:43:21.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:44:01.171+0000] {processor.py:161} INFO - Started process (PID=13923) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:44:01.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:44:01.172+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:44:01.172+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:44:01.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:44:01.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:44:42.884+0000] {processor.py:161} INFO - Started process (PID=14003) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:44:42.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:44:42.885+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:44:42.885+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:44:42.887+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:44:42.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T17:45:23.519+0000] {processor.py:161} INFO - Started process (PID=14083) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:45:23.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:45:23.520+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:45:23.520+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:45:23.521+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:45:23.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:46:01.464+0000] {processor.py:161} INFO - Started process (PID=14163) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:46:01.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:46:01.466+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:46:01.466+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:46:01.467+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:46:01.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.021 seconds
+[2026-03-17T17:46:41.092+0000] {processor.py:161} INFO - Started process (PID=14243) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:46:41.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:46:41.093+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:46:41.093+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:46:41.094+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:46:41.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T17:47:19.279+0000] {processor.py:161} INFO - Started process (PID=14323) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:47:19.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:47:19.283+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:19.283+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:47:19.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:47:19.292+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds
+[2026-03-17T17:47:58.268+0000] {processor.py:161} INFO - Started process (PID=14403) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:47:58.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:47:58.270+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:47:58.270+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:47:58.272+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:47:58.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.012 seconds
+[2026-03-17T17:48:33.377+0000] {processor.py:161} INFO - Started process (PID=14483) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:48:33.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:48:33.379+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:48:33.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:48:33.382+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:48:33.388+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.013 seconds
+[2026-03-17T17:49:14.066+0000] {processor.py:161} INFO - Started process (PID=14563) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:49:14.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:49:14.067+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:14.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:49:14.071+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:49:14.080+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.015 seconds
+[2026-03-17T17:49:52.738+0000] {processor.py:161} INFO - Started process (PID=14643) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:49:52.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:49:52.739+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:49:52.739+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:49:52.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:49:52.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T17:50:32.703+0000] {processor.py:161} INFO - Started process (PID=14723) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:50:32.703+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:50:32.704+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:50:32.704+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:50:32.705+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:50:32.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.008 seconds
+[2026-03-17T17:51:09.836+0000] {processor.py:161} INFO - Started process (PID=14803) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:51:09.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:51:09.837+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:09.837+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:51:09.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:51:09.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:51:54.580+0000] {processor.py:161} INFO - Started process (PID=14883) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:51:54.580+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:51:54.581+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:51:54.581+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:51:54.582+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:51:54.588+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:52:34.805+0000] {processor.py:161} INFO - Started process (PID=14963) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:52:34.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:52:34.806+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:52:34.806+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:52:34.807+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:52:34.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:53:11.598+0000] {processor.py:161} INFO - Started process (PID=15043) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:53:11.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:53:11.599+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:11.599+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:53:11.600+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:53:11.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:53:49.720+0000] {processor.py:161} INFO - Started process (PID=15122) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:53:49.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:53:49.722+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:53:49.722+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:53:49.722+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:53:49.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T17:54:36.004+0000] {processor.py:161} INFO - Started process (PID=15203) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:54:36.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:54:36.005+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:54:36.005+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:54:36.006+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:54:36.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:55:08.994+0000] {processor.py:161} INFO - Started process (PID=15283) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:55:08.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:55:08.995+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:08.995+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:55:08.996+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:55:09.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T17:55:48.108+0000] {processor.py:161} INFO - Started process (PID=15362) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T17:55:48.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T17:55:48.109+0000] {logging_mixin.py:188} INFO - [2026-03-17T17:55:48.109+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T17:55:48.110+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T17:55:48.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T18:52:04.675+0000] {processor.py:161} INFO - Started process (PID=15443) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T18:52:04.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T18:52:04.676+0000] {logging_mixin.py:188} INFO - [2026-03-17T18:52:04.676+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T18:52:04.677+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T18:52:04.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.009 seconds
+[2026-03-17T20:03:55.593+0000] {processor.py:161} INFO - Started process (PID=15523) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T20:03:55.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T20:03:55.595+0000] {logging_mixin.py:188} INFO - [2026-03-17T20:03:55.595+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T20:03:55.596+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T20:03:55.602+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T21:04:37.730+0000] {processor.py:161} INFO - Started process (PID=15603) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T21:04:37.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T21:04:37.734+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:04:37.734+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T21:04:37.737+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T21:04:37.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.029 seconds
+[2026-03-17T21:06:46.781+0000] {processor.py:161} INFO - Started process (PID=15682) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T21:06:46.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T21:06:46.782+0000] {logging_mixin.py:188} INFO - [2026-03-17T21:06:46.782+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T21:06:46.783+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T21:06:46.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.011 seconds
+[2026-03-17T22:05:45.033+0000] {processor.py:161} INFO - Started process (PID=15763) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T22:05:45.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T22:05:45.034+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:05:45.034+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T22:05:45.035+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T22:05:45.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.010 seconds
+[2026-03-17T22:50:31.615+0000] {processor.py:161} INFO - Started process (PID=15842) to work on /opt/airflow/dags/schools.zip
+[2026-03-17T22:50:31.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/schools.zip for tasks to queue
+[2026-03-17T22:50:31.617+0000] {logging_mixin.py:188} INFO - [2026-03-17T22:50:31.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/schools.zip
+[2026-03-17T22:50:31.621+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/schools.zip
+[2026-03-17T22:50:31.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/schools.zip took 0.014 seconds

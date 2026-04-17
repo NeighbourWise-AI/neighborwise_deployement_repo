@@ -1,0 +1,23 @@
+[2026-04-09T22:40:44.402+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: somerville_crime_to_s3_to_snowflake.fetch_and_convert scheduled__2026-03-22T00:00:00+00:00 [queued]>
+[2026-04-09T22:40:44.414+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: somerville_crime_to_s3_to_snowflake.fetch_and_convert scheduled__2026-03-22T00:00:00+00:00 [queued]>
+[2026-04-09T22:40:44.414+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2026-04-09T22:40:44.428+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): fetch_and_convert> on 2026-03-22 00:00:00+00:00
+[2026-04-09T22:40:44.434+0000] {standard_task_runner.py:60} INFO - Started process 98 to run task
+[2026-04-09T22:40:44.438+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'somerville_crime_to_s3_to_snowflake', 'fetch_and_convert', 'scheduled__2026-03-22T00:00:00+00:00', '--job-id', '375', '--raw', '--subdir', 'DAGS_FOLDER/somerville_api_to_s3_to_snowflake.py', '--cfg-path', '/tmp/tmp_0mh6a49']
+[2026-04-09T22:40:44.440+0000] {standard_task_runner.py:88} INFO - Job 375: Subtask fetch_and_convert
+[2026-04-09T22:40:44.484+0000] {task_command.py:423} INFO - Running <TaskInstance: somerville_crime_to_s3_to_snowflake.fetch_and_convert scheduled__2026-03-22T00:00:00+00:00 [running]> on host fc1f5ec42310
+[2026-04-09T22:40:44.528+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='somerville_crime_to_s3_to_snowflake' AIRFLOW_CTX_TASK_ID='fetch_and_convert' AIRFLOW_CTX_EXECUTION_DATE='2026-03-22T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-03-22T00:00:00+00:00'
+[2026-04-09T22:40:44.537+0000] {logging_mixin.py:188} INFO - Fetching Somerville crime data from Socrata API
+[2026-04-09T22:40:44.537+0000] {logging_mixin.py:188} INFO -   Fetching records 0 to 10000...
+[2026-04-09T22:40:50.583+0000] {logging_mixin.py:188} INFO -   Fetched 10000 records. Total so far: 10000
+[2026-04-09T22:40:50.589+0000] {logging_mixin.py:188} INFO -   Fetching records 10000 to 20000...
+[2026-04-09T22:40:53.562+0000] {logging_mixin.py:188} INFO -   Fetched 10000 records. Total so far: 20000
+[2026-04-09T22:40:53.562+0000] {logging_mixin.py:188} INFO -   Fetching records 20000 to 30000...
+[2026-04-09T22:40:54.042+0000] {logging_mixin.py:188} INFO -   Fetched 2190 records. Total so far: 22190
+[2026-04-09T22:40:54.043+0000] {logging_mixin.py:188} INFO -   Reached last page
+[2026-04-09T22:40:54.043+0000] {logging_mixin.py:188} INFO - Finished fetching. Total records: 22190
+[2026-04-09T22:40:54.163+0000] {logging_mixin.py:188} INFO - CSV saved to /opt/***/somerville_crime_20260322T000000.csv (22190 rows)
+[2026-04-09T22:40:54.205+0000] {python.py:201} INFO - Done. Returned value was: {'csv_path': '/opt/***/somerville_crime_20260322T000000.csv', 'record_count': 22190}
+[2026-04-09T22:40:54.212+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=somerville_crime_to_s3_to_snowflake, task_id=fetch_and_convert, execution_date=20260322T000000, start_date=20260409T224044, end_date=20260409T224054
+[2026-04-09T22:40:54.239+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-04-09T22:40:54.253+0000] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check
