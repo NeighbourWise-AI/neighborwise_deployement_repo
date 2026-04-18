@@ -1,32 +1,33 @@
 ﻿FROM python:3.11-slim
-
+ 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     && rm -rf /var/lib/apt/lists/*
-
+ 
 WORKDIR /app
-
+ 
 COPY requirements.frontend.txt ./requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
-
+ 
 # ── Exact filenames from scripts/ ─────────────────────────────────────────────
 COPY neighborwise_app.py                ./
 COPY housing_deep_dive_component.py     ./
 COPY grocery_diversity_component.py     ./
 COPY restaurant_deep_dive_component.py  ./
-
+ 
 # Streamlit config
 RUN mkdir -p /app/.streamlit
 COPY .streamlit/config.toml             ./.streamlit/config.toml
-
+ 
 EXPOSE 8501
-
+ 
 HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
   CMD curl -f http://localhost:8501/_stcore/health || exit 1
-
+ 
 CMD ["streamlit", "run", "neighborwise_app.py", \
      "--server.port=8501", \
      "--server.address=0.0.0.0", \
      "--server.headless=true", \
      "--server.enableCORS=false", \
      "--server.enableXsrfProtection=false"]
+ 

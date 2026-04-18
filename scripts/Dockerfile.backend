@@ -2,6 +2,23 @@
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc g++ curl \
+    fonts-liberation \
+    fonts-dejavu-core \
+    fontconfig \
+    libglib2.0-0 \
+    libnss3 \
+    libatk1.0-0 \
+    libatk-bridge2.0-0 \
+    libcups2 \
+    libdrm2 \
+    libxkbcommon0 \
+    libxcomposite1 \
+    libxdamage1 \
+    libxfixes3 \
+    libxrandr2 \
+    libgbm1 \
+    libasound2 \
+    && fc-cache -fv \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
@@ -36,4 +53,4 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
 
 CMD ["uvicorn", "neighborwise_fastapi:app", \
      "--host", "0.0.0.0", "--port", "8001", \
-     "--workers", "2", "--log-level", "info"]
+     "--workers", "1", "--log-level", "info"]

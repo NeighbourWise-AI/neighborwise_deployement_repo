@@ -47,6 +47,9 @@ services:
     image: neighbourwise-backend:latest
     container_name: neighbourwise-backend
 
+    env_file:
+      - .env
+
     environment:
       <<: *app-env
       PORT: "8001"
@@ -56,7 +59,7 @@ services:
 
     volumes:
       - reports_data:/app/reports
-      - ./.env:/app/.env:ro
+      - outputs_data:/app/outputs
 
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
@@ -84,6 +87,9 @@ services:
     image: neighbourwise-frontend:latest
     container_name: neighbourwise-frontend
 
+    env_file:
+      - .env
+
     environment:
       <<: *app-env
       API_BASE_URL:                         "http://backend:8001"
@@ -96,7 +102,7 @@ services:
       - "8501:8501"
 
     volumes:
-      - ./.env:/app/.env:ro
+      - outputs_data:/app/outputs
 
     depends_on:
       backend:
@@ -141,6 +147,8 @@ services:
 # ── Named volumes ──────────────────────────────────────────────────────────────
 volumes:
   reports_data:
+    driver: local
+  outputs_data:
     driver: local
 
 # ── Networks ───────────────────────────────────────────────────────────────────

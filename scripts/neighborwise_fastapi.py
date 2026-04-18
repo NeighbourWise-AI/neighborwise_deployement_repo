@@ -413,7 +413,8 @@ async def process_query(request: QueryRequest):
                 pii_detected=output_check["pii_detected"],
                 hallucination_markers=output_check["hallucination_markers"],
             )
-            if not output_check["is_safe"]:
+            rtype = result.get("type", "")
+            if not output_check["is_safe"] and rtype not in ("chart", "image"):
                 logger.warning(f"[/query] Output guardrail issues: {output_check['issues']}")
         except ImportError:
             pass  # guardrails module not present — skip silently
